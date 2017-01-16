@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry LangId="mgo_weapon_shield" Color="1" Value="SHIELD" />
+    <Entry Key="2526929187" Color="1" Value="STEALTH CAMO.P" />
+    <Entry LangId="mgo_weapon_wormhole" Color="1" Value="E-RB WORMHOLE GEN." />
+    <Entry LangId="mgo_weapon_fulton_trap" Color="1" Value="FULTON CANNON" />
+    <Entry LangId="mgo_weapon_tag_grenade" Color="1" Value="E.LOCATOR" />
+    <Entry LangId="mgo_weapon_cute_decoy" Color="1" Value="PLUSHY SNARE" />
+    <Entry LangId="mgo_weaponinfo_camera" Color="1" Value="iDROID Camera.&#xA;Your iDroid comes fully equipped for all your tactical needs.&#xA;Alongside your life saving map, compass, and radio is a survival camera for when things are looking truly dire. Start scrap booking your exploits. Only for the vain at heart.&#xA;" />
+    <Entry LangId="mgo_weaponinfo_cute_decoy" Color="1" Value="Plushy Snare.&#xA;Place your adorable little stuffed animal on the battlefield and watch the most battle-hardened leatherneck stop mid attack to gaze lovingly at its cuteness.&#xA;&#xA;" />
+    <Entry LangId="mgo_weaponinfo_tag_grenade" Color="1" Value="Enemy Locator.&#xA;A grenade-like device that scans the vicinity after it has been thrown. The Enemy locator will mark all enemies within its range." />
+    <Entry LangId="mgo_weaponinfo_fulton_trap" Color="1" Value="Fulton Cannon.&#xA;A stationary turret armed with a single surface-to-air fulton recovery balloon. This turret will auto track an enemy target as they enter its danger zone." />
+    <Entry LangId="mgo_weaponinfo_fulton_wormhole" Color="1" Value="E-RB Wormhole Generator.&#xA;This Einstein-Rosen Bridge wormhole generator is recharged by the power of friendship. Stay near your buddy to reach max charge and then you can instantly tunnel to their location." />
+    <Entry LangId="mgo_weapon_camera" Color="1" Value="CAMERA" />
+    <Entry Key="1409261310" Color="1" Value="SUP" />
+    <Entry Key="1989156056" Color="1" Value="GRP" />
+    <Entry Key="715790312" Color="1" Value="SCP" />
+    <Entry Key="1869815140" Color="1" Value="UDM" />
+    <Entry LangId="name_wp_3030" Color="1" Value="AM MRS-4" />
+    <Entry LangId="info_wp_3030" Color="1" Value="5.56mm light carbine.&#xA;Standard model with the greatest balance between effective range, accuracy, and ease of handling." />
+    <Entry LangId="name_wp_3000" Color="1" Value="SVG-76" />
+    <Entry LangId="info_wp_3000" Color="1" Value="Soviet 7.62mm assault rifle.&#xA;Larger-barrel version of the SVG-76. Though the larger bore provides greater stopping power, the increased recoil makes the weapon somewhat hard to handle." />
+    <Entry LangId="name_wp_3050" Color="1" Value="UN-ARC" />
+    <Entry LangId="info_wp_3050" Color="1" Value="7.62mm full-length assault rifle.&#xA;Its precision-machined long barrel gives it greater accuracy than other assault rifles." />
+    <Entry LangId="name_wp_3070" Color="1" Value="G44" />
+    <Entry LangId="info_wp_3070" Color="1" Value="5.56mm bullpup assault rifle.&#xA;Specialized assault weapon made shorter by positioning the action behind the trigger, which also enables quicker aiming and firing." />
+    <Entry LangId="name_wp_4020" Color="1" Value="S1000" />
+    <Entry LangId="info_wp_4020" Color="1" Value="A pump-action shotgun with limited ammo but enough power at close range to send enemies flying." />
+    <Entry LangId="name_wp_4000" Color="1" Value="RASP TB-SG" />
+    <Entry LangId="info_wp_4000" Color="1" Value="Double-barreled hunting shotgun.&#xA;Only holds two shells, but is powerful enough at close range to send an enemy flying." />
+    <Entry LangId="name_wp_4050" Color="1" Value="BULLHORN SG" />
+    <Entry LangId="info_wp_4050" Color="1" Value="Bullpup shotgun.&#xA;Uses a bullpup design that places the chamber to the rear of the weapon, reducing muzzle rise when it is fired." />
+    <Entry LangId="name_wp_4040" Color="1" Value="KABARGA-83" />
+    <Entry LangId="info_wp_4040" Color="1" Value="Automatic shotgun.&#xA;Combines the power of a traditional shotgun with a large-capacity magazine." />
+    <Entry LangId="name_wp_7000" Color="1" Value="ALM 48" />
+    <Entry LangId="info_wp_7000" Color="1" Value="7.62mm general-purpose machine gun.&#xA;Delivers powerful rounds at a continuous rate of fire." />
+    <Entry LangId="name_wp_7020" Color="1" Value="LPG-61" />
+    <Entry LangId="info_wp_7020" Color="1" Value="Soviet 7.62mm general-purpose machine gun.&#xA;Delivers powerful rounds at a continuous rate of fire.&#xA;The trade-off for its rapid fire capability is the heavy recoil." />
+    <Entry LangId="name_wp_7010" Color="1" Value="UN-AAM" />
+    <Entry LangId="info_wp_7010" Color="1" Value="5.56mm general-purpose machine gun.&#xA;This squad fire support weapon combines belt-fed rapid fire capability with an ease of handling comparable to an assault rifle." />
+    <Entry LangId="name_wp_6030" Color="1" Value="AM MRS-71 RIFLE" />
+    <Entry LangId="info_wp_6030" Color="1" Value="7.62mm semi-auto sniper rifle.&#xA;Expensive to develop, but avoids the drop in accuracy that usually accompanies an increased rate of fire." />
+    <Entry LangId="name_wp_6010" Color="1" Value="M2000-D" />
+    <Entry LangId="info_wp_6010" Color="1" Value="7.62mm sniper rifle.&#xA;Features superb effective range and power, but a slow rate of fire due to its bolt action." />
+    <Entry LangId="name_wp_6005" Color="1" Value="RENOV-ICKX TP" />
+    <Entry LangId="info_wp_6000" Color="1" Value="Soviet 7.62mm sniper rifle.&#xA;High-precision rifle used extensively in the field since WWII.&#xA;Its bolt action gives it excellent accuracy, but also a slow rate of fire." />
+    <Entry LangId="name_wp_6044" Color="1" Value="SERVAL AMR-7" />
+    <Entry LangId="info_wp_6040" Color="1" Value="Large-caliber semi-auto sniper rifle.&#xA;Enables semi-automatic firing of the excellent general-purpose, flat-trajectory 12.7mm round. &#xA;Its rapid fire rate and awesome power are a sight to behold." />
+    <Entry LangId="name_wp_8010" Color="1" Value="FB MR R-LAUNCHER" />
+    <Entry LangId="info_wp_8010" Color="1" Value="Warhead-specific large-caliber recoilless rifle.&#xA;Customized to fire special warheads." />
+    <Entry LangId="name_wp_8000" Color="1" Value="GROM-11" />
+    <Entry LangId="info_wp_8000" Color="1" Value="Soviet rocket-propelled grenade launcher.&#xA;Cheaper to use than other launchers, and also easy to modify." />
+    <Entry LangId="name_wp_5020" Color="1" Value="ISANDO RGL-220" />
+    <Entry LangId="info_wp_5020" Color="1" Value="40mm 6-round grenade launcher.&#xA;Maintains long-range attack capability while enabling rapid fire. However, it is heavier and harder to handle." />
+    <Entry LangId="name_wp_9000" Color="1" Value="PB SHIELD" />
+    <Entry LangId="mgo_info_wp_9000" Color="1" Value="Man-portable defensive equipment that combines metal plating and an aramid weave to be exceptionally bulletproof. Carried on the back, it can be raised using the &lt;I=G=HOLD&gt; button. (Only secondary weapons can be used while shield is raised.)" />
+    <Entry LangId="name_wp_1010" Color="1" Value="AM D114" />
+    <Entry LangId="info_wp_1010" Color="1" Value=".45 caliber automatic handgun.&#xA;Boasts impressive anti-personnel stopping power at close range, and a reliable frame design that is unlikely to jam." />
+    <Entry LangId="name_wp_1000" Color="1" Value="WU S.PISTOL" />
+    <Entry LangId="info_wp_1000" Color="1" Value="Single-shot tranquilizer handgun.&#xA;This miniaturized tranquilizer gun delivers an immobilization agent from a distance, but has poor rapid-fire capability as each round must be loaded manually." />
+    <Entry LangId="name_wp_1060" Color="1" Value="URAGAN-5" />
+    <Entry LangId="info_wp_1060" Color="1" Value="Handgun designed to fire shotshells.&#xA;The power of shotshells combined with close-quarters maneuverability makes for incredible anti-personnel stopping power. The enlarged chamber enables multiple ammunition types to be loaded." />
+    <Entry LangId="name_wp_1040" Color="1" Value="WU S333" />
+    <Entry LangId="info_wp_1040" Color="1" Value=".44 caliber revolver.&#xA;Uses larger-caliber rounds than automatic pistols for unrivaled anti-personnel stopping power at close range, but is inferior to automatics in terms of reload speed and ammunition capacity." />
+    <Entry LangId="name_wp_1030" Color="1" Value="GEIST P3" />
+    <Entry LangId="info_wp_1030" Color="1" Value="9mm handgun with an unconventional design.&#xA;The lightweight slide enables smoother rapid-fire capability." />
+    <Entry LangId="name_wp_2020" Color="1" Value="MACHT 37" />
+    <Entry LangId="info_wp_2020" Color="1" Value="9mm high-accuracy submachine gun.&#xA;Has the same internal mechanism as an assault rifle, giving it greater accuracy than other submachine guns." />
+    <Entry LangId="name_wp_2000" Color="1" Value="Sz.-336 SMG" />
+    <Entry LangId="info_wp_2000" Color="1" Value="7.65mm compact submachine gun.&#xA;The use of low-caliber ammunition has allowed for a truly compact design. Ideal for clearing confined spaces." />
+    <Entry LangId="name_wp_2010" Color="1" Value="ZE'EV" />
+    <Entry LangId="info_wp_2010" Color="1" Value="9mm general-purpose submachine gun.&#xA;Has a good balance of handling and stopping power, with a frame that can accept a number of upgrades. Trades accuracy for stopping power, meaning fewer rounds on target at longer ranges." />
+    <Entry LangId="name_wp_10040" Color="1" Value="HAND GRENADE" />
+    <Entry LangId="info_wp_10040" Color="1" Value="Fragmentation grenade.&#xA;Can be tossed over obstacles to strike enemy targets in cover." />
+    <Entry LangId="name_wp_10060" Color="1" Value="STUN GRENADE" />
+    <Entry LangId="info_wp_10060" Color="1" Value="Flashbang grenade.&#xA;Incapacitates nearby enemies upon detonation." />
+    <Entry LangId="name_wp_10050" Color="1" Value="SMOKE GRENADE" />
+    <Entry LangId="info_wp_10050" Color="1" Value="Smoke grenade.&#xA;Releases a smokescreen to obscure enemy visibility." />
+    <Entry LangId="name_wp_10070" Color="1" Value="SLEEP GRENADE" />
+    <Entry LangId="info_wp_10070" Color="1" Value="Sleeping gas grenade.&#xA;Disperses gas containing a high volume of soporific agent, putting nearby enemies to sleep." />
+    <Entry LangId="name_wp_10000" Color="1" Value="MAGAZINE" />
+    <Entry LangId="info_wp_10000" Color="1" Value="An empty ammunition magazine.&#xA;Throw near enemy to create a noise distraction. Tap the Attack Button (&lt;I=G=ATTACK&gt;) to perform a quick toss. Hold the button to perform a long-range throw." />
+    <Entry LangId="name_wp_10080" Color="1" Value="PETROL BOMB" />
+    <Entry LangId="info_wp_10080" Color="1" Value="Molotov cocktail.&#xA;Improvised incendiary weapon made from a bottle and fuel mixed with a thickening agent. " />
+    <Entry LangId="name_wp_11000" Color="1" Value="C-4" />
+    <Entry LangId="info_wp_11000" Color="1" Value="A radio-detonated bomb.&#xA;Perfect for special tactics such as ambushes. After placing, detonate by pressing the Ready Button (&lt;I=G=HOLD&gt;) and the Action Button (&lt;I=G=ACTION&gt;)." />
+    <Entry LangId="name_wp_11040" Color="1" Value="M21 D-MINE" />
+    <Entry LangId="info_wp_11040" Color="1" Value="Directional mine.&#xA;Anti-personnel/anti-vehicle mine.&#xA;Detonates when a moving object enters its trigger area." />
+    <Entry LangId="name_wp_11050" Color="1" Value="LLG-MINE" />
+    <Entry LangId="info_wp_11050" Color="1" Value="Sleeping gas mine.&#xA;Releases soporific gas when a target enters its trigger area, putting those who inhale the gas to sleep." />
+    <Entry LangId="name_wp_11010" Color="1" Value="DECOY" />
+    <Entry LangId="mgo_info_wp_11010" Color="1" Value="Decoy.&#xA;After throwing, press the Ready Button (&lt;I=G=HOLD&gt;) and the Action Button (&lt;I=G=ACTION&gt;) to deploy a diversionary balloon that looks like a soldier." />
+    <Entry LangId="opt_lt_10102" Color="1" Value="FLASHLIGHT" />
+    <Entry LangId="opt_st_30202" Color="1" Value="BOOSTER" />
+    <Entry LangId="opt_st_50303" Color="1" Value="US RANGEFINDER AB" />
+    <Entry LangId="opt_fg_20105" Color="1" Value="FOREGRIP" />
+    <Entry LangId="mgo_opt_ub_10107" Color="1" Value="WU S.PISTOL" />
+    <Entry LangId="mgo_opt_ub_40144" Color="1" Value="S1000 S" />
+    <Entry LangId="mgo_opt_ub_50103" Color="1" Value="DGL103-SA" />
+    <Entry LangId="name_parts_Supprsr" Color="1" Value="SUPPRESSOR" />
+    <Entry LangId="name_parts_muzzlebrake" Color="1" Value="MUZZLE BRAKE" />
+    <Entry LangId="name_it_12000" Color="1" Value="C.BOX (DSRT)" />
+    <Entry LangId="info_it_12000" Color="1" Value="A cardboard box with a desert camo pattern.&#xA;Use on sand or soil to blend in, making it harder for the enemy to spot you." />
+    <Entry LangId="name_it_12020" Color="1" Value="NVG" />
+    <Entry LangId="info_it_12020" Color="1" Value="Highly sensitive night-vision gear that augments sight for better situational awareness in low light.&#xA;Battery is charged by kinetic energy generated by the user's natural motions, supplemented by solar power." />
+    <Entry LangId="name_it_12040" Color="1" Value="STEALTH CAMO.PP" />
+    <Entry LangId="name_it_12043" Color="1" Value="STEALTH CAMO" />
+    <Entry LangId="info_it_12043_mgo" Color="1" Value="Stealth camouflage.&#xA;Renders the user optically transparent, making visual detection next to impossible. Battery is charged by kinetic energy generated by the user's natural motions, supplemented by solar power.&#xA;" />
+    <Entry LangId="info_it_12040_mgo" Color="1" Value="Stealth camouflage.&#xA;Renders the user optically transparent, making visual detection next to impossible. The effect is disabled if you take lethal damage from an enemy.&#xA;" />
+    <Entry LangId="name_wp_5030" Color="1" Value="HAIL MGR-4" />
+    <Entry LangId="info_wp_5030" Color="1" Value="Magazine-loading grenade launcher. &#xA;This grenade launcher is fitted with a magazine port for rapid firing and quicker reloads. &#xA;Since miniaturization of the grenades has proven difficult, there is little prospect of diverse ammunition types being developed for this weapon." />
+    <Entry LangId="mgo_info_wp_10000" Color="1" Value="An empty ammunition magazine.&#xA;Throw near enemy to create a noise distraction. Hold (&lt;I=G=HOLD&gt;)and tap (&lt;I=G=ATTACK&gt;) to perform a quick toss. &#xA;To perform a long-range throw, hold the (&lt;I=G=ATTACK&gt;) button." />
+    <Entry Key="4049616142" Color="1" Value="SUPPORT WEAPON" />
+    <Entry Key="2466494707" Color="1" Value="NONE" />
+    <Entry Key="1429877049" Color="1" Value="CATEGORY" />
+    <Entry Key="2206232046" Color="1" Value="ITEM" />
+    <Entry Key="1279590439" Color="1" Value="SECONDARY WEAPON" />
+    <Entry Key="860752596" Color="1" Value="EQP" />
+    <Entry Key="1366510762" Color="1" Value="PRIMARY WEAPON (BACK)" />
+    <Entry Key="80995366" Color="1" Value="PRIMARY WEAPON (HIP)" />
+    <Entry Key="4224088879" Color="1" Value="&lt;I=G=HUD_DECIDE&gt;: Use" />
+    <Entry Key="2511542304" Color="1" Value="&lt;I=G=ACTION&gt; Equip/Unequip Underbarrel" />
+    <Entry LangId="mgo_opt_ls" Color="1" Value="LASER SIGHT" />
+    <Entry LangId="mgo_opt_st" Color="1" Value="DOT SIGHT" />
+    <Entry LangId="mgo_opt_ss" Color="1" Value="SHORT SCOPE" />
+    <Entry LangId="mgo_opt_st_60303" Color="1" Value="US RIFLE SCOPE" />
+    <Entry LangId="mgo_opt_st_60001" Color="1" Value="SV RIFLE SCOPE" />
+    <Entry LangId="mgo_opt_st_60304" Color="1" Value="ADJUSTABLE SCOPE" />
+    <Entry LangId="mgo_info_parts_muzzlebrake" Color="1" Value="Muzzle brake&#xA;Muzzle attachment that directs and controls escaping gas for improved weapon handling." />
+    <Entry LangId="mgo_info_parts_supprsr" Color="1" Value="Suppressor&#xA;Muzzle attachment that reduces the sound signature of a weapon." />
+    <Entry LangId="mgo_info_parts_foregrip" Color="1" Value="Foregrip&#xA;Under-barrel grip for improved weapon handling and reduced recoil." />
+    <Entry LangId="mgo_info_ls_20004" Color="1" Value="Laser sight&#xA;Red laser line will help when aiming." />
+    <Entry LangId="mgo_info_lt_10104" Color="1" Value="Flashlight&#xA;Use for greater clarity at night or to blind your opponents in close quarters. Tap (&lt;I=G=ACTION&gt;) to toggle flashlight when selecting the weapon." />
+    <Entry LangId="mgo_info_st_30114" Color="1" Value="Dot sight&#xA;Standard dot sight to help see whole targets when aiming." />
+    <Entry LangId="mgo_info_st_30202" Color="1" Value="Booster&#xA;Must equip with dot sight. Provides second zoom level. Press (&lt;I=G=STOCK&gt;) in first person view to activate." />
+    <Entry LangId="mgo_info_st_50303" Color="1" Value="US Rangefinder AB&#xA;Short scope to assist in parabolic aiming." />
+    <Entry LangId="mgo_info_st_60304" Color="1" Value="Adjustable scope&#xA;Variable-magnification scope with 3 levels of zoom when in first-person view." />
+    <Entry LangId="mgo_info_st_60303" Color="1" Value="US rifle scope&#xA;Scope used specifically for US models." />
+    <Entry LangId="mgo_info_st_60001" Color="1" Value="Soviet rifle scope&#xA;Scope used specifically for Soviet models" />
+    <Entry LangId="mgo_info_st_30305" Color="1" Value="Short scope&#xA;Scope with moderate zoom capabilities." />
+    <Entry LangId="mgo_info_wp_ocelot" Color="1" Value=".44 magnum single action revolver. The barrel is lined up with the bottom of the cylinder as opposed to the top like most other revolvers. This leads to a better straight back recoil and reduced muzzle kick to allow for quicker successive shots on target." />
+    <Entry LangId="mgo_name_wp_ocelot" Color="1" Value="TORNADO-6" />
+    <Entry LangId="info_dw_30001" Color="1" Value="Gatling gun.&#xA;Multiple barrels unleash a storm of bullets at an unparalleled rate of fire, for extraordinary stopping power.&#xA;Accuracy on the move has been thoroughly proven in live fire tests." />
+    <Entry LangId="name_dw_30001" Color="1" Value="GATLING-GUN" />
+    <Entry LangId="name_wp_18023" Color="1" Value="BLAST ARM" />
+    <Entry LangId="name_wp_18020" Color="1" Value="ROCKET ARM" />
+    <Entry LangId="name_wp_18001" Color="1" Value="STUN ARM" />
+    <Entry Key="1181673361" Color="1" Value="Ocelot Gas" />
+    <Entry LangId="mgo_default_loadout_ocelethal" Color="1" Value="Ocelot Lethal" />
+    <Entry LangId="mgo_default_loadout_snakecamo" Color="1" Value="Snake Camo" />
+    <Entry LangId="mgo_default_loadout_snakeload" Color="1" Value="Snake Loaded" />
+    <Entry LangId="mgo_default_loadout_snakeex" Color="1" Value="Snake Explosive" />
+    <Entry Key="4264764637" Color="1" Value="Default Attack" />
+    <Entry LangId="mgo_default_loadout_splash" Color="1" Value="Splash" />
+    <Entry LangId="mgo_default_loadout_coverfire" Color="1" Value="Cover Fire" />
+    <Entry LangId="mgo_default_loadout_ranged" Color="1" Value="Ranged" />
+    <Entry LangId="mgo_default_loadout_suppressed" Color="1" Value="Suppressed" />
+    <Entry LangId="mgo_default_loadout_nonlethal" Color="1" Value="Non-Lethal" />
+    <Entry LangId="mgo_default_loadout_cqc" Color="1" Value="CQC" />
+    <Entry LangId="mgo_default_loadout_assault" Color="1" Value="Assault" />
+    <Entry LangId="mgo_loadout_name_7" Color="1" Value="Loadout 7" />
+    <Entry LangId="mgo_loadout_name_6" Color="1" Value="Loadout 6" />
+    <Entry LangId="mgo_loadout_name_5" Color="1" Value="Loadout 5" />
+    <Entry LangId="mgo_loadout_name_4" Color="1" Value="Loadout 4" />
+    <Entry LangId="mgo_loadout_name_3" Color="1" Value="Loadout 3" />
+    <Entry LangId="mgo_loadout_name_2" Color="1" Value="Loadout 2" />
+    <Entry LangId="mgo_loadout_name_1" Color="1" Value="Loadout 1" />
+    <Entry Key="2405632699" Color="1" Value="Anti-Air Cannon" />
+    <Entry Key="2442831677" Color="1" Value="Mortar" />
+    <Entry Key="2156302953" Color="1" Value="General-purpose machine gun" />
+    <Entry Key="1415989854" Color="1" Value="WU S.PISTOL [GOLD]" />
+    <Entry Key="2499974660" Color="1" Value="AM MRS-4 [GOLD]" />
+    <Entry Key="3804112347" Color="1" Value="The active sonar is an added prosthetic arm function that allows you to detect nearby enemies." />
+    <Entry LangId="mgo_info_ub_50103" Color="1" Value="Under-barrel&#xA;Equips DGL103-SA grenade launcher.&#xA;press (&lt;I=G=ACTION&gt;) to switch between its main barrel and its underbarrel." />
+    <Entry LangId="mgo_info_ub_40144" Color="1" Value="Under-barrel&#xA;Equips S1000 S shotgun.&#xA;press (&lt;I=G=ACTION&gt;) to switch between its main barrel and its underbarrel." />
+    <Entry LangId="mgo_info_ub_10107" Color="1" Value="Under-barrel&#xA;Equips WU S.PISTOL tranquilizer.&#xA;Press (&lt;I=G=ACTION&gt;) to switch between its main barrel and its underbarrel." />
+    <Entry Key="996330899" Color="1" Value="FULTON DEVICE" />
+    <Entry LangId="info_wp_18001" Color="1" Value="Snake Custom stun gun prosthesis.&#xA;Delivers a 1.2-megavolt electric shock capable of incapacitating enemies. Battery is charged by kinetic energy generated by the wearer's natural motions, supplemented by solar power." />
+    <Entry LangId="info_wp_18020" Color="1" Value="Snake Custom remote control prosthesis.&#xA;The miniature camera-equipped hand can be released to run free and incapacitate distant enemies.&#xA;Once released, the hand is controlled using &lt;I=G=MOVE&gt;, accelerating with &lt;I=G=PAD_R2&gt; and decelerating with &lt;I=G=PAD_L2&gt;." />
+    <Entry LangId="info_wp_18023" Color="1" Value="Snake Custom remote control prosthesis.&#xA;The miniature camera-equipped hand can be released to run free and harm distant enemies.&#xA;Once released, the hand is controlled using &lt;I=G=MOVE&gt;, accelerating with &lt;I=G=PAD_R2&gt; and decelerating with &lt;I=G=PAD_L2&gt;." />
+    <Entry LangId="mgo_default_loadout_ocegun" Color="1" Value="Ocelot Gunslinger" />
+    <Entry LangId="mgo_default_loadout_oceshield" Color="1" Value="Ocelot Shield" />
+    <Entry LangId="mgo_default_loadout_ocenonlethal" Color="1" Value="Ocelot Non-Lethal" />
+    <Entry LangId="mgo_default_loadout_snakenonlethal" Color="1" Value="Snake Non-Lethal" />
+    <Entry LangId="mgo_default_loadout_quietsneak" Color="1" Value="Quiet Sneak" />
+    <Entry LangId="mgo_default_loadout_quietassassin" Color="1" Value="Quiet Assassin" />
+    <Entry LangId="mgo_default_loadout_quietnonlethal" Color="1" Value="Quiet Non-Lethal" />
+    <Entry LangId="mgo_default_loadout_quietlethal" Color="1" Value="Quiet Lethal" />
+    <Entry Key="346326393" Color="1" Value="&lt;I=G=ACTION&gt; Switch prosthetic arm/knife" />
+    <Entry Key="214821136" Color="1" Value="Close quarter combat knife.&#xA;While aiming, rapid short press the Attack button (&lt;I=G=ATTACK&gt;)to trigger a combo. Hold it down to trigger a stab action." />
+    <Entry Key="800427499" Color="1" Value="COMBAT KNIFE" />
+  </Entries>
+</LangFile>

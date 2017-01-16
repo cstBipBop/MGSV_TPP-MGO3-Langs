@@ -1,0 +1,2716 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="LittleEndian">
+  <Entries>
+    <Entry LangId="result_alert" Color="1" Value="ENEMY COMBAT ALERTS" />
+    <Entry LangId="result_bonus" Color="1" Value="BONUS" />
+    <Entry Key="2244618513" Color="1" Value="TIME" />
+    <Entry LangId="result_hostage" Color="1" Value="PRISONERS RESCUED" />
+    <Entry Key="2009915828" Color="1" Value="Exit Results" />
+    <Entry LangId="result_kill" Color="1" Value="KILLS" />
+    <Entry LangId="result_none" Color="1" Value="---" />
+    <Entry LangId="result_rank" Color="1" Value="RANK" />
+    <Entry LangId="result_retry" Color="1" Value="RETRIES" />
+    <Entry LangId="result_score" Color="1" Value="SCORE" />
+    <Entry LangId="result_gmp_total" Color="1" Value="GMP BALANCE" />
+    <Entry LangId="result_gmp_outcome" Color="1" Value="PERFORMANCE REWARD" />
+    <Entry LangId="result_gmp_clear" Color="1" Value="MISSION CLEAR REWARD" />
+    <Entry LangId="result_found" Color="1" Value="TIMES SPOTTED" />
+    <Entry LangId="result_gmp_diamond" Color="1" Value="ROUGH DIAMONDS" />
+    <Entry LangId="result_gmp_animal" Color="1" Value="ANIMALS RESCUED" />
+    <Entry Key="723908887" Color="1" Value="BATTERY POWER" />
+    <Entry LangId="result_gmp_cost_sortie" Color="1" Value="DEPLOYMENT COST" />
+    <Entry LangId="result_gmp_cost_support" Color="1" Value="SUPPORT COST" />
+    <Entry LangId="result_gmp_income" Color="1" Value="BALANCE OF PAYMENTS" />
+    <Entry LangId="result_hero_score" Color="1" Value="SCORE RATING" />
+    <Entry Key="3426541146" Color="1" Value="ACTION RATING" />
+    <Entry LangId="result_hero_total" Color="1" Value="CURRENT HEROISM" />
+    <Entry LangId="result_mission_score" Color="1" Value="SCORE" />
+    <Entry Key="4215463721" Color="1" Value="PLAY RATING" />
+    <Entry Key="3699387586" Color="1" Value="TOTAL PLAY TIME" />
+    <Entry Key="3550829181" Color="1" Value="REFLEX OCCURRENCES" />
+    <Entry Key="2006405587" Color="1" Value="PERFECT STEALTH, NO KILLS" />
+    <Entry Key="127322674" Color="1" Value="NO TRACES" />
+    <Entry Key="262208049" Color="1" Value="RESULT" />
+    <Entry Key="1422786697" Color="1" Value="LEAGUE" />
+    <Entry Key="1545399464" Color="1" Value="CURRENT LEAGUE POINTS" />
+    <Entry Key="2736015448" Color="1" Value="NAME" />
+    <Entry Key="604118847" Color="1" Value="RANK" />
+    <Entry LangId="result_capture" Color="1" Value="SPOILS" />
+    <Entry Key="3614816375" Color="1" Value="MATERIALS STOLEN" />
+    <Entry LangId="result_recovery" Color="1" Value="RECOVERIES" />
+    <Entry Key="2212872074" Color="1" Value="CONTAINERS RECOVERED" />
+    <Entry Key="1133649693" Color="1" Value="STAFF RESCUED" />
+    <Entry Key="1770917844" Color="1" Value="STAFF RESCUED (REWARD)" />
+    <Entry LangId="result_damage" Color="1" Value="INFILTRATION DAMAGE" />
+    <Entry Key="1509555075" Color="1" Value="MATERIALS LOST" />
+    <Entry Key="686434018" Color="1" Value="STAFF KIA" />
+    <Entry Key="2440572222" Color="1" Value="STAFF INJURED" />
+    <Entry LangId="result_special" Color="1" Value="BONUS REWARDS" />
+    <Entry Key="3923954532" Color="1" Value="STAFF" />
+    <Entry LangId="result_gmp" Color="1" Value="GMP" />
+    <Entry LangId="result_gmp_revenue" Color="1" Value="REVENUE" />
+    <Entry Key="1477146230" Color="1" Value="EXPENSES" />
+    <Entry LangId="result_hero" Color="1" Value="HEROISM" />
+    <Entry LangId="result_hero_fob" Color="1" Value="OUTCOME RATING" />
+    <Entry Key="2692329233" Color="1" Value="TOTAL" />
+    <Entry LangId="result_no_retry" Color="1" Value="NO RETRIES" />
+    <Entry LangId="result_no_kill" Color="1" Value="NO KILLS" />
+    <Entry LangId="result_no_reflex" Color="1" Value="NO REFLEX" />
+    <Entry LangId="result_no_alert" Color="1" Value="NO ENEMY COMBAT ALERTS" />
+    <Entry Key="3898263590" Color="1" Value="RANK-RESTRICTING ITEM USES (EQUIPMENT/UNIT SUPPORT)" />
+    <Entry LangId="result_staff_hostage" Color="1" Value="PRISONERS" />
+    <Entry LangId="result_staff_soldier" Color="1" Value="SOLDIERS" />
+    <Entry LangId="result_staff_casualty" Color="1" Value="CASUALTIES" />
+    <Entry LangId="result_new" Color="1" Value="NEW" />
+    <Entry LangId="result_total" Color="1" Value="TOTAL" />
+    <Entry Key="4001043910" Color="1" Value="&lt;I=G=CANCEL&gt; Previous /&lt;I=G=DECISION&gt; Next" />
+    <Entry Key="175801126" Color="1" Value="&lt;I=G=CANCEL&gt; Previous /&lt;I=G=DECISION&gt; Exit Results" />
+    <Entry Key="1033047174" Color="1" Value="&lt;I=G=DECISION&gt; Exit Results" />
+    <Entry Key="1823704975" Color="1" Value="&lt;I=G=DECISION&gt; Skip Radio Call" />
+    <Entry LangId="result_ransom_get" Color="1" Value="Earned Ransom Money" />
+    <Entry LangId="result_ransom_pay" Color="1" Value="Paid Ransom Money" />
+    <Entry LangId="result_marking_num" Color="1" Value="MARKINGS" />
+    <Entry Key="1423775897" Color="1" Value="EFFECTIVE INTERROGATIONS" />
+    <Entry Key="4264290840" Color="1" Value="FOB MISSIONS (INFILTRATION)" />
+    <Entry Key="4479253" Color="1" Value="FOB MISSIONS (DEFENSE)" />
+    <Entry Key="1746658207" Color="1" Value="%s STAFF ABDUCTED" />
+    <Entry Key="948557875" Color="1" Value="SECURITY TEAM STAFF EXTRACTED" />
+    <Entry Key="2696624559" Color="1" Value="PRISONERS LOST" />
+    <Entry LangId="result_subtotal" Color="1" Value="SUBTOTAL" />
+    <Entry LangId="result_bonus_material" Color="1" Value="BONUS MATERIALS" />
+    <Entry LangId="result_bonus_plant" Color="1" Value="BONUS MEDICINAL PLANTS" />
+    <Entry LangId="result_bonus_volunteer" Color="1" Value="BONUS VOLUNTEERS" />
+    <Entry LangId="result_goal_attack" Color="1" Value="INFILTRATION SUCCESSFUL&#xA;You reached the objective." />
+    <Entry LangId="result_wormhole_attack" Color="1" Value="INFILTRATION FAILED&#xA;You withdrew through the wormhole." />
+    <Entry LangId="result_dead_attack" Color="1" Value="INFILTRATION FAILED&#xA;You were eliminated." />
+    <Entry Key="1121840940" Color="1" Value="INFILTRATION FAILED&#xA;Time ran out." />
+    <Entry LangId="result_abort_attack" Color="1" Value="FOB Mission aborted." />
+    <Entry LangId="result_error_attack" Color="1" Value="INFILTRATION FAILED" />
+    <Entry Key="3379526412" Color="1" Value="DEFENSE FAILED&#xA;Infiltrating player reached the objective." />
+    <Entry Key="1937321071" Color="1" Value="DEFENSE SUCCESSFUL&#xA;Infiltrating player withdrew through the wormhole." />
+    <Entry Key="1305247397" Color="1" Value="DEFENSE SUCCESSFUL&#xA;Eliminated infiltrating player." />
+    <Entry Key="873156884" Color="1" Value="DEFENSE SUCCESSFUL&#xA;You protected the FOB until the time limit." />
+    <Entry Key="2441350190" Color="1" Value="Defense successful.&#xA;Infiltrating player aborted FOB Mission." />
+    <Entry Key="925933568" Color="1" Value="DEFENSE SUCCESSFUL" />
+    <Entry LangId="result_headshot" Color="1" Value="HEADSHOTS" />
+    <Entry Key="3059947705" Color="1" Value="ACCURACY" />
+    <Entry Key="3273753725" Color="1" Value="NEUTRALIZATIONS" />
+    <Entry Key="3128856992" Color="1" Value="STARRING" />
+    <Entry Key="3898213890" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Militants' No.2&#xA;Leader of the Child Soldiers&#xA; &#xA;Child Soldiers" />
+    <Entry Key="3922764084" Color="1" Value="Written by" />
+    <Entry Key="985072834" Color="1" Value="Shuyo Murata&#xA;Satoshi Hirano" />
+    <Entry Key="2376658816" Color="1" Value="Direction/Tuning" />
+    <Entry Key="1559290122" Color="1" Value="Yota Tsutsumizaki" />
+    <Entry Key="2859599725" Color="1" Value="Level Design" />
+    <Entry Key="2665577281" Color="1" Value="Takuya Sokukawa" />
+    <Entry Key="3723820495" Color="1" Value="Lead Planners" />
+    <Entry Key="3373421537" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1538786524" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3250505845" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="4156035138" Color="1" Value="Lead Scripter" />
+    <Entry Key="4011425608" Color="1" Value="Atsuki Imada " />
+    <Entry Key="1023202500" Color="1" Value="Lead Programmer" />
+    <Entry Key="340659791" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="965859365" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="2066770471" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="2142820771" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="3250663457" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="1734884722" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="1504830295" Color="1" Value="Masao Awaji" />
+    <Entry Key="2796646525" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2350368430" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="3896432767" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="3233923184" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="1379517468" Color="1" Value="Technical Directors" />
+    <Entry Key="918297242" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="876807904" Color="1" Value="Technical Supervisor" />
+    <Entry Key="988912054" Color="1" Value="Julien Merceron" />
+    <Entry Key="1739690352" Color="1" Value="CG Art Director" />
+    <Entry Key="1200120123" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="4205863359" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1897201164" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1658620981" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="563607445" Color="1" Value="Keiichi Matate" />
+    <Entry Key="4053634698" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="1552567283" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2668758301" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="535909152" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="3444342761" Color="1" Value="Lead UI Artist" />
+    <Entry Key="1098735623" Color="1" Value="Akira Kanke" />
+    <Entry Key="2666873606" Color="1" Value="Lead Animator" />
+    <Entry Key="1181018250" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="321793741" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="2881441703" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="1977217011" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="3045865578" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="4032073130" Color="1" Value="Sound Director" />
+    <Entry Key="330438264" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="208733052" Color="1" Value="Lead Composer" />
+    <Entry Key="245041651" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1754394239" Color="1" Value="Composer" />
+    <Entry Key="2461385125" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1147963354" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="2497686885" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="4022597703" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="3162941253" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="2578703733" Color="1" Value="Art Director" />
+    <Entry Key="2361512826" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="3226300905" Color="1" Value="Creative Producers" />
+    <Entry Key="4053198011" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="1059806579" Color="1" Value="Producers" />
+    <Entry Key="2213447391" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="1169709592" Color="1" Value="Created and Directed by" />
+    <Entry Key="2964360491" Color="1" Value="Hideo Kojima" />
+    <Entry Key="883237565" Color="1" Value="STARRING" />
+    <Entry Key="2579910891" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The Trafficker&#xA;The Mbele Prisoner&#xA; &#xA;The Contract Forces of Africa&#xA;Rogue Coyote" />
+    <Entry Key="1382161857" Color="1" Value="Written by" />
+    <Entry Key="854460629" Color="1" Value="Hidenari Inamura" />
+    <Entry Key="2322721082" Color="1" Value="Direction/Tuning" />
+    <Entry Key="3815504030" Color="1" Value="Tsuyoshi Osada" />
+    <Entry Key="1948023051" Color="1" Value="Level Design" />
+    <Entry Key="526142151" Color="1" Value="Yu Sahara" />
+    <Entry Key="3729563396" Color="1" Value="Lead Planners" />
+    <Entry Key="2909555754" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2997997767" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3275211526" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="4178477952" Color="1" Value="Lead Scripter" />
+    <Entry Key="3054597738" Color="1" Value="Atsuki Imada " />
+    <Entry Key="2244151659" Color="1" Value="Lead Programmer" />
+    <Entry Key="3922818071" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="1532923494" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="472749156" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="2979339152" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="1377363697" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3461395953" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="2358362628" Color="1" Value="Masao Awaji" />
+    <Entry Key="935219400" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2603043129" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="3252997825" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="4253082715" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="1942291992" Color="1" Value="Technical Directors" />
+    <Entry Key="2870867943" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="3319144197" Color="1" Value="Technical Supervisor" />
+    <Entry Key="1317066127" Color="1" Value="Julien Merceron" />
+    <Entry Key="2905315396" Color="1" Value="CG Art Director" />
+    <Entry Key="1226269684" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="1261154432" Color="1" Value="Lead Character Artist" />
+    <Entry Key="4106187339" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="876919600" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="1181180356" Color="1" Value="Keiichi Matate" />
+    <Entry Key="1346595180" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="1966202638" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="4211745027" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="659817021" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="374718606" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3152398970" Color="1" Value="Akira Kanke" />
+    <Entry Key="2354989790" Color="1" Value="Lead Animator" />
+    <Entry Key="2530055327" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="3324397837" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="1688162498" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="1705198543" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="1372965694" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="3330504674" Color="1" Value="Sound Director" />
+    <Entry Key="3554261585" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="2019198682" Color="1" Value="Lead Composer" />
+    <Entry Key="2524566937" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="4074113156" Color="1" Value="Composer" />
+    <Entry Key="3803718693" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="669362159" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="50603516" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="3034845984" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2447447069" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="3218998580" Color="1" Value="Art Director" />
+    <Entry Key="2355162835" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="3500837435" Color="1" Value="Creative Producers" />
+    <Entry Key="59462366" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="3469479596" Color="1" Value="Producers" />
+    <Entry Key="376034912" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="1531157118" Color="1" Value="Created and Directed by" />
+    <Entry Key="3118116141" Color="1" Value="Hideo Kojima" />
+    <Entry Key="3366225669" Color="1" Value="STARRING" />
+    <Entry Key="1578491632" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Dr. &quot;Huey&quot; Emmerich&#xA;Old Diné &quot;Code Talker&quot;&#xA; &#xA;Diamond Dog Soldiers" />
+    <Entry Key="3316822691" Color="1" Value="Written by" />
+    <Entry Key="1952640274" Color="1" Value="Hideo Kojima&#xA;Hidenari Inamura" />
+    <Entry Key="2728285512" Color="1" Value="Direction/Tuning" />
+    <Entry Key="1476910422" Color="1" Value="Yuji Korekado" />
+    <Entry Key="2280127902" Color="1" Value="Level Design" />
+    <Entry Key="4220440045" Color="1" Value="Shinpei Yamamoto" />
+    <Entry Key="2716557797" Color="1" Value="Lead Planners" />
+    <Entry Key="3094390282" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1578868509" Color="1" Value="Lead Level Designers" />
+    <Entry Key="1049023297" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1045361569" Color="1" Value="Lead Scripter" />
+    <Entry Key="1592921730" Color="1" Value="Atsuki Imada " />
+    <Entry Key="2975049552" Color="1" Value="Lead Programmer" />
+    <Entry Key="1231956923" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="3697060648" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="643994839" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="2109984807" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="4010299394" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="179252890" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="2425250159" Color="1" Value="Masao Awaji" />
+    <Entry Key="2420081728" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="1812099286" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2955823751" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="1929430663" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="2086140194" Color="1" Value="Technical Directors" />
+    <Entry Key="2522570774" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="4258336560" Color="1" Value="Technical Supervisor" />
+    <Entry Key="4285237524" Color="1" Value="Julien Merceron" />
+    <Entry Key="2126775926" Color="1" Value="CG Art Director" />
+    <Entry Key="1352388648" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="3519457875" Color="1" Value="Lead Character Artist" />
+    <Entry Key="215152932" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="3637812745" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="4178481951" Color="1" Value="Keiichi Matate" />
+    <Entry Key="3629992660" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="4127802632" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="671877241" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="4176621030" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="2249589135" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3905328229" Color="1" Value="Akira Kanke" />
+    <Entry Key="2321683119" Color="1" Value="Lead Animator" />
+    <Entry Key="1225868082" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="2873723901" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="3608417451" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="3036446473" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="2393742534" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="3542511626" Color="1" Value="Sound Director" />
+    <Entry Key="1476153513" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="3338386581" Color="1" Value="Lead Composer" />
+    <Entry Key="2046282231" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2172133303" Color="1" Value="Composer" />
+    <Entry Key="4022460861" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="4280292057" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="1828480314" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="2525355754" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="3873234282" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="2254008479" Color="1" Value="Art Director" />
+    <Entry Key="3528683469" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1857058401" Color="1" Value="Creative Producers" />
+    <Entry Key="2145341115" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="1389463040" Color="1" Value="Producers" />
+    <Entry Key="3428673506" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="3578339826" Color="1" Value="Created and Directed by" />
+    <Entry Key="892965095" Color="1" Value="Hideo Kojima" />
+    <Entry Key="2266343927" Color="1" Value="STARRING" />
+    <Entry Key="2907498016" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Sniper &quot;Quiet&quot;&#xA; &#xA;The Soviet Guards Airborne Regiment" />
+    <Entry Key="3798830943" Color="1" Value="Written by" />
+    <Entry Key="1410311299" Color="1" Value="Hideo Kojima&#xA;Shuyo Murata" />
+    <Entry Key="2650491628" Color="1" Value="Direction/Tuning" />
+    <Entry Key="306851055" Color="1" Value="Yota Tsutsumizaki" />
+    <Entry Key="3346939855" Color="1" Value="Level Design" />
+    <Entry Key="3736413229" Color="1" Value="Takuya Sokukawa" />
+    <Entry Key="866931792" Color="1" Value="Lead Planners" />
+    <Entry Key="88364140" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3522952946" Color="1" Value="Lead Level Designers" />
+    <Entry Key="2481220466" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2555865354" Color="1" Value="Lead Scripter" />
+    <Entry Key="3448389358" Color="1" Value="Atsuki Imada " />
+    <Entry Key="2042282947" Color="1" Value="Lead Programmer" />
+    <Entry Key="1289632639" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="3210037122" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="3225918507" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="4188079023" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="452420918" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="2703942263" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="1998319229" Color="1" Value="Masao Awaji" />
+    <Entry Key="1644904127" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="647155886" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="1018076521" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="1258742719" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="2229938073" Color="1" Value="Technical Directors" />
+    <Entry Key="46188886" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="1216920694" Color="1" Value="Technical Supervisor" />
+    <Entry Key="803923472" Color="1" Value="Julien Merceron" />
+    <Entry Key="2616293705" Color="1" Value="CG Art Director" />
+    <Entry Key="1632769066" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="1907971319" Color="1" Value="Lead Character Artist" />
+    <Entry Key="3408328255" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1435897075" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="3942195414" Color="1" Value="Keiichi Matate" />
+    <Entry Key="3282412520" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="116303638" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="3671843038" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="516093007" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="1878136709" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3457972193" Color="1" Value="Akira Kanke" />
+    <Entry Key="2490410988" Color="1" Value="Lead Animator" />
+    <Entry Key="3128533134" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="286136364" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="2613618468" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="2154394101" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="3589560510" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="1705528089" Color="1" Value="Sound Director" />
+    <Entry Key="647393429" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="628766124" Color="1" Value="Lead Composer" />
+    <Entry Key="4004042123" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1698143614" Color="1" Value="Composer" />
+    <Entry Key="912391796" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1941269613" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="916085717" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="2208018538" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="392535881" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="3993540327" Color="1" Value="Art Director" />
+    <Entry Key="341435549" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="3815755240" Color="1" Value="Creative Producers" />
+    <Entry Key="655451103" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="517884992" Color="1" Value="Producers" />
+    <Entry Key="888938374" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="90631760" Color="1" Value="Created and Directed by" />
+    <Entry Key="658927505" Color="1" Value="Hideo Kojima" />
+    <Entry Key="1385380338" Color="1" Value="STARRING" />
+    <Entry Key="3831738195" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The Man on Fire&#xA;Tretij Rebenok&#xA;&quot;Paz&quot; Pacifica Ocean&#xA; &#xA;Cipher's &quot;XOF&quot; Strike Force&#xA; &#xA;Big Boss" />
+    <Entry Key="2300831441" Color="1" Value="Written by" />
+    <Entry Key="455926328" Color="1" Value="Hideo Kojima&#xA;Shuyo Murata" />
+    <Entry Key="806278691" Color="1" Value="Direction/Tuning" />
+    <Entry Key="1481406404" Color="1" Value="Yoshikazu Matsuhana" />
+    <Entry Key="1789820129" Color="1" Value="Level Design" />
+    <Entry Key="2140505918" Color="1" Value="Takuya Imaeda" />
+    <Entry Key="3012706813" Color="1" Value="Lead Planners" />
+    <Entry Key="1705427226" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2388323658" Color="1" Value="Lead Level Designers" />
+    <Entry Key="2941270977" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1674437663" Color="1" Value="Lead Scripter" />
+    <Entry Key="2403131153" Color="1" Value="Atsuki Imada " />
+    <Entry Key="1338186213" Color="1" Value="Lead Programmer" />
+    <Entry Key="3043231757" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="58857362" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="2970223336" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="1464547752" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="579406672" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="2615211221" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="807087064" Color="1" Value="Masao Awaji" />
+    <Entry Key="2817138893" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="1225916516" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="1220593966" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="353746051" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="313734867" Color="1" Value="Technical Directors" />
+    <Entry Key="1052463702" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="1645085877" Color="1" Value="Technical Supervisor" />
+    <Entry Key="2943532222" Color="1" Value="Julien Merceron" />
+    <Entry Key="419846487" Color="1" Value="CG Art Director" />
+    <Entry Key="3128911765" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="354407852" Color="1" Value="Lead Character Artist" />
+    <Entry Key="895154175" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="4122340516" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="836321165" Color="1" Value="Keiichi Matate" />
+    <Entry Key="734179902" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="197634172" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="676053601" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="3572702361" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="593186203" Color="1" Value="Lead UI Artist" />
+    <Entry Key="1638450235" Color="1" Value="Akira Kanke" />
+    <Entry Key="3510688825" Color="1" Value="Lead Animator" />
+    <Entry Key="355674883" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="941078153" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="845606228" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="3339235693" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="2285218797" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2574405524" Color="1" Value="Sound Director" />
+    <Entry Key="2144207168" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="1943666899" Color="1" Value="Lead Composer" />
+    <Entry Key="3766171010" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1150426951" Color="1" Value="Composer" />
+    <Entry Key="3774077020" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1776652119" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="1137590522" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="3916159540" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="449524543" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="1925487871" Color="1" Value="Art Director" />
+    <Entry Key="2258723083" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1527477409" Color="1" Value="Creative Producers" />
+    <Entry Key="3403678223" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="37663423" Color="1" Value="Producers" />
+    <Entry Key="2661987475" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="3651591912" Color="1" Value="Created and Directed by" />
+    <Entry Key="2083331625" Color="1" Value="Hideo Kojima" />
+    <Entry Key="3973440829" Color="1" Value=" " />
+    <Entry Key="1563115961" Color="1" Value=" " />
+    <Entry Key="407868387" Color="1" Value=" " />
+    <Entry Key="2980081757" Color="1" Value=" " />
+    <Entry Key="113239332" Color="1" Value=" " />
+    <Entry Key="929473023" Color="1" Value=" " />
+    <Entry Key="4192056500" Color="1" Value=" " />
+    <Entry Key="3242311687" Color="1" Value=" " />
+    <Entry Key="490801659" Color="1" Value=" " />
+    <Entry Key="1025496228" Color="1" Value=" " />
+    <Entry Key="954532896" Color="1" Value=" " />
+    <Entry Key="2810325794" Color="1" Value=" " />
+    <Entry Key="2040649010" Color="1" Value=" " />
+    <Entry Key="2433650663" Color="1" Value=" " />
+    <Entry Key="2291367903" Color="1" Value=" " />
+    <Entry Key="3197922424" Color="1" Value=" " />
+    <Entry Key="1131114681" Color="1" Value=" " />
+    <Entry Key="1778637690" Color="1" Value=" " />
+    <Entry Key="1249495472" Color="1" Value=" " />
+    <Entry Key="1614099944" Color="1" Value=" " />
+    <Entry Key="2595495786" Color="1" Value=" " />
+    <Entry Key="167553817" Color="1" Value=" " />
+    <Entry Key="3258119044" Color="1" Value=" " />
+    <Entry Key="3992173468" Color="1" Value=" " />
+    <Entry Key="35417992" Color="1" Value=" " />
+    <Entry Key="2573058122" Color="1" Value=" " />
+    <Entry Key="800446702" Color="1" Value=" " />
+    <Entry Key="1352084007" Color="1" Value=" " />
+    <Entry Key="4040499105" Color="1" Value=" " />
+    <Entry Key="4269599115" Color="1" Value=" " />
+    <Entry Key="1501079055" Color="1" Value=" " />
+    <Entry Key="917245312" Color="1" Value=" " />
+    <Entry Key="886867799" Color="1" Value=" " />
+    <Entry Key="3594757287" Color="1" Value=" " />
+    <Entry Key="4210676218" Color="1" Value=" " />
+    <Entry Key="2042521308" Color="1" Value=" " />
+    <Entry Key="2080741258" Color="1" Value="STARRING" />
+    <Entry Key="3621848605" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The American Technician&#xA;The Technician's Assistant&#xA; &#xA;Rogue Coyote" />
+    <Entry Key="1440993141" Color="1" Value="Written by" />
+    <Entry Key="112600682" Color="1" Value="Shuyo Murata" />
+    <Entry Key="2054398091" Color="1" Value="Direction/Tuning" />
+    <Entry Key="743969073" Color="1" Value="Tsuyoshi Osada" />
+    <Entry Key="4156359102" Color="1" Value="Level Design" />
+    <Entry Key="1277003777" Color="1" Value="Youngho Kim" />
+    <Entry Key="1270780920" Color="1" Value="Lead Planners" />
+    <Entry Key="3295791119" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2821810323" Color="1" Value="Lead Level Designers" />
+    <Entry Key="2254283928" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="4249773612" Color="1" Value="Lead Scripter" />
+    <Entry Key="888066316" Color="1" Value="Atsuki Imada " />
+    <Entry Key="3959546048" Color="1" Value="Lead Programmer" />
+    <Entry Key="4178625801" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="2170169818" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="119949435" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="279756799" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="2849750401" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="21873821" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3102054698" Color="1" Value="Masao Awaji" />
+    <Entry Key="3915861641" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="3174943063" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2463137431" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="4200241315" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="974847907" Color="1" Value="Technical Directors" />
+    <Entry Key="1729469101" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="2444951618" Color="1" Value="Technical Supervisor" />
+    <Entry Key="2716848539" Color="1" Value="Julien Merceron" />
+    <Entry Key="122218619" Color="1" Value="CG Art Director" />
+    <Entry Key="1839967832" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="3853704333" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1798518140" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="2631405664" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="1741229171" Color="1" Value="Keiichi Matate" />
+    <Entry Key="389756207" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="2842934176" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="3926662286" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="2487036950" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="1547335204" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3090984462" Color="1" Value="Akira Kanke" />
+    <Entry Key="3655755958" Color="1" Value="Lead Animator" />
+    <Entry Key="3164072463" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="2220961008" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="1246487515" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="3678268801" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="2658215555" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="397830226" Color="1" Value="Sound Director" />
+    <Entry Key="3234598165" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="322913158" Color="1" Value="Lead Composer" />
+    <Entry Key="4068919872" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1785422817" Color="1" Value="Composer" />
+    <Entry Key="4022999901" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3047159323" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="2096603464" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="635628075" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="3693225611" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="754905816" Color="1" Value="Art Director" />
+    <Entry Key="3147470099" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1931473336" Color="1" Value="Creative Producers" />
+    <Entry Key="1774736830" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2661329839" Color="1" Value="Producers" />
+    <Entry Key="467584173" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="1626012892" Color="1" Value="Created and Directed by" />
+    <Entry Key="2259976019" Color="1" Value="Hideo Kojima" />
+    <Entry Key="920696827" Color="1" Value="STARRING" />
+    <Entry Key="3952535441" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;&quot;The Viscount&quot;&#xA; &#xA;The Contract Forces of Africa" />
+    <Entry Key="3029890484" Color="1" Value="Written by" />
+    <Entry Key="2508002953" Color="1" Value="Etsu Tamari" />
+    <Entry Key="2412708926" Color="1" Value="Direction/Tuning" />
+    <Entry Key="2389823445" Color="1" Value="Hiroaki Yoshiike" />
+    <Entry Key="1637530024" Color="1" Value="Level Design" />
+    <Entry Key="1339285263" Color="1" Value="Takuya Imaeda" />
+    <Entry Key="1244929686" Color="1" Value="Lead Planners" />
+    <Entry Key="1998824987" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1258697506" Color="1" Value="Lead Level Designers" />
+    <Entry Key="1006129341" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1864444754" Color="1" Value="Lead Scripter" />
+    <Entry Key="1231000393" Color="1" Value="Atsuki Imada " />
+    <Entry Key="468344070" Color="1" Value="Lead Programmer" />
+    <Entry Key="2177093464" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="3598495153" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="1997508213" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="1080483825" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="3147853922" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="1449052935" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3344015674" Color="1" Value="Masao Awaji" />
+    <Entry Key="1943242843" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="3927969265" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="73590239" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="2224947969" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="1788365121" Color="1" Value="Technical Directors" />
+    <Entry Key="576837330" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="3054036606" Color="1" Value="Technical Supervisor" />
+    <Entry Key="2409941915" Color="1" Value="Julien Merceron" />
+    <Entry Key="3718545928" Color="1" Value="CG Art Director" />
+    <Entry Key="3967786090" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="773038719" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1636662554" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="2712158552" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="796051697" Color="1" Value="Keiichi Matate" />
+    <Entry Key="4210328816" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="3782661077" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2676200553" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="911505813" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="1511829396" Color="1" Value="Lead UI Artist" />
+    <Entry Key="457184633" Color="1" Value="Akira Kanke" />
+    <Entry Key="2609730544" Color="1" Value="Lead Animator" />
+    <Entry Key="2378436929" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="3724103067" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="343375503" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="1819685806" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="352230394" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2274575910" Color="1" Value="Sound Director" />
+    <Entry Key="587919380" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="1115187843" Color="1" Value="Lead Composer" />
+    <Entry Key="1357246283" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3049192615" Color="1" Value="Composer" />
+    <Entry Key="2340906282" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="191582902" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="4161564544" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="1900700891" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="3854254447" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="3223928846" Color="1" Value="Art Director" />
+    <Entry Key="2995685549" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="3118289106" Color="1" Value="Creative Producers" />
+    <Entry Key="1713193205" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="928053361" Color="1" Value="Producers" />
+    <Entry Key="1144173261" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="935734373" Color="1" Value="Created and Directed by" />
+    <Entry Key="1985782795" Color="1" Value="Hideo Kojima" />
+    <Entry Key="907746632" Color="1" Value="STARRING" />
+    <Entry Key="2944405685" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The &quot;SKULLS&quot; Parasite Unit&#xA; &#xA;The Contract Forces of Africa&#xA;Zero Risk Security" />
+    <Entry Key="3488095546" Color="1" Value="Written by" />
+    <Entry Key="2071044249" Color="1" Value="Hideo Kojima&#xA;Hidenari Inamura" />
+    <Entry Key="1536889142" Color="1" Value="Direction/Tuning" />
+    <Entry Key="3135122932" Color="1" Value="Hiroaki Yoshiike" />
+    <Entry Key="3267023779" Color="1" Value="Level Design" />
+    <Entry Key="3700134812" Color="1" Value="Yusuke Tanaka" />
+    <Entry Key="1695686433" Color="1" Value="Lead Planners" />
+    <Entry Key="64720760" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3363061465" Color="1" Value="Lead Level Designers" />
+    <Entry Key="2030410678" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="4192534807" Color="1" Value="Lead Scripter" />
+    <Entry Key="1968360346" Color="1" Value="Atsuki Imada " />
+    <Entry Key="1598281342" Color="1" Value="Lead Programmer" />
+    <Entry Key="541749921" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="2335666965" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="1346171339" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="1518106605" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="1243736148" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="1246028801" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="4029943597" Color="1" Value="Masao Awaji" />
+    <Entry Key="7316814" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="3704040213" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2285856944" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="3915870069" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="1974000897" Color="1" Value="Technical Directors" />
+    <Entry Key="203332260" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="4203642461" Color="1" Value="Technical Supervisor" />
+    <Entry Key="1391515714" Color="1" Value="Julien Merceron" />
+    <Entry Key="977369511" Color="1" Value="CG Art Director" />
+    <Entry Key="2492315635" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="341842786" Color="1" Value="Lead Character Artist" />
+    <Entry Key="302740078" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="3598842049" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="3281450849" Color="1" Value="Keiichi Matate" />
+    <Entry Key="1037221164" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="1371166196" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2174566313" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="2954796642" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="2878136563" Color="1" Value="Lead UI Artist" />
+    <Entry Key="1511133298" Color="1" Value="Akira Kanke" />
+    <Entry Key="3543317528" Color="1" Value="Lead Animator" />
+    <Entry Key="788059159" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="1146043443" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="3426194081" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="3255880191" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="1469911892" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2123141148" Color="1" Value="Sound Director" />
+    <Entry Key="1366941330" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="4273308663" Color="1" Value="Lead Composer" />
+    <Entry Key="3301980866" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3926311078" Color="1" Value="Composer" />
+    <Entry Key="1863130168" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2580556851" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="3745523364" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="414907230" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="3057097898" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="4213431332" Color="1" Value="Art Director" />
+    <Entry Key="2025557863" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="2948131639" Color="1" Value="Creative Producers" />
+    <Entry Key="4122292776" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="3624501374" Color="1" Value="Producers" />
+    <Entry Key="3755726098" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="3338439920" Color="1" Value="Created and Directed by" />
+    <Entry Key="3731654973" Color="1" Value="Hideo Kojima" />
+    <Entry Key="299419563" Color="1" Value="STARRING" />
+    <Entry Key="1721244794" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Intel Team Members&#xA; &#xA;The Contract Forces of Africa" />
+    <Entry Key="1029260279" Color="1" Value="Written by" />
+    <Entry Key="3001250403" Color="1" Value="Hidenari Inamura" />
+    <Entry Key="1519485817" Color="1" Value="Direction/Tuning" />
+    <Entry Key="1871457451" Color="1" Value="Tsuyoshi Osada" />
+    <Entry Key="2456853473" Color="1" Value="Level Design" />
+    <Entry Key="2775046137" Color="1" Value="Ziang Tan" />
+    <Entry Key="591041644" Color="1" Value="Lead Planners" />
+    <Entry Key="4274873628" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="590492094" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3241570588" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1345686109" Color="1" Value="Lead Scripter" />
+    <Entry Key="2024324945" Color="1" Value="Atsuki Imada " />
+    <Entry Key="1909549947" Color="1" Value="Lead Programmer" />
+    <Entry Key="3039706670" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="2380872489" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="1636719385" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="2917177090" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="2833087723" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="370230372" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="1281284587" Color="1" Value="Masao Awaji" />
+    <Entry Key="1053850690" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="3525378911" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2278485137" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="4006816257" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="1885128160" Color="1" Value="Technical Directors" />
+    <Entry Key="1736742561" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="3140970632" Color="1" Value="Technical Supervisor" />
+    <Entry Key="2706501786" Color="1" Value="Julien Merceron" />
+    <Entry Key="2598370491" Color="1" Value="CG Art Director" />
+    <Entry Key="2627236252" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="3025971929" Color="1" Value="Lead Character Artist" />
+    <Entry Key="4202766621" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="985586952" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="3172736927" Color="1" Value="Keiichi Matate" />
+    <Entry Key="3406865413" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="1368182612" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="554704082" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="2281385934" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="3966371090" Color="1" Value="Lead UI Artist" />
+    <Entry Key="1445369855" Color="1" Value="Akira Kanke" />
+    <Entry Key="3804612720" Color="1" Value="Lead Animator" />
+    <Entry Key="1280904294" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="1193990599" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="2059561250" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="915310775" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="2298771611" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2316902509" Color="1" Value="Sound Director" />
+    <Entry Key="92628118" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="829501790" Color="1" Value="Lead Composer" />
+    <Entry Key="3378416165" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3829748041" Color="1" Value="Composer" />
+    <Entry Key="3846181800" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3219495165" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="748706233" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="1391219735" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="1058410367" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="806082790" Color="1" Value="Art Director" />
+    <Entry Key="710286224" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1459871563" Color="1" Value="Creative Producers" />
+    <Entry Key="4118240181" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="1208019904" Color="1" Value="Producers" />
+    <Entry Key="3056616231" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="1926413377" Color="1" Value="Created and Directed by" />
+    <Entry Key="724459166" Color="1" Value="Hideo Kojima" />
+    <Entry Key="3875499725" Color="1" Value="STARRING" />
+    <Entry Key="2184712148" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Old Diné &quot;Code Talker&quot;&#xA; &#xA;Lufwa Valley Commander&#xA; &#xA;Zero Risk Security" />
+    <Entry Key="1997236608" Color="1" Value="Written by" />
+    <Entry Key="2163185118" Color="1" Value="Shuyo Murata" />
+    <Entry Key="2086253589" Color="1" Value="Direction/Tuning" />
+    <Entry Key="2397173215" Color="1" Value="Yuji Korekado" />
+    <Entry Key="4140019014" Color="1" Value="Level Design" />
+    <Entry Key="2820740136" Color="1" Value="Naoyuki Shiraishi" />
+    <Entry Key="1026240543" Color="1" Value="Lead Planners" />
+    <Entry Key="1201374830" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3190397600" Color="1" Value="Lead Level Designers" />
+    <Entry Key="4109335202" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1782070233" Color="1" Value="Lead Scripter" />
+    <Entry Key="678448450" Color="1" Value="Atsuki Imada " />
+    <Entry Key="2650660530" Color="1" Value="Lead Programmer" />
+    <Entry Key="1966816693" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="3585694908" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="3778712219" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="2617252482" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="2233321086" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3964492457" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3016704676" Color="1" Value="Masao Awaji" />
+    <Entry Key="2848624845" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2492813113" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="3601740494" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="2724463856" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="994167201" Color="1" Value="Technical Directors" />
+    <Entry Key="153238062" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="254488227" Color="1" Value="Technical Supervisor" />
+    <Entry Key="4166583389" Color="1" Value="Julien Merceron" />
+    <Entry Key="228581873" Color="1" Value="CG Art Director" />
+    <Entry Key="25176353" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="978150976" Color="1" Value="Lead Character Artist" />
+    <Entry Key="3103074155" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="2097066298" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="2409253637" Color="1" Value="Keiichi Matate" />
+    <Entry Key="3536538857" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="628245544" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="3996550389" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="3784500846" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="1540396229" Color="1" Value="Lead UI Artist" />
+    <Entry Key="948065291" Color="1" Value="Akira Kanke" />
+    <Entry Key="3192177359" Color="1" Value="Lead Animator" />
+    <Entry Key="1333614490" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="4195926838" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="4127142011" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="1019464757" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="651067969" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="3812950774" Color="1" Value="Sound Director" />
+    <Entry Key="4120789506" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="702691002" Color="1" Value="Lead Composer" />
+    <Entry Key="2783282031" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="41881554" Color="1" Value="Composer" />
+    <Entry Key="1597476425" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3185131476" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="1244092348" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="3814307326" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2147754128" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="3814447032" Color="1" Value="Art Director" />
+    <Entry Key="1981987556" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1289117002" Color="1" Value="Creative Producers" />
+    <Entry Key="504804728" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="1116638687" Color="1" Value="Producers" />
+    <Entry Key="3854801622" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="2765515116" Color="1" Value="Created and Directed by" />
+    <Entry Key="3004491587" Color="1" Value="Hideo Kojima" />
+    <Entry Key="2055622795" Color="1" Value="STARRING" />
+    <Entry Key="962201980" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The Mbele Squad&#xA; &#xA;The Contract Forces of Africa" />
+    <Entry Key="2663560287" Color="1" Value="Written by" />
+    <Entry Key="1296671180" Color="1" Value="Hideo Kojima&#xA;Shuyo Murata" />
+    <Entry Key="1172021819" Color="1" Value="Direction/Tuning" />
+    <Entry Key="3611680429" Color="1" Value="Yuji Korekado" />
+    <Entry Key="3076335262" Color="1" Value="Level Design" />
+    <Entry Key="3327495860" Color="1" Value="Arata Matsushita" />
+    <Entry Key="1814357336" Color="1" Value="Lead Planners" />
+    <Entry Key="4061351858" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2587424233" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3658231398" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1367477826" Color="1" Value="Lead Scripter" />
+    <Entry Key="4059633420" Color="1" Value="Atsuki Imada " />
+    <Entry Key="3661094505" Color="1" Value="Lead Programmer" />
+    <Entry Key="3406157192" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="3850957252" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="2939429769" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="56409405" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="1275885548" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3919674968" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3277849172" Color="1" Value="Masao Awaji" />
+    <Entry Key="648792636" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="3094465580" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2137790601" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="4241896925" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="3459999620" Color="1" Value="Technical Directors" />
+    <Entry Key="3333746053" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="1022490068" Color="1" Value="Technical Supervisor" />
+    <Entry Key="1182575631" Color="1" Value="Julien Merceron" />
+    <Entry Key="2845688646" Color="1" Value="CG Art Director" />
+    <Entry Key="4094708804" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="397393245" Color="1" Value="Lead Character Artist" />
+    <Entry Key="522415428" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1700975279" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="1142859958" Color="1" Value="Keiichi Matate" />
+    <Entry Key="1183660055" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="3196999164" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2146807192" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="4124393638" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="2400410107" Color="1" Value="Lead UI Artist" />
+    <Entry Key="2511387178" Color="1" Value="Akira Kanke" />
+    <Entry Key="3934958264" Color="1" Value="Lead Animator" />
+    <Entry Key="2679338295" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="3888648030" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="675890833" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="392640874" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="2503598096" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="3023833238" Color="1" Value="Sound Director" />
+    <Entry Key="3394784980" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="1218224992" Color="1" Value="Lead Composer" />
+    <Entry Key="3207682592" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2535596152" Color="1" Value="Composer" />
+    <Entry Key="964754026" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2184619892" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="2882725260" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="1171093373" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2427177798" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="708482993" Color="1" Value="Art Director" />
+    <Entry Key="3470763506" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1549018370" Color="1" Value="Creative Producers" />
+    <Entry Key="4126031033" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2093178168" Color="1" Value="Producers" />
+    <Entry Key="2495905349" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="1930547494" Color="1" Value="Created and Directed by" />
+    <Entry Key="1401107438" Color="1" Value="Hideo Kojima" />
+    <Entry Key="2394223722" Color="1" Value="STARRING" />
+    <Entry Key="3626426030" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Shabani&#xA;Skull Face&#xA;The Man on Fire&#xA;Tretij Rebenok&#xA; &#xA;Rogue Coyote" />
+    <Entry Key="3197265678" Color="1" Value="Written by" />
+    <Entry Key="3106753267" Color="1" Value="Hideo Kojima&#xA;Shuyo Murata" />
+    <Entry Key="2967717644" Color="1" Value="Direction/Tuning" />
+    <Entry Key="296901653" Color="1" Value="Hiroaki Yoshiike" />
+    <Entry Key="1569501964" Color="1" Value="Level Design" />
+    <Entry Key="3881767620" Color="1" Value="Mokuto Yamamoto" />
+    <Entry Key="456852935" Color="1" Value="Lead Planners" />
+    <Entry Key="2307723087" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2937522613" Color="1" Value="Lead Level Designers" />
+    <Entry Key="67763842" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1462383870" Color="1" Value="Lead Scripter" />
+    <Entry Key="855870129" Color="1" Value="Atsuki Imada " />
+    <Entry Key="586150061" Color="1" Value="Lead Programmer" />
+    <Entry Key="51506684" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="2494044059" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="152526147" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="3260817789" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="1634651490" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3201289760" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="4201916554" Color="1" Value="Masao Awaji" />
+    <Entry Key="1261962056" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="3608783503" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="1871615627" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="1121266145" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="2281707799" Color="1" Value="Technical Directors" />
+    <Entry Key="3865271467" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="2472412733" Color="1" Value="Technical Supervisor" />
+    <Entry Key="2914264462" Color="1" Value="Julien Merceron" />
+    <Entry Key="4291705204" Color="1" Value="CG Art Director" />
+    <Entry Key="3028809172" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="4062062734" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1726624626" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1737847214" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="2842803903" Color="1" Value="Keiichi Matate" />
+    <Entry Key="340518898" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="4093209411" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="3628118174" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="3275812523" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="3987003006" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3063520404" Color="1" Value="Akira Kanke" />
+    <Entry Key="4173223998" Color="1" Value="Lead Animator" />
+    <Entry Key="1646976213" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="2312553029" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="3509330774" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="1852645694" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="3179357693" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="1424484365" Color="1" Value="Sound Director" />
+    <Entry Key="1168503996" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="1196098435" Color="1" Value="Lead Composer" />
+    <Entry Key="2124306184" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2022184209" Color="1" Value="Composer" />
+    <Entry Key="4055569467" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="231665638" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="164626413" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="4251320694" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2418626246" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="2848336394" Color="1" Value="Art Director" />
+    <Entry Key="1912510792" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="3939451081" Color="1" Value="Creative Producers" />
+    <Entry Key="321845632" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="1829524532" Color="1" Value="Producers" />
+    <Entry Key="3080946646" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="3977723193" Color="1" Value="Created and Directed by" />
+    <Entry Key="1713541771" Color="1" Value="Hideo Kojima" />
+    <Entry Key="2092061953" Color="1" Value="STARRING" />
+    <Entry Key="489737860" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Mosquito" />
+    <Entry Key="2504135236" Color="1" Value="Written by" />
+    <Entry Key="2126841776" Color="1" Value="Hidenari Inamura" />
+    <Entry Key="756693405" Color="1" Value="Direction/Tuning" />
+    <Entry Key="1390914370" Color="1" Value="Tsuyoshi Osada" />
+    <Entry Key="1878073778" Color="1" Value="Level Design" />
+    <Entry Key="1495685885" Color="1" Value="Ryo Nagatsuka" />
+    <Entry Key="2338044191" Color="1" Value="Lead Planners" />
+    <Entry Key="533658208" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1308940232" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3580599838" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="4038499640" Color="1" Value="Lead Scripter" />
+    <Entry Key="2881674598" Color="1" Value="Atsuki Imada " />
+    <Entry Key="974790101" Color="1" Value="Lead Programmer" />
+    <Entry Key="2101807890" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="4229725060" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="3442945356" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="3595666213" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="793395632" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="2576855798" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3534835118" Color="1" Value="Masao Awaji" />
+    <Entry Key="2762421728" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="1180519134" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="945144499" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="1361585769" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="3599588639" Color="1" Value="Technical Directors" />
+    <Entry Key="491558539" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="3942194545" Color="1" Value="Technical Supervisor" />
+    <Entry Key="3798591010" Color="1" Value="Julien Merceron" />
+    <Entry Key="2386817005" Color="1" Value="CG Art Director" />
+    <Entry Key="501642041" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="1815256202" Color="1" Value="Lead Character Artist" />
+    <Entry Key="823434952" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="823305897" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="3112233371" Color="1" Value="Keiichi Matate" />
+    <Entry Key="2463053885" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="829378459" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2680586389" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="2569369987" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="739101076" Color="1" Value="Lead UI Artist" />
+    <Entry Key="1523054235" Color="1" Value="Akira Kanke" />
+    <Entry Key="535956877" Color="1" Value="Lead Animator" />
+    <Entry Key="3034741756" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="1321678491" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="1442919510" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="714530815" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="398730959" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="422563799" Color="1" Value="Sound Director" />
+    <Entry Key="3239368941" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="2769751861" Color="1" Value="Lead Composer" />
+    <Entry Key="4117236224" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3620710216" Color="1" Value="Composer" />
+    <Entry Key="2418093314" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2063994860" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="2074440608" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="4032029277" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2601679167" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="4107707263" Color="1" Value="Art Director" />
+    <Entry Key="3820199654" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="764002862" Color="1" Value="Creative Producers" />
+    <Entry Key="1219132800" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2189782652" Color="1" Value="Producers" />
+    <Entry Key="1364828126" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="951121900" Color="1" Value="Created and Directed by" />
+    <Entry Key="2191902327" Color="1" Value="Hideo Kojima" />
+    <Entry Key="3570828213" Color="1" Value="STARRING" />
+    <Entry Key="1759293356" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Eli the &quot;White Mamba&quot;&#xA; &#xA;Child Soldiers" />
+    <Entry Key="4058233508" Color="1" Value="Written by" />
+    <Entry Key="2991466828" Color="1" Value="Hideo Kojima&#xA;Shuyo Murata" />
+    <Entry Key="2746372970" Color="1" Value="Direction/Tuning" />
+    <Entry Key="3005204178" Color="1" Value="Tsuyoshi Osada" />
+    <Entry Key="2474384167" Color="1" Value="Level Design" />
+    <Entry Key="3986099163" Color="1" Value="Jordan Amaro" />
+    <Entry Key="2388464457" Color="1" Value="Lead Planners" />
+    <Entry Key="3569242664" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3234816424" Color="1" Value="Lead Level Designers" />
+    <Entry Key="354672979" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1905847527" Color="1" Value="Lead Scripter" />
+    <Entry Key="802633552" Color="1" Value="Atsuki Imada " />
+    <Entry Key="2971173059" Color="1" Value="Lead Programmer" />
+    <Entry Key="2912400205" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="38281915" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="4022943242" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="1679344925" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="1120741857" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3347492189" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="1349048869" Color="1" Value="Masao Awaji" />
+    <Entry Key="624653748" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="1149152645" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2278265308" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="2062257640" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="1248050251" Color="1" Value="Technical Directors" />
+    <Entry Key="3762491733" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="284931579" Color="1" Value="Technical Supervisor" />
+    <Entry Key="4274838204" Color="1" Value="Julien Merceron" />
+    <Entry Key="127355307" Color="1" Value="CG Art Director" />
+    <Entry Key="348905464" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="1168653515" Color="1" Value="Lead Character Artist" />
+    <Entry Key="752333852" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="3701435211" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="3085775178" Color="1" Value="Keiichi Matate" />
+    <Entry Key="592457818" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="3353249413" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2939453288" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="1503550936" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="2771074511" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3313120791" Color="1" Value="Akira Kanke" />
+    <Entry Key="2157009950" Color="1" Value="Lead Animator" />
+    <Entry Key="86015789" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="3384437150" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="4015477347" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="1948368729" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="3388818169" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2530064443" Color="1" Value="Sound Director" />
+    <Entry Key="1655750952" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="1142135823" Color="1" Value="Lead Composer" />
+    <Entry Key="2383249082" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1414528094" Color="1" Value="Composer" />
+    <Entry Key="4144242641" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1072840905" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="276580347" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="99050901" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2568260875" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="1008597203" Color="1" Value="Art Director" />
+    <Entry Key="3883064729" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="3519780363" Color="1" Value="Creative Producers" />
+    <Entry Key="1460866042" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="1704295401" Color="1" Value="Producers" />
+    <Entry Key="825309244" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="345229259" Color="1" Value="Created and Directed by" />
+    <Entry Key="2769455819" Color="1" Value="Hideo Kojima" />
+    <Entry Key="1606872470" Color="1" Value="STARRING" />
+    <Entry Key="154621268" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The CFA Executive&#xA;The Arms Dealer&#xA; &#xA;The Contract Forces of Africa" />
+    <Entry Key="493127373" Color="1" Value="Written by" />
+    <Entry Key="3816870473" Color="1" Value="Etsu Tamari" />
+    <Entry Key="238263007" Color="1" Value="Direction/Tuning" />
+    <Entry Key="1315548012" Color="1" Value="Yota Tsutsumizaki" />
+    <Entry Key="2529791085" Color="1" Value="Level Design" />
+    <Entry Key="1945897312" Color="1" Value="Takuya Sokukawa" />
+    <Entry Key="2600798184" Color="1" Value="Lead Planners" />
+    <Entry Key="643560416" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3163030990" Color="1" Value="Lead Level Designers" />
+    <Entry Key="2882985664" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="4203180930" Color="1" Value="Lead Scripter" />
+    <Entry Key="1134150970" Color="1" Value="Atsuki Imada " />
+    <Entry Key="403311210" Color="1" Value="Lead Programmer" />
+    <Entry Key="23325666" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="780281417" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="3131582446" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="27498314" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="2523213737" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="608463068" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3655454369" Color="1" Value="Masao Awaji" />
+    <Entry Key="1025644025" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2374943207" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="1833651734" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="656344224" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="3941685761" Color="1" Value="Technical Directors" />
+    <Entry Key="949117273" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="113075291" Color="1" Value="Technical Supervisor" />
+    <Entry Key="3850946122" Color="1" Value="Julien Merceron" />
+    <Entry Key="3848072699" Color="1" Value="CG Art Director" />
+    <Entry Key="1679768135" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="932176535" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1202670788" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="2283302336" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="1530825616" Color="1" Value="Keiichi Matate" />
+    <Entry Key="847877985" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="3352333881" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2523506572" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="454443435" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="2110502650" Color="1" Value="Lead UI Artist" />
+    <Entry Key="317530972" Color="1" Value="Akira Kanke" />
+    <Entry Key="972736891" Color="1" Value="Lead Animator" />
+    <Entry Key="2416706026" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="3614044242" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="194934531" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="1587917732" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="1979747138" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="3946903650" Color="1" Value="Sound Director" />
+    <Entry Key="2958935451" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="3416789914" Color="1" Value="Lead Composer" />
+    <Entry Key="3923697109" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2706025794" Color="1" Value="Composer" />
+    <Entry Key="1328071154" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="746668131" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="1010281248" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="378193480" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2898235942" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="2366593048" Color="1" Value="Art Director" />
+    <Entry Key="994283982" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="2117848457" Color="1" Value="Creative Producers" />
+    <Entry Key="378880451" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="3735248515" Color="1" Value="Producers" />
+    <Entry Key="3960600911" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="214166652" Color="1" Value="Created and Directed by" />
+    <Entry Key="1218351073" Color="1" Value="Hideo Kojima" />
+    <Entry Key="88901525" Color="1" Value="STARRING" />
+    <Entry Key="3583612033" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Old Diné &quot;Code Talker&quot;&#xA;The &quot;SKULLS&quot; Parasite Unit&#xA; &#xA;Zero Risk Security" />
+    <Entry Key="3260998943" Color="1" Value="Written by" />
+    <Entry Key="2850572555" Color="1" Value="Hideo Kojima&#xA;Hidenari Inamura" />
+    <Entry Key="933491985" Color="1" Value="Direction/Tuning" />
+    <Entry Key="2376581907" Color="1" Value="Yuji Korekado" />
+    <Entry Key="2762597697" Color="1" Value="Level Design" />
+    <Entry Key="3879059196" Color="1" Value="Naoyuki Shiraishi" />
+    <Entry Key="1739749910" Color="1" Value="Lead Planners" />
+    <Entry Key="613301600" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2537169516" Color="1" Value="Lead Level Designers" />
+    <Entry Key="2149255508" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3879434903" Color="1" Value="Lead Scripter" />
+    <Entry Key="3170580494" Color="1" Value="Atsuki Imada " />
+    <Entry Key="3015225631" Color="1" Value="Lead Programmer" />
+    <Entry Key="2889040737" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="2946709849" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="2519065036" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="1432860147" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="1212152286" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="374107763" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3515632665" Color="1" Value="Masao Awaji" />
+    <Entry Key="3684968406" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="4095934041" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2365119741" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="2374170597" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="561074935" Color="1" Value="Technical Directors" />
+    <Entry Key="703562048" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="3040413539" Color="1" Value="Technical Supervisor" />
+    <Entry Key="338845759" Color="1" Value="Julien Merceron" />
+    <Entry Key="387605789" Color="1" Value="CG Art Director" />
+    <Entry Key="3101922368" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="1434475940" Color="1" Value="Lead Character Artist" />
+    <Entry Key="3007814749" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1126067239" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="2785892927" Color="1" Value="Keiichi Matate" />
+    <Entry Key="266518869" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="483620250" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="3137650069" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="540202180" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="1064929645" Color="1" Value="Lead UI Artist" />
+    <Entry Key="724286780" Color="1" Value="Akira Kanke" />
+    <Entry Key="316906877" Color="1" Value="Lead Animator" />
+    <Entry Key="2682894751" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="2722250154" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="1972572965" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="2912954099" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="4157563546" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="3611482932" Color="1" Value="Sound Director" />
+    <Entry Key="27636199" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="2897088181" Color="1" Value="Lead Composer" />
+    <Entry Key="3212762257" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="435050815" Color="1" Value="Composer" />
+    <Entry Key="1827321705" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2240854750" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="2458177484" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="527036991" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="3182468754" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="1556828277" Color="1" Value="Art Director" />
+    <Entry Key="1461032389" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="2770578266" Color="1" Value="Creative Producers" />
+    <Entry Key="2965057860" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="4139111459" Color="1" Value="Producers" />
+    <Entry Key="2299942309" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="2078907818" Color="1" Value="Created and Directed by" />
+    <Entry Key="3534818379" Color="1" Value="Hideo Kojima" />
+    <Entry Key="947065944" Color="1" Value="STARRING" />
+    <Entry Key="864961770" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Dr. &quot;Huey&quot; Emmerich&#xA;Old Diné &quot;Code Talker&quot;&#xA; &#xA;The &quot;SKULLS&quot; Parasite Unit&#xA;  &#xA;The Contract Forces of Africa" />
+    <Entry Key="2229758945" Color="1" Value="Written by" />
+    <Entry Key="2237362630" Color="1" Value="Hideo Kojima&#xA;Shuyo Murata" />
+    <Entry Key="4291864194" Color="1" Value="Direction/Tuning" />
+    <Entry Key="940278596" Color="1" Value="Yota Tsutsumizaki" />
+    <Entry Key="2312433848" Color="1" Value="Level Design" />
+    <Entry Key="2374811497" Color="1" Value="Yuji Kaine" />
+    <Entry Key="1006198403" Color="1" Value="Lead Planners" />
+    <Entry Key="2220917834" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1930670374" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3924672222" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2533101723" Color="1" Value="Lead Scripter" />
+    <Entry Key="107102801" Color="1" Value="Atsuki Imada " />
+    <Entry Key="1759202230" Color="1" Value="Lead Programmer" />
+    <Entry Key="3206776983" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="1545538250" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="4242718734" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="1917364492" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="2423386545" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="2962629708" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="2647018418" Color="1" Value="Masao Awaji" />
+    <Entry Key="1279286656" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2237163563" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2917532040" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="527609400" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="3347785943" Color="1" Value="Technical Directors" />
+    <Entry Key="243907098" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="663545740" Color="1" Value="Technical Supervisor" />
+    <Entry Key="71734732" Color="1" Value="Julien Merceron" />
+    <Entry Key="3143145532" Color="1" Value="CG Art Director" />
+    <Entry Key="3960881472" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="1928427877" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1449093566" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="3097753887" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="2749255100" Color="1" Value="Keiichi Matate" />
+    <Entry Key="1838465916" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="440628739" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="286549879" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="3965405764" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="819197687" Color="1" Value="Lead UI Artist" />
+    <Entry Key="2133468030" Color="1" Value="Akira Kanke" />
+    <Entry Key="986209985" Color="1" Value="Lead Animator" />
+    <Entry Key="678030779" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="67926974" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="3946998137" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="1124728720" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="3955004162" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2408980984" Color="1" Value="Sound Director" />
+    <Entry Key="1885758469" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="3342621691" Color="1" Value="Lead Composer" />
+    <Entry Key="1134690302" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3634480378" Color="1" Value="Composer" />
+    <Entry Key="3688256944" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1191722635" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="2569952322" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="2617417484" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2388141999" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="2408478753" Color="1" Value="Art Director" />
+    <Entry Key="2389961323" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="3533484736" Color="1" Value="Creative Producers" />
+    <Entry Key="3894847453" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="462682335" Color="1" Value="Producers" />
+    <Entry Key="3986155599" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="609833964" Color="1" Value="Created and Directed by" />
+    <Entry Key="3615748167" Color="1" Value="Hideo Kojima" />
+    <Entry Key="787414964" Color="1" Value="STARRING" />
+    <Entry Key="925004715" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Dr. &quot;Huey&quot; Emmerich&#xA;Eli the &quot;White Mamba&quot;&#xA; &#xA;Skull Face&#xA;The Man on Fire&#xA;Tretij Rebenok&#xA; &#xA;Cipher's &quot;XOF&quot; Strike Force" />
+    <Entry Key="796334173" Color="1" Value="Written by" />
+    <Entry Key="3261879066" Color="1" Value="Hideo Kojima&#xA;Shuyo Murata" />
+    <Entry Key="3257809763" Color="1" Value="Direction/Tuning" />
+    <Entry Key="3602207864" Color="1" Value="Yoshikazu Matsuhana" />
+    <Entry Key="533972544" Color="1" Value="Level Design" />
+    <Entry Key="731561877" Color="1" Value="Takashi Hanyu" />
+    <Entry Key="2192505957" Color="1" Value="Lead Planners" />
+    <Entry Key="991652991" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2837737289" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3135866173" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="4005509997" Color="1" Value="Lead Scripter" />
+    <Entry Key="12067250" Color="1" Value="Atsuki Imada " />
+    <Entry Key="3362028152" Color="1" Value="Lead Programmer" />
+    <Entry Key="1018529626" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="49006179" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="192521238" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="4025848119" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="3062792095" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3549838488" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="460649679" Color="1" Value="Masao Awaji" />
+    <Entry Key="2660689120" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="4115569958" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="426705077" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="3988665959" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="1127331568" Color="1" Value="Technical Directors" />
+    <Entry Key="67150278" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="4123784900" Color="1" Value="Technical Supervisor" />
+    <Entry Key="2372985423" Color="1" Value="Julien Merceron" />
+    <Entry Key="733771304" Color="1" Value="CG Art Director" />
+    <Entry Key="2965453677" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="1838143838" Color="1" Value="Lead Character Artist" />
+    <Entry Key="3262654891" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1710091018" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="1012026221" Color="1" Value="Keiichi Matate" />
+    <Entry Key="311574860" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="4109542033" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="3891929170" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="1958513159" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="2765523686" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3547601561" Color="1" Value="Akira Kanke" />
+    <Entry Key="2561404850" Color="1" Value="Lead Animator" />
+    <Entry Key="3211750898" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="965541094" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="2165732693" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="952469877" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="2937450395" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="4188056156" Color="1" Value="Sound Director" />
+    <Entry Key="2849387126" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="2413506237" Color="1" Value="Lead Composer" />
+    <Entry Key="414904071" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1587576258" Color="1" Value="Composer" />
+    <Entry Key="1193372157" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="112079656" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="78825335" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="3108847351" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="3797821475" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="926997196" Color="1" Value="Art Director" />
+    <Entry Key="3722593628" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="2515385793" Color="1" Value="Creative Producers" />
+    <Entry Key="512102356" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="1403826641" Color="1" Value="Producers" />
+    <Entry Key="1228401209" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="96268354" Color="1" Value="Created and Directed by" />
+    <Entry Key="3844154860" Color="1" Value="Hideo Kojima" />
+    <Entry Key="2751856611" Color="1" Value="STARRING" />
+    <Entry Key="1053991400" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The Soviet Guards Airborne Regiment&#xA;Spetsnaz" />
+    <Entry Key="4107346311" Color="1" Value="Written by" />
+    <Entry Key="3829993253" Color="1" Value="Shuyo Murata" />
+    <Entry Key="1274934569" Color="1" Value="Direction/Tuning" />
+    <Entry Key="4200956246" Color="1" Value="Tsuyoshi Osada" />
+    <Entry Key="4060635997" Color="1" Value="Level Design" />
+    <Entry Key="4278291696" Color="1" Value="Ziang Tan" />
+    <Entry Key="2715433367" Color="1" Value="Lead Planners" />
+    <Entry Key="584998337" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3001991054" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3653527818" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2997708070" Color="1" Value="Lead Scripter" />
+    <Entry Key="1503652880" Color="1" Value="Atsuki Imada " />
+    <Entry Key="123107259" Color="1" Value="Lead Programmer" />
+    <Entry Key="1506717218" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="3142154902" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="4241388338" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="1422228908" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="919337492" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="2904700390" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3883056948" Color="1" Value="Masao Awaji" />
+    <Entry Key="2446143247" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2668695946" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2229101608" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="534512525" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="3248692439" Color="1" Value="Technical Directors" />
+    <Entry Key="3259694735" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="258425747" Color="1" Value="Technical Supervisor" />
+    <Entry Key="883777973" Color="1" Value="Julien Merceron" />
+    <Entry Key="864186164" Color="1" Value="CG Art Director" />
+    <Entry Key="2943339344" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="839733693" Color="1" Value="Lead Character Artist" />
+    <Entry Key="694658265" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="380575794" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="3349445664" Color="1" Value="Keiichi Matate" />
+    <Entry Key="254819368" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="3762515652" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2869229739" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="2942812670" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="4207915099" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3969486532" Color="1" Value="Akira Kanke" />
+    <Entry Key="996012020" Color="1" Value="Lead Animator" />
+    <Entry Key="2238475427" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="756560852" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="255023637" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="1576321626" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="3928914281" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2324618877" Color="1" Value="Sound Director" />
+    <Entry Key="1231757659" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="3316761386" Color="1" Value="Lead Composer" />
+    <Entry Key="46315924" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="4088041224" Color="1" Value="Composer" />
+    <Entry Key="4000239287" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2297300463" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="3433928116" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="3979545295" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="4011588393" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="3886712694" Color="1" Value="Art Director" />
+    <Entry Key="3626489518" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="32819950" Color="1" Value="Creative Producers" />
+    <Entry Key="2708576643" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2947667375" Color="1" Value="Producers" />
+    <Entry Key="2491708939" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="743322527" Color="1" Value="Created and Directed by" />
+    <Entry Key="2354854262" Color="1" Value="Hideo Kojima" />
+    <Entry Key="3925874048" Color="1" Value="STARRING" />
+    <Entry Key="734355663" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Armored Column Commander&#xA; &#xA;The Contract Forces of Africa" />
+    <Entry Key="2615841913" Color="1" Value="Written by" />
+    <Entry Key="82806523" Color="1" Value="Etsu Tamari" />
+    <Entry Key="2835523203" Color="1" Value="Direction/Tuning" />
+    <Entry Key="2639418803" Color="1" Value="Tsuyoshi Osada" />
+    <Entry Key="2845641096" Color="1" Value="Level Design" />
+    <Entry Key="1861595498" Color="1" Value="Youngho Kim" />
+    <Entry Key="1111873289" Color="1" Value="Lead Planners" />
+    <Entry Key="3068945055" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1313297633" Color="1" Value="Lead Level Designers" />
+    <Entry Key="324915173" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1904886484" Color="1" Value="Lead Scripter" />
+    <Entry Key="1135503932" Color="1" Value="Atsuki Imada " />
+    <Entry Key="4264963646" Color="1" Value="Lead Programmer" />
+    <Entry Key="2541480670" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="2397142861" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="2528852611" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="4182648897" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="1803850227" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3256502320" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="2350469160" Color="1" Value="Masao Awaji" />
+    <Entry Key="3413623622" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2663023695" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2923537933" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="4181146427" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="1509802853" Color="1" Value="Technical Directors" />
+    <Entry Key="2435280597" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="4013716949" Color="1" Value="Technical Supervisor" />
+    <Entry Key="2177922457" Color="1" Value="Julien Merceron" />
+    <Entry Key="72465257" Color="1" Value="CG Art Director" />
+    <Entry Key="900657886" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="907240181" Color="1" Value="Lead Character Artist" />
+    <Entry Key="3887058602" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="3070428608" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="591457827" Color="1" Value="Keiichi Matate" />
+    <Entry Key="407116151" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="1604477225" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2472082659" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="1760893989" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="1361622434" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3970920718" Color="1" Value="Akira Kanke" />
+    <Entry Key="653098026" Color="1" Value="Lead Animator" />
+    <Entry Key="757153597" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="2643996791" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="872291390" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="1319833833" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="2997828625" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2921079571" Color="1" Value="Sound Director" />
+    <Entry Key="2560456315" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="2510888749" Color="1" Value="Lead Composer" />
+    <Entry Key="3799994922" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3318140375" Color="1" Value="Composer" />
+    <Entry Key="2258686491" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1504409862" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="3374830275" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="1494497128" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2069673540" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="436519924" Color="1" Value="Art Director" />
+    <Entry Key="3285765312" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1186545256" Color="1" Value="Creative Producers" />
+    <Entry Key="2086299796" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="1745048226" Color="1" Value="Producers" />
+    <Entry Key="4219718816" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="444941000" Color="1" Value="Created and Directed by" />
+    <Entry Key="2198223936" Color="1" Value="Hideo Kojima" />
+    <Entry Key="2160810122" Color="1" Value="STARRING" />
+    <Entry Key="3898677086" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;&quot;The Major&quot;&#xA; &#xA;The Contract Forces of Africa&#xA;Rogue Coyote" />
+    <Entry Key="1157902455" Color="1" Value="Written by" />
+    <Entry Key="3151595585" Color="1" Value="Etsu Tamari" />
+    <Entry Key="2624214780" Color="1" Value="Direction/Tuning" />
+    <Entry Key="1712890258" Color="1" Value="Yoshikazu Matsuhana" />
+    <Entry Key="1600867612" Color="1" Value="Level Design" />
+    <Entry Key="2826645651" Color="1" Value="Takashi Hanyu" />
+    <Entry Key="4234005790" Color="1" Value="Lead Planners" />
+    <Entry Key="1581289348" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="327207290" Color="1" Value="Lead Level Designers" />
+    <Entry Key="1923231921" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1513443433" Color="1" Value="Lead Scripter" />
+    <Entry Key="26065390" Color="1" Value="Atsuki Imada " />
+    <Entry Key="1799384275" Color="1" Value="Lead Programmer" />
+    <Entry Key="512893201" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="2636465928" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="3100138560" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="3663638132" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="3816963385" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="498688550" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="933619692" Color="1" Value="Masao Awaji" />
+    <Entry Key="1805269559" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="104632907" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2699887972" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="3524181442" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="3337309123" Color="1" Value="Technical Directors" />
+    <Entry Key="1511572362" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="3880675793" Color="1" Value="Technical Supervisor" />
+    <Entry Key="506230430" Color="1" Value="Julien Merceron" />
+    <Entry Key="2980125533" Color="1" Value="CG Art Director" />
+    <Entry Key="40627639" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="503149349" Color="1" Value="Lead Character Artist" />
+    <Entry Key="2793294753" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1497967121" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="2470333688" Color="1" Value="Keiichi Matate" />
+    <Entry Key="4186698297" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="2498016683" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2504900718" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="4131495174" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="1160591855" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3870638752" Color="1" Value="Akira Kanke" />
+    <Entry Key="2423827937" Color="1" Value="Lead Animator" />
+    <Entry Key="1592193749" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="1445227694" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="66801569" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="387617840" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="1808553520" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="4053576688" Color="1" Value="Sound Director" />
+    <Entry Key="354544238" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="1692776053" Color="1" Value="Lead Composer" />
+    <Entry Key="633191702" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1536142931" Color="1" Value="Composer" />
+    <Entry Key="936133364" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="91841588" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="457938592" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="625839853" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2831126795" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="1701303777" Color="1" Value="Art Director" />
+    <Entry Key="2520843280" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1073717991" Color="1" Value="Creative Producers" />
+    <Entry Key="3144791089" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="479943829" Color="1" Value="Producers" />
+    <Entry Key="2067124453" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="238868385" Color="1" Value="Created and Directed by" />
+    <Entry Key="3465595717" Color="1" Value="Hideo Kojima" />
+    <Entry Key="3975729946" Color="1" Value="STARRING" />
+    <Entry Key="3813540747" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The &quot;SKULLS&quot; Parasite Unit&#xA;  &#xA;The Soviet Guards Airborne Regiment" />
+    <Entry Key="2946463668" Color="1" Value="Written by" />
+    <Entry Key="4106754766" Color="1" Value="Hideo Kojima&#xA;Hidenari Inamura" />
+    <Entry Key="2231360993" Color="1" Value="Direction/Tuning" />
+    <Entry Key="2069992046" Color="1" Value="Yoshikazu Matsuhana" />
+    <Entry Key="1933913494" Color="1" Value="Level Design" />
+    <Entry Key="2640134169" Color="1" Value="Satoshi Matsuno" />
+    <Entry Key="1557871939" Color="1" Value="Lead Planners" />
+    <Entry Key="1932771472" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="185310798" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3358439601" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="337548573" Color="1" Value="Lead Scripter" />
+    <Entry Key="3123128497" Color="1" Value="Atsuki Imada " />
+    <Entry Key="2849959311" Color="1" Value="Lead Programmer" />
+    <Entry Key="1634412800" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="1935205369" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="407490571" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="3186964447" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="2290207219" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3824866300" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="1427536610" Color="1" Value="Masao Awaji" />
+    <Entry Key="2182410656" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="3028699504" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="1884095374" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="1483115085" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="3733633567" Color="1" Value="Technical Directors" />
+    <Entry Key="71589920" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="2148086060" Color="1" Value="Technical Supervisor" />
+    <Entry Key="4201067484" Color="1" Value="Julien Merceron" />
+    <Entry Key="165384352" Color="1" Value="CG Art Director" />
+    <Entry Key="156003330" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="1209605404" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1600258669" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="127310492" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="1383188603" Color="1" Value="Keiichi Matate" />
+    <Entry Key="2249429898" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="4049289340" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="1139816435" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="3127937602" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="2996170558" Color="1" Value="Lead UI Artist" />
+    <Entry Key="2005029177" Color="1" Value="Akira Kanke" />
+    <Entry Key="1554982534" Color="1" Value="Lead Animator" />
+    <Entry Key="2247873658" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="880948011" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="2902917357" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="115256576" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="1499782272" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="1014079424" Color="1" Value="Sound Director" />
+    <Entry Key="2293609663" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="2875925580" Color="1" Value="Lead Composer" />
+    <Entry Key="440491473" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1087170510" Color="1" Value="Composer" />
+    <Entry Key="1008255180" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1661148829" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="2247948452" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="99449176" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="3404577705" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="1394671519" Color="1" Value="Art Director" />
+    <Entry Key="2665434350" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="2190451" Color="1" Value="Creative Producers" />
+    <Entry Key="3360281634" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="3441260412" Color="1" Value="Producers" />
+    <Entry Key="962868720" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="1041376238" Color="1" Value="Created and Directed by" />
+    <Entry Key="820209617" Color="1" Value="Hideo Kojima" />
+    <Entry Key="2258197578" Color="1" Value="STARRING" />
+    <Entry Key="3997765759" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Diamond Dog Soldiers" />
+    <Entry Key="1267339330" Color="1" Value="Written by" />
+    <Entry Key="2225168596" Color="1" Value="Hideo Kojima&#xA;Hidenari Inamura" />
+    <Entry Key="3748262765" Color="1" Value="Direction/Tuning" />
+    <Entry Key="4038083694" Color="1" Value="Tsuyoshi Osada" />
+    <Entry Key="3581275273" Color="1" Value="Level Design" />
+    <Entry Key="4079285964" Color="1" Value="Takeo Yagi&#xA;Xinpeng Huang" />
+    <Entry Key="2743889277" Color="1" Value="Lead Planners" />
+    <Entry Key="3776344767" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3723427087" Color="1" Value="Lead Level Designers" />
+    <Entry Key="4274291295" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1131042856" Color="1" Value="Lead Scripter" />
+    <Entry Key="2407050224" Color="1" Value="Atsuki Imada " />
+    <Entry Key="578745947" Color="1" Value="Lead Programmer" />
+    <Entry Key="2440086704" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="4137698569" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="2409673031" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="3307013683" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="10542740" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="737084438" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="925532102" Color="1" Value="Masao Awaji" />
+    <Entry Key="2602419994" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="1287774453" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="3441877330" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="4004582538" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="3800547573" Color="1" Value="Technical Directors" />
+    <Entry Key="3747805108" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="1403730737" Color="1" Value="Technical Supervisor" />
+    <Entry Key="45751411" Color="1" Value="Julien Merceron" />
+    <Entry Key="631250292" Color="1" Value="CG Art Director" />
+    <Entry Key="1737186752" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="3270872680" Color="1" Value="Lead Character Artist" />
+    <Entry Key="3276352439" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1042352020" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="501422349" Color="1" Value="Keiichi Matate" />
+    <Entry Key="1530693874" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="1015697311" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2299977694" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="144943281" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="2990243587" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3153803594" Color="1" Value="Akira Kanke" />
+    <Entry Key="1600990720" Color="1" Value="Lead Animator" />
+    <Entry Key="1460991404" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="4288388928" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="3160713622" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="1636805458" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="1195868039" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="3052936987" Color="1" Value="Sound Director" />
+    <Entry Key="1458357706" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="2305265970" Color="1" Value="Lead Composer" />
+    <Entry Key="1150094679" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="160119246" Color="1" Value="Composer" />
+    <Entry Key="3206704457" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="912211787" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="1514486286" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="4192145862" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="3466046736" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="2503794715" Color="1" Value="Art Director" />
+    <Entry Key="1783836714" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1695389345" Color="1" Value="Creative Producers" />
+    <Entry Key="1781243085" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="1623444986" Color="1" Value="Producers" />
+    <Entry Key="2820180474" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="2644186642" Color="1" Value="Created and Directed by" />
+    <Entry Key="2537537769" Color="1" Value="Hideo Kojima" />
+    <Entry Key="3023923745" Color="1" Value="STARRING" />
+    <Entry Key="1907515720" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The Bionics Engineer&#xA; &#xA;The Soviet Guards Airborne Regiment" />
+    <Entry Key="1249619085" Color="1" Value="Written by" />
+    <Entry Key="4190177358" Color="1" Value="Shuyo Murata" />
+    <Entry Key="4116314043" Color="1" Value="Direction/Tuning" />
+    <Entry Key="2226455309" Color="1" Value="Yuji Korekado" />
+    <Entry Key="1330925564" Color="1" Value="Level Design" />
+    <Entry Key="1193207275" Color="1" Value="Naoyuki Shiraishi" />
+    <Entry Key="2821914707" Color="1" Value="Lead Planners" />
+    <Entry Key="3375409682" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="342585423" Color="1" Value="Lead Level Designers" />
+    <Entry Key="952360497" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1080766201" Color="1" Value="Lead Scripter" />
+    <Entry Key="3751593370" Color="1" Value="Atsuki Imada " />
+    <Entry Key="1296929974" Color="1" Value="Lead Programmer" />
+    <Entry Key="1053533341" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="3566814458" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="3982353773" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="1175001656" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="3974704294" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3369003198" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="355267135" Color="1" Value="Masao Awaji" />
+    <Entry Key="3470072102" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2572202332" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2325757276" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="1449350585" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="460209827" Color="1" Value="Technical Directors" />
+    <Entry Key="468116275" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="653255110" Color="1" Value="Technical Supervisor" />
+    <Entry Key="3509475304" Color="1" Value="Julien Merceron" />
+    <Entry Key="904793968" Color="1" Value="CG Art Director" />
+    <Entry Key="1948373117" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="3905057534" Color="1" Value="Lead Character Artist" />
+    <Entry Key="2404123154" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="3144861250" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="1249082148" Color="1" Value="Keiichi Matate" />
+    <Entry Key="3390606098" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="4143716608" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="617789106" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="497053905" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="725904246" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3571767790" Color="1" Value="Akira Kanke" />
+    <Entry Key="3907378426" Color="1" Value="Lead Animator" />
+    <Entry Key="2800296010" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="1188311348" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="3203199916" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="2085648104" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="3832144046" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="4109057198" Color="1" Value="Sound Director" />
+    <Entry Key="2292646121" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="2861058712" Color="1" Value="Lead Composer" />
+    <Entry Key="1560250811" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="32096023" Color="1" Value="Composer" />
+    <Entry Key="255508304" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1743018721" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="3159275459" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="4128697433" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="230927407" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="1651215462" Color="1" Value="Art Director" />
+    <Entry Key="1607549734" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="3470567761" Color="1" Value="Creative Producers" />
+    <Entry Key="1384125397" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="506775438" Color="1" Value="Producers" />
+    <Entry Key="1503222358" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="1844649511" Color="1" Value="Created and Directed by" />
+    <Entry Key="968068918" Color="1" Value="Hideo Kojima" />
+    <Entry Key="2502806124" Color="1" Value="STARRING" />
+    <Entry Key="2819904277" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The Spetsnaz Commander&#xA;  &#xA;The Soviet Guards Airborne Regiment&#xA;Spetsnaz" />
+    <Entry Key="4244412100" Color="1" Value="Written by" />
+    <Entry Key="4171227716" Color="1" Value="Shuyo Murata" />
+    <Entry Key="3788111999" Color="1" Value="Direction/Tuning" />
+    <Entry Key="2910270684" Color="1" Value="Yuji Korekado" />
+    <Entry Key="120726776" Color="1" Value="Level Design" />
+    <Entry Key="885475711" Color="1" Value="Shinpei Yamamoto" />
+    <Entry Key="3085907387" Color="1" Value="Lead Planners" />
+    <Entry Key="3918592228" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1026075007" Color="1" Value="Lead Level Designers" />
+    <Entry Key="480713287" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3617814206" Color="1" Value="Lead Scripter" />
+    <Entry Key="3571736668" Color="1" Value="Atsuki Imada " />
+    <Entry Key="3207307672" Color="1" Value="Lead Programmer" />
+    <Entry Key="51476596" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="4189876993" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="3257138466" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="2636215744" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="858574501" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3797648968" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="4254323839" Color="1" Value="Masao Awaji" />
+    <Entry Key="3016081643" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="4164807772" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="1690190063" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="175388413" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="2533196280" Color="1" Value="Technical Directors" />
+    <Entry Key="2684990120" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="3505628663" Color="1" Value="Technical Supervisor" />
+    <Entry Key="749578948" Color="1" Value="Julien Merceron" />
+    <Entry Key="2350359251" Color="1" Value="CG Art Director" />
+    <Entry Key="1163453054" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="935546325" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1197981838" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="2361125987" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="2112340172" Color="1" Value="Keiichi Matate" />
+    <Entry Key="741545870" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="3790912998" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="3233754129" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="4094096869" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="2875460795" Color="1" Value="Lead UI Artist" />
+    <Entry Key="1627827487" Color="1" Value="Akira Kanke" />
+    <Entry Key="1429232877" Color="1" Value="Lead Animator" />
+    <Entry Key="1139949152" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="3187672676" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="471172878" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="2130516858" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="563215013" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2351779521" Color="1" Value="Sound Director" />
+    <Entry Key="1858223065" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="1256833262" Color="1" Value="Lead Composer" />
+    <Entry Key="3517519198" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1516273376" Color="1" Value="Composer" />
+    <Entry Key="323108751" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1771899147" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="3424356630" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="4081241997" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="3821304056" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="2568745152" Color="1" Value="Art Director" />
+    <Entry Key="944213795" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1734836360" Color="1" Value="Creative Producers" />
+    <Entry Key="1365090564" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="4040772922" Color="1" Value="Producers" />
+    <Entry Key="1826784300" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="4016016150" Color="1" Value="Created and Directed by" />
+    <Entry Key="2568076261" Color="1" Value="Hideo Kojima" />
+    <Entry Key="1088169651" Color="1" Value="STARRING" />
+    <Entry Key="2263543089" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Skull Face&#xA;Tretij Rebenok&#xA;The &quot;SKULLS&quot; Parasite Unit&#xA;Hamid Mujahideen Survivor&#xA; &#xA;The Soviet Guards Airborne Regiment" />
+    <Entry Key="971953823" Color="1" Value="Written by" />
+    <Entry Key="2703207441" Color="1" Value="Hideo Kojima&#xA;Hidenari Inamura" />
+    <Entry Key="1071963582" Color="1" Value="Direction/Tuning" />
+    <Entry Key="4286499373" Color="1" Value="Yuji Korekado" />
+    <Entry Key="3810571331" Color="1" Value="Level Design" />
+    <Entry Key="662186873" Color="1" Value="Shinpei Yamamoto" />
+    <Entry Key="1667518464" Color="1" Value="Lead Planners" />
+    <Entry Key="2766353007" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="531740845" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3003002289" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="153097171" Color="1" Value="Lead Scripter" />
+    <Entry Key="1675015580" Color="1" Value="Atsuki Imada " />
+    <Entry Key="1272681987" Color="1" Value="Lead Programmer" />
+    <Entry Key="2052987507" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="1190633281" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="1593703659" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="1069963381" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="4066075912" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="1923090428" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3064864331" Color="1" Value="Masao Awaji" />
+    <Entry Key="1106296433" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2457966784" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="4097072895" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="36485007" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="1147653388" Color="1" Value="Technical Directors" />
+    <Entry Key="353705142" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="768639731" Color="1" Value="Technical Supervisor" />
+    <Entry Key="3586544441" Color="1" Value="Julien Merceron" />
+    <Entry Key="1717422468" Color="1" Value="CG Art Director" />
+    <Entry Key="3992866814" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="604092171" Color="1" Value="Lead Character Artist" />
+    <Entry Key="3006262459" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="3501830719" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="1576448317" Color="1" Value="Keiichi Matate" />
+    <Entry Key="1779233352" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="705357693" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="1689962602" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="2114588273" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="1871216523" Color="1" Value="Lead UI Artist" />
+    <Entry Key="1118515562" Color="1" Value="Akira Kanke" />
+    <Entry Key="1477660279" Color="1" Value="Lead Animator" />
+    <Entry Key="1133302624" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="3142977042" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="2031704424" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="2570626363" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="3027091122" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2959677037" Color="1" Value="Sound Director" />
+    <Entry Key="1411364131" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="2645034613" Color="1" Value="Lead Composer" />
+    <Entry Key="1960286028" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="307205770" Color="1" Value="Composer" />
+    <Entry Key="352274608" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3650792277" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="3389265203" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="280706080" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="3268933413" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="1325892044" Color="1" Value="Art Director" />
+    <Entry Key="879568428" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1735006575" Color="1" Value="Creative Producers" />
+    <Entry Key="2232998002" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2253269030" Color="1" Value="Producers" />
+    <Entry Key="1807012860" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="1430890500" Color="1" Value="Created and Directed by" />
+    <Entry Key="4249011692" Color="1" Value="Hideo Kojima" />
+    <Entry Key="791024758" Color="1" Value="STARRING" />
+    <Entry Key="4214278877" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Wialo Company Commander&#xA;Shago Platoon Commander&#xA;Wakh Sind Platoon Commander&#xA; &#xA;The Soviet Guards Airborne Regiment" />
+    <Entry Key="2962767031" Color="1" Value="Written by" />
+    <Entry Key="3700816764" Color="1" Value="Shuyo Murata&#xA;Satoshi Hirano" />
+    <Entry Key="3158906801" Color="1" Value="Direction/Tuning" />
+    <Entry Key="4165469648" Color="1" Value="Tsuyoshi Osada" />
+    <Entry Key="3377642587" Color="1" Value="Level Design" />
+    <Entry Key="3963913157" Color="1" Value="Takeo Yagi" />
+    <Entry Key="1138660955" Color="1" Value="Lead Planners" />
+    <Entry Key="1911238105" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="4222323958" Color="1" Value="Lead Level Designers" />
+    <Entry Key="2675698041" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1989426055" Color="1" Value="Lead Scripter" />
+    <Entry Key="2809178892" Color="1" Value="Atsuki Imada " />
+    <Entry Key="2384761971" Color="1" Value="Lead Programmer" />
+    <Entry Key="2816415115" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="2709679426" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="610302464" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="4235171432" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="3883841536" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="1119346271" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="4170453112" Color="1" Value="Masao Awaji" />
+    <Entry Key="1663186107" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="4078970297" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="1200214089" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="4020098274" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="2465447733" Color="1" Value="Technical Directors" />
+    <Entry Key="4257509734" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="3093414105" Color="1" Value="Technical Supervisor" />
+    <Entry Key="1911528025" Color="1" Value="Julien Merceron" />
+    <Entry Key="482535216" Color="1" Value="CG Art Director" />
+    <Entry Key="1487788535" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="2613851156" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1354888847" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1503531717" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="3165954687" Color="1" Value="Keiichi Matate" />
+    <Entry Key="503603509" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="3955320862" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="583963093" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="3922811478" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="1064451253" Color="1" Value="Lead UI Artist" />
+    <Entry Key="45329954" Color="1" Value="Akira Kanke" />
+    <Entry Key="3824940624" Color="1" Value="Lead Animator" />
+    <Entry Key="3505874473" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="2388217817" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="3407486157" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="2758846810" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="2086221484" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2348869416" Color="1" Value="Sound Director" />
+    <Entry Key="3762403423" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="2873321053" Color="1" Value="Lead Composer" />
+    <Entry Key="1950418762" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1829214564" Color="1" Value="Composer" />
+    <Entry Key="3905649215" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2712169940" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="1023242264" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="1451205027" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="564227179" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="638587230" Color="1" Value="Art Director" />
+    <Entry Key="2914698604" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="3380628579" Color="1" Value="Creative Producers" />
+    <Entry Key="3137887056" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="564449458" Color="1" Value="Producers" />
+    <Entry Key="861649404" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="472961833" Color="1" Value="Created and Directed by" />
+    <Entry Key="1798810741" Color="1" Value="Hideo Kojima" />
+    <Entry Key="1486155575" Color="1" Value="STARRING" />
+    <Entry Key="117732768" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The Soviet Guards Airborne Regiment" />
+    <Entry Key="1026954079" Color="1" Value="Written by" />
+    <Entry Key="1039765688" Color="1" Value="Shuyo Murata&#xA;Satoshi Hirano" />
+    <Entry Key="3382353685" Color="1" Value="Direction/Tuning" />
+    <Entry Key="3809632782" Color="1" Value="Hiroaki Yoshiike" />
+    <Entry Key="211294765" Color="1" Value="Level Design" />
+    <Entry Key="3938849086" Color="1" Value="Yusuke Tanaka" />
+    <Entry Key="463168025" Color="1" Value="Lead Planners" />
+    <Entry Key="913736366" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="501384915" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3277721224" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3820583839" Color="1" Value="Lead Scripter" />
+    <Entry Key="917050732" Color="1" Value="Atsuki Imada " />
+    <Entry Key="923370177" Color="1" Value="Lead Programmer" />
+    <Entry Key="1830244807" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="35650437" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="2127806735" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="600185793" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="3650020430" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="4160704926" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="495025845" Color="1" Value="Masao Awaji" />
+    <Entry Key="4003930283" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2829769683" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="3385337772" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="2066670483" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="2474401786" Color="1" Value="Technical Directors" />
+    <Entry Key="1210059613" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="2878947851" Color="1" Value="Technical Supervisor" />
+    <Entry Key="2192401361" Color="1" Value="Julien Merceron" />
+    <Entry Key="225699316" Color="1" Value="CG Art Director" />
+    <Entry Key="3928958283" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="3413178001" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1401062236" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="2813906852" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="3832042787" Color="1" Value="Keiichi Matate" />
+    <Entry Key="1156453372" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="2760957125" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="349911596" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="3530747939" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="3158602525" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3294239647" Color="1" Value="Akira Kanke" />
+    <Entry Key="212828397" Color="1" Value="Lead Animator" />
+    <Entry Key="3171566014" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="2957164897" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="962117045" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="2996791088" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="1441007301" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="3636516649" Color="1" Value="Sound Director" />
+    <Entry Key="526949426" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="2813076716" Color="1" Value="Lead Composer" />
+    <Entry Key="878210931" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2658737391" Color="1" Value="Composer" />
+    <Entry Key="3135420899" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1198917362" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="2823186717" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="3377553446" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2354318295" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="158505250" Color="1" Value="Art Director" />
+    <Entry Key="1212019193" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1390127403" Color="1" Value="Creative Producers" />
+    <Entry Key="952836022" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="3041058187" Color="1" Value="Producers" />
+    <Entry Key="2930949752" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="3734651927" Color="1" Value="Created and Directed by" />
+    <Entry Key="3185520608" Color="1" Value="Hideo Kojima" />
+    <Entry Key="3649499624" Color="1" Value="STARRING" />
+    <Entry Key="4221897044" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Sakhra Ee Village Colonel&#xA; &#xA;The Soviet Guards Airborne Regiment" />
+    <Entry Key="3171436900" Color="1" Value="Written by" />
+    <Entry Key="4232640733" Color="1" Value="Etsu Tamari" />
+    <Entry Key="87635574" Color="1" Value="Direction/Tuning" />
+    <Entry Key="4114780858" Color="1" Value="Tsuyoshi Osada" />
+    <Entry Key="389476190" Color="1" Value="Level Design" />
+    <Entry Key="4274368809" Color="1" Value="Jordan Amaro" />
+    <Entry Key="4256793475" Color="1" Value="Lead Planners" />
+    <Entry Key="3241860406" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="199866378" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3991618639" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3544071475" Color="1" Value="Lead Scripter" />
+    <Entry Key="3096135894" Color="1" Value="Atsuki Imada " />
+    <Entry Key="2251232390" Color="1" Value="Lead Programmer" />
+    <Entry Key="3432587513" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="256742839" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="3154169008" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="2731683685" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="2965430944" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="1462960408" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3603887085" Color="1" Value="Masao Awaji" />
+    <Entry Key="1395391342" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2290301273" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="3959071166" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="2139027171" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="1307249156" Color="1" Value="Technical Directors" />
+    <Entry Key="1790881679" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="590488215" Color="1" Value="Technical Supervisor" />
+    <Entry Key="72825207" Color="1" Value="Julien Merceron" />
+    <Entry Key="122396446" Color="1" Value="CG Art Director" />
+    <Entry Key="3113586105" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="2496137271" Color="1" Value="Lead Character Artist" />
+    <Entry Key="2211521127" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="3970008502" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="4131431003" Color="1" Value="Keiichi Matate" />
+    <Entry Key="1134879347" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="408288441" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="3216702961" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="1758626060" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="1943099197" Color="1" Value="Lead UI Artist" />
+    <Entry Key="1577364697" Color="1" Value="Akira Kanke" />
+    <Entry Key="3002620728" Color="1" Value="Lead Animator" />
+    <Entry Key="2717301657" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="3309902519" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="1879284428" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="3355735501" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="190321059" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2772839852" Color="1" Value="Sound Director" />
+    <Entry Key="3626557824" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="3033498461" Color="1" Value="Lead Composer" />
+    <Entry Key="408044896" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2937381906" Color="1" Value="Composer" />
+    <Entry Key="3734762427" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1072878338" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="3165592100" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="3219415299" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="1138761602" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="3150380330" Color="1" Value="Art Director" />
+    <Entry Key="2180446727" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="2263093681" Color="1" Value="Creative Producers" />
+    <Entry Key="853058838" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="4011874953" Color="1" Value="Producers" />
+    <Entry Key="1535901855" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="2107801995" Color="1" Value="Created and Directed by" />
+    <Entry Key="1558343608" Color="1" Value="Hideo Kojima" />
+    <Entry Key="538645209" Color="1" Value="STARRING" />
+    <Entry Key="137540736" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The CIA Agent&#xA;The XOF Agent&#xA; &#xA;The Soviet Guards Airborne Regiment" />
+    <Entry Key="1349460143" Color="1" Value="Written by" />
+    <Entry Key="1053295676" Color="1" Value="Etsu Tamari" />
+    <Entry Key="1559244908" Color="1" Value="Direction/Tuning" />
+    <Entry Key="2895049310" Color="1" Value="Hiroaki Yoshiike" />
+    <Entry Key="755445970" Color="1" Value="Level Design" />
+    <Entry Key="1987661438" Color="1" Value="Tadanobu Kishi" />
+    <Entry Key="3627598344" Color="1" Value="Lead Planners" />
+    <Entry Key="3902217887" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1098616077" Color="1" Value="Lead Level Designers" />
+    <Entry Key="3250600884" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3087573490" Color="1" Value="Lead Scripter" />
+    <Entry Key="2017607820" Color="1" Value="Atsuki Imada " />
+    <Entry Key="2827216034" Color="1" Value="Lead Programmer" />
+    <Entry Key="3569313617" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="60917118" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="526355439" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="4211332203" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="2309646402" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="1039747711" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="190460003" Color="1" Value="Masao Awaji" />
+    <Entry Key="13072306" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="4062889038" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="754260355" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="1698133735" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="3840916716" Color="1" Value="Technical Directors" />
+    <Entry Key="1462997475" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="2113165589" Color="1" Value="Technical Supervisor" />
+    <Entry Key="101019340" Color="1" Value="Julien Merceron" />
+    <Entry Key="1764499664" Color="1" Value="CG Art Director" />
+    <Entry Key="243987478" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="2066448427" Color="1" Value="Lead Character Artist" />
+    <Entry Key="2658917626" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="799074284" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="599906592" Color="1" Value="Keiichi Matate" />
+    <Entry Key="35425467" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="277978331" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2965999680" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="2968919794" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="3566432125" Color="1" Value="Lead UI Artist" />
+    <Entry Key="716805312" Color="1" Value="Akira Kanke" />
+    <Entry Key="2185351401" Color="1" Value="Lead Animator" />
+    <Entry Key="2311084271" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="635394959" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="2698018758" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="4169508043" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="2564776580" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="1151294292" Color="1" Value="Sound Director" />
+    <Entry Key="1807505920" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="4181714892" Color="1" Value="Lead Composer" />
+    <Entry Key="3108469" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="724033441" Color="1" Value="Composer" />
+    <Entry Key="1599795432" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2177279332" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="3202589723" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="3403352159" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="354313874" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="688623090" Color="1" Value="Art Director" />
+    <Entry Key="2590404652" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="403110995" Color="1" Value="Creative Producers" />
+    <Entry Key="1737341878" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2845713866" Color="1" Value="Producers" />
+    <Entry Key="3368742875" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="3541428113" Color="1" Value="Created and Directed by" />
+    <Entry Key="2703640548" Color="1" Value="Hideo Kojima" />
+    <Entry Key="1165729413" Color="1" Value="STARRING" />
+    <Entry Key="811347256" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Sniper &quot;Quiet&quot;" />
+    <Entry Key="3110364612" Color="1" Value="Written by" />
+    <Entry Key="785054800" Color="1" Value="Hideo Kojima&#xA;Shuyo Murata" />
+    <Entry Key="3330710633" Color="1" Value="Direction/Tuning" />
+    <Entry Key="2893405854" Color="1" Value="Yota Tsutsumizaki" />
+    <Entry Key="2030908203" Color="1" Value="Level Design" />
+    <Entry Key="1022952145" Color="1" Value="Yuji Kaine" />
+    <Entry Key="1394942625" Color="1" Value="Lead Planners" />
+    <Entry Key="4266960128" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1524547410" Color="1" Value="Lead Level Designers" />
+    <Entry Key="414284935" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2478920818" Color="1" Value="Lead Scripter" />
+    <Entry Key="3642766047" Color="1" Value="Atsuki Imada " />
+    <Entry Key="61809813" Color="1" Value="Lead Programmer" />
+    <Entry Key="331576840" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="3144531168" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="4221528956" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="2979827248" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="4148246171" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="497410072" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="1714028459" Color="1" Value="Masao Awaji" />
+    <Entry Key="2990363691" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2914806200" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="394600853" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="1960197471" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="2198117920" Color="1" Value="Technical Directors" />
+    <Entry Key="168788043" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="2788551877" Color="1" Value="Technical Supervisor" />
+    <Entry Key="655907722" Color="1" Value="Julien Merceron" />
+    <Entry Key="1565127551" Color="1" Value="CG Art Director" />
+    <Entry Key="2057584437" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="4188662831" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1652509435" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1818624061" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="461951146" Color="1" Value="Keiichi Matate" />
+    <Entry Key="3888206855" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="2169402085" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2706986089" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="3124724201" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="3240714187" Color="1" Value="Lead UI Artist" />
+    <Entry Key="548580725" Color="1" Value="Akira Kanke" />
+    <Entry Key="1483801253" Color="1" Value="Lead Animator" />
+    <Entry Key="4294130440" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="829893555" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="1185597171" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="2765368920" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="4189219497" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="4096076838" Color="1" Value="Sound Director" />
+    <Entry Key="674367139" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="1936440833" Color="1" Value="Lead Composer" />
+    <Entry Key="863237845" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2517757454" Color="1" Value="Composer" />
+    <Entry Key="860726919" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1797305885" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="2032839361" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="932574338" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="354026367" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="3280977665" Color="1" Value="Art Director" />
+    <Entry Key="1887779360" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="2729756941" Color="1" Value="Creative Producers" />
+    <Entry Key="791394243" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2297589788" Color="1" Value="Producers" />
+    <Entry Key="3539080383" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="3039226725" Color="1" Value="Created and Directed by" />
+    <Entry Key="3328757341" Color="1" Value="Hideo Kojima" />
+    <Entry Key="3219037978" Color="1" Value="STARRING" />
+    <Entry Key="3595458865" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Malak&#xA;Lamar Khaate Palace Prisoner Escort&#xA; &#xA;The Soviet Guards Airborne Regiment" />
+    <Entry Key="3659206162" Color="1" Value="Written by" />
+    <Entry Key="659153159" Color="1" Value="Shuyo Murata" />
+    <Entry Key="1361163782" Color="1" Value="Direction/Tuning" />
+    <Entry Key="1748856380" Color="1" Value="Yota Tsutsumizaki" />
+    <Entry Key="2299420634" Color="1" Value="Level Design" />
+    <Entry Key="2299411727" Color="1" Value="Yuji Kaine" />
+    <Entry Key="2880233620" Color="1" Value="Lead Planners" />
+    <Entry Key="227285760" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="4210802647" Color="1" Value="Lead Level Designers" />
+    <Entry Key="258198502" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1629875368" Color="1" Value="Lead Scripter" />
+    <Entry Key="3038531141" Color="1" Value="Atsuki Imada " />
+    <Entry Key="3201104959" Color="1" Value="Lead Programmer" />
+    <Entry Key="42148937" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="3561499331" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="4198737989" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="2097629745" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="1254134150" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3948835074" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="4177426101" Color="1" Value="Masao Awaji" />
+    <Entry Key="4240388651" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="1435817348" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="1035595554" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="1258967149" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="222720586" Color="1" Value="Technical Directors" />
+    <Entry Key="3376756988" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="1204344358" Color="1" Value="Technical Supervisor" />
+    <Entry Key="1015907461" Color="1" Value="Julien Merceron" />
+    <Entry Key="1461452143" Color="1" Value="CG Art Director" />
+    <Entry Key="4245764052" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="4120705332" Color="1" Value="Lead Character Artist" />
+    <Entry Key="2751393112" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="3088745856" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="2289351232" Color="1" Value="Keiichi Matate" />
+    <Entry Key="2618204488" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="2686911509" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2900023759" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="4166522052" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="2203295298" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3346831846" Color="1" Value="Akira Kanke" />
+    <Entry Key="2599359989" Color="1" Value="Lead Animator" />
+    <Entry Key="1495532998" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="3523302013" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="3329314836" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="3154552695" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="1298789174" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="3133419754" Color="1" Value="Sound Director" />
+    <Entry Key="3328861197" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="543560929" Color="1" Value="Lead Composer" />
+    <Entry Key="2785209036" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="149386245" Color="1" Value="Composer" />
+    <Entry Key="587181780" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1012602405" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="1774396668" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="2531888437" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="194766431" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="2086318907" Color="1" Value="Art Director" />
+    <Entry Key="1030925153" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="1554681499" Color="1" Value="Creative Producers" />
+    <Entry Key="1038975386" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2148791569" Color="1" Value="Producers" />
+    <Entry Key="537475165" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="2295980560" Color="1" Value="Created and Directed by" />
+    <Entry Key="3398187462" Color="1" Value="Hideo Kojima" />
+    <Entry Key="4029528659" Color="1" Value="STARRING" />
+    <Entry Key="2219386711" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The Soviet Guards Airborne Regiment" />
+    <Entry Key="2393228676" Color="1" Value="Written by" />
+    <Entry Key="2422360064" Color="1" Value="Shuyo Murata&#xA;Satoshi Hirano" />
+    <Entry Key="134115780" Color="1" Value="Direction/Tuning" />
+    <Entry Key="719635585" Color="1" Value="Yuji Korekado" />
+    <Entry Key="2034915910" Color="1" Value="Level Design" />
+    <Entry Key="3505926567" Color="1" Value="Arata Matsushita" />
+    <Entry Key="2598524063" Color="1" Value="Lead Planners" />
+    <Entry Key="3445348155" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1232064044" Color="1" Value="Lead Level Designers" />
+    <Entry Key="1578642263" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="4190431547" Color="1" Value="Lead Scripter" />
+    <Entry Key="4001846839" Color="1" Value="Atsuki Imada " />
+    <Entry Key="2517013765" Color="1" Value="Lead Programmer" />
+    <Entry Key="4230098056" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="165168304" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="3697445178" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="3906190417" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="802238134" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3367164625" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="748291657" Color="1" Value="Masao Awaji" />
+    <Entry Key="1537231493" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="331975078" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="706091999" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="2168851839" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="3658561032" Color="1" Value="Technical Directors" />
+    <Entry Key="1824459563" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="2809668387" Color="1" Value="Technical Supervisor" />
+    <Entry Key="1485748988" Color="1" Value="Julien Merceron" />
+    <Entry Key="2905039229" Color="1" Value="CG Art Director" />
+    <Entry Key="3712518995" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="2121100618" Color="1" Value="Lead Character Artist" />
+    <Entry Key="3828934139" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1079468444" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="1159068527" Color="1" Value="Keiichi Matate" />
+    <Entry Key="2835819756" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="3867097997" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="3467604935" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="887450698" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="2053097865" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3661830370" Color="1" Value="Akira Kanke" />
+    <Entry Key="2927303282" Color="1" Value="Lead Animator" />
+    <Entry Key="59327164" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="432471302" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="316892641" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="2977862405" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="4124235838" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2531765407" Color="1" Value="Sound Director" />
+    <Entry Key="1052210823" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="479038113" Color="1" Value="Lead Composer" />
+    <Entry Key="1372745023" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3773324995" Color="1" Value="Composer" />
+    <Entry Key="68441426" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="246090549" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="1523047062" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="619240650" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2372149192" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="3882384414" Color="1" Value="Art Director" />
+    <Entry Key="2736728747" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="2285446094" Color="1" Value="Creative Producers" />
+    <Entry Key="3513768369" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2020858601" Color="1" Value="Producers" />
+    <Entry Key="3474343298" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="131486291" Color="1" Value="Created and Directed by" />
+    <Entry Key="2925580977" Color="1" Value="Hideo Kojima" />
+    <Entry Key="2850293578" Color="1" Value="STARRING" />
+    <Entry Key="444468326" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Dr. &quot;Huey&quot; Emmerich&#xA;Skull Face&#xA;Tretij Rebenok&#xA; &#xA;The Soviet Guards Airborne Regiment" />
+    <Entry Key="2798859571" Color="1" Value="Written by" />
+    <Entry Key="3908081218" Color="1" Value="Hideo Kojima&#xA;Shuyo Murata" />
+    <Entry Key="2642845187" Color="1" Value="Direction/Tuning" />
+    <Entry Key="128508737" Color="1" Value="Yoshikazu Matsuhana" />
+    <Entry Key="439226656" Color="1" Value="Level Design" />
+    <Entry Key="3862274394" Color="1" Value="Yu Sahara" />
+    <Entry Key="1732862688" Color="1" Value="Lead Planners" />
+    <Entry Key="4106949792" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="178610300" Color="1" Value="Lead Level Designers" />
+    <Entry Key="1725232599" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="3336631731" Color="1" Value="Lead Scripter" />
+    <Entry Key="772204213" Color="1" Value="Atsuki Imada " />
+    <Entry Key="1004717845" Color="1" Value="Lead Programmer" />
+    <Entry Key="2500950823" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="4195175494" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="3309562852" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="4073200630" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="1368837279" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="4086048985" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3510953875" Color="1" Value="Masao Awaji" />
+    <Entry Key="1001207465" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="358518609" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="1071122446" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="2393341441" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="2735076701" Color="1" Value="Technical Directors" />
+    <Entry Key="2260882037" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="2997859674" Color="1" Value="Technical Supervisor" />
+    <Entry Key="3078755223" Color="1" Value="Julien Merceron" />
+    <Entry Key="3684530699" Color="1" Value="CG Art Director" />
+    <Entry Key="258763007" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="1200366053" Color="1" Value="Lead Character Artist" />
+    <Entry Key="1262034425" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1931885871" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="2479305951" Color="1" Value="Keiichi Matate" />
+    <Entry Key="754287261" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="2726728826" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="3536297443" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="4150332312" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="376045760" Color="1" Value="Lead UI Artist" />
+    <Entry Key="3613927680" Color="1" Value="Akira Kanke" />
+    <Entry Key="3769339713" Color="1" Value="Lead Animator" />
+    <Entry Key="2016209952" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="1341437161" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="1977073847" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="2008535120" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="1263853168" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="1297759678" Color="1" Value="Sound Director" />
+    <Entry Key="1716198996" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="501537347" Color="1" Value="Lead Composer" />
+    <Entry Key="1860967235" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3222156041" Color="1" Value="Composer" />
+    <Entry Key="2564641931" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="3803741624" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="3864927464" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="3747108391" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="859445112" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="1966516234" Color="1" Value="Art Director" />
+    <Entry Key="3385803726" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="949815371" Color="1" Value="Creative Producers" />
+    <Entry Key="2330329064" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2470440520" Color="1" Value="Producers" />
+    <Entry Key="2607901463" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="3503515367" Color="1" Value="Created and Directed by" />
+    <Entry Key="3146574445" Color="1" Value="Hideo Kojima" />
+    <Entry Key="4096792996" Color="1" Value="STARRING" />
+    <Entry Key="2980533527" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The Contract Forces of Africa" />
+    <Entry Key="991161155" Color="1" Value="Written by" />
+    <Entry Key="1308358482" Color="1" Value="Hideo Kojima&#xA;Hidenari Inamura" />
+    <Entry Key="1273635988" Color="1" Value="Direction/Tuning" />
+    <Entry Key="3662560325" Color="1" Value="Yoshikazu Matsuhana" />
+    <Entry Key="2964629134" Color="1" Value="Level Design" />
+    <Entry Key="4007960619" Color="1" Value="Satoshi Matsuno" />
+    <Entry Key="2587834856" Color="1" Value="Lead Planners" />
+    <Entry Key="1941369962" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="6275058" Color="1" Value="Lead Level Designers" />
+    <Entry Key="4041115425" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2304267856" Color="1" Value="Lead Scripter" />
+    <Entry Key="4006694259" Color="1" Value="Atsuki Imada " />
+    <Entry Key="3974002590" Color="1" Value="Lead Programmer" />
+    <Entry Key="1205669727" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="2527527154" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="915266474" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="1601916575" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="2447133618" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="667374498" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3465377817" Color="1" Value="Masao Awaji" />
+    <Entry Key="822811856" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="2186631719" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2806859091" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="583731721" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="1915460581" Color="1" Value="Technical Directors" />
+    <Entry Key="1759723793" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="1363967417" Color="1" Value="Technical Supervisor" />
+    <Entry Key="2758844042" Color="1" Value="Julien Merceron" />
+    <Entry Key="1676019911" Color="1" Value="CG Art Director" />
+    <Entry Key="4182725591" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="3992060257" Color="1" Value="Lead Character Artist" />
+    <Entry Key="3735684574" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="3835647870" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="1068891680" Color="1" Value="Keiichi Matate" />
+    <Entry Key="870470915" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="2627167609" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="1078485328" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="3639846285" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="1173265480" Color="1" Value="Lead UI Artist" />
+    <Entry Key="1944473200" Color="1" Value="Akira Kanke" />
+    <Entry Key="40950529" Color="1" Value="Lead Animator" />
+    <Entry Key="718452843" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="1102147860" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="4049871727" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="3994144878" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="2181541642" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="1886767153" Color="1" Value="Sound Director" />
+    <Entry Key="3772403844" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="3895640492" Color="1" Value="Lead Composer" />
+    <Entry Key="3203821617" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1439035070" Color="1" Value="Composer" />
+    <Entry Key="4262663224" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2876394642" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="2621160614" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="2743938600" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="1006335957" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="2299335042" Color="1" Value="Art Director" />
+    <Entry Key="2017892224" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="261641550" Color="1" Value="Creative Producers" />
+    <Entry Key="1012979271" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2559483262" Color="1" Value="Producers" />
+    <Entry Key="3694736207" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="3307419495" Color="1" Value="Created and Directed by" />
+    <Entry Key="3498831530" Color="1" Value="Hideo Kojima" />
+    <Entry Key="1784347554" Color="1" Value="STARRING" />
+    <Entry Key="3666290778" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The Intel Team Member&#xA; &#xA;Rogue Coyote" />
+    <Entry Key="1231165448" Color="1" Value="Written by" />
+    <Entry Key="1124209487" Color="1" Value="Shuyo Murata" />
+    <Entry Key="866705543" Color="1" Value="Direction/Tuning" />
+    <Entry Key="3002470310" Color="1" Value="Yoshikazu Matsuhana" />
+    <Entry Key="2918627306" Color="1" Value="Level Design" />
+    <Entry Key="2243627165" Color="1" Value="Takashi Hanyu" />
+    <Entry Key="3547584727" Color="1" Value="Lead Planners" />
+    <Entry Key="2141981021" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="326395892" Color="1" Value="Lead Level Designers" />
+    <Entry Key="19980157" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="959548632" Color="1" Value="Lead Scripter" />
+    <Entry Key="2472952369" Color="1" Value="Atsuki Imada " />
+    <Entry Key="1268655061" Color="1" Value="Lead Programmer" />
+    <Entry Key="498854845" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="95800157" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="2020149806" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="3980834422" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="511042940" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="1758163196" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="2294905418" Color="1" Value="Masao Awaji" />
+    <Entry Key="167066057" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="1818104845" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="207965500" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="3794998097" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="2283440702" Color="1" Value="Technical Directors" />
+    <Entry Key="360279400" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="933846759" Color="1" Value="Technical Supervisor" />
+    <Entry Key="4240022155" Color="1" Value="Julien Merceron" />
+    <Entry Key="2123706829" Color="1" Value="CG Art Director" />
+    <Entry Key="3279578873" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="3749839572" Color="1" Value="Lead Character Artist" />
+    <Entry Key="3427046448" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="4001534307" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="841336764" Color="1" Value="Keiichi Matate" />
+    <Entry Key="249435093" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="556464406" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="620763971" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="3004493293" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="3194343961" Color="1" Value="Lead UI Artist" />
+    <Entry Key="495595545" Color="1" Value="Akira Kanke" />
+    <Entry Key="786594968" Color="1" Value="Lead Animator" />
+    <Entry Key="2512044645" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="3958607782" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="1904141232" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="900999252" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="3344779542" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="4104898435" Color="1" Value="Sound Director" />
+    <Entry Key="253230508" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="4162486417" Color="1" Value="Lead Composer" />
+    <Entry Key="2727012579" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2014909006" Color="1" Value="Composer" />
+    <Entry Key="40438568" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1752270660" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="4280552247" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="1126871483" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2146222968" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="2986430988" Color="1" Value="Art Director" />
+    <Entry Key="2528773350" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="4033939349" Color="1" Value="Creative Producers" />
+    <Entry Key="2694966862" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="1095990167" Color="1" Value="Producers" />
+    <Entry Key="1619695824" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="2008768895" Color="1" Value="Created and Directed by" />
+    <Entry Key="3369850495" Color="1" Value="Hideo Kojima" />
+    <Entry Key="3626778507" Color="1" Value="Espionage Score" />
+    <Entry Key="3613497127" Color="1" Value="Espionage Score to be added" />
+    <Entry Key="3127072649" Color="1" Value="VICTORY POINTS" />
+    <Entry Key="3108297829" Color="1" Value="INFILTRATION POINTS" />
+    <Entry Key="3464589957" Color="1" Value="EXTRACTION POINTS" />
+    <Entry Key="1980921650" Color="1" Value="COMBAT POINTS" />
+    <Entry Key="421982144" Color="1" Value="TOTAL" />
+    <Entry Key="321451119" Color="1" Value="Current Espionage Score" />
+    <Entry Key="387845503" Color="1" Value="Current Espionage Grade" />
+    <Entry Key="160144789" Color="1" Value="STARRING" />
+    <Entry Key="4131166635" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;The Contract Forces of Africa&#xA;Rogue Coyote" />
+    <Entry Key="2319566848" Color="1" Value=" " />
+    <Entry Key="3968689437" Color="1" Value="Hidenari Inamura" />
+    <Entry Key="4072890676" Color="1" Value="Tsuyoshi Osada" />
+    <Entry Key="1970137835" Color="1" Value="Tadanobu Kishi" />
+    <Entry Key="313034746" Color="1" Value="Written by" />
+    <Entry Key="2294559644" Color="1" Value="Dirction/Tuning" />
+    <Entry Key="2859196392" Color="1" Value="Level Design" />
+    <Entry Key="1531778894" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="865937744" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="882165105" Color="1" Value="Atsuki Imada " />
+    <Entry Key="1128569287" Color="1" Value="Lead Planners" />
+    <Entry Key="1845957908" Color="1" Value="Lead Level Designers" />
+    <Entry Key="2223166402" Color="1" Value="Lead Scripter" />
+    <Entry Key="935886261" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="2368869139" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="452286587" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="1141431473" Color="1" Value="Masao Awaji" />
+    <Entry Key="1122054938" Color="1" Value="Lead Programmer" />
+    <Entry Key="1442965262" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="3791055124" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="1626565593" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="3859064367" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="3334163897" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="3524077496" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="2166219683" Color="1" Value="Julien Merceron" />
+    <Entry Key="3349313484" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="757484700" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="1576338161" Color="1" Value="Technical Directors" />
+    <Entry Key="2881174548" Color="1" Value="Technical Supervisor" />
+    <Entry Key="1086189101" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="1195916071" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="1364733811" Color="1" Value="Keiichi Matate" />
+    <Entry Key="3055572560" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="1655365325" Color="1" Value="CG Art Director" />
+    <Entry Key="2564691806" Color="1" Value="Lead Character Artist" />
+    <Entry Key="669162497" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="1630997041" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="4063253965" Color="1" Value="Akira Kanke" />
+    <Entry Key="910336540" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="888150562" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="665155674" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="1767862353" Color="1" Value="Lead UI Artist" />
+    <Entry Key="102791059" Color="1" Value="Lead Animator" />
+    <Entry Key="1833812099" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="2978563597" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="2231996297" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="1277567033" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="255571199" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="2779090288" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="1992914923" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="1773240428" Color="1" Value="Sound Director" />
+    <Entry Key="978030741" Color="1" Value="Lead Composer" />
+    <Entry Key="902730162" Color="1" Value="Composer" />
+    <Entry Key="287422511" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="3953336005" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="2917057739" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="4288158098" Color="1" Value="Art Director" />
+    <Entry Key="4154010178" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="438753198" Color="1" Value="Creative Producers" />
+    <Entry Key="3969038397" Color="1" Value="Producers" />
+    <Entry Key="4250180226" Color="1" Value="Hideo Kojima" />
+    <Entry Key="3406184141" Color="1" Value="Created and Directed by" />
+    <Entry Key="3987989931" Color="1" Value="STARRING" />
+    <Entry Key="1762267718" Color="1" Value="Punished &quot;Venom&quot; Snake&#xA;Revolver &quot;Shalashaska&quot; Ocelot&#xA;Benedict &quot;Kazuhira&quot; Miller&#xA; &#xA;Dr. &quot;Huey&quot; Emmerich&#xA;Eli the &quot;White Mamba&quot;&#xA; &#xA;Skull Face&#xA;Tretij Rebenok&#xA; &#xA;Cipher's &quot;XOF&quot; Strike Force" />
+    <Entry Key="3211514237" Color="1" Value="Written by" />
+    <Entry Key="1082863677" Color="1" Value="Hideo Kojima&#xA;Shuyo Murata" />
+    <Entry Key="57999546" Color="1" Value="Direction/Tuning" />
+    <Entry Key="595748882" Color="1" Value="Yoshikazu Matsuhana" />
+    <Entry Key="16041839" Color="1" Value="Level Design" />
+    <Entry Key="3560174834" Color="1" Value="Takashi Hanyu" />
+    <Entry Key="3437042931" Color="1" Value="Lead Planners" />
+    <Entry Key="2928357223" Color="1" Value="Hiroaki Yoshiike&#xA;Ikuya Nakamura&#xA;Tsuyoshi Osada&#xA;Yota Tsutsumizaki" />
+    <Entry Key="2833708573" Color="1" Value="Lead Level Designers" />
+    <Entry Key="790502725" Color="1" Value="Tsuyoshi Osada&#xA;Hiroaki Yoshiike&#xA;Yota Tsutsumizaki" />
+    <Entry Key="1813053283" Color="1" Value="Lead Scripter" />
+    <Entry Key="592004836" Color="1" Value="Atsuki Imada " />
+    <Entry Key="358422232" Color="1" Value="Lead Programmer" />
+    <Entry Key="2894619549" Color="1" Value="Daizaburo Nakamura" />
+    <Entry Key="1048433695" Color="1" Value="Lead Game Programmers" />
+    <Entry Key="2036961657" Color="1" Value="Makoto Sonoyama&#xA;Shutaro Iida&#xA;Takehiro Nomura" />
+    <Entry Key="2053185984" Color="1" Value="Lead UI Programmer" />
+    <Entry Key="3950768345" Color="1" Value="Kazuki Yanashima " />
+    <Entry Key="3271327474" Color="1" Value="Lead FX Programmer" />
+    <Entry Key="2945920672" Color="1" Value="Masao Awaji" />
+    <Entry Key="2515968853" Color="1" Value="Lead Animation Programmer" />
+    <Entry Key="328071871" Color="1" Value="Yusuke Nishida" />
+    <Entry Key="1135991522" Color="1" Value="Lead Network Programmer" />
+    <Entry Key="597832511" Color="1" Value="Masayuki Kobayashi" />
+    <Entry Key="2643447937" Color="1" Value="Technical Directors" />
+    <Entry Key="908473596" Color="1" Value="Junji Tago&#xA;Akio Sakamoto&#xA;Kunio Takabe" />
+    <Entry Key="1499022619" Color="1" Value="Technical Supervisor" />
+    <Entry Key="146539347" Color="1" Value="Julien Merceron" />
+    <Entry Key="4266442121" Color="1" Value="CG Art Director" />
+    <Entry Key="2885042494" Color="1" Value="Hideki Sasaki" />
+    <Entry Key="3533949537" Color="1" Value="Lead Character Artist" />
+    <Entry Key="758547718" Color="1" Value="Takeya Inoguchi" />
+    <Entry Key="3268845653" Color="1" Value="Lead Weapon/Mechanical Artist" />
+    <Entry Key="3701672236" Color="1" Value="Keiichi Matate" />
+    <Entry Key="2699499684" Color="1" Value="Lead Environment Artist" />
+    <Entry Key="2963870470" Color="1" Value="Mineshi Kimura" />
+    <Entry Key="2546233270" Color="1" Value="Lead Effects Artist" />
+    <Entry Key="1883692421" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry Key="4262740803" Color="1" Value="Lead UI Artist" />
+    <Entry Key="368199324" Color="1" Value="Akira Kanke" />
+    <Entry Key="3125845672" Color="1" Value="Lead Animator" />
+    <Entry Key="2255472370" Color="1" Value="Masaaki Kawata" />
+    <Entry Key="986801310" Color="1" Value="Lead Cinematic Artist" />
+    <Entry Key="2755690975" Color="1" Value="Norifumi Hosoya" />
+    <Entry Key="856805149" Color="1" Value="Lead Lighting Artist" />
+    <Entry Key="189818315" Color="1" Value="Masayuki Suzuki" />
+    <Entry Key="2537889853" Color="1" Value="Sound Director" />
+    <Entry Key="870495959" Color="1" Value="Kazuki Muraoka" />
+    <Entry Key="3540586840" Color="1" Value="Lead Composer" />
+    <Entry Key="71003698" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="855248880" Color="1" Value="Composer" />
+    <Entry Key="313645721" Color="1" Value="Ludvig Forssell" />
+    <Entry Key="1543957897" Color="1" Value="Lead Sound Designer" />
+    <Entry Key="1627971891" Color="1" Value="Ryoji Makimura" />
+    <Entry Key="2727992529" Color="1" Value="Lead Sound Editor" />
+    <Entry Key="678356489" Color="1" Value="Akihiro Teruta" />
+    <Entry Key="4218358405" Color="1" Value="Art Director" />
+    <Entry Key="2374465595" Color="1" Value="Yoji Shinkawa" />
+    <Entry Key="2115019258" Color="1" Value="Creative Producers" />
+    <Entry Key="602502973" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="2953345127" Color="1" Value="Producers" />
+    <Entry Key="2781904485" Color="1" Value="Hideo Kojima&#xA;Kenichiro Imaizumi" />
+    <Entry Key="3184354543" Color="1" Value="Created and Directed by" />
+    <Entry Key="804697049" Color="1" Value="Hideo Kojima" />
+    <Entry Key="940033723" Color="1" Value=" " />
+    <Entry Key="2872984897" Color="1" Value="Yoshikazu Matsuhana&#xA;Yuji Korekado" />
+    <Entry Key="1398707390" Color="1" Value="VERSUS POINTS" />
+    <Entry Key="112341860" Color="1" Value="DEFENSE POINTS" />
+    <Entry Key="3434808189" Color="1" Value="Core Reached Bonus" />
+    <Entry Key="406862212" Color="1" Value="Mission Aborted" />
+    <Entry Key="2751589654" Color="1" Value="Death Deduction" />
+    <Entry Key="1761211102" Color="1" Value="Withdrawal Deduction" />
+    <Entry Key="127663506" Color="1" Value="Alert Evasion Bonus" />
+    <Entry Key="1240630686" Color="1" Value="No Alert Bonus" />
+    <Entry Key="3011904333" Color="1" Value="Daytime Infiltration" />
+    <Entry Key="2045967135" Color="1" Value="No Kill Bonus" />
+    <Entry Key="4151550013" Color="1" Value="No Reflex Bonus" />
+    <Entry Key="733138890" Color="1" Value="Platforms Breached Bonus" />
+    <Entry Key="2896510813" Color="1" Value="Containers Extracted Bonus" />
+    <Entry Key="1095161810" Color="1" Value="Weapon Emplacements Extracted Bonus" />
+    <Entry Key="2393039037" Color="1" Value="Security Guards Extracted Bonus" />
+    <Entry Key="541455608" Color="1" Value="Weapon Emplacements Destroyed Bonus" />
+    <Entry Key="3217743057" Color="1" Value="Security Devices Destroyed Bonus" />
+    <Entry Key="602888170" Color="1" Value="Security Guards Killed Bonus" />
+    <Entry Key="3358832392" Color="1" Value="Neutralized Deduction" />
+    <Entry Key="1450879310" Color="1" Value="Defender Kill Bonus" />
+    <Entry Key="3883251877" Color="1" Value="Defender Extraction Bonus" />
+    <Entry Key="398125510" Color="1" Value="Defender Evaded Bonus" />
+    <Entry Key="122236714" Color="1" Value="Core Defended Bonus" />
+    <Entry Key="2152628147" Color="1" Value="Containers Defended Bonus" />
+    <Entry Key="2803102358" Color="1" Value="Weapon Emplacements Defended Bonus" />
+    <Entry Key="1583492064" Color="1" Value="Security Guards Defended Bonus" />
+    <Entry Key="2164545983" Color="1" Value="Intruder Extracted" />
+    <Entry Key="2602954652" Color="1" Value="Intruder Killed" />
+    <Entry Key="3847238333" Color="1" Value="Intruder Neutralized Bonus" />
+    <Entry Key="1301348850" Color="1" Value="Extracted by Enemy Deduction" />
+    <Entry Key="1058037747" Color="1" Value="Death Deduction" />
+    <Entry Key="3342171162" Color="1" Value="Espionage Points Breakdown" />
+    <Entry Key="2142795177" Color="1" Value="Extracted by Enemy Deduction" />
+    <Entry Key="1196829797" Color="1" Value="Combat Alerts Deduction" />
+    <Entry Key="1164853182" Color="1" Value="Defender Fought Bonus" />
+    <Entry Key="1775158597" Color="1" Value="Weapon Emplacements Extracted Deduction" />
+    <Entry Key="2722774305" Color="1" Value="Weapon Emplacements Destroyed" />
+    <Entry Key="234188529" Color="1" Value="Security Guards Extracted Deduction" />
+    <Entry Key="423995371" Color="1" Value="Security Guards Killed Deduction" />
+    <Entry Key="2442775834" Color="1" Value="Night Defense" />
+    <Entry Key="3830812790" Color="1" Value="Nuclear Weapons Extracted Bonus" />
+    <Entry Key="3376107737" Color="1" Value="Hits Taken Deduction" />
+    <Entry Key="3573887361" Color="1" Value="Nuclear Weapons Extracted Deduction" />
+    <Entry Key="4253002368" Color="1" Value="Security Guard Tactical Takedown Bonus" />
+    <Entry Key="3526107956" Color="1" Value="Mines Recovered Bonus" />
+    <Entry Key="399980643" Color="1" Value="Security Guard Headshot Bonus" />
+    <Entry Key="8286082" Color="1" Value="Defending Player Headshot Bonus" />
+    <Entry Key="3209298674" Color="1" Value="Defending Player Tactical Takedown Bonus" />
+    <Entry Key="1054401128" Color="1" Value="Invading Player Tactical Takedown Bonus" />
+    <Entry Key="1241479760" Color="1" Value="Invading Player Headshot Bonus" />
+    <Entry Key="539921507" Color="1" Value="Rookie Points" />
+    <Entry LangId="result_spcialitem_etc" Color="1" Value="Other Rank-Restricting Factors" />
+    <Entry Key="2099023049" Color="1" Value="Equipment Bonus: Naked" />
+    <Entry Key="3952203709" Color="1" Value="Equipment Bonus: No Primary Weapon (BACK)" />
+    <Entry Key="197230003" Color="1" Value="Special Bonus" />
+    <Entry LangId="result_fob_event" Color="1" Value="FOB EVENT" />
+    <Entry Key="2774285023" Color="1" Value="Event Points Earned from Play" />
+    <Entry Key="3544051947" Color="1" Value="Mission Task List" />
+    <Entry Key="2319381052" Color="1" Value="Simultaneous Achievement Bonus" />
+    <Entry Key="2651803402" Color="1" Value="Total Points Earned" />
+    <Entry Key="403417416" Color="1" Value="Current Event Points" />
+    <Entry Key="1419912493" Color="1" Value="Mission Task Bonus" />
+    <Entry Key="2035184297" Color="1" Value="MISSION CLEAR REWARD + PLATFORMS BREACHED BONUS" />
+    <Entry Key="3399574919" Color="1" Value="Security Device Extraction Bonus" />
+  </Entries>
+</LangFile>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry Key="3481313473" Color="1" Value="As you are not connected to &quot;PlayStation Network&quot;, you will not be able to join or create online matches. Customized characters and loadouts will not be saved. Game will begin in offline mode." />
+    <Entry Key="1356257540" Color="1" Value="As you are not connected to Xbox Live, you will not be able to join or create online matches. Customized characters and loadouts will not be saved. Game will begin in offline mode." />
+    <Entry Key="4227457347" Color="1" Value="You have signed in as another user.&#xA;Returning to Title Menu." />
+    <Entry Key="1001483513" Color="1" Value="You cannot join that room." />
+    <Entry Key="1948022945" Color="1" Value="The match you are trying to join is already full." />
+    <Entry Key="853181498" Color="1" Value="Error encountered while connecting to the host. Returning to the Title Menu." />
+    <Entry Key="354573402" Color="1" Value="This mode cannot be selected as your profile is not multiplayer enabled. To enable, you must:&#xA;- Subscribe to Xbox Live Gold Membership&#xA;- Disable your Family Settings" />
+    <Entry Key="510881670" Color="1" Value="This mode cannot be selected you do not have multiplayer enabled. To enable, you must:&#xA;- Subscribe to PlayStation®Plus membership&#xA;- Disable your Family Settings" />
+    <Entry Key="3117697119" Color="1" Value="Online functions are disabled on your Sony Entertainment Network account due to parental control restrictions." />
+    <Entry Key="3831066160" Color="1" Value="You must have a PlayStation®Plus subscription to access online features." />
+    <Entry Key="2988938039" Color="1" Value="The host has disconnected. You will return to Freeplay." />
+    <Entry Key="191196945" Color="1" Value="This mode cannot be selected as you are not signed into a multiplayer enabled profile. To enable, you must:&#xA;- Subscribe to Xbox Live Gold Membership&#xA;- Disable your Family Settings&#xA;- Ensure there is network connection" />
+    <Entry Key="3688920248" Color="1" Value="The host has abandoned the match. You will return to Freeplay." />
+    <Entry Key="3656511946" Color="1" Value="You have abandoned the match. You will return to Freeplay." />
+    <Entry Key="3700378451" Color="1" Value="You have suspended the game. Returning to Freeplay." />
+    <Entry Key="3433110625" Color="1" Value="Failed to establish connection with server. &#xA;Please try again later.&#xA;&#xA;%s" />
+    <Entry Key="1917315520" Color="1" Value="Online Information" />
+    <Entry Key="3918527788" Color="1" Value="There are no new notifications.&#xA;In the meantime, please enjoy METAL GEAR ONLINE." />
+    <Entry Key="596978927" Color="1" Value="View latest events and maintenance info." />
+    <Entry Key="3735282321" Color="1" Value="ONLINE INFORMATION" />
+    <Entry Key="3153192352" Color="1" Value="Downloadable content has been deleted.&#xA;XP boost has been removed." />
+    <Entry Key="3774677355" Color="1" Value="Downloadable content has been deleted.&#xA;[%s] is no longer available in your GEAR." />
+    <Entry Key="3817769459" Color="1" Value="Downloadable content has been deleted.&#xA;[%s] is no longer available in your LOADOUT." />
+    <Entry Key="1540565873" Color="1" Value="Downloadable content has been added.&#xA;XP boost is now applied." />
+    <Entry Key="3514717048" Color="1" Value="Downloadable content has been added.&#xA;[%s] is now available in your GEAR." />
+    <Entry Key="2449105414" Color="1" Value="Downloadable content has been added.&#xA;[%s] is now available in your LOADOUT.&#xA;* In order to access your LOADOUT, your playable character must be Lv.4 or higher.&#xA;" />
+    <Entry Key="1409197539" Color="1" Value="Accepting invitation has failed.&#xA;Please close the iDroid to accept invitations.&#xA;" />
+    <Entry Key="448155205" Color="1" Value="Invitation cannot be accepted while iDroid is open.&#xA;Please close the iDroid to accept the invitation." />
+    <Entry Key="2718948552" Color="1" Value="A network error has occurred while using Party feature. Some Party functionality may not work." />
+    <Entry Key="2682230759" Color="1" Value="A network error has occurred while using MGO Party features. Some MGO Party functionality may not work." />
+    <Entry Key="3206095473" Color="1" Value="Downloadable content has been deleted.&#xA;XP boost has been removed." />
+    <Entry Key="1350617644" Color="1" Value="Downloadable content has been deleted.&#xA;XP boost has been removed." />
+    <Entry Key="284369237" Color="1" Value="Downloadable content has been deleted.&#xA;XP boost has been removed." />
+    <Entry Key="2587489972" Color="1" Value="Downloadable content has been deleted.&#xA;[%s] is no longer available in your GEAR." />
+    <Entry Key="851338747" Color="1" Value="Downloadable content has been deleted.&#xA;[%s] is no longer available in your GEAR." />
+    <Entry Key="1253618367" Color="1" Value="Downloadable content has been deleted.&#xA;[%s] is no longer available in your GEAR." />
+    <Entry Key="3222899488" Color="1" Value="Downloadable content has been deleted.&#xA;[%s] is no longer available in your LOADOUT." />
+    <Entry Key="3914361407" Color="1" Value="Downloadable content has been deleted.&#xA;[%s] is no longer available in your LOADOUT." />
+    <Entry Key="3572291527" Color="1" Value="Downloadable content has been deleted.&#xA;[%s] is no longer available in your LOADOUT." />
+    <Entry Key="1926342577" Color="1" Value="Downloadable content has been added.&#xA;XP boost is now applied." />
+    <Entry Key="1382144394" Color="1" Value="Downloadable content has been added.&#xA;XP boost is now applied." />
+    <Entry Key="4227784648" Color="1" Value="Downloadable content has been added.&#xA;XP boost is now applied." />
+    <Entry Key="2588155805" Color="1" Value="Downloadable content has been added.&#xA;[%s] is now available in your GEAR." />
+    <Entry Key="2820911657" Color="1" Value="Downloadable content has been added.&#xA;[%s] is now available in your GEAR." />
+    <Entry Key="2638089262" Color="1" Value="Downloadable content has been added.&#xA;[%s] is now available in your GEAR." />
+    <Entry Key="4189652437" Color="1" Value="Downloadable content has been added.&#xA;[%s] is now available in your LOADOUT.&#xA;* In order to access your LOADOUT, your playable character must be Lv.4 or higher.&#xA;" />
+    <Entry Key="2431484333" Color="1" Value="Downloadable content has been added.&#xA;[%s] is now available in your LOADOUT.&#xA;* In order to access your LOADOUT, your playable character must be Lv.4 or higher.&#xA;" />
+    <Entry Key="3431985188" Color="1" Value="Downloadable content has been added.&#xA;[%s] is now available in your LOADOUT.&#xA;* In order to access your LOADOUT, your playable character must be Lv.4 or higher.&#xA;" />
+    <Entry Key="1712798654" Color="1" Value="Since you are not signed in, the game cannot be saved. If you continue without signing in, you will return to the title menu of MGSV:TPP." />
+    <Entry Key="2452856047" Color="1" Value="You are already in this match." />
+    <Entry Key="3314501735" Color="1" Value="An error occurred while using the party feature.&#xA;You may already exist in a party with another account on this device." />
+    <Entry Key="686567208" Color="1" Value="You cannot send an invitation at the moment." />
+    <Entry Key="47953290" Color="1" Value="You are about to kick the selected player.&#xA;Are you sure?" />
+    <Entry Key="60266860" Color="1" Value="This match is full. You will not be able to join." />
+    <Entry Key="318620784" Color="1" Value="The match is no longer available." />
+    <Entry Key="3646887077" Color="1" Value="You have been kicked out. You will not be able to join the match." />
+    <Entry Key="1279033064" Color="1" Value="The host has disconnected. You will return to Freeplay." />
+    <Entry Key="824736344" Color="1" Value="You have suspended the game. Returning to Freeplay." />
+    <Entry Key="4161594732" Color="1" Value="Invitation cannot be accepted while iDroid is open.&#xA;Please close the iDroid to accept the invitation." />
+    <Entry Key="3009377595" Color="1" Value="This mode cannot be selected as your profile is not multiplayer enabled. To enable, you must:&#xA;- Subscribe to Xbox Live Gold Membership&#xA;- Disable your Family Settings" />
+    <Entry Key="4037592401" Color="1" Value="You must update the game in order to use online features." />
+    <Entry Key="3241529452" Color="1" Value="METAL GEAR ONLINE invite accepted.&#xA;Joining match." />
+    <Entry Key="3387841143" Color="1" Value="Sign-in status has changed.&#xA;You will return to the title menu of MGSV:TPP." />
+    <Entry Key="2853872047" Color="1" Value="You have signed out.&#xA;You will return to the title menu of MGSV:TPP." />
+    <Entry Key="3817004164" Color="1" Value="Accepting invitation has failed." />
+    <Entry Key="2354773082" Color="1" Value="As you are not connected to the internet, you will not be able to use online features such as uploading rankings or records to the server. Game will begin in offline mode." />
+    <Entry Key="2485215210" Color="1" Value="You have been banned from multiplayer. You will not be able to use online features. Game will begin in offline mode." />
+    <Entry Key="915975584" Color="1" Value="Failed to log in to server.&#xA;You will not be able to use online features." />
+    <Entry Key="3015312146" Color="1" Value="The server is undergoing maintenance. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode.&#xA;&#xA;For maintenance information, visit the official game website." />
+    <Entry Key="3878023971" Color="1" Value="Online services have concluded. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode. &#xA;&#xA;For further information, visit the official game website." />
+    <Entry Key="509349163" Color="1" Value="Failed to establish connection with server. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode." />
+    <Entry Key="1651180288" Color="1" Value="Failed to establish connection with server due to high traffic. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode." />
+    <Entry Key="4069849740" Color="1" Value="A network error has occurred.&#xA;You will not be able to use online features." />
+    <Entry Key="1853015338" Color="1" Value="Your Sony Entertainment Network account has parental control enabled. You will not be able to use online features. Game will begin in offline mode." />
+    <Entry Key="3505167083" Color="1" Value="Your Sony Entertainment Network account has parental control enabled. You will not be able to use online features. Game will begin in offline mode." />
+    <Entry Key="3037164668" Color="1" Value="As you are not connected to &quot;PlayStation Network&quot;, you will not be able to use&#xA;online features such as uploading rankings or records to the server.&#xA;Game will begin in offline mode." />
+    <Entry Key="4291279294" Color="1" Value="As you are not connected to &quot;PlayStation Network&quot;, you will not be able to use&#xA;online features such as uploading rankings or records to the server.&#xA;Game will begin in offline mode." />
+    <Entry Key="1361863868" Color="1" Value="You are unable to use this feature since you have been banned from multiplayer." />
+    <Entry Key="3617748661" Color="1" Value="As you are not connected to Xbox Live, you will not be able to use online features such as uploading rankings or records. Game will begin in offline mode." />
+    <Entry Key="2810740196" Color="1" Value="You have been banned from multiplayer. You will not be able to use online features. Game will begin in offline mode." />
+    <Entry Key="1037164305" Color="1" Value="As you are not connected to Xbox Live, you will not be able to use online features such as uploading rankings or records. Game will begin in offline mode." />
+    <Entry Key="3311204435" Color="1" Value="Failed to log in to server.&#xA;You will not be able to use online features." />
+    <Entry Key="3026013251" Color="1" Value="Failed to establish connection with server. You will not be able to use online features such as uploading rankings or records. Game will begin in offline mode." />
+    <Entry Key="2602722871" Color="1" Value="Unable to locate the selected storage device.&#xA;&#xA;Starting METAL GEAR SOLID V: THE PHANTOM PAIN." />
+    <Entry Key="3771414308" Color="1" Value="Invitation cannot be accepted when a menu is opened. Please close the current menu to accept the invitation." />
+    <Entry Key="3453562380" Color="1" Value="You have been assigned as the new host." />
+    <Entry Key="1090171373" Color="1" Value="The host has quit and the mission will need to be restarted. &#xA;The mission will begin once a new host has been selected." />
+    <Entry Key="2448663953" Color="1" Value="Downloadable content has been added.&#xA;%s has been added to APPEAL ACTION." />
+    <Entry Key="3739310330" Color="1" Value="Downloadable content has been deleted.&#xA;%s has been removed from APPEAL ACTION." />
+    <Entry Key="2266364770" Color="1" Value="You have %s remaining. &#xA;Would you like to extend %d hours by spending MB Coins?&#xA;&#xA;Remaining boost: %s" />
+    <Entry Key="3336194264" Color="1" Value="Spend MB Coins to purchase %s for %d hours?" />
+    <Entry Key="3932308129" Color="1" Value="%d days, %d hour" />
+    <Entry Key="3094433036" Color="1" Value="%d hr" />
+    <Entry Key="145301907" Color="1" Value="SURVIVAL mode has ended. You will return to FREEPLAY." />
+    <Entry Key="3691017237" Color="1" Value="No opponents were found." />
+    <Entry Key="2358155085" Color="1" Value="GP Boost" />
+    <Entry Key="4064743067" Color="1" Value="You cannot extend the boost period any further." />
+    <Entry Key="1283626930" Color="1" Value="GP Boost:" />
+    <Entry Key="838165552" Color="1" Value="Party feature is not available in SURVIVAL mode." />
+    <Entry Key="850950862" Color="1" Value="Invitation feature is not available in SURVIVAL mode." />
+    <Entry Key="2804920567" Color="1" Value="Downloadable content has been added.&#xA;%s has been added to APPEAL ACTION." />
+    <Entry Key="1838749777" Color="1" Value="Downloadable content has been added.&#xA;%s has been added to APPEAL ACTION." />
+    <Entry Key="951028988" Color="1" Value="Downloadable content has been added.&#xA;%s has been added to APPEAL ACTION." />
+    <Entry Key="962224090" Color="1" Value="Downloadable content has been added.&#xA;%s has been added to APPEAL ACTION." />
+    <Entry Key="4048242978" Color="1" Value="Downloadable content has been deleted.&#xA;%s has been removed from APPEAL ACTION." />
+    <Entry Key="390731505" Color="1" Value="Downloadable content has been deleted.&#xA;%s has been removed from APPEAL ACTION." />
+    <Entry Key="388926577" Color="1" Value="Downloadable content has been deleted.&#xA;%s has been removed from APPEAL ACTION." />
+    <Entry Key="4187261415" Color="1" Value="Downloadable content has been deleted.&#xA;%s has been removed from APPEAL ACTION." />
+    <Entry Key="822002815" Color="1" Value="MGO Party feature is not available in SURVIVAL mode." />
+    <Entry Key="2200480847" Color="1" Value="%d hours, %d minutes" />
+    <Entry Key="3525078369" Color="1" Value="%d Days" />
+    <Entry Key="1495676333" Color="1" Value="Downloadable content has been added.&#xA;%s" />
+    <Entry Key="3738090824" Color="1" Value="Downloadable content has been deleted.&#xA;%s" />
+    <Entry Key="1277135924" Color="1" Value="Downloadable content has been added.&#xA;%s" />
+    <Entry Key="532627035" Color="1" Value="Downloadable content has been added.&#xA;%s" />
+    <Entry Key="3838950404" Color="1" Value="Downloadable content has been added.&#xA;%s" />
+    <Entry Key="3279395804" Color="1" Value="Downloadable content has been added.&#xA;%s" />
+    <Entry Key="3511606739" Color="1" Value="Downloadable content has been deleted.&#xA;%s" />
+    <Entry Key="205596319" Color="1" Value="Downloadable content has been deleted.&#xA;%s" />
+    <Entry Key="2382600925" Color="1" Value="Downloadable content has been deleted.&#xA;%s" />
+    <Entry Key="280112088" Color="1" Value="Downloadable content has been deleted.&#xA;%s" />
+    <Entry Key="1634865145" Color="1" Value="The host has disconnected. Returning to your room." />
+    <Entry Key="383825926" Color="1" Value="Failed to join the room because a party member ran out of SURVIVAL TICKETS.&#xA;SURVIVAL TICKETS are periodically replenished.&#xA;Also, purchasing the EXPANSION PACK will grant you an unlimited number of SURVIVAL TICKETS." />
+    <Entry Key="1299901943" Color="1" Value="You were kicked out. You will not be able to join this room." />
+    <Entry Key="590861614" Color="1" Value="Failed to join the room because you ran out of SURVIVAL TICKETS.&#xA;SURVIVAL TICKETS are periodically replenished.&#xA;Also, purchasing the EXPANSION PACK will grant you an unlimited number of SURVIVAL TICKETS." />
+    <Entry Key="519783697" Color="1" Value="Incorrect password. You cannot join this room." />
+    <Entry Key="1148333348" Color="1" Value="Cannot play SURVIVAL because a party member ran out of SURVIVAL TICKETS.&#xA;SURVIVAL TICKETS are periodically replenished.&#xA;Also, purchasing the EXPANSION PACK will grant you an unlimited number of SURVIVAL TICKETS." />
+    <Entry Key="3406444618" Color="1" Value="The host has left the room. You will return to Freeplay." />
+    <Entry Key="1563997140" Color="1" Value="Unable to respond to invitation since you are banned from participating in multiplayer games." />
+  </Entries>
+</LangFile>

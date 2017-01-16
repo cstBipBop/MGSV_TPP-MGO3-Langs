@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry Key="1664069148" Color="1" Value="RETURN TO THE PHANTOM PAIN" />
+    <Entry Key="3301897807" Color="1" Value="OPTIONS" />
+    <Entry Key="3945198430" Color="1" Value="GAME START" />
+    <Entry Key="730144653" Color="1" Value="©2015 Konami Digital Entertainment" />
+  </Entries>
+</LangFile>

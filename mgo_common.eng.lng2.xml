@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry Key="464224379" Color="1" Value="[ LOCKED ]" />
+    <Entry Key="3041092242" Color="1" Value="BUD" />
+    <Entry Key="853345448" Color="1" Value="[ NEW ]" />
+    <Entry Key="2056546499" Color="1" Value="LVL %d" />
+    <Entry Key="1390683745" Color="1" Value="COM" />
+    <Entry Key="697965936" Color="1" Value="BTY" />
+    <Entry Key="325854065" Color="1" Value="CAD" />
+    <Entry Key="2350380618" Color="1" Value="SAB" />
+    <Entry Key="34017906" Color="1" Value="SKILL" />
+    <Entry Key="826577087" Color="1" Value="ABILITY" />
+    <Entry LangId="mgo_idt_Jungle" Color="1" Value="JADE FOREST" />
+    <Entry LangId="mgo_idt_Dam" Color="1" Value="GRAY RAMPART" />
+    <Entry LangId="mgo_idt_Hill" Color="1" Value="RED FORTRESS" />
+    <Entry LangId="mgo_idt_Africa" Color="1" Value="AMBER STATION" />
+    <Entry LangId="mgo_idt_Guantanamo" Color="1" Value="BLACK SITE" />
+    <Entry Key="2883245878" Color="1" Value="DAY" />
+    <Entry Key="3027982178" Color="1" Value="NIGHT" />
+    <Entry Key="4054775303" Color="1" Value="MISC" />
+    <Entry Key="1097414346" Color="1" Value="DEPLOY" />
+    <Entry Key="3868217297" Color="1" Value="SECONDARY" />
+    <Entry Key="1890858888" Color="1" Value="PRIMARY" />
+    <Entry LangId="mgo_idt_CHR" Color="1" Value="CHARACTER" />
+    <Entry Key="2760365685" Color="1" Value="GAMER TAG" />
+    <Entry Key="3282823503" Color="1" Value="EMBLEM" />
+    <Entry Key="505811593" Color="1" Value="HOST" />
+    <Entry Key="2861357915" Color="1" Value="SERVERLIST" />
+    <Entry Key="486075804" Color="1" Value="PLAYERS" />
+    <Entry Key="3012534035" Color="1" Value="PLAYERS ONLINE" />
+    <Entry LangId="mgo_UI_ID_Status_INF_Name" Color="1" Value="INFILTRATOR" />
+    <Entry LangId="mgo_UI_ID_Status_REC_Name" Color="1" Value="SCOUT" />
+    <Entry LangId="mgo_UI_ID_Status_TEC_Name" Color="1" Value="ENFORCER" />
+    <Entry Key="1451702326" Color="1" Value="COMMENT" />
+    <Entry Key="23735298" Color="1" Value="EXPERTISE" />
+    <Entry LangId="mgo_UI_ID_Status_Points" Color="1" Value="SCORE" />
+    <Entry Key="2937954273" Color="1" Value="TIME PLAYED" />
+    <Entry Key="3683005405" Color="1" Value="WINS" />
+    <Entry Key="1613230594" Color="1" Value="WEIGHT" />
+    <Entry Key="2438730539" Color="1" Value="RUSH" />
+    <Entry Key="1211673347" Color="1" Value="Timer" />
+    <Entry Key="3681679807" Color="1" Value="ITEM" />
+    <Entry Key="3073465039" Color="1" Value="SPECIAL" />
+    <Entry Key="423722719" Color="1" Value="Spawn Point" />
+    <Entry Key="2288065806" Color="1" Value="NIGHT" />
+    <Entry Key="3637835674" Color="1" Value="HQ" />
+    <Entry LangId="mgo_UI_Briefing_Tips1_DOM" Color="1" Value="OBJECTIVE" />
+    <Entry Key="113609230" Color="1" Value="COMM LINKS" />
+    <Entry Key="844670188" Color="1" Value="MAP" />
+    <Entry Key="1808379115" Color="1" Value="CHARACTER PRESET" />
+    <Entry Key="1066804529" Color="1" Value="RULE" />
+    <Entry LangId="mgo_UI_Briefing_BGM" Color="1" Value="BGM" />
+    <Entry Key="2524825970" Color="1" Value="Min" />
+    <Entry Key="579742361" Color="1" Value="Sec" />
+    <Entry Key="926950066" Color="1" Value="TEAM TOTAL" />
+    <Entry LangId="mgo_UI_Briefing_BGM_TPP_CYPR" Color="1" Value="CYPRUS SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_TPP_AFGH" Color="1" Value="AFGHANISTAN SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_TPP_AFRC" Color="1" Value="AFRICA SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS4_ME" Color="1" Value="MIDDLE EAST SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS4_SA" Color="1" Value="SOUTH AMERICA SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS4_EE" Color="1" Value="EASTERN EUROPE SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS4_SM" Color="1" Value="SHADOW MOSES SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS4_HV" Color="1" Value="HAVEN SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS2_TANKER" Color="1" Value="TANKER SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS2_PLANT" Color="1" Value="PLANT SET" />
+    <Entry Key="4182381168" Color="1" Value="%d LBS" />
+    <Entry Key="1503409059" Color="1" Value="%.1f KG" />
+    <Entry Key="3945198430" Color="1" Value="GAME START" />
+    <Entry Key="3301897807" Color="1" Value="OPTIONS" />
+    <Entry Key="1102363707" Color="1" Value="Can not delete a character that is being used." />
+    <Entry Key="2358161952" Color="1" Value="TEAM SOLID" />
+    <Entry Key="2026850200" Color="1" Value="TEAM LIQUID" />
+    <Entry Key="4050474123" Color="1" Value="WEAPON OF CHOICE" />
+    <Entry Key="607274138" Color="1" Value="CLASS" />
+    <Entry Key="2369668545" Color="1" Value="&lt;I=G=ATTACK&gt;" />
+    <Entry Key="2829721521" Color="1" Value="&lt;I=G=HOLD&gt;" />
+    <Entry Key="1519406506" Color="1" Value="&lt;I=G=BINOS&gt;" />
+    <Entry Key="3925455484" Color="1" Value="&lt;I=G=CALL&gt;" />
+    <Entry Key="1391722821" Color="1" Value="&lt;I=G=HOLD&gt;" />
+    <Entry Key="766283816" Color="1" Value="Spawning in" />
+    <Entry Key="2366771830" Color="1" Value="CHANGE HINT" />
+    <Entry Key="3138138305" Color="1" Value="None Found" />
+    <Entry Key="2613730818" Color="1" Value="MISSILE" />
+    <Entry Key="2850595971" Color="1" Value="TIME LIMIT" />
+    <Entry LangId="mgo_idt_TS" Color="1" Value="CLOAK AND DAGGER" />
+    <Entry LangId="mgo_idt_DOM" Color="1" Value="COMM CONTROL" />
+    <Entry LangId="mgo_idt_TDM" Color="1" Value="BOUNTY HUNTER" />
+    <Entry LangId="mgo_ui_idt_locked" Color="1" Value="[ LOCKED ]" />
+    <Entry Key="148309925" Color="1" Value="iDROID VER 3.02" />
+    <Entry Key="3785412743" Color="1" Value="[ EQUIPPED ]" />
+    <Entry Key="247367189" Color="1" Value="Start game" />
+    <Entry Key="318720203" Color="1" Value="EVAC POINT" />
+    <Entry Key="233250551" Color="1" Value="DATA DISC" />
+    <Entry Key="2363586950" Color="1" Value="DAY" />
+    <Entry Key="3907122700" Color="1" Value="SOLID" />
+    <Entry Key="1172676128" Color="1" Value="LIQUID" />
+    <Entry Key="1579298840" Color="1" Value="TEXT" />
+    <Entry Key="4032038585" Color="1" Value="MATCHING" />
+    <Entry Key="1803384183" Color="1" Value="PROGRESS" />
+    <Entry Key="2100266082" Color="1" Value="DAMAGE" />
+    <Entry Key="1632875651" Color="1" Value="ACCURACY" />
+    <Entry Key="4123285992" Color="1" Value="MOBILITY" />
+    <Entry Key="3199861339" Color="1" Value="RANGE" />
+    <Entry Key="647488055" Color="1" Value="CHARACTER" />
+    <Entry Key="4212509937" Color="1" Value="STATUS" />
+    <Entry Key="3138774910" Color="1" Value="FRIENDS" />
+    <Entry LangId="mgo_UI_ID_C_LO" Color="1" Value="LOADOUT" />
+    <Entry Key="1807014048" Color="1" Value="EQUIPMENT" />
+    <Entry Key="2316024626" Color="1" Value="AVATAR" />
+    <Entry Key="3529343128" Color="1" Value="EMBLEM" />
+    <Entry LangId="mgo_UI_ID_C_InfHelp" Color="1" Value="Close-range expert with cloak ability." />
+    <Entry LangId="mgo_UI_ID_C_TecHelp" Color="1" Value="Mid-range expert with heavy armor and weapons." />
+    <Entry LangId="mgo_UI_ID_C_RecHelp" Color="1" Value="Long-range expert with sniper rifle." />
+    <Entry Key="2813000910" Color="1" Value="INTEL" />
+    <Entry Key="739700790" Color="1" Value="TERMINAL" />
+    <Entry Key="50546842" Color="1" Value="MATCH STARTING IN" />
+    <Entry LangId="mgo_idt_SAB" Color="1" Value="SABOTAGE" />
+    <Entry Key="1216130620" Color="1" Value="ROUND STARTING IN %d SEC" />
+    <Entry Key="1896450588" Color="1" Value="SNA" />
+    <Entry Key="376282777" Color="1" Value="OCE" />
+    <Entry Key="626992675" Color="1" Value="Waiting for Host" />
+    <Entry Key="1275104140" Color="1" Value="START MATCH" />
+    <Entry LangId="mgo_ui_roundstart_WIN" Color="1" Value="VICTORY" />
+    <Entry Key="3027063593" Color="1" Value="DEFEATED" />
+    <Entry Key="3630219778" Color="1" Value="MAP" />
+    <Entry Key="676675537" Color="1" Value="TIME OF DAY" />
+    <Entry Key="3574275666" Color="1" Value="SIZE" />
+    <Entry Key="3266776736" Color="1" Value="MAX CAPACITY" />
+    <Entry Key="3350486745" Color="1" Value="TICKET(S)" />
+    <Entry Key="1906970158" Color="1" Value="ANY" />
+    <Entry Key="454325171" Color="1" Value="BRIEFING RULE" />
+    <Entry LangId="mgo_UI_Briefing_MapTitle" Color="1" Value="OVERVIEW" />
+    <Entry Key="479389066" Color="1" Value="ONLINE" />
+    <Entry Key="1000106684" Color="1" Value="HQ" />
+    <Entry Key="4191082268" Color="1" Value="SELECT SPAWN POINT" />
+    <Entry Key="3602699015" Color="1" Value="RULE TIPS" />
+    <Entry Key="2753026705" Color="1" Value="sec..." />
+    <Entry Key="2499293345" Color="1" Value="ZZZ" />
+    <Entry Key="410341540" Color="1" Value="Rounds Won -" />
+    <Entry Key="3945190935" Color="1" Value="Match Ended in" />
+    <Entry Key="2789894381" Color="1" Value="Match Again in" />
+    <Entry LangId="mgo_UI_Briefing_BGM_OFF" Color="1" Value="OFF" />
+    <Entry Key="3045342530" Color="1" Value="Delete loadout?" />
+    <Entry Key="1080046634" Color="1" Value="DMG" />
+    <Entry Key="2399931937" Color="1" Value="[ ADD CHARACTER ]" />
+    <Entry LangId="mgo_ID_gear" Color="1" Value="GEAR" />
+    <Entry LangId="mgo_ID_ascension" Color="1" Value="ASCENSION" />
+    <Entry Key="2951415285" Color="1" Value="MOBILITY" />
+    <Entry Key="3493895799" Color="1" Value="SUPPORT" />
+    <Entry Key="2964858477" Color="1" Value="SUPPORT WEAPON" />
+    <Entry Key="2718462790" Color="1" Value="PRIMARY ATTACHMENT" />
+    <Entry Key="325703087" Color="1" Value="SECONDARY ATTACHMENT" />
+    <Entry Key="3434775277" Color="1" Value="ABILITIES" />
+    <Entry Key="1351250381" Color="1" Value="[ PURCHASE ]" />
+    <Entry Key="1676514648" Color="1" Value="GEAR COLOR" />
+    <Entry LangId="mgo_idt_female" Color="1" Value="FEMALE" />
+    <Entry LangId="mgo_idt_male" Color="1" Value="MALE" />
+    <Entry LangId="cmmn_wp_prm_penetration" Color="1" Value="Penetration" />
+    <Entry LangId="cmmn_it_prm_effect_time" Color="1" Value="Effect Duration" />
+    <Entry LangId="cmmn_it_prm_battery" Color="1" Value="Battery" />
+    <Entry LangId="cmmn_arm_e" Color="1" Value="PROSTHETIC ARM" />
+    <Entry LangId="cmmn_wp_dmg" Color="1" Value="DMG" />
+    <Entry LangId="cmmn_wp_zzz" Color="1" Value="ZZZ" />
+    <Entry LangId="cmmn_wp_stn" Color="1" Value="STN" />
+    <Entry LangId="cmmn_wp_smk" Color="1" Value="SMK" />
+    <Entry LangId="cmmn_wp_none" Color="1" Value="---" />
+    <Entry LangId="cmmn_wp_prm_dmg" Color="1" Value="Damage" />
+    <Entry LangId="cmmn_wp_prm_fire_spd" Color="1" Value="Firing Speed" />
+    <Entry LangId="cmmn_wp_prm_range" Color="1" Value="Effective Range" />
+    <Entry LangId="cmmn_wp_prm_grouping" Color="1" Value="Grouping" />
+    <Entry LangId="cmmn_wp_prm_target_spd" Color="1" Value="Targeting Speed" />
+    <Entry LangId="cmmn_wp_prm_aim_adjust" Color="1" Value="Auto-Aim Correction" />
+    <Entry LangId="cmmn_wp_prm_reaction" Color="1" Value="Recoil" />
+    <Entry LangId="cmmn_wp_prm_accurancy" Color="1" Value="Accuracy" />
+    <Entry LangId="cmmn_wp_prm_dmg_mech" Color="1" Value="Damage (VS Machines)" />
+    <Entry LangId="mgo_wp_prm_clipsize" Color="1" Value="Clip size" />
+    <Entry Key="3722518203" Color="1" Value="Reload speed" />
+    <Entry Key="1314457276" Color="1" Value="&lt;I=G=PAD_R1&gt;" />
+    <Entry Key="3002609629" Color="1" Value="&lt;I=G=PAD_L1&gt;" />
+    <Entry Key="1042038095" Color="1" Value="LIQUID&#xA;WINS!" />
+    <Entry Key="752027024" Color="1" Value="SOLID&#xA;WINS!" />
+    <Entry Key="1465025633" Color="1" Value="ROUND 2" />
+    <Entry Key="3885478826" Color="1" Value="ROUND 1" />
+    <Entry Key="2518577707" Color="1" Value="TICKET(S)" />
+    <Entry Key="3055152752" Color="1" Value="RANK" />
+    <Entry Key="2000851499" Color="1" Value="NAME" />
+    <Entry Key="514380772" Color="1" Value="%d PLAYERS ONLINE" />
+    <Entry LangId="mb_popup_cancel" Color="1" Value="CANCEL" />
+    <Entry LangId="mb_popup_default" Color="1" Value="DEFAULT" />
+    <Entry LangId="mb_popup_no" Color="1" Value="NO" />
+    <Entry LangId="mb_popup_ok" Color="1" Value="OK" />
+    <Entry LangId="mb_popup_yes" Color="1" Value="YES" />
+    <Entry LangId="mb_popup_dev_cost_gmp" Color="1" Value="COST" />
+    <Entry LangId="mb_popup_dev_total_gmp" Color="1" Value="TOTAL" />
+    <Entry LangId="mgo_stats01" Color="1" Value="Highest Bounty" />
+    <Entry LangId="mgo_stats02" Color="1" Value="Bounty Claimed" />
+    <Entry LangId="mgo_stats03" Color="1" Value="Discs Retrieved" />
+    <Entry LangId="mgo_stats04" Color="1" Value="Discs Picked Up" />
+    <Entry LangId="mgo_stats05" Color="1" Value="Comm Links Captured" />
+    <Entry LangId="mgo_stats06" Color="1" Value="Comm Links Neutralized" />
+    <Entry LangId="mgo_stats07" Color="1" Value="Knife Kills" />
+    <Entry LangId="mgo_stats08" Color="1" Value="Terminal Hacks" />
+    <Entry LangId="mgo_stats09" Color="1" Value="Missile Damage" />
+    <Entry LangId="mgo_stats10" Color="1" Value="Missiles Destroyed" />
+    <Entry LangId="mgo_stats11" Color="1" Value="Missiles Fultoned" />
+    <Entry LangId="mgo_stats12" Color="1" Value="Kills" />
+    <Entry LangId="mgo_stats13" Color="1" Value="Headshots" />
+    <Entry Key="281881699" Color="1" Value="Headshot deaths" />
+    <Entry LangId="mgo_stats15" Color="1" Value="CQC Takedowns" />
+    <Entry Key="1039873271" Color="1" Value="CQC deaths" />
+    <Entry LangId="mgo_stats17" Color="1" Value="Assists" />
+    <Entry LangId="mgo_stats18" Color="1" Value="Deaths" />
+    <Entry Key="147636899" Color="1" Value="Tranqs" />
+    <Entry LangId="mgo_stats20" Color="1" Value="Stuns" />
+    <Entry LangId="mgo_stats21" Color="1" Value="Stunned by Enemy" />
+    <Entry LangId="mgo_stats22" Color="1" Value="Fultons" />
+    <Entry LangId="mgo_stats23" Color="1" Value="Fulton Saves" />
+    <Entry LangId="mgo_stats24" Color="1" Value="Fultoned by Enemy" />
+    <Entry LangId="mgo_stats25" Color="1" Value="Interrogations" />
+    <Entry LangId="mgo_stats26" Color="1" Value="Enemies Marked" />
+    <Entry LangId="mgo_stats27" Color="1" Value="Marked by Enemy" />
+    <Entry Key="386763667" Color="1" Value="MATCHES" />
+    <Entry Key="2406067078" Color="1" Value="Interrogated" />
+    <Entry Key="1923075676" Color="1" Value="Tranquilized" />
+    <Entry Key="3751567365" Color="1" Value="Defenders" />
+    <Entry Key="3739232200" Color="1" Value="Attackers" />
+    <Entry Key="1061843749" Color="1" Value="Losing!" />
+    <Entry Key="566519948" Color="1" Value="Winning!" />
+    <Entry Key="4145351910" Color="1" Value="GLOBAL STATS" />
+    <Entry Key="4162895714" Color="1" Value="ONLINE ID" />
+    <Entry Key="2367906709" Color="1" Value="NORMAL" />
+    <Entry Key="644637897" Color="1" Value="RUSH MODE" />
+    <Entry Key="60589200" Color="1" Value="[ AVAILABLE ]" />
+    <Entry LangId="mgo_idt_scoredetail" Color="1" Value="SCORE DETAILS" />
+    <Entry LangId="mgo_idt_unlocks" Color="1" Value="UNLOCKS" />
+    <Entry LangId="mgo_idt_xppoint" Color="1" Value="EXPERIENCE POINTS" />
+    <Entry LangId="mgo_idt_player" Color="1" Value="PLAYER" />
+    <Entry LangId="mgo_idt_overall" Color="1" Value="OVERALL" />
+    <Entry LangId="mgo_idt_team" Color="1" Value="TEAM" />
+    <Entry LangId="mgo_idt_missionresult" Color="1" Value="MISSION RESULTS" />
+    <Entry Key="2780305287" Color="1" Value="ROUND RESULTS" />
+    <Entry Key="1965975201" Color="1" Value="FREEPLAY" />
+    <Entry LangId="mgo_idt_missionbrief" Color="1" Value="MISSION BRIEFING" />
+    <Entry Key="702489135" Color="1" Value="MISSION" />
+    <Entry LangId="mgo_idt_missiontips" Color="1" Value="MISSION TIPS" />
+    <Entry Key="3268875666" Color="1" Value="MISSION STATS" />
+    <Entry Key="285858161" Color="1" Value="ONLINE" />
+    <Entry Key="1658547028" Color="1" Value="PLAYERS" />
+    <Entry Key="3688721271" Color="1" Value="PAGE" />
+    <Entry Key="370497096" Color="1" Value="[ NONE ]" />
+    <Entry Key="1738361347" Color="1" Value="JOIN" />
+    <Entry Key="1313489834" Color="1" Value="OVERTIME" />
+    <Entry Key="1989513262" Color="1" Value="[ NO UNLOCKS ]" />
+    <Entry LangId="mgo_stats30" Color="1" Value="Walker Gears Destroyed" />
+    <Entry LangId="mgo_stats29" Color="1" Value="Comm Links Defended" />
+    <Entry LangId="mgo_stats28" Color="1" Value="Discs Defended" />
+    <Entry Key="681432039" Color="1" Value="%s would like to invite you to play in there match. Would you like to accept?" />
+    <Entry Key="2136349952" Color="1" Value="Friendly kills" />
+    <Entry Key="1229643932" Color="1" Value="SPC" />
+    <Entry LangId="mgo_idt_information" Color="1" Value="INFORMATION" />
+    <Entry Key="1801333683" Color="1" Value="VOICE" />
+    <Entry LangId="mgo_idt_gear_points" Color="1" Value="GEAR POINTS (GP)" />
+    <Entry Key="2096390864" Color="1" Value="UNIQUE CHARACTER" />
+    <Entry Key="1431516041" Color="1" Value="Ready / Mission Results" />
+    <Entry Key="4286547564" Color="1" Value="Round Lost" />
+    <Entry Key="2859301867" Color="1" Value="Round Won" />
+    <Entry Key="203600676" Color="1" Value="Round 2 End" />
+    <Entry Key="1100196844" Color="1" Value="Round 1 End" />
+    <Entry Key="3038180660" Color="1" Value="Master Ascension 3" />
+    <Entry Key="4107650526" Color="1" Value="Master Ascension 2" />
+    <Entry Key="3098569588" Color="1" Value="Master Ascension 1" />
+    <Entry LangId="mgo_unlock_master_ascension" Color="1" Value="Master Ascension" />
+    <Entry LangId="mgo_unlock_ascension3" Color="1" Value="Ascension 3" />
+    <Entry LangId="mgo_unlock_ascension2" Color="1" Value="Ascension 2" />
+    <Entry Key="605132090" Color="1" Value="Ascension 1" />
+    <Entry LangId="mgo_unlock_ascension" Color="1" Value="Ascension" />
+    <Entry LangId="mgo_unlock_new_preset" Color="1" Value="New preset loadout" />
+    <Entry LangId="mgo_unlock_new_loadout" Color="1" Value="New loadout slot" />
+    <Entry LangId="mgo_unlock_new_character" Color="1" Value="New character slot" />
+    <Entry Key="687289121" Color="1" Value="By coint toss!" />
+    <Entry Key="2291475785" Color="1" Value="Randomize" />
+    <Entry Key="1004133010" Color="1" Value="EM BARRIER" />
+    <Entry Key="1210248253" Color="1" Value="Member" />
+    <Entry Key="4243494726" Color="1" Value="Leader" />
+    <Entry Key="1161173722" Color="1" Value="Mission Lost" />
+    <Entry Key="2266322800" Color="1" Value="Mission Won" />
+    <Entry Key="3614733091" Color="1" Value="Victory Bonus" />
+    <Entry Key="3501022268" Color="1" Value="Round Bonus" />
+    <Entry Key="4076120940" Color="1" Value="Mission Bonus" />
+    <Entry Key="785545589" Color="1" Value="Participation Bonus" />
+    <Entry Key="390318684" Color="1" Value="Completion Bonus" />
+    <Entry Key="2957775237" Color="1" Value="Cooperative Bonus" />
+    <Entry Key="3700226043" Color="1" Value="Liquidarity Bonus" />
+    <Entry Key="3841562886" Color="1" Value="Teamwork Bonus" />
+    <Entry Key="2473551556" Color="1" Value="Solidarity Bonus" />
+    <Entry Key="2112988064" Color="1" Value="PRESETS" />
+    <Entry Key="2271756066" Color="1" Value="PRESET" />
+    <Entry Key="1594161815" Color="1" Value="Custom matches" />
+    <Entry Key="3981342212" Color="1" Value="Custom loadout" />
+    <Entry Key="4197908401" Color="1" Value="Additional loadout" />
+    <Entry Key="2581044256" Color="1" Value="Unlocked %s XP Points" />
+    <Entry Key="1334756557" Color="1" Value="Durability" />
+    <Entry Key="362920333" Color="1" Value="DRAW" />
+    <Entry LangId="mgo_UI_Briefing_BGM_TPP_MTBS" Color="1" Value="FOB SET" />
+    <Entry LangId="log_tab_mbcoin" Color="1" Value="MB Coins" />
+    <Entry Key="1602026315" Color="1" Value="Select a map." />
+    <Entry Key="476231678" Color="1" Value="Select day or night." />
+    <Entry Key="1949058495" Color="1" Value="Turn on/off Rush mode.&#xA;Turning on Rush mode will limit the playable area on the map, creating frequent encounters with enemies." />
+    <Entry Key="2271752430" Color="1" Value="Select a mission." />
+    <Entry Key="2820492154" Color="1" Value="Set the time limit for each round." />
+    <Entry Key="1571980818" Color="1" Value="Enable or disable playable Unique Characters in your match." />
+    <Entry Key="2051985309" Color="1" Value="Set how many tickets to start your round with." />
+    <Entry Key="1769288435" Color="1" Value="Set the maximum player count." />
+    <Entry Key="2075534949" Color="1" Value="Score" />
+    <Entry Key="3154274286" Color="1" Value="Fultoned" />
+    <Entry Key="4035327552" Color="1" Value="Fultons" />
+    <Entry Key="3711895305" Color="1" Value="Stuns" />
+    <Entry Key="2954136432" Color="1" Value="Deaths" />
+    <Entry Key="2732052800" Color="1" Value="Kills" />
+    <Entry Key="854882998" Color="1" Value="Objective" />
+    <Entry Key="4136587484" Color="1" Value="Player" />
+    <Entry Key="1913014203" Color="1" Value="Walker Gear" />
+    <Entry Key="3087118387" Color="1" Value="YOU LOSE" />
+    <Entry Key="484873507" Color="1" Value="YOU WIN" />
+    <Entry Key="4072662731" Color="1" Value="GRAVITY" />
+    <Entry Key="1334422433" Color="1" Value="Unlucky!" />
+    <Entry Key="2974594740" Color="1" Value="FAKE INTEL" />
+    <Entry Key="3001674682" Color="1" Value="READY" />
+    <Entry Key="4119330343" Color="1" Value="[ ADD ]" />
+    <Entry Key="2162732381" Color="1" Value="NEXT ROUND STARTING IN %d SEC" />
+    <Entry Key="1159923745" Color="1" Value="Attackers" />
+    <Entry Key="1100436" Color="1" Value="TOTAL SCORE" />
+    <Entry Key="3929122914" Color="1" Value="FINAL RESULT" />
+    <Entry Key="824584008" Color="1" Value="WEAPON" />
+    <Entry Key="2940668963" Color="1" Value="WEAPONS" />
+    <Entry Key="1690407859" Color="1" Value="TIME" />
+    <Entry Key="3065264494" Color="1" Value="Gear" />
+    <Entry Key="2419441441" Color="1" Value="Gear (Color variation)" />
+    <Entry Key="2058871642" Color="1" Value="Weapons (Color variation)" />
+    <Entry LangId="mgo_stats34" Color="1" Value="Enemies Charmed" />
+    <Entry Key="1861889138" Color="1" Value="Missions Played" />
+    <Entry Key="1403052138" Color="1" Value="Total Play Time" />
+    <Entry Key="270742127" Color="1" Value="Experience Points" />
+    <Entry Key="1099502244" Color="1" Value="Missions Won" />
+    <Entry Key="1819020618" Color="1" Value="Custom Match" />
+    <Entry Key="391529299" Color="1" Value="CHARACTER STATUS" />
+    <Entry Key="930444088" Color="1" Value="TOTAL ROUND RESULTS" />
+    <Entry Key="3597635435" Color="1" Value="Score" />
+    <Entry LangId="mgo_idt_win_top_player" Color="1" Value="Time has expired. Tie broken by top player performance." />
+    <Entry Key="110793911" Color="1" Value="MB COINS" />
+    <Entry Key="2233298146" Color="1" Value="Loadout %d" />
+    <Entry Key="3144510851" Color="1" Value="DEMOLITION" />
+    <Entry Key="3312813248" Color="1" Value="Player" />
+    <Entry LangId="mgo_stats35" Color="1" Value="Suicides" />
+    <Entry Key="3287935345" Color="1" Value="TOTAL PLAY TIME" />
+    <Entry Key="2914530309" Color="1" Value="&lt;I=G=MGO_DEFENSE&gt;" />
+    <Entry Key="2435252240" Color="1" Value="&lt;I=G=MGO_ATTACK&gt;" />
+    <Entry Key="1385586906" Color="1" Value="BOUNTY HUNTER (RUSH)" />
+    <Entry Key="2567854587" Color="1" Value="COMM CONTROL (RUSH)" />
+    <Entry Key="3768303323" Color="1" Value="CLOAK AND DAGGER (RUSH)" />
+    <Entry Key="2956747982" Color="1" Value="Set the frequency of the weather changes in your match." />
+    <Entry Key="1839097882" Color="1" Value="DYNAMIC WEATHER" />
+    <Entry Key="715797967" Color="1" Value="Enable or disable Walker Gears in your match." />
+    <Entry Key="926730470" Color="1" Value="WALKER GEARS" />
+    <Entry Key="322884194" Color="1" Value="OFF" />
+    <Entry Key="1544692491" Color="1" Value="STANDARD" />
+    <Entry Key="343410292" Color="1" Value="FREQUENT" />
+    <Entry LangId="mgo_stats36" Color="1" Value="Amazing Throws" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS1_DUEL" Color="1" Value="DUEL" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS2_DEADCELL" Color="1" Value="DEAD CELL" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS3_THEBOSS" Color="1" Value="THE BOSS" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS4_REXVSRAY" Color="1" Value="REX VS RAY" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MPO_SHOWTIME" Color="1" Value="SHOWTIME" />
+    <Entry LangId="mgo_UI_Briefing_BGM_THEME" Color="1" Value="MAIN THEME" />
+    <Entry Key="927202169" Color="1" Value="Set the minimum player count required to start the match." />
+    <Entry Key="330980427" Color="1" Value="MINIMUM PLAYERS" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGR_MONSOON" Color="1" Value="MONSOON" />
+    <Entry LangId="mgo_UI_Briefing_BGM_TPP_SINS" Color="1" Value="SINS OF THE FATHER" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGR_ARMSTRONG" Color="1" Value="ARMSTRONG" />
+    <Entry Key="746434361" Color="1" Value="Set a comment to be displayed on match searches." />
+    <Entry Key="3548541376" Color="1" Value="HOST COMMENT" />
+    <Entry Key="572068823" Color="1" Value="Display matches that don't have room for additional players." />
+    <Entry Key="2674753788" Color="1" Value="DISPLAY FULL MATCHES" />
+    <Entry Key="2359841516" Color="1" Value="MEDAL" />
+    <Entry Key="2541420091" Color="1" Value="TITLE" />
+    <Entry Key="1538403705" Color="1" Value="HOST COMMENT 3" />
+    <Entry Key="895095708" Color="1" Value="HOST COMMENT 2" />
+    <Entry Key="1291652698" Color="1" Value="HOST COMMENT 1" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_GB" Color="1" Value="METAL GEAR: Ghost Babel" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_ACID" Color="1" Value="METAL GEAR AC!D" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_ACID2" Color="1" Value="METAL GEAR AC!D 2" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MGS1IT" Color="1" Value="METAL GEAR SOLID: INTEGRAL" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MGS2SS" Color="1" Value="METAL GEAR SOLID 2: SUBSTANCE" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MG1" Color="1" Value="METAL GEAR" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MG2" Color="1" Value="METAL GEAR 2: SOLID SNAKE" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MGS1" Color="1" Value="METAL GEAR SOLID" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MGS2" Color="1" Value="METAL GEAR SOLID 2: SONS OF LIBERTY" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MGS3" Color="1" Value="METAL GEAR SOLID 3: SNAKE EATER" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MGO1" Color="1" Value="METAL GEAR ONLINE (MGS3:SS)" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MPO" Color="1" Value="METAL GEAR SOLID: PORTABLE OPS" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MGS4" Color="1" Value="METAL GEAR SOLID 4: GUNS OF THE PATRIOTS" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MGO2" Color="1" Value="METAL GEAR ONLINE (MGS4)" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_PW" Color="1" Value="METAL GEAR SOLID: PEACE WALKER" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MGR" Color="1" Value="METAL GEAR RISING: REVENGEANCE" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_MGO3" Color="1" Value="METAL GEAR ONLINE (MGSV:TPP)" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_GZ" Color="1" Value="METAL GEAR SOLID V: GROUND ZEROES" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_TPP" Color="1" Value="METAL GEAR SOLID V: THE PHANTOM PAIN" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_BKDS" Color="1" Value="LUNAR KNIGHTS" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_ZOE" Color="1" Value="ZONE OF THE ENDERS" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_ANUBIS" Color="1" Value="ZONE OF THE ENDERS: THE 2nd RUNNER" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_SN" Color="1" Value="SNATCHER" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_PN" Color="1" Value="POLICENAUTS" />
+    <Entry LangId="mgo_UI_Briefing_BGM_Title_BK" Color="1" Value="boktai: The Sun is in Your Hand" />
+    <Entry LangId="mgo_UI_Briefing_BGM_OUTDOOR" Color="1" Value="OUTDOOR SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_ORIGINAL3" Color="1" Value="ORIGINAL SET 3" />
+    <Entry LangId="mgo_UI_Briefing_BGM_ORIGINAL2" Color="1" Value="ORIGINAL SET 2" />
+    <Entry LangId="mgo_UI_Briefing_BGM_ORIGINAL1" Color="1" Value="ORIGINAL SET 1" />
+    <Entry LangId="mgo_UI_Briefing_BGM_ORIGINAL" Color="1" Value="ORIGINAL SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_GAMEPLAY" Color="1" Value="GAMEPLAY SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_VR" Color="1" Value="VR MISSION SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MPO_RAXA" Color="1" Value="RAXA" />
+    <Entry LangId="mgo_UI_Briefing_BGM_PW_GEARREX" Color="1" Value="GEAR REX" />
+    <Entry LangId="mgo_UI_Briefing_BGM_PN_ICAD" Color="1" Value="ICY OFFENSE AND DEFENSE" />
+    <Entry LangId="mgo_UI_Briefing_BGM_BK_WOD" Color="1" Value="WORLD OF DARKNESS" />
+    <Entry LangId="mgo_UI_Briefing_BGM_BKDS_LAPLACE" Color="1" Value="LAPLACE" />
+    <Entry LangId="mgo_UI_Briefing_BGM_ZOE_BOSS" Color="1" Value="BOSS" />
+    <Entry LangId="mgo_UI_Briefing_BGM_ANUBIS_JEHUTY" Color="1" Value="JEHUTY" />
+    <Entry LangId="mgo_UI_Briefing_BGM_GB_BC" Color="1" Value="BLACK CHAMBER" />
+    <Entry LangId="mgo_UI_Briefing_BGM_ACID_NIKO2" Color="1" Value="NIKO2" />
+    <Entry LangId="mgo_UI_Briefing_BGM_ACID2_DUALITY" Color="1" Value="DUALITY" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS1IT_GENOLA" Color="1" Value="GENOLA" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGS2SS_GURLUGON" Color="1" Value="GURLUGON" />
+    <Entry LangId="mgo_UI_Briefing_BGM_INDOOR" Color="1" Value="INDOOR SET" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGR_SUNDOWNER" Color="1" Value="SUNDOWNER" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGR_MISTRAL" Color="1" Value="MISTRAL" />
+    <Entry LangId="mgo_UI_Briefing_BGM_MGR_SAMUEL" Color="1" Value="SAMUEL" />
+    <Entry LangId="mgo_UI_Briefing_BGM_PW_YOKUSHI" Color="1" Value="KOI NO YOKUSHIRYOKU" />
+    <Entry LangId="mgo_UI_Briefing_BGM_TPP_QUIET" Color="1" Value="QUIET'S THEME" />
+    <Entry Key="27304362" Color="1" Value="RIGHT" />
+    <Entry Key="1195258425" Color="1" Value="LEFT" />
+    <Entry Key="3845926878" Color="1" Value="DOWN" />
+    <Entry Key="1833756248" Color="1" Value="UP" />
+    <Entry Key="2358518472" Color="1" Value="NEUTRAL" />
+    <Entry Key="3067342194" Color="1" Value="Customize your Appeal Action." />
+    <Entry LangId="mgo_UI_ID_C_AppealAction" Color="1" Value="APPEAL ACTION" />
+    <Entry Key="626147226" Color="1" Value="HERO APPEAL %d" />
+    <Entry Key="4247478088" Color="1" Value="DANCE APPEAL %d" />
+    <Entry Key="3342088057" Color="1" Value="BATTLE APPEAL %d" />
+    <Entry Key="1854890350" Color="1" Value="BASIC APPEAL %d" />
+    <Entry Key="3766998098" Color="1" Value="DEFAULT APPEAL" />
+    <Entry Key="308103189" Color="1" Value="Character slot" />
+    <Entry Key="432432786" Color="1" Value="This action can be purchased by accessing the in-game store under the System Menu in FREEPLAY. (paid)" />
+    <Entry Key="2886140797" Color="1" Value="This action can be purchased through PlayStation®Store.&#xA;Would you like to access the PlayStation®Store?" />
+    <Entry Key="37673231" Color="1" Value="RANK" />
+    <Entry Key="3055152752" Color="1" Value="Rank" />
+    <Entry Key="3229716740" Color="1" Value="QUIET" />
+    <Entry Key="368005743" Color="1" Value="OCELOT" />
+    <Entry Key="3729096970" Color="1" Value="SNAKE" />
+    <Entry Key="428994811" Color="1" Value="RANDOM" />
+    <Entry Key="747671144" Color="1" Value="Select TEAM LIQUID's Unique Character." />
+    <Entry Key="239228801" Color="1" Value="Select TEAM SOLID's Unique Character." />
+    <Entry Key="1674226699" Color="1" Value="TEAM LIQUID" />
+    <Entry Key="3357591060" Color="1" Value="TEAM SOLID" />
+    <Entry Key="3009773353" Color="1" Value="Create a match where the host cannot participate but is able to observe both teams." />
+    <Entry Key="2678236723" Color="1" Value="DEDICATED HOST" />
+    <Entry Key="1176269125" Color="1" Value="This action can be purchased through the Xbox Games Store.&#xA;Would you like to access the Xbox Games Store?" />
+    <Entry Key="1292610167" Color="1" Value="Set a comment to be displayed when searching for a room." />
+    <Entry LangId="mgo_idt_Savannah" Color="1" Value="AZURE MOUNTAIN" />
+    <Entry LangId="mgo_idt_Remnant" Color="1" Value="RUST PALACE" />
+    <Entry LangId="mgo_idt_MB" Color="1" Value="CORAL COMPLEX" />
+    <Entry Key="176553233" Color="1" Value="QUIET APPEAL 2" />
+    <Entry Key="117344989" Color="1" Value="QUIET APPEAL 1" />
+    <Entry Key="4035576198" Color="1" Value="OCELOT APPEAL 2" />
+    <Entry Key="29605223" Color="1" Value="OCELOT APPEAL 1" />
+    <Entry Key="644055325" Color="1" Value="SNAKE APPEAL 2" />
+    <Entry Key="2595416203" Color="1" Value="SNAKE APPEAL 1" />
+    <Entry Key="1229457127" Color="1" Value="BASIC APPEAL" />
+    <Entry Key="3810835449" Color="1" Value="BATTLE APPEAL" />
+    <Entry Key="2262218299" Color="1" Value="DANCE APPEAL" />
+    <Entry Key="2121259249" Color="1" Value="HERO APPEAL" />
+    <Entry Key="3187188235" Color="1" Value="You can access this action by purchasing it from the Steam Store." />
+    <Entry Key="485193111" Color="1" Value="You can access this action by purchasing it from the Xbox Games Store." />
+    <Entry Key="1225901469" Color="1" Value="You can access this action by purchasing it from the PlayStation®Store." />
+    <Entry LangId="mgo_UI_Briefing_BGM_SNATCHER" Color="1" Value="THEME OF SNATCHER [PART 1]" />
+    <Entry Key="947705061" Color="1" Value="EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;" />
+    <Entry Key="356399821" Color="1" Value="SURVIVAL BRIEFING" />
+  </Entries>
+</LangFile>

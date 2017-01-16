@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry LangId="mbhelp_name_003" Color="1" Value="[HELP] Staff Management" />
+    <Entry LangId="mbhelp_name_005" Color="1" Value="&lt;I=G=NUMBER_1&gt; Unit Selector" />
+    <Entry LangId="mbhelp_name_006" Color="1" Value="&lt;I=G=NUMBER_1&gt; Staff List" />
+    <Entry LangId="mbhelp_name_007" Color="1" Value="&lt;I=G=NUMBER_1&gt; Status Icons" />
+    <Entry LangId="mbhelp_name_009" Color="1" Value="&lt;I=G=PAD_R2&gt; Sort" />
+    <Entry LangId="mbhelp_name_010" Color="1" Value="&lt;I=G=DECISION&gt;/&lt;I=G=PAD_L2&gt; Reassign/Direct Contract" />
+    <Entry LangId="mbhelp_name_011" Color="1" Value="&lt;I=G=PAD_Y&gt; Switch Display" />
+    <Entry LangId="mbhelp_name_013" Color="1" Value="[HINT] Units" />
+    <Entry LangId="mbhelp_name_014" Color="1" Value="[HINT] Facilities/Categories Besides Units" />
+    <Entry LangId="mbhelp_name_015" Color="1" Value="[HINT] Direct Contracts" />
+    <Entry LangId="mbhelp_name_016" Color="1" Value="[HINT] Unit Functions" />
+    <Entry LangId="mbhelp_name_020" Color="1" Value="[HELP] Staff Management (Changing Assignments)" />
+    <Entry LangId="mbhelp_name_022" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select New Assignment" />
+    <Entry LangId="mbhelp_name_023" Color="1" Value="&lt;I=G=NUMBER_1&gt; Unit Ability Gauges/Unit Functions" />
+    <Entry LangId="mbhelp_name_027" Color="1" Value="[HELP] Staff Management (Staff Info)" />
+    <Entry LangId="mbhelp_name_029" Color="1" Value="&lt;I=G=NUMBER_1&gt; Status Icons" />
+    <Entry LangId="mbhelp_name_030" Color="1" Value="&lt;I=G=NUMBER_1&gt; Medal Icons" />
+    <Entry LangId="mbhelp_name_031" Color="1" Value="&lt;I=G=NUMBER_1&gt; Languages Spoken" />
+    <Entry LangId="mbhelp_name_032" Color="1" Value="&lt;I=G=NUMBER_1&gt; Morale Gauge" />
+    <Entry LangId="mbhelp_name_033" Color="1" Value="&lt;I=G=NUMBER_1&gt; Health Status Gauge" />
+    <Entry LangId="mbhelp_name_034" Color="1" Value="&lt;I=G=NUMBER_1&gt; Ability Gauges" />
+    <Entry LangId="mbhelp_name_035" Color="1" Value="&lt;I=G=NUMBER_1&gt; Skills" />
+    <Entry LangId="mbhelp_name_039" Color="1" Value="[HELP] Staff Management (Unit Functions)" />
+    <Entry LangId="mbhelp_name_041" Color="1" Value="&lt;I=G=NUMBER_1&gt; Unit Functions" />
+    <Entry LangId="mbhelp_name_043" Color="1" Value="[HINT] Unit Functions" />
+    <Entry LangId="mbhelp_name_000" Color="1" Value="&lt;I=G=DECISION&gt; Purchase Waters" />
+    <Entry LangId="mbhelp_info_003" Color="1" Value="View or reassign staff in your private army." />
+    <Entry LangId="mbhelp_info_005" Color="1" Value="Select a unit (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;)." />
+    <Entry LangId="mbhelp_info_006" Color="1" Value="Displays staff in the currently selected unit. Use check marks (&lt;I=G=PAD_X&gt;) to select multiple staff at once." />
+    <Entry LangId="mbhelp_info_007" Color="1" Value="These indicate statuses such as staff contracts and health conditions.&#xA;&#xA;&#xA;&lt;I=G=ICON_SM_SENZOKU&gt; Direct Contract: &#xA;Staff working under a direct contract. These staff will not be reassigned or fired.&#xA;&#xA;&lt;I=G=ICON_SM_NINMU&gt; Currently on Mission: &#xA;Staff currently on a mission. You cannot reassign or fire these staff.&#xA;&#xA;&lt;I=G=ICON_SM_KENKO&gt; Health Condition: &#xA;Staff currently injured or ill." />
+    <Entry LangId="mbhelp_info_009" Color="1" Value="Change the sorting method." />
+    <Entry LangId="mbhelp_info_010" Color="1" Value="Reassign currently selected staff, or sign them under a direct contract. Reassignments will apply to all staff selected with check marks &#xA;(&lt;I=G=PAD_X&gt;)." />
+    <Entry LangId="mbhelp_info_011" Color="1" Value="Display information about currently selected staff or functions of currently selected unit." />
+    <Entry LangId="mbhelp_info_013" Color="1" Value="After staff are extracted, they are automatically placed in the unit for which they have the highest suitability.&#xA;&#xA;&#xA;&lt;I=G=ICON_SM_SENTO&gt; Combat Unit: &#xA;Mercenaries dispatched to bring in regular GMP income.&#xA;&#xA;&lt;I=G=ICON_SM_KEIBI&gt; Security Team: &#xA;Guards base facilities.&#xA;&#xA;&lt;I=G=ICON_SM_KENKYU&gt; R&amp;D Team: &#xA;Develops weapons, items, and other equipment.&#xA;&#xA;&lt;I=G=ICON_SM_KYOTEN&gt; Base Development Unit: &#xA;Procures materials and expands base facilities.&#xA;&#xA;&lt;I=G=ICON_SM_SIEN&gt; Support Unit: &#xA;Provides assistance in the area of operations, including resupplies and fire support. &#xA;&#xA;&lt;I=G=ICON_SM_CYOHO&gt; Intel Team: &#xA;Delivers reports on enemy presence in the area of operations.&#xA;&#xA;&lt;I=G=ICON_SM_IRYO&gt; Medical Team: &#xA;Treats staff injuries and illnesses." />
+    <Entry LangId="mbhelp_info_014" Color="1" Value="Besides units, staff can also be assigned to or placed in the following facilities/categories.&#xA;&#xA;&#xA;&lt;I=G=ICON_SM_TAIKI&gt; Waiting Room: &#xA;Staff who cannot be assigned to a unit for some reason will wait here.&#xA;&#xA;&lt;I=G=ICON_SM_SINRYO&gt; Sickbay: &#xA;Staff who are injured or ill are treated here.&#xA;&#xA;&lt;I=G=ICON_SM_EISO&gt; Brig: &#xA;Staff who are extremely hostile or otherwise problematic are held here until they have been reasoned with.&#xA;&#xA;&lt;I=G=ICON_SM_RIDATSU&gt; Former Staff: &#xA;Displays staff who are no longer in the unit, either because they died, were fired, or chose to leave.&#xA;&#xA;&lt;I=G=ICON_SM_ALL&gt; All: &#xA;Displays all staff in your private army." />
+    <Entry LangId="mbhelp_info_015" Color="1" Value="Staff who have signed a direct contract cannot be assigned missions in which they risk being killed, such as Dispatch Missions or guarding base facilities. In addition, they will not be fired if your base exceeds maximum capacity. Any staff you absolutely do not want to lose should be given a direct contract. However, only up to 10% of your base's maximum capacity can sign a direct contract." />
+    <Entry LangId="mbhelp_info_016" Color="1" Value="The combined abilities of a unit's staff forms its unit level. Raising a unit level can add unit functions and increase unit function ranks. Examples include the following.&#xA;&#xA;&#xA;Developing weapons/items: &#xA;The higher the unit level, the better the equipment you can develop.&#xA;&#xA;Materials Procurement: &#xA;Procure materials in nearby waters, receiving materials on a regular basis.&#xA;&#xA;Fire Support (Bombardment): &#xA;Launch artillery strikes in the area of operations.&#xA;&#xA;Medical Treatment: &#xA;Treat staff injuries and illnesses in sickbay." />
+    <Entry LangId="mbhelp_info_020" Color="1" Value="Reassign or fire staff." />
+    <Entry LangId="mbhelp_info_022" Color="1" Value="Select where staff will be reassigned. If reassigning staff will lower their current unit's level, note that a unit function may decrease in rank or cease entirely." />
+    <Entry LangId="mbhelp_info_023" Color="1" Value="Displays unit ability changes caused by staff reassignment. Once the narrow gauge is full, the unit level goes up by 1. Press &lt;I=G=PAD_Y&gt; to display changes in unit functions." />
+    <Entry LangId="mbhelp_info_027" Color="1" Value="View detailed information about currently selected staff." />
+    <Entry LangId="mbhelp_info_029" Color="1" Value="These indicate statuses such as staff contracts and mission status.&#xA;&#xA;&#xA;&lt;I=G=ICON_SM_SENZOKU&gt; Direct Contract: &#xA;Staff working under a direct contract. These staff will not be reassigned or fired.&#xA;&#xA;&lt;I=G=ICON_SM_NINMU&gt; Currently on Mission: &#xA;Staff currently on a mission. You cannot reassign or fire these staff." />
+    <Entry LangId="mbhelp_info_030" Color="1" Value="Indicates medals staff have received. Medals are awarded to staff for meritorious service, and they boost abilities. Medals include the Medal of Honor, the Service Cross, and the Distinguished Service Medal, each of which has different acquirement criteria.&#xA;&#xA;&#xA;&lt;I=G=ICON_SM_MEIYOSYOU&gt; Medal of Honor: &#xA;Awarded to staff who performed outstanding acts of combat in defense of base facilities.&#xA;&#xA;&lt;I=G=ICON_SM_JYUJISYOU&gt; Service Cross: &#xA;Awarded to staff who fought through extreme conditions and returned alive.&#xA;&#xA;&lt;I=G=ICON_SM_KOUROUSYOU&gt; Distinguished Service Medal: &#xA;Awarded to staff who participated in numerous missions, making significant contributions to the unit." />
+    <Entry LangId="mbhelp_info_031" Color="1" Value="Displays languages that staff speak. Staff may even learn languages spoken by other members of their unit." />
+    <Entry LangId="mbhelp_info_032" Color="1" Value="Indicates staff morale. High morale will boost abilities, while low morale will drain abilities. If morale drops too low, staff may even desert from your army and go AWOL. In the case of staff held in the brig, this indicates how persuaded they are to join/rejoin your army." />
+    <Entry LangId="mbhelp_info_033" Color="1" Value="Indicates staff health status. Placing injured or ill staff anywhere other than sickbay could worsen their condition and result in death.&#xA;&#xA;&#xA;Injured: &#xA;Staff will sometimes be injured on Dispatch Missions or while defending base facilities.&#xA;&#xA;Sick: &#xA;Staff can become ill on Dispatch Missions and elsewhere.&#xA;&#xA;PTSD: Staff will sometimes fall victim to PTSD (Post-traumatic stress disorder) due to Dispatch Missions and other causes." />
+    <Entry LangId="mbhelp_info_034" Color="1" Value="Indicates staff suitability for each unit." />
+    <Entry LangId="mbhelp_info_035" Color="1" Value="Displays staff skills." />
+    <Entry LangId="mbhelp_info_039" Color="1" Value="View the unit functions of the currently selected unit." />
+    <Entry LangId="mbhelp_info_041" Color="1" Value="The rank of a unit function changes according to that unit's level. Increasing the rank will result in better performance of that function.&#xA;&#xA;&#xA;Add/Up Level: &#xA;Indicates the unit level at which a unit function will be added or have its rank increase." />
+    <Entry LangId="mbhelp_info_000" Color="1" Value="Request supply drop of selected development item." />
+    <Entry LangId="mbhelp_name_115" Color="1" Value="[HELP] Dispatch Missions" />
+    <Entry LangId="mbhelp_name_117" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_118" Color="1" Value="&lt;I=G=NUMBER_1&gt; Mission List" />
+    <Entry LangId="mbhelp_name_119" Color="1" Value="&lt;I=G=NUMBER_1&gt; Fighting Ability" />
+    <Entry LangId="mbhelp_name_120" Color="1" Value="&lt;I=G=NUMBER_1&gt; Success Probability/Predicted Losses" />
+    <Entry LangId="mbhelp_name_122" Color="1" Value="&lt;I=G=DECISION&gt; Dispatch Unit" />
+    <Entry LangId="mbhelp_name_123" Color="1" Value="&lt;I=G=DECISION&gt; Finish Now (Reduced Time)" />
+    <Entry LangId="mbhelp_name_124" Color="1" Value="&lt;I=G=PAD_Y&gt; Assemble Unit" />
+    <Entry LangId="mbhelp_name_128" Color="1" Value="[HELP] Dispatch Missions: Forming Units" />
+    <Entry LangId="mbhelp_name_132" Color="1" Value="[HELP] Resource Management" />
+    <Entry LangId="mbhelp_name_134" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_135" Color="1" Value="&lt;I=G=NUMBER_1&gt; Resource List" />
+    <Entry LangId="mbhelp_name_137" Color="1" Value="&lt;I=G=DECISION&gt; Sell" />
+    <Entry LangId="mbhelp_name_139" Color="1" Value="[HINT] Resources" />
+    <Entry LangId="mbhelp_name_140" Color="1" Value="[HINT] Materials (Processed)" />
+    <Entry LangId="mbhelp_name_141" Color="1" Value="[HINT] Materials (Unprocessed)" />
+    <Entry LangId="mbhelp_name_142" Color="1" Value="[HINT] Medicinal Plants (1)" />
+    <Entry LangId="mbhelp_name_143" Color="1" Value="[HINT] Vehicles" />
+    <Entry LangId="mbhelp_name_147" Color="1" Value="[HELP] Encyclopedia" />
+    <Entry LangId="mbhelp_name_149" Color="1" Value="&lt;I=G=PAD_Y&gt; Switch Display" />
+    <Entry LangId="mbhelp_name_153" Color="1" Value="[HELP] Documentation" />
+    <Entry LangId="mbhelp_name_157" Color="1" Value="[HELP] Cassette Tapes" />
+    <Entry LangId="mbhelp_name_159" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_160" Color="1" Value="&lt;I=G=NUMBER_1&gt; Cassette Tape List" />
+    <Entry LangId="mbhelp_name_161" Color="1" Value="&lt;I=G=NUMBER_1&gt; Track List" />
+    <Entry LangId="mbhelp_name_162" Color="1" Value="&lt;I=G=NUMBER_1&gt; Control Panel" />
+    <Entry LangId="mbhelp_name_164" Color="1" Value="&lt;I=G=DECISION&gt; Play" />
+    <Entry LangId="mbhelp_name_165" Color="1" Value="&lt;I=G=NUMBER_1&gt; Speakers ON/OFF" />
+    <Entry LangId="mbhelp_name_169" Color="1" Value="[HELP] Log" />
+    <Entry LangId="mbhelp_name_171" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_175" Color="1" Value="[HELP] Customization (Weapons)" />
+    <Entry LangId="mbhelp_name_182" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info" />
+    <Entry LangId="mbhelp_name_183" Color="1" Value="&lt;I=G=NUMBER_1&gt; Usage Requirements" />
+    <Entry LangId="mbhelp_name_192" Color="1" Value="&lt;I=G=NUMBER_1&gt; Development List" />
+    <Entry LangId="mbhelp_name_195" Color="1" Value="&lt;I=G=NUMBER_1&gt; Colors List" />
+    <Entry LangId="mbhelp_name_215" Color="1" Value="[HELP] iDroid Mode (Map)" />
+    <Entry LangId="mbhelp_name_217" Color="1" Value="&lt;I=G=NUMBER_1&gt; iDroid Mode" />
+    <Entry LangId="mbhelp_name_218" Color="1" Value="&lt;I=G=NUMBER_1&gt; Map" />
+    <Entry LangId="mbhelp_name_219" Color="1" Value="&lt;I=G=NUMBER_1&gt; Mission Info" />
+    <Entry LangId="mbhelp_name_220" Color="1" Value="&lt;I=G=NUMBER_1&gt; Action Menu" />
+    <Entry LangId="mbhelp_name_221" Color="1" Value="&lt;I=G=NUMBER_1&gt; Map Menu" />
+    <Entry LangId="mbhelp_name_222" Color="1" Value="&lt;I=G=NUMBER_1&gt; Fulton Recovery Device/Status" />
+    <Entry LangId="mbhelp_name_224" Color="1" Value="&lt;I=G=PAD_Y&gt; Navigation Mode ON/OFF" />
+    <Entry LangId="mbhelp_name_225" Color="1" Value="&lt;I=G=PAD_X&gt; Intel Radio" />
+    <Entry LangId="mbhelp_name_226" Color="1" Value="&lt;I=G=PAD_L2&gt; Switch Compass" />
+    <Entry LangId="mbhelp_name_227" Color="1" Value="&lt;I=G=PAD_L2&gt;&lt;I=G=PAD_R2&gt; Adjust Zoom" />
+    <Entry LangId="mbhelp_name_228" Color="1" Value="&lt;I=G=PAD_L3&gt; Reset Coordinates" />
+    <Entry LangId="mbhelp_name_229" Color="1" Value="&lt;I=G=PAD_R3&gt; Switch Zoom" />
+    <Entry LangId="mbhelp_name_233" Color="1" Value="[HELP] iDroid Mode (Navigation)" />
+    <Entry LangId="mbhelp_name_235" Color="1" Value="&lt;I=G=NUMBER_1&gt; iDroid Mode" />
+    <Entry LangId="mbhelp_name_236" Color="1" Value="&lt;I=G=NUMBER_1&gt; Map" />
+    <Entry LangId="mbhelp_name_237" Color="1" Value="&lt;I=G=NUMBER_1&gt; Status" />
+    <Entry LangId="mbhelp_name_239" Color="1" Value="&lt;I=G=PAD_Y&gt; Navigation Mode" />
+    <Entry LangId="mbhelp_name_240" Color="1" Value="&lt;I=G=PAD_L2&gt;/&lt;I=G=PAD_R2&gt; Fine Zoom" />
+    <Entry LangId="mbhelp_name_241" Color="1" Value="&lt;I=G=PAD_R3&gt; Zoom In/Out" />
+    <Entry LangId="mbhelp_name_245" Color="1" Value="[HELP] iDroid Mode (Mother Base)" />
+    <Entry LangId="mbhelp_name_247" Color="1" Value="&lt;I=G=NUMBER_1&gt; Base Information" />
+    <Entry LangId="mbhelp_name_249" Color="1" Value="&lt;I=G=PAD_LEFT&gt;&lt;I=G=PAD_RIGHT&gt; Switch Platforms" />
+    <Entry LangId="mbhelp_name_251" Color="1" Value="[HINT] Mother Base Menu" />
+    <Entry LangId="mbhelp_name_255" Color="1" Value="[HELP] iDroid Mode (Missions)" />
+    <Entry LangId="mbhelp_name_257" Color="1" Value="&lt;I=G=NUMBER_1&gt; Mission Info" />
+    <Entry LangId="mbhelp_name_258" Color="1" Value="&lt;I=G=NUMBER_1&gt; Mission Tasks" />
+    <Entry LangId="mbhelp_name_259" Color="1" Value="&lt;I=G=NUMBER_1&gt; Mission Documents" />
+    <Entry LangId="mbhelp_name_261" Color="1" Value="&lt;I=G=PAD_LEFT&gt;&lt;I=G=PAD_RIGHT&gt; Switch Document" />
+    <Entry LangId="mbhelp_name_263" Color="1" Value="[HINT] Missions Menu" />
+    <Entry LangId="mbhelp_name_264" Color="1" Value="[HINT] Missions Menu" />
+    <Entry LangId="mbhelp_name_268" Color="1" Value="[HELP] Mission List" />
+    <Entry LangId="mbhelp_name_270" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_271" Color="1" Value="&lt;I=G=NUMBER_1&gt; Mission List" />
+    <Entry LangId="mbhelp_name_272" Color="1" Value="&lt;I=G=NUMBER_1&gt; Mission Area" />
+    <Entry LangId="mbhelp_name_274" Color="1" Value="[HINT] About Missions" />
+    <Entry LangId="mbhelp_name_275" Color="1" Value="[HINT] About SIDE OPS" />
+    <Entry LangId="mbhelp_name_279" Color="1" Value="[HELP] Emergency Missions" />
+    <Entry LangId="mbhelp_name_281" Color="1" Value="Category Selector" />
+    <Entry LangId="mbhelp_name_282" Color="1" Value="Select Mission" />
+    <Entry LangId="mbhelp_name_283" Color="1" Value="Mission Area" />
+    <Entry LangId="mbhelp_name_285" Color="1" Value="[HINT] About Missions" />
+    <Entry LangId="mbhelp_name_286" Color="1" Value="[HINT] About SIDE OPS (Quests)" />
+    <Entry LangId="mbhelp_name_290" Color="1" Value="[HELP] Rewards" />
+    <Entry LangId="mbhelp_name_292" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rewards List" />
+    <Entry LangId="mbhelp_name_294" Color="1" Value="&lt;I=G=DECISION&gt; Accept" />
+    <Entry LangId="mbhelp_name_295" Color="1" Value="&lt;I=G=PAD_X&gt; Accept All" />
+    <Entry LangId="mbhelp_name_303" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info" />
+    <Entry LangId="mbhelp_name_304" Color="1" Value="&lt;I=G=NUMBER_1&gt; Usage Requirements" />
+    <Entry LangId="mbhelp_name_308" Color="1" Value="[HINT] Weapon Categories" />
+    <Entry LangId="mbhelp_name_309" Color="1" Value="[HINT] Secondary Weapons" />
+    <Entry LangId="mbhelp_name_310" Color="1" Value="[HINT] Primary Weapons (HIP)" />
+    <Entry LangId="mbhelp_name_311" Color="1" Value="[HINT] Primary Weapons (BACK)" />
+    <Entry LangId="mbhelp_name_312" Color="1" Value="[HINT] Support Weapons" />
+    <Entry LangId="mbhelp_name_313" Color="1" Value="[HINT] Items" />
+    <Entry LangId="mbhelp_name_314" Color="1" Value="[HINT] Tools" />
+    <Entry LangId="mbhelp_name_315" Color="1" Value="[HINT] Prosthetic Arms" />
+    <Entry LangId="mbhelp_name_316" Color="1" Value="[HINT] Uniforms" />
+    <Entry LangId="mbhelp_name_325" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info" />
+    <Entry LangId="mbhelp_name_326" Color="1" Value="&lt;I=G=NUMBER_1&gt; Usage Requirements" />
+    <Entry LangId="mbhelp_name_328" Color="1" Value="&lt;I=G=PAD_Y&gt; Switch Display" />
+    <Entry LangId="mbhelp_name_330" Color="1" Value="[HELP] About Rentals" />
+    <Entry LangId="mbhelp_name_331" Color="1" Value="Weapon Categories" />
+    <Entry LangId="mbhelp_name_332" Color="1" Value="[HINT] Secondary Weapons" />
+    <Entry LangId="mbhelp_name_333" Color="1" Value="[HINT] Primary Weapons (HIP)" />
+    <Entry LangId="mbhelp_name_334" Color="1" Value="[HINT] Primary Weapons (BACK)" />
+    <Entry LangId="mbhelp_name_335" Color="1" Value="[HINT] Support Weapons" />
+    <Entry LangId="mbhelp_name_336" Color="1" Value="[HINT] Items" />
+    <Entry LangId="mbhelp_name_337" Color="1" Value="[HINT] Tools" />
+    <Entry LangId="mbhelp_name_338" Color="1" Value="[HINT] Prosthetic Arms" />
+    <Entry LangId="mbhelp_name_339" Color="1" Value="[HINT] Uniforms" />
+    <Entry LangId="mbhelp_name_350" Color="1" Value="[HELP] Buddy Request: Quiet (Outpost Recon)" />
+    <Entry LangId="mbhelp_name_352" Color="1" Value="&lt;I=G=NUMBER_1&gt; Weapon List" />
+    <Entry LangId="mbhelp_name_354" Color="1" Value="[HINT] About Quiet" />
+    <Entry LangId="mbhelp_name_358" Color="1" Value="[HELP] Buddy Request (D-Dog)" />
+    <Entry LangId="mbhelp_name_360" Color="1" Value="&lt;I=G=NUMBER_1&gt; Equipment List" />
+    <Entry LangId="mbhelp_name_362" Color="1" Value="[HINT] About D-Dog" />
+    <Entry LangId="mbhelp_name_366" Color="1" Value="[HELP] Buddy Request (D-Horse)" />
+    <Entry LangId="mbhelp_name_368" Color="1" Value="&lt;I=G=NUMBER_1&gt; Equipment List" />
+    <Entry LangId="mbhelp_name_370" Color="1" Value="[HINT] About D-Horse" />
+    <Entry LangId="mbhelp_name_374" Color="1" Value="[HELP] Buddy Request (D-Walker)" />
+    <Entry LangId="mbhelp_name_376" Color="1" Value="&lt;I=G=NUMBER_1&gt; Customizations List" />
+    <Entry LangId="mbhelp_name_378" Color="1" Value="[HINT] About D-Walker" />
+    <Entry LangId="mbhelp_name_382" Color="1" Value="[HELP] Fire Support (Bombardment)" />
+    <Entry LangId="mbhelp_name_384" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Strike Point" />
+    <Entry LangId="mbhelp_name_388" Color="1" Value="[HELP] Fire Support (Smoke Dispersal)" />
+    <Entry LangId="mbhelp_name_390" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Strike Point" />
+    <Entry LangId="mbhelp_name_394" Color="1" Value="[HELP] Fire Support (Sleeping Gas Dispersal)" />
+    <Entry LangId="mbhelp_name_396" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Strike Point" />
+    <Entry LangId="mbhelp_name_400" Color="1" Value="[HELP] Fire Support (Chaff Dispersal)" />
+    <Entry LangId="mbhelp_name_402" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Strike Point" />
+    <Entry LangId="mbhelp_name_406" Color="1" Value="[HELP] Helicopter Request (Exfiltration)" />
+    <Entry LangId="mbhelp_name_408" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Extraction Point" />
+    <Entry LangId="mbhelp_name_412" Color="1" Value="[HELP] Helicopter Request (Air Support)" />
+    <Entry LangId="mbhelp_name_414" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Strike Point" />
+    <Entry LangId="mbhelp_name_431" Color="1" Value="[HELP] Change Areas" />
+    <Entry LangId="mbhelp_name_433" Color="1" Value="&lt;I=G=NUMBER_1&gt; Map" />
+    <Entry LangId="mbhelp_info_115" Color="1" Value="Deploy special units comprised of staff from the various teams/units accompanied by captured vehicles (etc.) on missions, to earn GMP, resources, and new recruits." />
+    <Entry LangId="mbhelp_info_117" Color="1" Value="Used for selecting a mission category (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;)." />
+    <Entry LangId="mbhelp_info_118" Color="1" Value="Displays missions belonging to the selected category. The list displays (from left to right) the Mission Name, Main Reward, Difficulty, and SITREP (progress status) for each mission." />
+    <Entry LangId="mbhelp_info_119" Color="1" Value="Displays the fighting abilities of both the unit you have assembled and the threat that will be encountered during the mission. This threat is not necessarily limited to an enemy force; it can also represent the risk of other occurrences such as accidents, natural disasters, and staff going AWOL." />
+    <Entry LangId="mbhelp_info_120" Color="1" Value="Indicates whether the current unit formation will enable it to complete the mission, as well as what kind of losses can be expected upon its completion." />
+    <Entry LangId="mbhelp_info_122" Color="1" Value="Deploy unit on mission." />
+    <Entry LangId="mbhelp_info_123" Color="1" Value="Use MB Coins (paid currency) to finish the selected mission immediately." />
+    <Entry LangId="mbhelp_info_124" Color="1" Value="Change the formation of the unit." />
+    <Entry LangId="mbhelp_info_128" Color="1" Value="The unit to be deployed is formed automatically (based on unit requirements) when selecting a mission, but you can also edit it manually to fit a certain purpose, such as increasing the success probability or reducing losses." />
+    <Entry LangId="mbhelp_info_132" Color="1" Value="View and sell materials and medicinal plants required for developing weapons and items and expanding base facilities.&#xA;You can also view and sell vehicles you have captured." />
+    <Entry LangId="mbhelp_info_134" Color="1" Value="Used for selecting a resource category (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;).&#xA;Materials are divided into processed materials, which can be used immediately to develop weapons and items and expand base facilities, and unprocessed materials (materials containers), which must first be processed by the Base Development Unit." />
+    <Entry LangId="mbhelp_info_135" Color="1" Value="Displays resources in the selected category.&#xA;The list displays (from left to right) Resource Name, Amount, and Sale Value." />
+    <Entry LangId="mbhelp_info_137" Color="1" Value="Sell materials, medicinal plants, and vehicles in your possession for GMP." />
+    <Entry LangId="mbhelp_info_139" Color="1" Value="Resources include the raw materials and fuel needed to develop and use weapons, items, and vehicles and expand base facilities.&#xA;These can be obtained by Fulton extracting materials containers in the areas of operations, by gathering medicinal plants, through the Base Development Unit's &quot;Materials Procurement&quot; unit function, or as Dispatch Mission rewards." />
+    <Entry LangId="mbhelp_info_140" Color="1" Value="These include minerals that can be turned into fuel and raw materials for metals, and also organic matter.&#xA;&#xA;&#xA;&lt;I=G=ICON_RS_COMMON_M&gt; Common Metals (CM): &#xA;Materials needed to develop and use ammo, support weapons, and vehicles, as well as expand base facilities.&#xA;&#xA;&lt;I=G=ICON_RS_MINER_M&gt; Minor Metals (MM): &#xA;Materials needed to develop and use ammo, support weapons, and vehicles, as well as expand base facilities.&#xA;&#xA;&lt;I=G=ICON_RS_PRECIOUS_M&gt; Precious Metals (PM): &#xA;Materials that can be sold for GMP at a high conversion rate.&#xA;&#xA;&lt;I=G=ICON_RS_NENRYO&gt; Fuel Resources (FR): &#xA;Materials needed to develop and use ammo and expand base facilities.&#xA;&#xA;&lt;I=G=ICON_RS_SEIBUTSU&gt; Biological Resources (BR): &#xA;Materials needed to develop and use ammo, support weapons, and consumable items, as well as expand base facilities." />
+    <Entry LangId="mbhelp_info_141" Color="1" Value="Materials obtained via capturing materials containers and the &quot;Materials Procurement&quot; unit function are unprocessed, and must be turned into processed materials by the Base Development Unit before they can be used.&#xA;The Base Development Unit's &quot;Materials Processing&quot; unit function does this automatically, and increasing that unit's level will reduce processing time.&#xA;Also, the color of materials containers differs according to their capacity. The amount of materials stored inside varies as follows:&#xA;&#xA;White: 100 units&#xA;Yellow: 300 units&#xA;Red: 500 units" />
+    <Entry LangId="mbhelp_info_142" Color="1" Value="Medicinal plants are plants that grow in the areas of operations and from which medicinal compounds can be extracted.&#xA;&#xA;&#xA;&lt;I=G=ICON_RS_WORM&gt; Wormwood: &#xA;Needed to use the Phantom Cigar.&#xA;&#xA;&lt;I=G=ICON_RS_BLACK&gt; Black Carrot: &#xA;Needed to develop and use the bait bottle.&#xA;&#xA;&lt;I=G=ICON_RS_GOLDEN&gt; Golden Crescent: &#xA;Needed to upgrade tranquilizer rounds.&#xA;&#xA;&lt;I=G=ICON_RS_TARAGON&gt; Tarragon: &#xA;Needed to develop and use pentazemin and acceleramin.&#xA;" />
+    <Entry LangId="mbhelp_info_143" Color="1" Value="Vehicles captured via Fulton extraction can be deployed to the areas of operations and used there, or added to Dispatch Mission units to increase their fighting ability." />
+    <Entry LangId="mbhelp_info_147" Color="1" Value="View information on topics such as wild animals extracted from the areas of operations, medicinal plants needed for development, and requirements for earning the various codenames." />
+    <Entry LangId="mbhelp_info_149" Color="1" Value="Displays records of where the selected wild animal or medicinal plant was captured/picked." />
+    <Entry LangId="mbhelp_info_153" Color="1" Value="View blueprints, key items, etc. obtained in the areas of operations or on Dispatch Missions." />
+    <Entry LangId="mbhelp_info_157" Color="1" Value="Listen to the various cassette tapes obtained during missions." />
+    <Entry LangId="mbhelp_info_159" Color="1" Value="Used for selecting a cassette tape category &#xA;(&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;).&#xA;&#xA;&#xA;Info Tapes: &#xA;Tapes containing various information obtained during missions.&#xA;&#xA;Music Tapes: &#xA;Tape recordings of music, obtained in the area of operations or by other means.&#xA;&#xA;Acquired Tapes: &#xA;Tapes of unknown purpose acquired in the area of operations or by other means." />
+    <Entry LangId="mbhelp_info_160" Color="1" Value="Displays the list of cassette tapes you have obtained in the selected category." />
+    <Entry LangId="mbhelp_info_161" Color="1" Value="Displays the names of tracks on the selected cassette tape." />
+    <Entry LangId="mbhelp_info_162" Color="1" Value="Control playback of the selected cassette tape. After changing the cursor position with &lt;I=G=PAD_R2&gt;, select the desired operation." />
+    <Entry LangId="mbhelp_info_164" Color="1" Value="Plays the cassette tape." />
+    <Entry LangId="mbhelp_info_165" Color="1" Value="Playing cassette tapes with the speakers set to ON will enable the speech/music on the tape to be heard by anyone or anything within earshot.&#xA;*The speaker function can only be used once you have developed the iDroid (tool) to Grade 2." />
+    <Entry LangId="mbhelp_info_169" Color="1" Value="View a log of radio conversations and messages displayed on the screen." />
+    <Entry LangId="mbhelp_info_171" Color="1" Value="Used for selecting a log category (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;).&#xA;&#xA;&#xA;Radio: &#xA;View radio conversations.&#xA;&#xA;Conversations: &#xA;View in-game conversations.&#xA;&#xA;Messages: &#xA;View messages displayed on-screen.&#xA;&#xA;Guide: &#xA;View controls help or Tips messages displayed on-screen.&#xA;&#xA;Trials: &#xA;View Trial records-related messages.&#xA;&#xA;MB Coins:&#xA;View your MB Coin transaction history.&#xA;* Only accessible while online.&#xA;&#xA;Cutscenes: &#xA;View cutscene conversations." />
+    <Entry LangId="mbhelp_info_175" Color="1" Value="Customize (add/change parts of) weapons that have already been developed." />
+    <Entry LangId="mbhelp_info_183" Color="1" Value="Indicates the usage requirement (cost) of using the customized weapon. " />
+    <Entry LangId="mbhelp_info_192" Color="1" Value="Configurations for up to three custom vehicles can be stored. Select a slot to perform customization." />
+    <Entry LangId="mbhelp_info_195" Color="1" Value="Displays colorations belonging to the currently selected category." />
+    <Entry LangId="mbhelp_info_215" Color="1" Value="Displays a map of the area of operations." />
+    <Entry LangId="mbhelp_info_217" Color="1" Value="Used for changing the iDroid's mode (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;).&#xA;&#xA;&#xA;MOTHER BASE: &#xA;View Mother Base-related data, or order staff to carry out development and base expansion.&#xA;&#xA;MAP: &#xA;View a map of the area of operations.&#xA;&#xA;MISSIONS: &#xA;View mission-related data, or request supplies and staff deployments." />
+    <Entry LangId="mbhelp_info_218" Color="1" Value="View a map of the entirety of your current location (area of operations, etc.)." />
+    <Entry LangId="mbhelp_info_219" Color="1" Value="Displays objective(s) and elapsed time of your current mission." />
+    <Entry LangId="mbhelp_info_220" Color="1" Value="Perform the following actions (&lt;I=G=DECISION&gt;) on locations on the map specified using the cursor.&#xA;&#xA;&#xA;Place/Remove Markers: &#xA;Place or remove a marker on the specified area.&#xA;&#xA;Ammo/Fulton Recovery Device Resupply: &#xA;Have ammo, suppressors, consumable items, and Fulton recovery devices dropped in to the specified area.&#xA;&#xA;Support Helicopter: &#xA;Call in a support helicopter to the specified landing zone.&#xA;&#xA;Remove All Markers: &#xA;Remove all placed markers.&#xA;&#xA;&#xA;*Other actions may be made available according to the situation." />
+    <Entry LangId="mbhelp_info_221" Color="1" Value="Change the map display mode (&lt;I=G=PAD_LEFT&gt;&lt;I=G=PAD_RIGHT&gt;).&#xA;&#xA;&#xA;Map: &#xA;Standard map mode.&#xA;&#xA;Aerial Photo: &#xA;Displays the map as seen in an aerial photo.&#xA;&#xA;&#xA;Map (North Up): &#xA;Displays map with north pointing up.&#xA;&#xA;Map (Heading Up): &#xA;Displays map with direction you are facing pointing up.&#xA;&#xA;Aerial Photo (Heading Up): &#xA;Displays aerial photo with direction you are facing pointing up.&#xA;&#xA;Aerial Photo (North Up): &#xA;Displays aerial photo with north pointing up." />
+    <Entry LangId="mbhelp_info_222" Color="1" Value="Displays the current number of Fulton recovery devices on your person, as well as your status. Status indicates (from top to bottom) the current local time, Diamond Dogs' GMP, and your Heroism." />
+    <Entry LangId="mbhelp_info_224" Color="1" Value="Change the iDroid to Navigation Mode." />
+    <Entry LangId="mbhelp_info_225" Color="1" Value="Receive information on locations or persons you specify with the map cursor. (*only if information is available)" />
+    <Entry LangId="mbhelp_info_226" Color="1" Value="Change map orientation so that either the direction you are facing points up, or north points up." />
+    <Entry LangId="mbhelp_info_227" Color="1" Value="Adjust the map's zoom level." />
+    <Entry LangId="mbhelp_info_228" Color="1" Value="Reset the map's display position." />
+    <Entry LangId="mbhelp_info_229" Color="1" Value="Change the map's zoom level." />
+    <Entry LangId="mbhelp_info_233" Color="1" Value="Navigation Mode allows you to move around the game world while keeping the map displayed." />
+    <Entry LangId="mbhelp_info_236" Color="1" Value="Displays the map in Navigation Mode, convenient when riding D-Horse or moving by vehicle." />
+    <Entry LangId="mbhelp_info_245" Color="1" Value="View various Mother Base-related data, or order staff to develop weapons or items or expand base facilities." />
+    <Entry LangId="mbhelp_info_247" Color="1" Value="Displays information such as the status of each Mother Base platform and the level of each unit." />
+    <Entry LangId="mbhelp_info_249" Color="1" Value="Change the platform for which data is displayed." />
+    <Entry LangId="mbhelp_info_251" Color="1" Value="The MOTHER BASE menu contains the following categories.&#xA;&#xA;&#xA;CUSTOMIZE: &#xA;Customize weapons and vehicles. (*ACC only)&#xA;&#xA;DEVELOPMENT: &#xA;Develop weapons and items.&#xA;&#xA;RESOURCES: &#xA;Manage materials and medicinal plants.&#xA;&#xA;STAFF MANAGEMENT: &#xA;Manage staff.&#xA;&#xA;BASE FACILITIES: &#xA;Manage base.&#xA;&#xA;DATABASE: &#xA;View various information and records.&#xA;&#xA;&#xA;*Some options can only be accessed from the Aerial Command Center (ACC)." />
+    <Entry LangId="mbhelp_info_255" Color="1" Value="View various mission-related data, or request weapon/ammo supplies or support helicopter deployments. " />
+    <Entry LangId="mbhelp_info_257" Color="1" Value="Displays objective(s) and elapsed time of your current mission." />
+    <Entry LangId="mbhelp_info_258" Color="1" Value="Displays tasks that can be completed during the mission.&#xA;*Not displayed for missions you have not completed." />
+    <Entry LangId="mbhelp_info_259" Color="1" Value="Displays documentation relevant to the mission." />
+    <Entry LangId="mbhelp_info_261" Color="1" Value="Change document being displayed." />
+    <Entry LangId="mbhelp_info_263" Color="1" Value="The MISSIONS menu contains the following categories.&#xA;&#xA;&#xA;EMERGENCIES: &#xA;View and accept emergency missions. (*only when one is available)&#xA;&#xA;MISSION LIST: &#xA;View and accept missions. (*during free roam only)&#xA;&#xA;SUPPLY DROP: &#xA;Request supply drop of weapons or ammo/suppressors.&#xA;&#xA;BUDDY SUPPORT: &#xA;Request deployment of a buddy.&#xA;&#xA;FIRE SUPPORT: &#xA;Request a strike on the area of operations.&#xA;&#xA;HELICOPTER: &#xA;Request a support helicopter be deployed.&#xA;&#xA;SIDE OPS LIST: &#xA;View SIDE OPS.&#xA;&#xA;COMBAT DEPLOYMENT: &#xA;Dispatch staff on missions.&#xA;&#xA;CASSETTE TAPES:&#xA;Play cassette tapes.&#xA;&#xA;LOG: &#xA;View log.&#xA;&#xA;&#xA;*This menu changes in the Aerial Command Center." />
+    <Entry LangId="mbhelp_info_264" Color="1" Value="The MISSIONS menu contains the following categories.&#xA;&#xA;&#xA;EMERGENCIES: &#xA;View and accept emergency missions. (*only when one is available)&#xA;&#xA;MISSION LIST: &#xA;View and accept missions.&#xA;&#xA;FOB MISSIONS: &#xA;Infiltrate a rival's FOB.&#xA;&#xA;CHANGE LOCATION: &#xA;Travel to an area of operations or Mother Base.&#xA;&#xA;RIVALS: &#xA;View and add ally PFs and enemy PFs.&#xA;&#xA;&#xA;*Menu content changes while in the area of operations." />
+    <Entry LangId="mbhelp_info_268" Color="1" Value="View and accept missions.&#xA;In addition to newly available missions, you can also re-accept missions you have already completed." />
+    <Entry LangId="mbhelp_info_270" Color="1" Value="Used for selecting a mission category." />
+    <Entry LangId="mbhelp_info_271" Color="1" Value="Displays missions that can currently be accepted. The list displays (from left to right) the Mission Name, AO, GMP Reward, Completion Rank, and Mission Task Completion." />
+    <Entry LangId="mbhelp_info_272" Color="1" Value="Indicates where the currently selected mission takes place. Leaving this area while the mission is underway will result in the mission being aborted." />
+    <Entry LangId="mbhelp_info_274" Color="1" Value="New missions become available as you complete those that are currently available, or SIDE OPS. Also, while most missions can be replayed after you have completed them, some missions take place as recollections of the past when you replay them." />
+    <Entry LangId="mbhelp_info_275" Color="1" Value="SIDE OPS are operational activities that occur independently from missions you accept. You can view which ones you can currently undertake from the SIDE OPS List." />
+    <Entry LangId="mbhelp_info_279" Color="1" Value="View and accept emergency missions.&#xA;These are displayed only when a mission of particular urgency has occurred, such as Mother Base coming under attack." />
+    <Entry LangId="mbhelp_info_281" Color="1" Value="Used for selecting a mission category." />
+    <Entry LangId="mbhelp_info_290" Color="1" Value="Accept rewards earned through staff actions such as Dispatch Missions and successfully defending base facilities." />
+    <Entry LangId="mbhelp_info_292" Color="1" Value="A list of rewards you can currently accept.&#xA;The list displays (from left to right) the operational activity in question and reward details." />
+    <Entry LangId="mbhelp_info_294" Color="1" Value="Accept selected reward(s)." />
+    <Entry LangId="mbhelp_info_295" Color="1" Value="Accept all available rewards." />
+    <Entry LangId="mbhelp_info_304" Color="1" Value="Displays the GMP and resources necessary for using selected weapon or item." />
+    <Entry LangId="mbhelp_info_326" Color="1" Value="Displays the GMP and resources necessary for using the selected loadout." />
+    <Entry LangId="mbhelp_info_330" Color="1" Value="Rent a loadout from a supporter. However, loadouts cannot be rented repeatedly. Also, if you are renting weapons or items you have not yet developed at your Mother Base, you will not be able to receive ammo/suppressor/consumable item resupplies for them." />
+    <Entry LangId="mbhelp_info_350" Color="1" Value="Order tactical buddy &quot;Quiet&quot; to recon an outpost or guard post." />
+    <Entry LangId="mbhelp_info_352" Color="1" Value="Select a weapon for Quiet." />
+    <Entry LangId="mbhelp_info_354" Color="1" Value="Quiet is a buddy who can be ordered to snipe enemies or scout outposts you are going to infiltrate. Use &lt;I=G=PAD_L1&gt; to issue various orders to buddies." />
+    <Entry LangId="mbhelp_info_358" Color="1" Value="Request the deployment of tactical buddy &quot;D-Dog.&quot;" />
+    <Entry LangId="mbhelp_info_360" Color="1" Value="Select equipment for D-Dog." />
+    <Entry LangId="mbhelp_info_362" Color="1" Value="D-Dog is a buddy who will search for enemies across a wide area, and can also be ordered to attack them. Use &lt;I=G=PAD_L1&gt; to issue various orders to buddies." />
+    <Entry LangId="mbhelp_info_366" Color="1" Value="Request the deployment of tactical buddy &quot;D-Horse.&quot;" />
+    <Entry LangId="mbhelp_info_368" Color="1" Value="Select equipment for D-Horse." />
+    <Entry LangId="mbhelp_info_370" Color="1" Value="D-Horse is a buddy that makes traversing long distances easy. &#xA;Use &lt;I=G=PAD_L1&gt; to issue various orders to buddies." />
+    <Entry LangId="mbhelp_info_374" Color="1" Value="Request the deployment of tactical buddy &quot;D-Walker.&quot;" />
+    <Entry LangId="mbhelp_info_376" Color="1" Value="Select customization status (armament) for D-Walker." />
+    <Entry LangId="mbhelp_info_378" Color="1" Value="D-Walker is a buddy that is well suited to both traversing long distances and engaging the enemy. Use &lt;I=G=PAD_L1&gt; to issue various orders to buddies." />
+    <Entry LangId="mbhelp_info_382" Color="1" Value="Request artillery strike in the area of operations." />
+    <Entry LangId="mbhelp_info_384" Color="1" Value="Used for designating an attack target." />
+    <Entry LangId="mbhelp_info_388" Color="1" Value="Request dispersal of smoke in the area of operations." />
+    <Entry LangId="mbhelp_info_394" Color="1" Value="Request dispersal of sleeping gas in the area of operations." />
+    <Entry LangId="mbhelp_info_400" Color="1" Value="Request dispersal of chaff in the area of operations." />
+    <Entry LangId="mbhelp_info_406" Color="1" Value="Request deployment/relocation of support helicopter. Upon boarding the helicopter, you will exfiltrate from that area." />
+    <Entry LangId="mbhelp_info_408" Color="1" Value="Used for selecting support helicopter's drop point." />
+    <Entry LangId="mbhelp_info_412" Color="1" Value="Request supporting fire from the support helicopter." />
+    <Entry LangId="mbhelp_info_431" Color="1" Value="Travel to an area of operations or Mother Base. During free roam, which is when you are not currently undertaking a mission, you can move freely around all areas." />
+    <Entry LangId="mbhelp_info_433" Color="1" Value="Displays a map of the currently selected area." />
+    <Entry LangId="mbhelp_info_452" Color="1" Value="Order support helicopter to depart the mission area." />
+    <Entry LangId="mbhelp_info_456" Color="1" Value="Change a buddy's color or customize the buddy (add/change armament). " />
+    <Entry LangId="mbhelp_info_457" Color="1" Value="Request the deployment of tactical buddy &quot;Battle Gear.&quot;" />
+    <Entry LangId="mbhelp_info_458" Color="1" Value="Request modification of the weather in the area of operations." />
+    <Entry LangId="mbhelp_name_452" Color="1" Value="[HELP] Helicopter Request (Withdrawal)" />
+    <Entry LangId="mbhelp_name_456" Color="1" Value="[HELP] Customize Buddy" />
+    <Entry LangId="mbhelp_name_457" Color="1" Value="[HELP] Buddy Request (Battle Gear)" />
+    <Entry LangId="mbhelp_name_458" Color="1" Value="[HELP] Fire Support (Weather Modification)" />
+    <Entry LangId="mbhelp_info_459" Color="1" Value="Play cassette tape for a briefing on the selected mission's objective." />
+    <Entry LangId="mbhelp_name_459" Color="1" Value="&lt;I=G=PAD_X&gt; Play Briefing Tape" />
+    <Entry LangId="mbhelp_name_181" Color="1" Value="Category Selector" />
+    <Entry LangId="mbhelp_name_184" Color="1" Value="Colors List" />
+    <Entry LangId="mbhelp_info_181" Color="1" Value="Used for selecting a coloration category (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;).&#xA;&#xA;Camo Pattern: &#xA;Applies camouflage pattern paintwork.&#xA;&#xA;Plain Color: &#xA;Applies plain color paintwork." />
+    <Entry LangId="mbhelp_info_184" Color="1" Value="Displays colorations belonging to the currently selected category." />
+    <Entry LangId="mbhelp_name_196" Color="1" Value="Category Selector" />
+    <Entry LangId="mbhelp_info_196" Color="1" Value="Used for selecting a coloration category (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;).&#xA;&#xA;Camo Pattern: &#xA;Applies camouflage pattern paintwork.&#xA;&#xA;Plain Color: &#xA;Applies plain color paintwork." />
+    <Entry LangId="mbhelp_name_449" Color="1" Value="Backup Request" />
+    <Entry LangId="mbhelp_info_449" Color="1" Value="If an FOB of yours is infiltrated by another player, a Backup Request will be sent to supporter players, asking them to help defend the FOB. Backup Requests are automatically sent out to all players you have requested support from." />
+    <Entry LangId="mbhelp_name_461" Color="1" Value="Customize (Vehicle)" />
+    <Entry LangId="mbhelp_name_463" Color="1" Value="Category Selector" />
+    <Entry LangId="mbhelp_name_464" Color="1" Value="Vehicle List" />
+    <Entry LangId="mbhelp_name_465" Color="1" Value="Category Selector" />
+    <Entry LangId="mbhelp_name_466" Color="1" Value="Colors List" />
+    <Entry LangId="mbhelp_name_468" Color="1" Value="Customizations List" />
+    <Entry LangId="mbhelp_name_469" Color="1" Value="Colors List" />
+    <Entry LangId="mbhelp_name_470" Color="1" Value="Markings List" />
+    <Entry LangId="mbhelp_name_472" Color="1" Value="Customizations List" />
+    <Entry LangId="mbhelp_name_473" Color="1" Value="Colors List" />
+    <Entry LangId="mbhelp_name_475" Color="1" Value="Points List" />
+    <Entry LangId="mbhelp_name_476" Color="1" Value="Parts List" />
+    <Entry LangId="mbhelp_name_477" Color="1" Value="Category Selector" />
+    <Entry LangId="mbhelp_name_478" Color="1" Value="Colors List" />
+    <Entry LangId="mbhelp_info_461" Color="1" Value="Change the coloration of a captured vehicle." />
+    <Entry LangId="mbhelp_info_463" Color="1" Value="Used for selecting a vehicle category (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;)." />
+    <Entry LangId="mbhelp_info_464" Color="1" Value="Displays vehicles in the currently selected category. &#xA;-or-&#xA;Displays captured vehicles." />
+    <Entry LangId="mbhelp_info_465" Color="1" Value="Used for selecting a coloration category (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;).&#xA;&#xA;Camo Pattern: &#xA;Applies camouflage pattern paintwork.&#xA;&#xA;Plain Color: &#xA;Applies plain color paintwork." />
+    <Entry LangId="mbhelp_info_466" Color="1" Value="Displays colorations belonging to the currently selected category." />
+    <Entry LangId="mbhelp_info_468" Color="1" Value="Displays D-Horse's customization status. The coloration and markings (white pattern) can be changed." />
+    <Entry LangId="mbhelp_info_469" Color="1" Value="Displays selectable colorations." />
+    <Entry LangId="mbhelp_info_470" Color="1" Value="Displays selectable markings (white pattern)." />
+    <Entry LangId="mbhelp_info_472" Color="1" Value="Displays D-Dog's customization status. You can equip/unequip his eyepatch and change his coloration." />
+    <Entry LangId="mbhelp_info_473" Color="1" Value="Displays selectable colorations." />
+    <Entry LangId="mbhelp_info_475" Color="1" Value="Displays parts equipped to the various points of D-Walker. Select a point to add/change parts." />
+    <Entry LangId="mbhelp_info_476" Color="1" Value="Displays parts that can be equipped to the currently selected point." />
+    <Entry LangId="mbhelp_info_477" Color="1" Value="Used for selecting a coloration category (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;).&#xA;&#xA;Unit Colors: &#xA;Applies unit colors paintwork.&#xA;&#xA;Camo Pattern: &#xA;Applies camouflage pattern paintwork.&#xA;&#xA;Plain Color: &#xA;Applies plain color paintwork." />
+    <Entry LangId="mbhelp_info_478" Color="1" Value="Displays colorations belonging to the currently selected category." />
+    <Entry Key="273293395" Color="1" Value="Viewing the iDroid's Help Menu" />
+    <Entry Key="1523549199" Color="1" Value="Your FOBs are always vulnerable to attack by rivals (enemy private forces). In addition to increasing the rank of Security Team staff, you can also protect them by developing new security devices and/or purchasing insurance (paid service)." />
+    <Entry Key="1673215378" Color="1" Value="Protect Your FOBs" />
+    <Entry Key="545839167" Color="1" Value="If you successfully infiltrate a rival's FOB, you can abduct their security guards and steal the materials containers they have placed on the deck.&#xA;Also, if you make it all the way to the platform's core, you will abduct all the staff stationed inside the platform." />
+    <Entry Key="8379485" Color="1" Value="Choose a Rival" />
+    <Entry Key="3302101247" Color="1" Value="You receive PF Points at the end of a term, according to your ranking results.&#xA;PF Points can be exchanged for things such as staff and materials. As your PF Grade increases, so do the PF Points that are up for grabs. Keep building up Diamond Dogs, and aim for the AAA+ grade!" />
+    <Entry Key="271642826" Color="1" Value="PF Points Explained" />
+    <Entry Key="3905470905" Color="1" Value="PF Grades constantly change according to the results of virtual league battles between players of the same grade. Players who finish in higher ranking positions move up a grade, while players who finish in lower ranking positions move down a grade.&#xA;Virtual league battles are held automatically on a regular basis. However, as these are only simulated battles, Diamond Dogs does not lose any actual assets." />
+    <Entry Key="3384720622" Color="1" Value="How to Raise Your PF Grade" />
+    <Entry Key="3138501137" Color="1" Value="With your FOB completed, Diamond Dogs is on its way to becoming a major player in the military industry.&#xA;Check your private force rating see how your Diamond Dogs stacks up against the PFs of every other player who is active online.&#xA;There are 29 rating levels in total, from AAA+, the highest, to E, the lowest." />
+    <Entry Key="1279357244" Color="1" Value="Check Your PF Grade" />
+    <Entry Key="1192031932" Color="1" Value="Your first FOB (forward operating base) has been completed.&#xA;&#xA;1) You can now house more staff, as your staff capacity has increased.&#xA;2) Materials can now be procured from the waters around your FOB, increasing your regular supply of materials." />
+    <Entry Key="1751302267" Color="1" Value="FOB Construction Completed" />
+    <Entry Key="2605076833" Color="1" Value="Constructing FOBs (forward operating bases) allows you to house more staff and obtain more materials through Materials Procurement." />
+    <Entry Key="1237396331" Color="1" Value="Construct FOBs" />
+    <Entry Key="3051020272" Color="1" Value="Construct FOBs (forward operating bases) to raise your maximum staff capacity and increase the amount of materials you earn.&#xA;&#xA;FOBs cannot be utilized in offline mode. You can still continue the game without constructing FOBs, but the game can be enjoyed more fully when played online. To switch to online mode, select CONNECT ONLINE from the Pause menu in the Aerial Command Center (ACC)." />
+    <Entry Key="2770688748" Color="1" Value="Construct FOBs" />
+    <Entry Key="1330221714" Color="1" Value="A reward has arrived thanks to the actions of your staff (completing Dispatch Missions, defending base facilities, etc.).&#xA;Go to REWARDS to accept it." />
+    <Entry Key="3219156290" Color="1" Value="Obtain Rewards" />
+    <Entry Key="1801144552" Color="1" Value="You will be notified once the Dispatch Mission is over. You can pass the time by going out on missions of your own." />
+    <Entry Key="1242503699" Color="1" Value="Unit Dispatched" />
+    <Entry Key="2881743992" Color="1" Value="Select the rank of staff you want to make up your team, and dispatch the resulting team on the mission.&#xA;Pressing &lt;I=G=PAD_Y&gt; allows you to view the assembled team and make any necessary changes." />
+    <Entry Key="3531376989" Color="1" Value="Assemble a Unit to Dispatch " />
+    <Entry Key="590613025" Color="1" Value="Rewards for Dispatch Missions vary depending on a mission's objective and difficulty. Carefully study the available missions' probability of success, predicted losses, and reward before deciding which to accept." />
+    <Entry Key="510921812" Color="1" Value="Choosing Dispatch Missions" />
+    <Entry Key="717163510" Color="1" Value="Dispatch your Combat Unit staff, other units' staff, and captured vehicles on missions to obtain GMP, various resources, and even new recruits." />
+    <Entry Key="3070958985" Color="1" Value="Assemble Units and Send Them on Missions" />
+    <Entry Key="849400237" Color="1" Value="One or more units has reached maximum staff capacity. By building more of the relevant unit platforms, your base will be able to house more staff." />
+    <Entry Key="774447832" Color="1" Value="Construct More Platforms" />
+    <Entry Key="4057600299" Color="513" Value="You can view the functions and features available on the iDroid's menus by pressing &lt;I=G=PAUSE&gt; while on any of them." />
+    <Entry LangId="mbtutorial_title" Color="1" Value="Tutorials" />
+    <Entry Key="1120339521" Color="1" Value="Controls Guide" />
+    <Entry LangId="mbhelp_info_default" Color="1" Value="You can view the functions and features available on the iDroid's menus by pressing &lt;I=G=PAUSE&gt; while on any of them." />
+    <Entry LangId="mbhelp_name_default" Color="1" Value="[HELP] iDroid Menu Help" />
+    <Entry LangId="mbhelp_info_142_2" Color="1" Value="&#xA;&lt;I=G=ICON_RS_AFRICAN&gt; African Peach: &#xA;Required to develop and use sleeping gas grenades and sleeping gas mines.&#xA;&#xA;&lt;I=G=ICON_RS_PURUPU&gt; Digitalis (Purpurea): &#xA;Required to develop and use sleeping gas mines and upgrade tranquilizer rounds.&#xA;&#xA;&lt;I=G=ICON_RS_RUTEA&gt; Digital (Lutea): &#xA;Required to develop and use sleeping gas grenades and upgrade tranquilizer rounds.&#xA;&#xA;&lt;I=G=ICON_RS_HAOMA&gt; Haoma: &#xA;Required to develop and use noctocyanin and acceleramin." />
+    <Entry LangId="mbhelp_name_142_2" Color="1" Value="[HINT] Medicinal Plants (2)" />
+    <Entry LangId="mbhelp_info_164_3" Color="1" Value="Switches between tape list and control panel." />
+    <Entry LangId="mbhelp_info_164_2" Color="1" Value="Stops cassette tape." />
+    <Entry LangId="mbhelp_name_164_3" Color="1" Value="&lt;I=G=PAD_R2&gt; To Control Panel/Tape List" />
+    <Entry LangId="mbhelp_name_164_2" Color="1" Value="&lt;I=G=PAD_Y&gt; Stop" />
+    <Entry LangId="mbhelp_info_164_4" Color="1" Value="Sets the currently selected track as the music that plays when your support helicopter arrives. The music plays from the helicopter's loudspeaker when deploying at your request. &#xA;*The speaker function can only be used once you have developed the SPEAKER support helicopter equipment." />
+    <Entry LangId="mbhelp_name_164_4" Color="1" Value="&lt;I=G=PAD_X&gt; Set as Helicopter Arrival Music" />
+    <Entry LangId="mbhelp_info_218_2" Color="1" Value="Displays the enemy's preparedness against various tactics. Redder displays indicate higher preparedness levels.&#xA;&#xA;&#xA;&lt;I=G=ICON_MP_KEIKAI_1&gt; Fulton Response: &#xA;Preparedness against Fulton recoveries carried out by you.&#xA;&#xA;&lt;I=G=ICON_MP_KEIKAI_2&gt; Headshot Response: &#xA;Preparedness against headshots performed by you.&#xA;&#xA;&lt;I=G=ICON_MP_KEIKAI_3&gt; Covert Actions Response: &#xA;Preparedness against covert actions by you.&#xA;&#xA;&lt;I=G=ICON_MP_KEIKAI_5&gt; Combat Response: &#xA;Preparedness against open fighting with you.&#xA;&#xA;&lt;I=G=ICON_MP_KEIKAI_4&gt; Nighttime Response: &#xA;Preparedness against nighttime actions by you.&#xA;&#xA;&lt;I=G=ICON_MP_KEIKAI_6&gt; Sniper Response: &#xA;Preparedness against sniper attacks carried out by you." />
+    <Entry LangId="mbhelp_name_218_2" Color="1" Value="&lt;I=G=NUMBER_1&gt; Enemy Preparedness" />
+    <Entry LangId="mbhelp_info_247_2" Color="1" Value="Displays basic player information. The top rating indicates how skilled the player is at infiltration, or their Espionage Rating, while the bottom rating indicates the size of the player's unit, or their PF (Private Force) Rating." />
+    <Entry LangId="mbhelp_name_247_2" Color="1" Value="&lt;I=G=NUMBER_1&gt; Player's Basic Info" />
+    <Entry LangId="mbhelp_info_261_2" Color="1" Value="Receive information on the displayed document. (*only if information is available)" />
+    <Entry LangId="mbhelp_info_258_2" Color="1" Value="Displays skills of soldiers and prisoners that can be extracted during the mission, as well as blueprints that can be obtained." />
+    <Entry LangId="mbhelp_name_261_2" Color="1" Value="&lt;I=G=PAD_X&gt; Intel Radio" />
+    <Entry LangId="mbhelp_name_258_2" Color="1" Value="&lt;I=G=NUMBER_1&gt; Obtainable Skills/Blueprints" />
+    <Entry LangId="mbhelp_info_352_3" Color="1" Value="Order Quiet to provide sniper cover. Used for selecting a sniping point." />
+    <Entry LangId="mbhelp_info_352_2" Color="1" Value="Order Quiet to recon an outpost or guard post. Used for selecting the icon of the outpost or guard post you want her to recon." />
+    <Entry LangId="mbhelp_name_352_3" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Sniping Point" />
+    <Entry LangId="mbhelp_name_352_2" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Outpost to Recon" />
+    <Entry LangId="mbhelp_info_352_4" Color="1" Value="Used for selecting a buddy drop point." />
+    <Entry LangId="mbhelp_info_350_2" Color="1" Value="Order tactical buddy &quot;Quiet&quot; to provide sniper cover." />
+    <Entry LangId="mbhelp_name_352_4" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Drop Point" />
+    <Entry LangId="mbhelp_name_350_2" Color="1" Value="[HELP] Buddy Request: Quiet (Sniper Cover)" />
+    <Entry LangId="mbhelp_info_051_2" Color="1" Value="Displays detailed info about target. Press &lt;I=G=PAD_Y&gt; to change pages if applicable." />
+    <Entry LangId="mbhelp_name_189_3" Color="1" Value="[HELP] Customize: Parts Selection" />
+    <Entry LangId="mbhelp_name_189_2" Color="1" Value="[HELP] Customize: Slot Selection" />
+    <Entry LangId="mbhelp_info_270_2" Color="1" Value="Used for selecting a SIDE OPS category." />
+    <Entry LangId="mbhelp_info_268_2" Color="1" Value="View SIDE OPS. A SIDE OP can be undertaken by going to its designated area while in free roam." />
+    <Entry LangId="mbhelp_name_268_2" Color="1" Value="[HELP] SIDE OPS List" />
+    <Entry LangId="mbhelp_info_272_2" Color="1" Value="Indicates where the currently selected SIDE OP can be completed. When you arrive at the designated area you will receive a notification that the SIDE OP has begun, but you will not be penalized if you choose not to undertake it." />
+    <Entry LangId="mbhelp_info_271_2" Color="1" Value="Displays SIDE OPS that can currently be completed. The list displays (from left to right) SIDE OP name, area of operations, and completion reward (GMP)." />
+    <Entry LangId="mbhelp_name_272_2" Color="1" Value="&lt;I=G=NUMBER_1&gt; SIDE OP Designated Area" />
+    <Entry LangId="mbhelp_name_271_2" Color="1" Value="&lt;I=G=NUMBER_1&gt; SIDE OPS List" />
+    <Entry LangId="mbhelp_info_258_3" Color="1" Value="Indicates SIDE OPS completion." />
+    <Entry LangId="mbhelp_name_258_3" Color="1" Value="&lt;I=G=NUMBER_1&gt; Completion" />
+    <Entry LangId="mbhelp_info_258_5" Color="1" Value="Places a marker on the currently selected SIDE OP's designated area." />
+    <Entry LangId="mbhelp_info_258_4" Color="1" Value="Drop at the landing zone closest to the currently selected SIDE OP's designated area." />
+    <Entry LangId="mbhelp_name_258_5" Color="1" Value="&lt;I=G=DECISION&gt; Place Marker" />
+    <Entry LangId="mbhelp_name_258_4" Color="1" Value="&lt;I=G=DECISION&gt; Deploy" />
+    <Entry LangId="mbhelp_info_274_2" Color="1" Value="Unlike missions, SIDE OPS can be undertaken without accepting them individually. Simply head to a SIDE OP's designated area in free roam and complete its objective. Key SIDE OPS that tie into the game's progression are displayed in yellow. " />
+    <Entry LangId="mbhelp_name_274_2" Color="1" Value="[HINT] About SIDE OPS" />
+    <Entry LangId="mbhelp_info_096_6" Color="1" Value="Sign up for insurance (paid service). Signing up will fully compensate you during the insurance period for any losses suffered due to a rival's infiltration, such as personnel, materiel, or GMP.&#xA;&#xA;* Selecting &quot;automatic renewal&quot; will automatically use MB coins to renew your insurance at the end of each term." />
+    <Entry LangId="mbhelp_name_096_6" Color="1" Value="&lt;I=G=NUMBER_1&gt; Insurance (Paid Service)" />
+    <Entry LangId="mbhelp_info_422_2" Color="1" Value="Displays the maximum reward you can obtain by successfully infiltrating the selected rival's FOB and reaching your objective.&#xA;&#xA;The exact reward you receive will be displayed when you select the specific platform you wish to infiltrate." />
+    <Entry LangId="mbhelp_name_422_2" Color="1" Value="&lt;I=G=NUMBER_1&gt; Victory Reward (Max)" />
+    <Entry LangId="mbhelp_func_skill_iryo_info" Color="1" Value="The following unit functions are added upon establishing or leveling up the Medical Team." />
+    <Entry LangId="mbhelp_func_skill_iryo_name" Color="1" Value="&lt;I=G=ICON_SM_IRYO&gt; Medical Team Functions" />
+    <Entry LangId="mbhelp_func_skill_cyoho_info" Color="1" Value="The following unit functions are added upon establishing or leveling up the Intel Team." />
+    <Entry LangId="mbhelp_func_skill_cyoho_name" Color="1" Value="&lt;I=G=ICON_SM_CYOHO&gt; Intel Team Functions" />
+    <Entry LangId="mbhelp_func_skill_sien_info" Color="1" Value="The following unit functions are added upon establishing or leveling up the Support Unit." />
+    <Entry LangId="mbhelp_func_skill_sien_name" Color="1" Value="&lt;I=G=ICON_SM_SIEN&gt; Support Unit Functions" />
+    <Entry LangId="mbhelp_func_skill_kyoten_info" Color="1" Value="The following unit functions are added upon establishing or leveling up the Base Development Unit." />
+    <Entry LangId="mbhelp_func_skill_kyoten_name" Color="1" Value="&lt;I=G=ICON_SM_KYOTEN&gt; Base Development Unit Functions" />
+    <Entry LangId="mbhelp_func_skill_kenkyu_info" Color="1" Value="The following unit functions are added upon establishing or leveling up the R&amp;D Team." />
+    <Entry LangId="mbhelp_func_skill_kenkyu_name" Color="1" Value="&lt;I=G=ICON_SM_KENKYU&gt; R&amp;D Team Functions" />
+    <Entry LangId="mbhelp_func_skill_keibi_info" Color="1" Value="The following unit functions are added upon establishing or leveling up the Security Team." />
+    <Entry LangId="mbhelp_func_skill_keibi_name" Color="1" Value="&lt;I=G=ICON_SM_KEIBI&gt; Security Team Functions" />
+    <Entry LangId="mbhelp_func_skill_sento_info" Color="1" Value="The following unit functions are added upon establishing or leveling up the Combat Unit." />
+    <Entry LangId="mbhelp_func_skill_sento_name" Color="1" Value="&lt;I=G=ICON_SM_SENTO&gt; Combat Unit Functions" />
+    <Entry LangId="h_func_fob_construct" Color="1" Value="&lt;I=G=NUMBER_1&gt; FOB Construction" />
+    <Entry LangId="h_func_fob_extention" Color="1" Value="&lt;I=G=NUMBER_1&gt; Platform Construction" />
+    <Entry LangId="h_func_sec_base_blockade" Color="1" Value="&lt;I=G=NUMBER_1&gt; Base Blockade" />
+    <Entry LangId="h_func_dev_ddog" Color="1" Value="&lt;I=G=NUMBER_1&gt; R&amp;D: D-Dog" />
+    <Entry LangId="h_func_dev_dhorse" Color="1" Value="&lt;I=G=NUMBER_1&gt; R&amp;D: D-Horse" />
+    <Entry LangId="h_func_dev_dwalker" Color="1" Value="&lt;I=G=NUMBER_1&gt; R&amp;D: D-Walker" />
+    <Entry LangId="h_func_dev_quiet" Color="1" Value="&lt;I=G=NUMBER_1&gt; R&amp;D: Quiet" />
+    <Entry Key="3729203839" Color="1" Value="&lt;I=G=NUMBER_1&gt; R&amp;D: Battle Gear" />
+    <Entry Key="2817902916" Color="1" Value="&lt;I=G=NUMBER_1&gt; R&amp;D: Security Devices" />
+    <Entry LangId="h_func_dev_heli" Color="1" Value="&lt;I=G=NUMBER_1&gt; R&amp;D: Support Helicopter" />
+    <Entry LangId="h_func_dev_equip" Color="1" Value="&lt;I=G=NUMBER_1&gt; R&amp;D: Equipment" />
+    <Entry LangId="h_func_dev_weapon" Color="1" Value="&lt;I=G=NUMBER_1&gt; R&amp;D: Weapons" />
+    <Entry Key="4057862554" Color="1" Value="&lt;I=G=NUMBER_1&gt; Nuclear Development" />
+    <Entry LangId="h_func_sec_base_defence" Color="1" Value="&lt;I=G=NUMBER_1&gt; Base Security" />
+    <Entry LangId="h_func_sec_machine_defence" Color="1" Value="&lt;I=G=NUMBER_1&gt; Automated Security" />
+    <Entry LangId="h_func_intel_weather_info" Color="1" Value="&lt;I=G=NUMBER_1&gt; Weather Information" />
+    <Entry LangId="h_func_med_emergency" Color="1" Value="&lt;I=G=NUMBER_1&gt; Aerial First Aid" />
+    <Entry LangId="h_func_intel_fob_sec" Color="1" Value="&lt;I=G=NUMBER_1&gt; Security Information" />
+    <Entry LangId="h_func_spprt_fulton" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rear Echelon Support: Fulton Extraction" />
+    <Entry LangId="h_func_spprt_supply" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rear Echelon Support: Deployment/Supply" />
+    <Entry LangId="h_func_intel_search_ene1" Color="1" Value="&lt;I=G=NUMBER_1&gt; Scouting" />
+    <Entry Key="81853757" Color="1" Value="&lt;I=G=NUMBER_1&gt; Support Helicopter (Attack)" />
+    <Entry LangId="h_func_fob_processing" Color="1" Value="&lt;I=G=NUMBER_1&gt; Materials Processing" />
+    <Entry LangId="h_func_fob_mining" Color="1" Value="&lt;I=G=NUMBER_1&gt; Materials Procurement" />
+    <Entry Key="773311076" Color="1" Value="&lt;I=G=NUMBER_1&gt; Materials Surveying" />
+    <Entry LangId="h_func_med_treatment" Color="1" Value="&lt;I=G=NUMBER_1&gt; Medical Treatment" />
+    <Entry LangId="h_func_intel_info" Color="1" Value="&lt;I=G=NUMBER_1&gt; Information Gathering" />
+    <Entry LangId="h_func_intel_search_plant" Color="1" Value="&lt;I=G=NUMBER_1&gt; Plants Surveying" />
+    <Entry LangId="h_func_spprt_battle" Color="1" Value="&lt;I=G=NUMBER_1&gt; Fire Support" />
+    <Entry LangId="h_func_spprt_smoke" Color="1" Value="&lt;I=G=NUMBER_1&gt; Smoke Dispersal" />
+    <Entry LangId="h_func_spprt_chaff" Color="1" Value="&lt;I=G=NUMBER_1&gt; Chaff Dispersal" />
+    <Entry LangId="h_func_spprt_sleep_gas" Color="1" Value="&lt;I=G=NUMBER_1&gt; Sleeping Gas Dispersal" />
+    <Entry LangId="h_func_spprt_weather" Color="1" Value="&lt;I=G=NUMBER_1&gt; Weather Modification" />
+    <Entry LangId="h_func_spprt_artillery" Color="1" Value="&lt;I=G=NUMBER_1&gt; Bombardment" />
+    <Entry LangId="h_func_spprt_trans_afr" Color="1" Value="&lt;I=G=NUMBER_1&gt; Comms Support: Afrikaans" />
+    <Entry LangId="h_func_spprt_trans_kon" Color="1" Value="&lt;I=G=NUMBER_1&gt; Comms Support: Kikongo" />
+    <Entry LangId="h_func_spprt_trans_pus" Color="1" Value="&lt;I=G=NUMBER_1&gt; Comms Support: Pashto" />
+    <Entry LangId="h_func_spprt_trans_rus" Color="1" Value="&lt;I=G=NUMBER_1&gt; Comms Support: Russian" />
+    <Entry LangId="h_func_bttl_defence" Color="1" Value="&lt;I=G=NUMBER_1&gt; Defense Deployment" />
+    <Entry LangId="h_func_bttl_deploy" Color="1" Value="&lt;I=G=NUMBER_1&gt; Merc Deployment" />
+    <Entry Key="4163930911" Color="1" Value="&lt;I=G=ICON_SM_SIEN&gt; Support Unit Functions [2]" />
+    <Entry LangId="mbhelp_sortie_4_info" Color="1" Value="Indicates the GMP and resources required to deploy with certain equipment. If you lack sufficient resources, you may deploy without full ammo." />
+    <Entry LangId="mbhelp_sortie_4_name" Color="1" Value="&lt;I=G=NUMBER_1&gt; GMP and resource requirements" />
+    <Entry LangId="mbhelp_sortie_3_info" Color="1" Value="Use the &quot;Commence Mission&quot; menu to commence the mission, or&#xA;adjust equipment and buddy settings from the appropriate menu." />
+    <Entry LangId="mbhelp_sortie_3_name" Color="1" Value="&lt;I=G=NUMBER_1&gt; Command Menu" />
+    <Entry LangId="mbhelp_sortie_2_info" Color="1" Value="Indicates sortie prep status. Displays (from top to bottom) the character that will deploy, any buddy or vehicle that will also deploy, and your character's loadout (weapon and item set). Use &lt;I=G=PAD_L1&gt; / &lt;I=G=PAD_R1&gt; to switch your loadout." />
+    <Entry LangId="mbhelp_sortie_2_name" Color="1" Value="&lt;I=G=NUMBER_1&gt; Sortie Prep Status" />
+    <Entry LangId="mbhelp_sortie_1_info" Color="1" Value="Displays your current tool status.&#xA;The development level and added features for your binoculars, iDroid, and Fulton recovery device are displayed from left to right." />
+    <Entry LangId="mbhelp_sortie_1_name" Color="1" Value="&lt;I=G=NUMBER_1&gt; Tools" />
+    <Entry LangId="mbhelp_sortie_0_info" Color="1" Value="Screen where you may prepare weapons, equipment, and buddies prior to deployment." />
+    <Entry LangId="mbhelp_sortie_0_name" Color="1" Value="[HELP] Sortie Prep" />
+    <Entry LangId="mbhelp_sortie_7_info" Color="1" Value="Loadouts you have designated for rental can be rented out to players in allied PFs. Create useful loadouts by developing or customizing weapons and items, then rent them out to earn rewards. " />
+    <Entry LangId="mbhelp_sortie_7_name" Color="1" Value="[HINT] About Designating for Rental" />
+    <Entry LangId="mbhelp_sortie_6_info" Color="1" Value="Switch loadout (weapon and item set). You can set up to three custom loadouts." />
+    <Entry LangId="mbhelp_sortie_6_name" Color="1" Value="&lt;I=G=PAD_L1&gt; / &lt;I=G=PAD_R1&gt; Switch Loadout" />
+    <Entry LangId="mbhelp_sortie_5_info" Color="1" Value="Displays a full list of detailed GMP and resource requirements for equipment and items." />
+    <Entry LangId="mbhelp_sortie_5_name" Color="1" Value="&lt;I=G=PAD_R2&gt; Resources required" />
+    <Entry Key="2881938893" Color="1" Value="Change your buddy's equipment.&#xA;Once equipment is selected, your buddy will return to base to re-equip before heading back into battle." />
+    <Entry Key="664963002" Color="1" Value="[HELP] Change buddy equipment" />
+    <Entry Key="1458756079" Color="1" Value="Containers are placed on the decks of FOBs (forward operating bases). Be sure to beef up your FOB security to ensure they are not stolen by an enemy PF." />
+    <Entry Key="882896169" Color="1" Value="Check Your Unprocessed Materials" />
+    <Entry Key="853992946" Color="1" Value="Unprocessed materials held in materials containers cannot yet be used to develop new weapons or items or expand base facilities.&#xA;You need to wait for the Base Development Unit to turn them into processed materials through the Materials Processing unit function.&#xA;This requires a certain amount of time, but processing time is reduced as the Materials Processing rank increases." />
+    <Entry Key="1812873781" Color="1" Value="Check Your Unprocessed Materials" />
+    <Entry Key="2523275465" Color="1" Value="Materials containers are placed as is on the decks of base facilities, but your resources are calculated according to the total amounts of materials in all your containers, not the number of containers you have.&#xA;Go to RESOURCES to view your stock of resources, such as materials and medicinal plants." />
+    <Entry Key="2211667780" Color="1" Value="You Extracted a Materials Container" />
+    <Entry Key="377894302" Color="1" Value="Unit functions are added when you establish new units or a unit reaches a certain level. The ranks of unit functions increase according to unit levels.&#xA;Go to the MOTHER BASE main menu to view each unit's unit functions and their ranks. Select a unit and press &lt;I=G=PAUSE&gt; to view explanations of its unit functions." />
+    <Entry Key="3224666117" Color="1" Value="Check Your Unit Functions" />
+    <Entry Key="4018635269" Color="1" Value="Establishing the Combat Unit has added the Merc Deployment unit function. This allows you to dispatch mercenaries to conflict zones and receive a regular, automatic income of GMP." />
+    <Entry Key="3936213967" Color="1" Value="&quot;Merc Deployment&quot; Unit Function Added" />
+    <Entry LangId="mbhelp_rescue_kaz_mission" Color="1" Value="PAUSE" />
+    <Entry LangId="mbhelp_name_add_5" Color="1" Value="[HELP] Change Buddies' Equipment" />
+    <Entry LangId="mbhelp_name_add_6" Color="1" Value="Used for changing buddies' equipment. Once you select the new equipment, the buddy will temporarily leave the mission area and then redeploy with their new equipment." />
+    <Entry LangId="mbhelp_name_add_13" Color="1" Value="[HELP] Customization: D-Horse" />
+    <Entry LangId="mbhelp_name_add_14" Color="1" Value="[HELP] Customization: D-Dog" />
+    <Entry LangId="mbhelp_name_add_15" Color="1" Value="[HELP] Customization: D-Walker" />
+    <Entry LangId="mbhelp_name_add_7" Color="1" Value="[HELP] Customization: Support Helicopter" />
+    <Entry LangId="mbhelp_name_add_8" Color="1" Value="[HELP] Customization: Vehicles" />
+    <Entry LangId="mbhelp_name_add_9" Color="1" Value="[HELP] Customization: Base Facilities" />
+    <Entry LangId="mbhelp_name_add_16" Color="1" Value="[HINT] About Vehicles" />
+    <Entry LangId="mbhelp_name_add_10" Color="1" Value="Customize your support helicopter (add/change armament)." />
+    <Entry LangId="mbhelp_name_add_11" Color="1" Value="Displays the parts that are equipped to the various hardpoints of your support helicopter. Select a point to add or change a part." />
+    <Entry LangId="mbhelp_name_add_12" Color="1" Value="Change the color of your base facilities." />
+    <Entry LangId="mbhelp_name_add_17" Color="1" Value="[HELP] Sortie Prep" />
+    <Entry LangId="mbhelp_name_add_18" Color="1" Value="Change your weapons, items, or buddy to suit the mission details or your objective, and deploy on a mission or to free roam." />
+    <Entry LangId="mbhelp_name_add_19" Color="1" Value="&lt;I=G=NUMBER_1&gt; Sortie Prep Menu" />
+    <Entry LangId="mbhelp_name_add_20" Color="1" Value="Use the menu categories to change your weapons, items, or buddy. Then select &quot;Deploy&quot; and designate an arrival time to begin the mission or free roam." />
+    <Entry LangId="mbhelp_name_add_21" Color="1" Value="&lt;I=G=NUMBER_1&gt; Tool Upgrades Status" />
+    <Entry LangId="mbhelp_name_add_22" Color="1" Value="Displays upgrades made to your tools. Indicates the grade of your binoculars, iDroid, and Fulton recovery device, as well as whether functions have been added to the Fulton recovery device." />
+    <Entry LangId="mbhelp_name_add_23" Color="1" Value="&lt;I=G=NUMBER_1&gt; Sortie Prep Status" />
+    <Entry LangId="mbhelp_name_add_24" Color="1" Value="Indicates sortie prep status. Displays (from top to bottom) the character that will deploy, any buddy or vehicle that will also deploy, and your character's loadout (weapon and item set)." />
+    <Entry LangId="mbhelp_name_add_25" Color="1" Value="&lt;I=G=NUMBER_1&gt; Deployment Cost" />
+    <Entry LangId="mbhelp_name_add_26" Color="1" Value="Indicates the GMP and resources required to use the currently selected loadout and buddy equipment. If you lack resources for any weapon ammo, suppressors, or consumable items, you will deploy without any of these in your inventory, and you will be unable to receive supply drops of them." />
+    <Entry LangId="mbhelp_name_add_27" Color="1" Value="[HELP] About Designating for Rental" />
+    <Entry LangId="mbhelp_name_add_28" Color="1" Value="Loadouts you have designated for rental can be rented out to players you are supporting, in exchange for a GMP reward. Put together useful loadouts by developing weapons and items and customizing them, and try to rent them to as many [Supporting] players as you can." />
+    <Entry LangId="mbhelp_name_add_29" Color="1" Value="&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt; Switch Loadout" />
+    <Entry LangId="mbhelp_name_add_30" Color="1" Value="Switch loadout (weapon and item set). You can save up to three custom loadouts." />
+    <Entry LangId="mbhelp_name_add_31" Color="1" Value="&lt;I=G=PAD_R2&gt; Deployment Cost (Detailed)" />
+    <Entry LangId="mbhelp_name_add_32" Color="1" Value="Displays deployment cost in detail." />
+    <Entry LangId="mbhelp_name_add_48" Color="1" Value="As your PF Grade improves, the number of PF Points you can earn will increase rapidly. These PF Points can then be exchanged to obtain elite staff members or rare resources." />
+    <Entry LangId="mbhelp_name_add_47" Color="1" Value="[HINT] Advantages of a high PF Grade" />
+    <Entry LangId="mbhelp_name_add_46" Color="1" Value="Your PF Grade changes based on the outcome of virtual league battles against other players within the same grade bracket. The outcome of each virtual battle is determined by the strength of the PFs involved. Unit levels, weapon/equipment development status, and FOB defense levels all contribute to the outcome.&#xA;However, since these are only simulated battles, no actual damage is done to your FOB." />
+    <Entry LangId="mbhelp_name_add_45" Color="1" Value="[HINT] Virtual League Battles" />
+    <Entry LangId="mbhelp_name_add_44" Color="1" Value="Exchange PF points for valuable staff or resources." />
+    <Entry LangId="mbhelp_name_add_43" Color="1" Value="&lt;I=G=PAD_R2&gt; PF Point Exchange" />
+    <Entry LangId="mbhelp_name_add_42" Color="1" Value="View your track record in simulated battles against other players within your virtual PF league." />
+    <Entry LangId="mbhelp_name_add_41" Color="1" Value="&lt;I=G=NUMBER_1&gt; Battle Record" />
+    <Entry LangId="mbhelp_name_add_40" Color="1" Value="View your current PF Point balance. PF Points determine your PF Grade and are earned by winning virtual league battles against rival PFs. PF Points may be exchanged for staff or resources." />
+    <Entry LangId="mbhelp_name_add_39" Color="1" Value="&lt;I=G=NUMBER_1&gt; PF Points" />
+    <Entry LangId="mbhelp_name_add_38" Color="1" Value="View your rank among rival PFs within your virtual league (players in the same PF grade bracket). Displayed from left to right are each PF's league ranking, on-line ID, and win/loss record." />
+    <Entry LangId="mbhelp_name_add_37" Color="1" Value="&lt;I=G=NUMBER_1&gt; League Ranking" />
+    <Entry LangId="mbhelp_name_add_36" Color="1" Value="View your current PF Grade and ranking among competing PFs (all other players)." />
+    <Entry LangId="mbhelp_name_add_35" Color="1" Value="&lt;I=G=NUMBER_1&gt; PF Grade" />
+    <Entry LangId="mbhelp_name_add_34" Color="1" Value="Your PF Grade represents your strength as a private force. It is evaluated based on the outcome of virtual league battles between players in the same grade bracket." />
+    <Entry LangId="mbhelp_name_add_33" Color="1" Value="[HELP] PF Grade" />
+    <Entry Key="958655242" Color="1" Value="Running Low on GMP?" />
+    <Entry Key="691998444" Color="1" Value="There are various ways of earning GMP besides completing missions and SIDE OPS. Resources such as processed materials, medicinal plants, gun emplacements, and mortars can be sold for GMP from the RESOURCES section of the MOTHER BASE menu. However, there are other ways of using resources besides selling them, so avoid getting rid of too many." />
+    <Entry Key="3951235994" Color="1" Value="Used for selecting a mission category (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;).&#xA;&#xA;&#xA;Dispatch Missions: &#xA;Deploy units on normal missions that progress in in-game time.&#xA;&#xA;Deployed / Deployment History: &#xA;View missions on which units are currently deployed." />
+  </Entries>
+</LangFile>
