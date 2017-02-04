@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry Key="3043901444" Color="1" Value="[HINT] AUTOMATCH" />
+    <Entry Key="1264328906" Color="1" Value="In order to join an online match, open the iDroid and choose MATCHING or SURVIVAL.&#xA;There are 3 options within MATCHING: AUTOMATCH, CREATE MATCH, and SELECT MATCH." />
+    <Entry Key="4014691453" Color="1" Value="[HINT] How to Join a Match" />
+    <Entry Key="956184348" Color="1" Value="METAL GEAR ONLINE will begin in the FREEPLAY environment. &#xA;Take advantage of FREEPLAY to experiment with your loadouts. Utilize the shooting targets." />
+    <Entry Key="993416094" Color="1" Value="[HINT] FREEPLAY" />
+    <Entry Key="289177990" Color="1" Value="Customize your character's gear by accessing the iDroid and selecting the CUSTOMIZE option. &#xA;Your gear do not affect combat. They are completely cosmetic." />
+    <Entry Key="3976902648" Color="1" Value="[HINT] Gear" />
+    <Entry Key="1246074648" Color="1" Value="[HINT] Class" />
+    <Entry Key="1955413894" Color="1" Value="In the CREATE MATCH option, you can select your desired mission and map. &#xA;You can create up to 5 missions in a playlist that can be repeated.&#xA;Certain network connections will not allow you to use this feature." />
+    <Entry Key="3791683771" Color="1" Value="[HINT] CREATE MATCH" />
+    <Entry Key="1116566366" Color="1" Value="In the SELECT MATCH option, you can filter and select the desired match from the list of missions that are available." />
+    <Entry Key="674994023" Color="1" Value="[HINT] SELECT MATCH" />
+    <Entry Key="1623918533" Color="1" Value="Each mission has 2 rounds. HQ location and objectives will switch off per round. Winning both rounds will result in winning the mission. If both teams win a round, a winning team will be selected based on the total team score." />
+    <Entry Key="2058684483" Color="1" Value="Once your character reaches maximum level, you will unlock ASCENSION. When you ascend your character, your level and experience points will be reset in exchange for perks such as class-specific suits. &#xA;Once unlocked, ASCENSION can be accessed in the CUSTOMIZE option in your iDroid." />
+    <Entry Key="2476962850" Color="1" Value="[HINT] ASCENSION" />
+    <Entry Key="1281042404" Color="1" Value="You can customize your LOADOUT from the CUSTOMIZE menu in the iDroid. &#xA;You can select your desired loadout before you spawn in." />
+    <Entry Key="2133007742" Color="1" Value="[HINT] Custom Loadouts" />
+    <Entry Key="3980910738" Color="1" Value="Each ability has 3 levels. ABILITIES with higher levels offer greater perks, but also use more ability slots." />
+    <Entry Key="1186774662" Color="1" Value="Equipping ABILITIES enhances performance of your character or your weapons. Each loadout holds 4 ability slots. You can customize your abilities inside Loadout customization." />
+    <Entry Key="2218915012" Color="1" Value="[HINT] ABILITIES" />
+    <Entry Key="2349189145" Color="1" Value="LOADOUT customization will be unlocked once your character reaches Lv.4. &#xA;Inside your loadout, you can customize your weapons and your abilities." />
+    <Entry Key="3938485060" Color="1" Value="[HINT] Loadout" />
+    <Entry Key="4261904425" Color="1" Value="Each playable character represents a class.&#xA;&#xA;Our 3 classes, SCOUT, ENFORCER, and INFILTRATOR each provide a unique gameplay style along with different loadouts." />
+    <Entry Key="3499194680" Color="1" Value="[HINT] Team Color" />
+    <Entry Key="2002897832" Color="1" Value="Members on the party screen will automatically join any match that the host (leader) enters or creates. &#xA;Return to the party screen to join the match that the party leader has already entered." />
+    <Entry Key="3266249441" Color="1" Value="A party allows others to easily join the match of a party leader. &#xA;You can access the party menu by pressing &lt;I=G=UI_KEY_PARTY&gt;." />
+    <Entry Key="2088735549" Color="1" Value="[HINT] Party" />
+    <Entry Key="3150764038" Color="1" Value="Each account can hold up to 8 playable characters. The 1st character is linked to MGSV:TPP single player. &#xA;As you level up, you will be able to unlock other character slots." />
+    <Entry Key="3935365427" Color="1" Value="[HINT] Character" />
+    <Entry Key="3977055519" Color="1" Value="Your MB Coins are shared between multiplayer and MGSV:TPP single player. You can purchase certain color options for your weapons or gear with MB Coins." />
+    <Entry Key="149728783" Color="1" Value="[HINT] MB Coins" />
+    <Entry Key="3808093338" Color="1" Value="Certain gear and weapons can be purchased with Gear Points or MB Coins. Once purchased, this content will be available for you to use." />
+    <Entry Key="4104910622" Color="1" Value="[HINT] Purchase Color Variation" />
+    <Entry Key="3332160246" Color="1" Value="[BRIEFING] Selecting Your Soundtrack" />
+    <Entry Key="2001238592" Color="1" Value="In the Briefing Menu, you can select which character to use. &#xA;You will not be able to switch characters between rounds so choose wisely!" />
+    <Entry Key="1979622871" Color="1" Value="[BRIEFING] Selecting Your Character" />
+    <Entry Key="3339879060" Color="1" Value="Once you enter a mission, you will first see the Briefing Menu.&#xA;Your team will be assigned here." />
+    <Entry Key="1583525172" Color="1" Value="[BRIEFING] Briefing Menu" />
+    <Entry Key="1470681910" Color="1" Value="[HINT] Number of Rounds" />
+    <Entry Key="3383560417" Color="1" Value="All teammates except your buddy will have a blue marker. Your buddy will have a white marker. Any players without markers or with red markers are enemies!" />
+    <Entry Key="3529117064" Color="1" Value="[HINT] Friendly Markers" />
+    <Entry Key="2511606034" Color="1" Value="Teams will be divided between team SOLID and team LIQUID. Your team color will always be blue, while the enemy team is red." />
+    <Entry Key="3739243475" Color="1" Value="[HINT] HQ" />
+    <Entry Key="427875891" Color="1" Value="[HINT] Fulton Recovery" />
+    <Entry Key="3840232881" Color="1" Value="[HINT] Score" />
+    <Entry Key="935202554" Color="1" Value="You may abandon a match by accessing the SYSTEM MENU during a game. This action is generally not recommended since it will affect your teammates." />
+    <Entry Key="842618497" Color="1" Value="[HINT] Abandoning a Match" />
+    <Entry Key="725464964" Color="1" Value="After completing 2 rounds, you will see the Mission Results screen. &#xA;This screen shows the results of your performance and achievements. There will be unlocks as you level up. &#xA;You have the option to return to FREEPLAY from the Mission Results screen." />
+    <Entry Key="4228193926" Color="1" Value="[HINT] Mission Results" />
+    <Entry Key="999872261" Color="1" Value="After every round, the results of the round will be shown in the Round Results screen." />
+    <Entry Key="2172994272" Color="1" Value="[HINT] Round Results" />
+    <Entry Key="1639952267" Color="1" Value="When you get eliminated from a no-respawn mission, you will transition to Spectator Mode.&#xA;You can observe teammates who are still alive." />
+    <Entry Key="2694173693" Color="1" Value="[HINT] Spectator Mode" />
+    <Entry Key="377013903" Color="1" Value="When you die in a match, you will see the Kill Screen.&#xA;The Kill Screen will show information such as who killed you and what weapons and abilities they were using.&#xA;Use this information to get your revenge!" />
+    <Entry Key="2535403993" Color="1" Value="[HINT] Kill Screen" />
+    <Entry Key="1549833092" Color="1" Value="After the Briefing Menu, you will transition to the Spawn Screen. &#xA;In this screen, you can select your desired loadout and your spawn point. &#xA;The Spawn Screen is used for intial spawns and respawns." />
+    <Entry Key="1909546291" Color="1" Value="[HINT] Spawn Screen" />
+    <Entry Key="1354452368" Color="1" Value="One random soldier on each team plays as a unique character if the unique character option was set to ON in the mission settings. &#xA;Any XP gained while playing as a unique character is added to your selected character. &#xA;Unique character players change every time teams are reassigned in the Briefing screen." />
+    <Entry Key="4236185005" Color="1" Value="Unique characters such as Snake and Ocelot have greater combat skills than standard players. &#xA;They also have special weapons and abilities that can turn the tide of battle." />
+    <Entry Key="3843071131" Color="1" Value="[HINT] Unique Characters" />
+    <Entry Key="2159809130" Color="1" Value="In the Briefing Menu, you can see which class your teammates have chosen.&#xA;Take advantage of this feature and the voice chat to plan your strategies.&#xA;Enemy class selections are hidden." />
+    <Entry Key="1185141018" Color="1" Value="[BRIEFING] Class Indication" />
+    <Entry Key="2873828665" Color="1" Value="In the Briefing Menu, you can select which soundtrack to play. You can also preview the tracks within this menu." />
+    <Entry Key="2904561467" Color="1" Value="Approach stunned or tranquilized enemies and press &lt;I=G=RELOAD&gt; to execute a lethal attack." />
+    <Entry Key="4232743428" Color="1" Value="[ACTION] Killing a Stunned or Tranquilized Enemy" />
+    <Entry Key="708176618" Color="1" Value="The fastest way to eliminate enemies is to perform headshots. The damage inflicted is higher than shooting any other parts of the body.&#xA;Perform a headshot with a tranquilizer to put a target to sleep immediately." />
+    <Entry Key="305417243" Color="1" Value="[ACTION] Headshots" />
+    <Entry Key="3228357712" Color="1" Value="You will see a hit icon on your screen when you successfully hit an enemy with a bullet. &#xA;A special hit icon is displayed for headshots." />
+    <Entry Key="3264777915" Color="1" Value="[ACTION] Hit Icon" />
+    <Entry Key="2356767153" Color="1" Value="Press &lt;I=G=UI_KEY_PARTY&gt; to bring up the scoreboard during a match.&#xA;The scoreboard lists information such as who's in the match and what their score is." />
+    <Entry Key="4006039346" Color="1" Value="[HINT] Scoreboard" />
+    <Entry Key="1039522461" Color="1" Value="Your score increases as the match progresses.  The total team score is used as a tiebreaker in the event of a tie." />
+    <Entry Key="1893582497" Color="1" Value="Certain missions show objectives on the radar.&#xA;Take a close look at these icons when close to objectives, as they can help you determine if you are above or below them." />
+    <Entry Key="3551269184" Color="1" Value="[HINT] Buddy Gauge" />
+    <Entry Key="3738975435" Color="1" Value="Your buddy's silhouette is always visible if your buddy is on screen. If your buddy is not on screen, you will see a buddy indicator icon showing your buddy's direction and current situation." />
+    <Entry Key="3748166716" Color="1" Value="You are automatically matched up with a buddy in the briefing screen.&#xA;You can switch your buddy during a match by triggering an APPEAL ACTION (hold &lt;I=G=STOCK&gt;) to another teammate. In turn, that teammate must respond back to become your buddy." />
+    <Entry Key="551739610" Color="1" Value="[HINT] Buddy" />
+    <Entry Key="1244419865" Color="1" Value="When you have been marked by an enemy, you will see an icon &lt;I=G=MGO_MARKED&gt; on your radar and hear a  sound effect. &#xA;Markers can be removed by staying out of enemy sight and holding still for a couple of seconds." />
+    <Entry Key="2701125141" Color="1" Value="Use your binoculars (&lt;I=G=BINOS&gt;) and frame enemies into your sight for a short period of time to put a marker on them.&#xA;Unlike MGSV:TPP, you cannot place a marker by zooming in your camera or by using your scopes." />
+    <Entry Key="3157377429" Color="1" Value="[HINT] Markers" />
+    <Entry Key="783837018" Color="1" Value="You can wake a stunned/sleeping ally by pressing the action button (&lt;I=G=ACTION&gt;) next to the player.&#xA;By repeatedly pressing the action button, you can continue attempting to wake up your ally." />
+    <Entry Key="2304974397" Color="1" Value="[ACTION] Waking up a Stunned Player" />
+    <Entry Key="3960062003" Color="1" Value="Red Fulton Balloons belong to the enemies. If you see a red balloon, shoot it to save your teammate!" />
+    <Entry Key="882431781" Color="1" Value="[ACTION] Colored Fulton Balloons" />
+    <Entry Key="3521351374" Color="1" Value="Approach a stunned or sleeping enemy and hold &lt;I=G=ACTION&gt; to attach a Fulton Recovery Device to his/her body. &#xA;Be aware that you cannot fulton an enemy indoors." />
+    <Entry Key="2615307327" Color="1" Value="A radar is placed on the upper left corner of your game screen. &#xA;The radar shows crucial information such as objective icons and noises." />
+    <Entry Key="1210163540" Color="1" Value="[HINT] Radar" />
+    <Entry Key="3274344768" Color="1" Value="Press &lt;I=G=PAD_Y&gt; in the CALL menu to switch the intensity of your preset radio lines. &#xA;Take advantage of this feature to use in different combat situations." />
+    <Entry Key="113518013" Color="1" Value="[HINT] Class: ENFORCER" />
+    <Entry Key="2708186416" Color="1" Value="The SCOUT class offers standard combat skills while specializing in aiding their teammates with long-range reconnaissance. &#xA;This class is ideal for beginners." />
+    <Entry Key="4195621099" Color="1" Value="[HINT] Class: SCOUT" />
+    <Entry Key="1339355836" Color="1" Value="If interrogated, your buddy will never reveal your location. Use this to your advantage to rescue your buddy." />
+    <Entry Key="760501997" Color="1" Value="Hold (&lt;I=G=CQC&gt;) near an enemy to restrain them. Hold &lt;I=G=CALL&gt; to interrogate the enemy. If successful, the location of their teammates will be revealed to your buddy." />
+    <Entry Key="2457129951" Color="1" Value="[ACTION] Interrogation" />
+    <Entry Key="3826825928" Color="1" Value="Staying close to your buddy will fill the buddy gauge faster. Once the buddy gauge is fully charged, you can equip the E-RB WORMHOLE GEN.&#xA;Once placed and entered, you will instantaneously travel to your buddy's location.&#xA;The buddy gauge will reset after each use." />
+    <Entry Key="3584080242" Color="1" Value="[WEAPON] E-RB WORMHOLE GEN." />
+    <Entry Key="2965928974" Color="1" Value="If your buddy gauge is charged up to 50% during respawn, you will have the option to respawn at your buddy's location.&#xA;This will consume 50% of your buddy gauge, and you will spawn in with the same posture as your buddy." />
+    <Entry Key="4020801063" Color="1" Value="[HINT] Respawning from Your Buddy's Location" />
+    <Entry Key="2130385273" Color="1" Value="The buddy gauge shows the friendship level between you and your buddy. The status of the buddy gauge can be accessed through the buddy indicator or the E-RB WORMHOLE GEN. gauge. The buddy gauge will charge faster if you stay close to your buddy." />
+    <Entry Key="52849730" Color="1" Value="You can customize your preset radio lines by choosing OPTIONS from your SYSTEM MENU. &#xA;The preset radio lines can be customized per mission." />
+    <Entry Key="3417293073" Color="1" Value="Hold the CALL button (&lt;I=G=CALL&gt;) to bring up the CALL menu. This will show a total of 8 preset radio lines that you can select from.&#xA;The selected line will only be heard by teammates." />
+    <Entry Key="893251467" Color="1" Value="[HINT] Gear Points (GP)" />
+    <Entry Key="1039792962" Color="1" Value="Your weapons and items have weight which can negatively affect movement speed; weight has 5 different levels from Level S through Level D. &#xA;Customize wisely to fit your playstyle." />
+    <Entry Key="721800393" Color="1" Value="[HINT] Weight and Mobility" />
+    <Entry Key="1667411635" Color="1" Value="Experience points gains are tied to your performance. &#xA;Gaining XP will level up your character. Leveling up your character can unlock new weapons and abilities." />
+    <Entry Key="2011235803" Color="1" Value="[HINT] Experience Points" />
+    <Entry Key="4259805425" Color="1" Value="The INFILTRATOR class specializes in CQC with its fast movement speed, but is also very vulnerable with its lack of health. &#xA;This class is ideal for advanced players who know how to sneak behind enemies." />
+    <Entry Key="1827234731" Color="1" Value="[HINT] Class: INFILTRATOR" />
+    <Entry Key="2990851336" Color="1" Value="The ENFORCER class can carry heavy explosive and is highly durable, but lacks speed and quick reflexes. &#xA;This class is ideal for average players." />
+    <Entry Key="3314118196" Color="1" Value="[HINT] Preset Radio" />
+    <Entry Key="1740826331" Color="1" Value="Hold &lt;I=G=PAUSE&gt; to access the SYSTEM MENU. &#xA;In FREEPLAY, you can switch to MGSV:TPP through the SYSTEM MENU. &#xA;While you are in a match, you can invite friends or return to FREEPLAY from the SYSTEM MENU." />
+    <Entry Key="2785794867" Color="1" Value="[HINT] SYSTEM MENU" />
+    <Entry Key="424554326" Color="1" Value="Personal stats and global ranking can be accessed in the STATS options from your iDroid. &#xA;The STATS options can be accessed from both FREEPLAY and during a mission." />
+    <Entry Key="346499676" Color="1" Value="[HINT] Stats and Ranking" />
+    <Entry Key="3039990497" Color="1" Value="You will gain Gear Points once you fully complete a mission. &#xA;Winning a match in SURVIVAL mode will grant a higher percentage of points." />
+    <Entry Key="2397209585" Color="1" Value="This ability enhances non-lethal weapons and is available for all classes. It is recommended for players who prefer using non-lethal weapons." />
+    <Entry Key="686562232" Color="1" Value="[ABILITY] NON-LETHAL AIM+" />
+    <Entry Key="2573340087" Color="1" Value="This ability enhances lethal weapon usage and is available for all classes. It is recommended for players who prefer using lethal weapons." />
+    <Entry Key="3555567991" Color="1" Value="[ACTION] Noise Caused by Thrown Weapons" />
+    <Entry Key="4143011631" Color="1" Value="Press the Quick Dive Button (&lt;I=G=EVADE&gt;) while tilting &lt;I=G=MOVE&gt; to perform a quick dive in the direction you are tilting &lt;I=G=MOVE&gt;. This is useful for dodging enemy attacks, or leaping quickly into cover to avoid detection.&#xA;Be aware that diving will cause noise on the radar." />
+    <Entry Key="140073784" Color="1" Value="[ACTION] Quick Dive" />
+    <Entry Key="1986916319" Color="1" Value="Press &lt;I=G=DASH&gt; to start sprinting. You can only sprint for a limited amount of time, during which enemies will see the resulting noise on their radar. Better mobility means a longer sprinting time." />
+    <Entry Key="416041357" Color="1" Value="[ACTION] Sprint" />
+    <Entry Key="3052680938" Color="1" Value="Basic actions are the same as MGSV:TPP single player. &#xA;Some areas were modified to complement the unique features of MGO." />
+    <Entry Key="4037439317" Color="1" Value="[ACTION] How is MGO Different from MGSV:TPP" />
+    <Entry Key="290784228" Color="1" Value="Actions such as sprinting or firing weapons will create noises on the radar which can be detected by enemies. &#xA;Stealthier tactics, including silenced weaponry and sneaking around, do not make noise." />
+    <Entry Key="1912425597" Color="1" Value="[HINT] Noise" />
+    <Entry Key="4224985011" Color="1" Value="In a match or in FREEPLAY, players initially spawn in at the HQ(&lt;I=G=MGO_HQ&gt;).&#xA;Both team's HQ location is always displayed on the radar.&#xA;Heading towards enemy HQ will increase the chance of encountering an enemy." />
+    <Entry Key="3580891745" Color="1" Value="[ABILITY] LETHAL AIM+" />
+    <Entry Key="1560505022" Color="1" Value="This ability gives enhancements to your support weapons and is available for all classes. It is recommended for players who often utilize thrown or placed weapons." />
+    <Entry Key="261307258" Color="1" Value="[ABILITY] TACTICAL+" />
+    <Entry Key="895937258" Color="1" Value="[WEAPON] DECOY" />
+    <Entry Key="1125182616" Color="1" Value="If you spot a PLUSHY SNARE near you, shoot it to destroy it or equip the C.BOX to prevent it from charming you." />
+    <Entry Key="3692944146" Color="1" Value="These cute decoys will captivate your enemies for a while. Avoid the enemy's PLUSHY SNARES when scouting through binoculars, as you won't be able to resist its cuteness!" />
+    <Entry Key="1215633045" Color="1" Value="[WEAPON] PLUSHY SNARE" />
+    <Entry Key="2753984504" Color="1" Value="The FULTON CANNON detects nearby enemies and fires a Fulton Recovery Device towards them. The enemy player that is about to get fultoned can be saved by their teammates if they can shoot down the balloon." />
+    <Entry Key="3777867919" Color="1" Value="[WEAPON] FULTON CANNON" />
+    <Entry Key="3548727755" Color="1" Value="Throwing an E.LOCATOR will place markers on nearby enemies. Enemies can spot where the E.LOCATOR has been thrown, so be careful not to reveal your location." />
+    <Entry Key="1170924048" Color="1" Value="[WEAPON] E.LOCATOR" />
+    <Entry Key="1545973729" Color="1" Value="You will create noises on the radar when your thrown support weapon hits the ground. &#xA;Try throwing an empty magazine to fool your enemies." />
+    <Entry Key="3572421625" Color="1" Value="This ability enhances all primary and secondary weapons when equipped. It is available for all classes." />
+    <Entry Key="587916896" Color="1" Value="[ABILITY] WEAPONS+" />
+    <Entry Key="1072766670" Color="1" Value="Equipping the C.BOX will protect you from the effects of STUN GRENADES and PLUSHY SNARES. Holding still for a period of time while crouched inside the C.BOX will remove your marker entirely. You can also prevent yourself from getting marked in this position.&#xA;Utilize the C.BOX." />
+    <Entry Key="2333405653" Color="1" Value="Press the Quick Dive Button (&lt;I=G=EVADE&gt;) while underneath a C.BOX (Cardboard box) to dive out of it and abandon the box. You can remove a marker on you by equipping a C.BOX and diving out of it." />
+    <Entry Key="585191288" Color="1" Value="[ITEM] C.BOX" />
+    <Entry Key="160141648" Color="1" Value="The DECOY can be used to attract enemy soldiers' attention and lure them.&#xA;After throwing the DECOY, hold the Ready Button (&lt;I=G=HOLD&gt;) and press the Action Button (&lt;I=G=ACTION&gt;) to deploy its soldier-shaped balloon. You can transfer your marker to a decoy if you use it while marked." />
+    <Entry Key="1239894671" Color="1" Value="[ABILITY] DEMOLITION+" />
+    <Entry Key="3923129701" Color="1" Value="This ability provides enhanced protection against enemy markers and is only available for the SCOUT class. It is recommended for stealthy players who need to avoid enemy reconnaissance." />
+    <Entry Key="1217131468" Color="1" Value="[ABILITY] ANTI-MARKING+" />
+    <Entry Key="2016273658" Color="1" Value="This ability is available for the SCOUT class. It is recommended for players who utilize their NIGHT VISION GOGGLES (NVG) in combat." />
+    <Entry Key="3107341922" Color="1" Value="[ABILITY] OPTICS+" />
+    <Entry Key="726240128" Color="1" Value="This ability gives players enhanced marking skills when equipped, and it is only available for the SCOUT class. It is recommended for players who focus on reconnaissance actions." />
+    <Entry Key="3265957968" Color="1" Value="[ABILITY] INTEL+" />
+    <Entry Key="271198131" Color="1" Value="This ability is available for the SCOUT class. It is recommended for players who enjoy long range combat using sniper rifles." />
+    <Entry Key="3093719452" Color="1" Value="[ABILITY] SNIPER+" />
+    <Entry Key="2856941573" Color="1" Value="This ability enhances fultoning actions and is available for the INFILTRATOR class. It is recommended for players who prefer non-lethal combat strategies." />
+    <Entry Key="2250373512" Color="1" Value="[ABILITY] FULTON+" />
+    <Entry Key="3306147280" Color="1" Value="This ability is available for the INFILTRATOR class. It is recommended for players who enjoy sneaking behind enemies while utilizing their STEALTH CAMO." />
+    <Entry Key="3734071748" Color="1" Value="[ABILITY] STEALTH CAMO+" />
+    <Entry Key="122195380" Color="1" Value="This ability is available for the INFILTRATOR class. It is recommended for players who want to focus on supporting their teammates through interrogation." />
+    <Entry Key="2869884976" Color="1" Value="[ABILITY] INTERROGATION+" />
+    <Entry Key="2205998186" Color="1" Value="This ability is available for the INFILTRATOR class. It is recommended for players who focus on CQC gameplay." />
+    <Entry Key="705082543" Color="1" Value="[ABILITY] CQC STEALTH+" />
+    <Entry Key="1982510144" Color="1" Value="This ability is available for the ENFORCER class. It provides enhanced health and stamina and is recommended for players who enjoy close encounters with enemies." />
+    <Entry Key="2747691156" Color="1" Value="[ABILITY] TANK+" />
+    <Entry Key="3473262289" Color="1" Value="This ability is available for the ENFORCER class. It is recommended for players who frequently equip the SHIELD as their primary weapon." />
+    <Entry Key="337074456" Color="1" Value="[ABILITY] SHIELDS+" />
+    <Entry Key="3313546317" Color="1" Value="This ability provides specific nearby enemy information and is available for the ENFORCER class. It is recommended for players who prefer to be extra careful about their surroundings." />
+    <Entry Key="3709300223" Color="1" Value="[ABILITY] FIELD REPORT+" />
+    <Entry Key="1790123970" Color="1" Value="This ability gives enhancement to explosives when equipped and is available for the ENFORCER class. It is recommended for players who often utilizes explosives in combat." />
+    <Entry Key="4116383250" Color="1" Value="Captured Comm Links scramble the radar of nearby enemies.&#xA;When the radar is scrambled, all icons will be hidden." />
+    <Entry Key="3443406327" Color="1" Value="Captured Comm Links can be used as respawn points. &#xA;Use them wisely based on the progress of the mission." />
+    <Entry Key="3739631108" Color="1" Value="There are 3 Comm Links placed within the map. You must remain in the capturing range until the meter fills up in order to capture the Comm Link. &#xA;Captured Comm Links will begin downloading the intel. The more Comm Links are captured, the faster the download will complete." />
+    <Entry Key="3652841185" Color="1" Value="Attackers must capture Defender Comm Links(&lt;I=G=MGO_LINK&gt;) to download enemy data.&#xA;Attackers wins once the download is completed.&#xA;Defenders win if they can prevent this." />
+    <Entry Key="2917589908" Color="1" Value="[MISSION] COMM CONTROL" />
+    <Entry Key="2156399664" Color="1" Value="CLOAK AND DAGGER is a no respawn mission. The match ends once all of your teammates are eliminated." />
+    <Entry Key="3018353787" Color="1" Value="Once an attacker takes damage from a defender, all attackers' STEALTH CAMO is deactivated and the phase transitions to the ALERT phase." />
+    <Entry Key="1653858036" Color="1" Value="Attackers only carry a knife and non-lethal weapons, while defenders only carry lethal weapons.&#xA;Attackers are also equipped with STEALTH CAMO. This enhanced STEALTH CAMO has unlimited battery usage and counters NVG." />
+    <Entry Key="2379434594" Color="1" Value="Attackers must steal a Data Disc(&lt;I=G=MGO_DISC&gt;) and deliver it to the Evac Point(&lt;I=G=MGO_EVAC&gt;) before the round expires.&#xA;Defenders must stop the attackers from stealing the Data Disc." />
+    <Entry Key="3755912336" Color="1" Value="[MISSION] CLOAK AND DAGGER" />
+    <Entry Key="3639278007" Color="1" Value="Use a Fulton Recovery Device on an enemy to reduce your own bounty and steal tickets from the opposite team equal to the bounty of that enemy. &#xA;When you get fultoned by an enemy, your bounty count will be reset to 0." />
+    <Entry Key="710297552" Color="1" Value="Fultoning an enemy adds the enemy's bounty to your team's tickets. Placing a marker on your enemy not only locates them, but also reveals their bounty. Try to take down a high bounty enemy with a non-lethal method!" />
+    <Entry Key="1769569603" Color="1" Value="Killing enemies adds to your bounty(&lt;I=G=MGO_BOUNTY&gt;).&#xA;Your bounty count is displayed next to the radar.&#xA;" />
+    <Entry Key="3099093517" Color="1" Value="The first team to reduce the other team's tickets to 0 wins. A kill or a fulton recovery counts as 1 ticket." />
+    <Entry Key="2320714949" Color="1" Value="[MISSION] BOUNTY HUNTER" />
+    <Entry Key="184058894" Color="1" Value="In the AUTOMATCH option, you can choose a mission you would like to play and the system will automatically join you in a match. &#xA;Unlike playing a match through SELECT MATCH or CREATE MATCH, your Rank fluctuates based on your match results, and you can gain Gear Points at a higher rate." />
+    <Entry Key="1009015899" Color="1" Value="Press the &lt;I=G=CALL&gt; button to use the shortcut preset radio feature. This allows you to quickly play the line that you have previously selected. It can also be used to call for help when you are about to get fultoned by an enemy." />
+    <Entry Key="410373351" Color="1" Value="Ocelot is an interrogation specialist. Bullets fired from his dual TORNADO-6 pistols can ricochet off surfaces to target specific marked enemies." />
+    <Entry Key="3293450039" Color="1" Value="[HINT] Revolver Ocelot" />
+    <Entry Key="289203228" Color="1" Value="Snake excels at CQC actions and long range sniping with enhanced combat skills.&#xA;The Active Sonar can be used from the CALL menu to detect nearby active enemies. &#xA;3 different types of prosthetic arm features are available exclusively for Snake." />
+    <Entry Key="502564234" Color="1" Value="[HINT] Venom Snake" />
+    <Entry Key="2745226887" Color="1" Value="For weapons equipped with underbarrel attachments, ready the weapon and press (&lt;I=G=ACTION&gt;) to switch between its main barrel and its underbarrel." />
+    <Entry Key="1226255067" Color="1" Value="[HINT] MGO Party" />
+    <Entry Key="444703566" Color="1" Value="MGO party allows others to easily join the match of a party leader. &#xA;You can access the MGO party menu by pressing &lt;I=G=PAUSE&gt;." />
+    <Entry Key="3011896633" Color="1" Value="Members on the MGO party screen will automatically join any match that the host (leader) enters or creates. &#xA;Return to the MGO party screen to join the match that the MGO party leader has already entered." />
+    <Entry Key="2562426308" Color="1" Value="Once a fulton is attached to the Missile, the attackers can shoot down the balloon to prevent fultoning. The attackers can try to damage the Missile first before fultoning, as the Missile health corresponds to how long the Missile hovers in air." />
+    <Entry Key="3778043173" Color="1" Value="If the attackers successfully hack in to the Terminal, the EM barrier is deactivated leaving the Missile prone to attackers fulton or damage. The defenders can hack back the Terminal to re-activate the EM barrier." />
+    <Entry Key="1301151142" Color="1" Value="The Missile is equipped with EM barrier (Electromagnetic barrier). If the EM barrier is active, the attackers cannot fulton or damage the Missile. The attackers must first hack in to either of the Terminals placed in 2 different locations of the map to deactivate the EM barrier." />
+    <Entry Key="3024533236" Color="1" Value="Attackers must fulton or destroy the enemy Missile within the time limit. &#xA;Defenders must protect the Missile from the attackers until the round expires.&#xA;" />
+    <Entry Key="3371320737" Color="1" Value="[MISSION] SABOTAGE" />
+    <Entry Key="3374597223" Color="1" Value="Quiet is a legendary sniper who fires a sniper rifle with excellent accuracy.&#xA;Her movement speed is extremely fast which allows her to ditch the ladder and elusively jump to higher levels.&#xA;Press &lt;I=G=DASH&gt; while sprinting to temporary cloak and boost movement speed." />
+    <Entry Key="3851475283" Color="1" Value="[HINT] Quiet" />
+    <Entry Key="2286836663" Color="1" Value="[HINT] User Markers" />
+    <Entry Key="3018044583" Color="1" Value="A series of Medals are earned with the overall progression of stats. The Medals are collected during the scheduled maintenance.&#xA;Keep playing and you will soon have your own collection." />
+    <Entry Key="3885949707" Color="1" Value="You will earn different Titles as you play matches, and will receive a week worth of earned Titles during the scheduled maintenance. The Title with the highest priority earned will then be displayed on your Scoreboard and the Briefing screen." />
+    <Entry Key="490095313" Color="1" Value="[HINT] Titles and Medals" />
+    <Entry Key="3792628529" Color="1" Value="You can place an User Marker from your iDROID or through your binocular.&#xA;There are 3 different types of User Markers; &quot;Enemy spotted (&lt;I=G=MGO_MARKER_ENEMY&gt;)&quot;, &quot;Attack (&lt;I=G=MGO_MARKER_ATTACK&gt;)&quot;, and &quot;Defend (&lt;I=G=MGO_MARKER_DEFEND&gt;)&quot;.&#xA;Try to utilize these markers in combat, as there markers are shared between your ally." />
+    <Entry Key="690341133" Color="1" Value="Preset Text can be used not only during a match but also in the Briefing screen. You can view your recent Preset Text history through the Log menu." />
+    <Entry Key="2002930770" Color="1" Value="Use the Preset Text feature by switching the mode in your Preset Radio.&#xA;The Preset Text does not play any audio, but it allows you to communicate with other players.&#xA;You can choose to show the Preset Text to allies only, or to all players." />
+    <Entry Key="1557685345" Color="1" Value="[HINT] Preset Text" />
+    <Entry Key="933507910" Color="1" Value="Dedicated Host allows a player to host a match without participating. The player who becomes a dedicated host can spectate the match instead." />
+    <Entry Key="2790312000" Color="1" Value="[HINT] Dedicated Host" />
+    <Entry Key="3022299540" Color="1" Value="A Rank represents the player's skill level. There are total of 21 levels of Rank from Rank F to Rank S++ being the greatest. Based on the match results in AUTOMATCH or SURVIVAL mode, your Rank can go up or down." />
+    <Entry Key="2874617177" Color="1" Value="[HINT] Rank" />
+    <Entry Key="2977916183" Color="1" Value="[WEAPON] COMBAT KNIFE" />
+    <Entry Key="422817460" Color="1" Value="COMBAT KNIFE is a common weapon across all classes, and is equipped in the secondary weapon slot.&#xA;While aiming, rapid short press the Attack button (&lt;I=G=ATTACK&gt;)to trigger a combo. Hold it down to trigger a stab action.&#xA;" />
+    <Entry Key="2948719309" Color="1" Value="[ACTION] Appeal Action" />
+    <Entry Key="1942561881" Color="1" Value="While in a match, hold &lt;I=G=STOCK&gt; to use the Appeal Action feature.&#xA;Once triggered, use the left stick to change actions based on your settings.&#xA;You can set your Appeal Actions in the CUSTOMIZE menu of your iDROID." />
+    <Entry Key="2956537514" Color="1" Value="[HINT] Wormhole Fulton" />
+    <Entry Key="1220098289" Color="1" Value="Approach a stunned or tranquilized enemy player while your Buddy Gauge is fully charged, and press the Reload button (&lt;I=G=RELOAD&gt;) to fulton the enemy through a wormhole.&#xA;This allows you to fulton an enemy indoors. 1 wormhole fulton consumes your entire Buddy Gauge." />
+    <Entry Key="1042795746" Color="1" Value="[HINT] SURVIVAL" />
+    <Entry Key="225827919" Color="1" Value="Maps and missions are selected randomly. Once your team wins a match, your team will fight against another opponent team. Aim to get 5 consecutive wins as there will be a special reward." />
+    <Entry Key="3723943495" Color="1" Value="In SURVIVAL mode, a team of 6 players compete to gain as many consecutive wins to achieve high reward. In order to join a match in SURVIVAL mode, you must create a room or join an existing room.&#xA;Once all members are ready, the match will begin against an opponent team." />
+    <Entry Key="763004617" Color="1" Value="In SURVIVAL, you can play the new EXPANSION PACK maps even if you haven't purchased the EXPANSION PACK.&#xA;However, one SURVIVAL TICKET will be depleted each time you play SURVIVAL, and you will no longer be able to play SURVIVAL when you run out of tickets.&#xA;Your SURVIVAL TICKETS will be replenished periodically.&#xA;Also, purchasing the EXPANSION PACK will grant you an unlimited number of SURVIVAL TICKETS." />
+    <Entry Key="1810187887" Color="1" Value="While in a match, hold &lt;I=G=STOCK&gt; to use the Appeal Action feature.&#xA;Once triggered, use the left stick to change actions based on your settings.&#xA;You can set your Appeal Actions in the CUSTOMIZE menu of your iDROID." />
+  </Entries>
+</LangFile>

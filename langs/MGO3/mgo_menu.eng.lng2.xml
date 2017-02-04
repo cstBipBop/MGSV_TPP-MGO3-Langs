@@ -1,0 +1,738 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry Key="3640226765" Color="1" Value="&lt;I=G=DECISION&gt; View Player Detail" />
+    <Entry Key="3280954619" Color="1" Value="NEXT MISSION STARTING IN %d SEC" />
+    <Entry Key="4211282761" Color="1" Value="CANCEL AUTOMATCH" />
+    <Entry Key="3682475131" Color="1" Value="Attack the enemy base." />
+    <Entry Key="730144653" Color="1" Value="©2016 Konami Digital Entertainment" />
+    <Entry Key="3311858344" Color="1" Value="ADD MAP" />
+    <Entry Key="1043345736" Color="1" Value="D / N" />
+    <Entry Key="1664069148" Color="1" Value="RETURN TO METAL GEAR SOLID V: THE PHANTOM PAIN" />
+    <Entry Key="2421025960" Color="1" Value="Start playing MGO." />
+    <Entry Key="2868257785" Color="1" Value="View ranking and personal stats." />
+    <Entry Key="4267937242" Color="1" Value="Create a new match." />
+    <Entry Key="1368747462" Color="1" Value="View leaderboard and ranking." />
+    <Entry Key="1912096820" Color="1" Value="Modify your character." />
+    <Entry Key="2251848000" Color="1" Value="Loadout Name" />
+    <Entry Key="2637453833" Color="1" Value="Music Title" />
+    <Entry Key="3618143158" Color="1" Value="Respawn In %d" />
+    <Entry Key="3211132838" Color="1" Value="SELECT LOADOUT" />
+    <Entry Key="2505861455" Color="1" Value="&lt;I=G=PAD_X&gt; Replay Match" />
+    <Entry Key="135423887" Color="1" Value="&lt;I=G=DECISION&gt; Back to Freeplay" />
+    <Entry Key="3893772852" Color="1" Value="&lt;I=G=STANCE&gt; Mute/Unmute Player" />
+    <Entry Key="1118433465" Color="1" Value="Select Menu" />
+    <Entry Key="1344096481" Color="1" Value="Victory!" />
+    <Entry Key="156042312" Color="1" Value="Defeat!" />
+    <Entry LangId="mgo_ui_roundstart_END" Color="1" Value="MATCH END" />
+    <Entry Key="526115634" Color="1" Value="%d/%d READY" />
+    <Entry Key="703448518" Color="1" Value="Delete character?" />
+    <Entry Key="3728354765" Color="1" Value="Searching for Match" />
+    <Entry Key="3046868733" Color="1" Value="Automatch, Join or Host your own game." />
+    <Entry Key="1824890525" Color="1" Value="Join an existing match." />
+    <Entry Key="652082992" Color="1" Value="Choose RuleSet &amp; Map." />
+    <Entry Key="2017324682" Color="1" Value="Compare Player Accomplishments." />
+    <Entry Key="3525357571" Color="1" Value="View your personal stats." />
+    <Entry LangId="mgo_UI_Levelup_RNK" Color="1" Value="LEVEL" />
+    <Entry Key="3034380811" Color="1" Value="LEVEL UP!" />
+    <Entry Key="2984533499" Color="1" Value="EQUIPPED" />
+    <Entry Key="2892160141" Color="1" Value="Kills" />
+    <Entry Key="3453025202" Color="1" Value="Headshots" />
+    <Entry Key="1082486441" Color="1" Value="Deaths" />
+    <Entry Key="885109137" Color="1" Value="Assists" />
+    <Entry Key="1089324280" Color="1" Value="Fultoned" />
+    <Entry Key="2989162893" Color="1" Value="Fulton Saves" />
+    <Entry Key="3730270971" Color="1" Value="Team Kills" />
+    <Entry Key="1321357989" Color="1" Value="Takedown Streak" />
+    <Entry Key="3717352875" Color="1" Value="Times Tagged" />
+    <Entry Key="1958985045" Color="1" Value="Captures" />
+    <Entry Key="181027945" Color="1" Value="Fulton" />
+    <Entry Key="3681717379" Color="1" Value="Weapon of choice" />
+    <Entry Key="303604954" Color="1" Value="Fulton Points" />
+    <Entry Key="2010419125" Color="1" Value="Disc Evacs" />
+    <Entry Key="2333155730" Color="1" Value="Interrogations" />
+    <Entry Key="2068525031" Color="1" Value="Intel recoveries" />
+    <Entry Key="1243410173" Color="1" Value="Terminal hacks" />
+    <Entry Key="4009870937" Color="1" Value="BACK TO FREEPLAY" />
+    <Entry Key="4257111944" Color="1" Value="MATCH RESULTS" />
+    <Entry Key="1816756330" Color="1" Value="SCROLL UNLOCKS" />
+    <Entry Key="2822774321" Color="1" Value="REPLAY MATCH" />
+    <Entry Key="3243551147" Color="1" Value="Nuke detonations" />
+    <Entry Key="2905633258" Color="1" Value="&lt;I=G=MBDEVICE&gt; To start match" />
+    <Entry Key="3437736" Color="1" Value="&lt;I=G=PAD_R1&gt; Select Loadout" />
+    <Entry Key="1327375129" Color="1" Value="Stand in base to capture Comm links." />
+    <Entry Key="2434291350" Color="1" Value="Destroy all enemies. Beware of traps." />
+    <Entry Key="3866333351" Color="1" Value="Sneak into enemy base to capture the disk." />
+    <Entry Key="1786101517" Color="1" Value="Find data disc in enemy base." />
+    <Entry Key="452013230" Color="1" Value="Deliver disc to Evac Point." />
+    <Entry LangId="mgo_UI_Briefing_RuleTips_FREE" Color="1" Value="Test out weapons and get a feel for the map." />
+    <Entry Key="3994658986" Color="1" Value="Captured comm link" />
+    <Entry Key="874669476" Color="1" Value="Buddy Location" />
+    <Entry Key="3581117769" Color="1" Value="Attackers must capture Defender Comm Links(&lt;I=G=MGO_LINK&gt;) to download enemy data.&#xA;Attackers win once the download is completed.&#xA;Capturing multiple Comm Links speeds up the download.&#xA;&#xA;Captured Comm Links scramble the radar of nearby enemies and can also be used as respawn points." />
+    <Entry Key="1752103755" Color="1" Value="&lt;I=G=PAD_Y&gt; Mute" />
+    <Entry Key="2811407811" Color="1" Value="&lt;I=G=MBDEVICE&gt; Ready" />
+    <Entry Key="238439314" Color="1" Value="ABANDON MATCH" />
+    <Entry Key="2203285003" Color="1" Value="Close METAL GEAR ONLINE, and return to METAL GEAR SOLID V: THE PHANTOM PAIN." />
+    <Entry Key="1363472517" Color="1" Value="Abandon match and all the players you are currently playing with, and go back to FREEPLAY." />
+    <Entry Key="3435621673" Color="1" Value="Attackers must destroy or fulton the enemy Missile(&lt;I=G=MGO_MISL&gt;) before the round expires. &#xA;To access the Missile, Attackers must first hack into the Terminals(&lt;I=G=MGO_EVAC&gt;) to deactivate the EM Barrier that's protecting the Missile from any incoming attacks or fultons.&#xA;&#xA;Once the Terminals are hacked and the EM Barrier is deactivated, defenders can reactivate it by hacking back the Terminals." />
+    <Entry Key="2184533109" Color="1" Value="The first team to reduce the other team's tickets to 0 wins.&#xA;Enemy tickets can be reduced by killing or fultoning enemies.&#xA;&#xA;Killing enemies adds to your bounty(&lt;I=G=MGO_BOUNTY&gt;) while Fultoning enemies reduces it.&#xA;Fultoning an enemy adds their bounty to your team's tickets, which can result in a turnaround." />
+    <Entry Key="2557221268" Color="1" Value="Are you sure you want to close METAL GEAR ONLINE, and return to METAL GEAR SOLID V: THE PHANTOM PAIN.?" />
+    <Entry Key="1979979419" Color="1" Value="Are you sure you want to abandon current match?" />
+    <Entry Key="1445436326" Color="1" Value="Armed only with camouflage, a combat knife and non-lethal weapons, Attackers must steal a Data Disc(&lt;I=G=MGO_DISC&gt;) and deliver it to the Evac Point(&lt;I=G=MGO_EVAC&gt;) before the round expires.&#xA;&#xA;Defenders only hold lethal weapons and they must stop the attackers from stealing the Data Disc.&#xA;&#xA;No respawns." />
+    <Entry Key="1024787334" Color="1" Value="Match Start" />
+    <Entry Key="452330493" Color="1" Value="&lt;I=G=PAD_Y&gt; Detail" />
+    <Entry LangId="mgo_btn_select" Color="1" Value="&lt;I=G=DECISION&gt; Select" />
+    <Entry Key="2976403414" Color="1" Value="&lt;I=G=CANCEL&gt; No" />
+    <Entry Key="3087359370" Color="1" Value="&lt;I=G=DECISION&gt; Yes" />
+    <Entry LangId="mgo_btn_switch" Color="1" Value="&lt;I=G=PAD_X&gt; Select Active" />
+    <Entry Key="2683804502" Color="1" Value="&lt;I=G=DECISION&gt; Equip" />
+    <Entry Key="1036550209" Color="1" Value="&lt;I=G=DECISION&gt; Edit" />
+    <Entry Key="3129688426" Color="1" Value="SELECT MATCH" />
+    <Entry Key="337755957" Color="1" Value="&lt;I=G=DECISION&gt; Join" />
+    <Entry Key="4182730050" Color="1" Value="&lt;I=G=CANCEL&gt; Back" />
+    <Entry Key="1720600700" Color="1" Value="&lt;I=G=DECISION&gt;Match Start" />
+    <Entry LangId="mgo_btn_exit" Color="1" Value="&lt;I=G=CANCEL&gt; Exit" />
+    <Entry LangId="mgo_btn_delete" Color="1" Value="&lt;I=G=PAD_Y&gt; Delete" />
+    <Entry Key="2761927336" Color="1" Value="&lt;I=G=PAD_Y&gt; Start Room" />
+    <Entry Key="2303162274" Color="1" Value="&lt;I=G=DECISION&gt; Select Map" />
+    <Entry Key="1465185463" Color="1" Value="CREATE MATCH" />
+    <Entry Key="4088522882" Color="1" Value="&lt;I=G=MBDEVICE&gt; Press to Start Match" />
+    <Entry Key="333446340" Color="1" Value="MATCH STATUS" />
+    <Entry LangId="mgo_idt_Rand" Color="1" Value="RANDOM" />
+    <Entry Key="3397816489" Color="1" Value="&lt;I=G=MBDEVICE&gt; Cancel" />
+    <Entry Key="3079216188" Color="1" Value="&lt;I=G=PAD_Y&gt; Unmute" />
+    <Entry Key="544670159" Color="1" Value="SELECT LOADOUT" />
+    <Entry Key="3674808334" Color="1" Value="&lt;I=G=UI_KEY_PARTY&gt; Scoreboard" />
+    <Entry Key="1472940540" Color="1" Value="&lt;I=G=DECISION&gt; Spawn in" />
+    <Entry Key="1243247730" Color="1" Value="Create new loadout?" />
+    <Entry Key="3669621501" Color="1" Value="Create new character?" />
+    <Entry Key="1903696418" Color="1" Value="GO TO METAL GEAR SOLID V: THE PHANTOM PAIN" />
+    <Entry Key="3728746505" Color="1" Value="&lt;I=G=PAD_Y&gt; Attachments" />
+    <Entry Key="3319456496" Color="1" Value="&lt;I=G=PAD_X&gt; Colors" />
+    <Entry Key="4286841683" Color="1" Value="Customize your preset radio lines for BOUNTY HUNTER." />
+    <Entry Key="3702323163" Color="1" Value="Customize your preset radio lines for CLOAK AND DAGGER." />
+    <Entry Key="1720871229" Color="1" Value="Customize your preset radio lines for COMM CONTROL." />
+    <Entry Key="2882629402" Color="1" Value="Customize your preset radio lines for SABOTAGE." />
+    <Entry Key="187154615" Color="1" Value="Left slot 1" />
+    <Entry Key="4124401438" Color="1" Value="Right slot 2" />
+    <Entry Key="727313508" Color="1" Value="Right slot 1" />
+    <Entry Key="1472276782" Color="1" Value="Left slot 2" />
+    <Entry Key="1083762497" Color="1" Value="Choose the preset radio line you would like to apply to left slot 1." />
+    <Entry Key="3333531067" Color="1" Value="Choose the preset radio line you would like to apply to left slot 2." />
+    <Entry Key="584362996" Color="1" Value="Choose the preset radio line you would like to apply to left slot 3." />
+    <Entry Key="4150923365" Color="1" Value="Choose the preset radio line you would like to apply to left slot 4." />
+    <Entry Key="2887501583" Color="1" Value="Choose the preset radio line you would like to apply to right slot 1." />
+    <Entry Key="1706453397" Color="1" Value="Choose the preset radio line you would like to apply to right slot 2." />
+    <Entry Key="524866279" Color="1" Value="Choose the preset radio line you would like to apply to right slot 3." />
+    <Entry Key="4105748357" Color="1" Value="Choose the preset radio line you would like to apply to right slot 4." />
+    <Entry Key="1846265709" Color="1" Value="Left slot 3" />
+    <Entry Key="769420767" Color="1" Value="Left slot 4" />
+    <Entry Key="2027276548" Color="1" Value="Right slot 3" />
+    <Entry Key="3336582057" Color="1" Value="Right slot 4" />
+    <Entry Key="3650000359" Color="1" Value="Customize your preset radio lines for FREEPLAY." />
+    <Entry Key="2345741306" Color="1" Value="Customize the layout for your preset radio lines." />
+    <Entry Key="4070387648" Color="1" Value="Preset Radio Customization" />
+    <Entry Key="3423745275" Color="1" Value="PERSONAL" />
+    <Entry Key="1866733204" Color="1" Value="RANKING" />
+    <Entry Key="3670087639" Color="1" Value="AUTOMATCH" />
+    <Entry Key="3807855257" Color="1" Value="CUSTOMIZE" />
+    <Entry Key="3017723985" Color="1" Value="STATS" />
+    <Entry Key="2887448944" Color="1" Value="ADD CHARACTER" />
+    <Entry Key="2394639905" Color="1" Value="SELECT CLASS" />
+    <Entry Key="1381160484" Color="1" Value="Enter character name." />
+    <Entry Key="2308659899" Color="1" Value="Unlock this slot by purchasing it with MB Coins." />
+    <Entry Key="2453181240" Color="1" Value="Unlock this slot by leveling up." />
+    <Entry Key="3355047809" Color="1" Value="Character slot A is linked to MGSV:TPP. Changes to this character's face in MGSV:TPP will be carried over to MGO." />
+    <Entry Key="1768651583" Color="1" Value="Slot locked" />
+    <Entry Key="2206536698" Color="1" Value="&lt;I=G=DECISION&gt; Play Preview" />
+    <Entry Key="1494744196" Color="1" Value="MATCHING" />
+    <Entry Key="3380259947" Color="1" Value="Continue your character's progression by choosing Ascension.&#xA;When you ascend your character, your level and experience points will be reset in exchange for perks such as class-specific suits. &#xA;" />
+    <Entry Key="2570583025" Color="1" Value="Edit the appearance of your character and gear." />
+    <Entry Key="22139367" Color="1" Value="Edit character weapons, support weapons, items and abilities." />
+    <Entry LangId="dialog_avatar_dicide" Color="1" Value="Use this face?" />
+    <Entry LangId="dialog_avatar_cancel" Color="1" Value="Face changes will be discarded.&#xA;Are you sure you want to exit?" />
+    <Entry LangId="popup_option_cancel" Color="1" Value="Some settings have been changed. &#xA;Your changes will be lost." />
+    <Entry LangId="popup_option_change" Color="1" Value="Apply settings changes?" />
+    <Entry LangId="popup_option_default" Color="1" Value="Return all settings to their default values?" />
+    <Entry LangId="dialog_cstm_submit" Color="1" Value="Apply customization?" />
+    <Entry LangId="dialog_cstm_cancel" Color="1" Value="Cancel customization?&#xA;Current changes will be discarded." />
+    <Entry LangId="dialog_cstm_not_sel" Color="1" Value="Not all necessary parts have been selected.&#xA;Select all necessary parts." />
+    <Entry LangId="dialog_cstm_sel_error" Color="1" Value="There are one or more parts that cannot be combined with the selected part.&#xA;Select this part anyway?" />
+    <Entry LangId="dialog_gameover_stealth_reconfirm" Color="1" Value="Are you sure?" />
+    <Entry Key="3033791999" Color="1" Value="&lt;I=G=PAD_LS&gt; Change zoom level" />
+    <Entry Key="3796642275" Color="1" Value="&lt;I=G=PAD_RS&gt; Camera rotation" />
+    <Entry Key="1537813433" Color="1" Value="&lt;I=G=PAD_Y&gt; Send friend invite" />
+    <Entry Key="156485253" Color="1" Value="&lt;I=G=PAD_X&gt; View %s" />
+    <Entry Key="392678233" Color="1" Value="Prev/Next %d" />
+    <Entry Key="1413058063" Color="1" Value="Change voice type." />
+    <Entry Key="788040926" Color="1" Value="Voice" />
+    <Entry Key="1300208336" Color="1" Value="Selects a random mission to join." />
+    <Entry Key="608137326" Color="1" Value="Select your class." />
+    <Entry Key="2972055993" Color="1" Value="Select the loadout you want to customize." />
+    <Entry Key="594270399" Color="1" Value="Select the area you want to customize." />
+    <Entry Key="118365788" Color="1" Value="Select your character and customize your gear and loadout." />
+    <Entry Key="4212098551" Color="1" Value="Select your accessory." />
+    <Entry Key="2113865182" Color="1" Value="Select your base gear." />
+    <Entry Key="3420313105" Color="1" Value="Select your chest gear." />
+    <Entry Key="266433667" Color="1" Value="Select your head gear." />
+    <Entry Key="2246273572" Color="1" Value="Overview of currently equipped gear." />
+    <Entry Key="1648625094" Color="1" Value="Select a secondary weapon." />
+    <Entry Key="3582873262" Color="1" Value="Select a primary weapon." />
+    <Entry Key="977978350" Color="1" Value="Select support weapons." />
+    <Entry Key="59043081" Color="1" Value="Select items." />
+    <Entry Key="3930139602" Color="1" Value="Select abilities." />
+    <Entry Key="4059335381" Color="1" Value="Set attachments to your equipped weapon." />
+    <Entry Key="4136025984" Color="1" Value="&lt;I=G=DECISION&gt; View Profile" />
+    <Entry Key="1223296992" Color="1" Value="(Hold) System Menu" />
+    <Entry Key="49752298" Color="1" Value="(Hold) Pick Up/Set Down" />
+    <Entry Key="2742777638" Color="1" Value="(Press) Shortcut Preset Radio" />
+    <Entry Key="471893508" Color="1" Value="Customize the color of your gear." />
+    <Entry Key="3788218831" Color="1" Value="Select your gender." />
+    <Entry Key="1246145081" Color="1" Value="Customize the color of your weapon." />
+    <Entry Key="1260646" Color="1" Value="Create a new character." />
+    <Entry Key="2003149871" Color="1" Value="SYSTEM" />
+    <Entry Key="3185803430" Color="1" Value="Edit your avatar's face." />
+    <Entry Key="661416511" Color="1" Value="PASSWORD" />
+    <Entry Key="3566820965" Color="1" Value="BRIEFING TIME" />
+    <Entry Key="1767214194" Color="1" Value="MAX CAPACITY" />
+    <Entry Key="520510712" Color="1" Value="MATCH SETTINGS" />
+    <Entry Key="916030779" Color="1" Value="min" />
+    <Entry Key="3994297032" Color="1" Value="Enter password" />
+    <Entry Key="3081334208" Color="1" Value="Equipping %s will unequip %s." />
+    <Entry Key="3781219229" Color="1" Value="Equipping the full suit will unequip other gear." />
+    <Entry Key="3736576009" Color="1" Value="Equipping %s will unequip your full suit." />
+    <Entry Key="3637014088" Color="1" Value="EMPTY SLOT" />
+    <Entry Key="113121300" Color="1" Value="PRIVATE" />
+    <Entry Key="2626745813" Color="1" Value="Unequipping %s will also unequip %s." />
+    <Entry Key="931572416" Color="1" Value="Invite a friend." />
+    <Entry Key="2191647273" Color="1" Value="INVITE FRIEND" />
+    <Entry Key="3932888457" Color="1" Value="This will delete the selected mission slot.&#xA;Would you like to proceed?" />
+    <Entry Key="3750182031" Color="1" Value="Your match will begin with the following mission slot settings. &#xA;Would you like to proceed?" />
+    <Entry Key="3609815797" Color="1" Value="MISSION SETTINGS" />
+    <Entry Key="3970427977" Color="1" Value="This will cancel your auto matchmaking request." />
+    <Entry Key="3907124651" Color="1" Value="Select a mission and automatically join a match." />
+    <Entry Key="1071471082" Color="1" Value="Create a new match by setting your maps and missions." />
+    <Entry Key="3360155035" Color="1" Value="Preview and edit your missions." />
+    <Entry Key="196158343" Color="1" Value="Select a mission to join." />
+    <Entry Key="3835173534" Color="1" Value="Select filters to find a match." />
+    <Entry Key="1868426105" Color="1" Value="Select filters to create a match." />
+    <Entry Key="2034488554" Color="1" Value="&lt;I=G=PAD_Y&gt; View Match Details" />
+    <Entry Key="2624044544" Color="1" Value="&lt;I=G=DECISION&gt; Join Match" />
+    <Entry Key="4254940939" Color="1" Value="&lt;I=G=PAD_X&gt; Edit Mission Slot" />
+    <Entry Key="4178881633" Color="1" Value="&lt;I=G=PAD_Y&gt; Delete Mission Slot" />
+    <Entry Key="3254607687" Color="1" Value="&lt;I=G=DECISION&gt; Start Match" />
+    <Entry Key="1039820018" Color="1" Value="&lt;I=G=PAD_X&gt; Revise Search" />
+    <Entry Key="2591300157" Color="1" Value="&lt;I=G=DECISION&gt; Search Missions" />
+    <Entry Key="3812022580" Color="1" Value="No matches were found with your search." />
+    <Entry Key="4090887390" Color="1" Value="Would you like to join this match?" />
+    <Entry Key="2545324262" Color="1" Value="MATCH INFORMATION" />
+    <Entry Key="1657062178" Color="1" Value="&lt;I=G=PAD_Y&gt; View Mission Slots" />
+    <Entry Key="723612473" Color="1" Value="Incorrect password. You cannot join this match." />
+    <Entry Key="1192858756" Color="1" Value="PLAYER LIST" />
+    <Entry Key="3676520254" Color="1" Value="&lt;I=G=PAD_L1&gt;&lt;I=G=PAD_R1&gt; Switch Pages" />
+    <Entry Key="948346369" Color="1" Value="&lt;I=G=PAD_Y&gt; Switch intensity" />
+    <Entry Key="343329934" Color="1" Value="&lt;I=G=PAD_R3&gt; Select" />
+    <Entry Key="3121552165" Color="1" Value="You have been kicked out. You will not be able to join the match." />
+    <Entry Key="2051884664" Color="1" Value="Your searched match cannot be found." />
+    <Entry Key="1205853102" Color="1" Value="This match is full. You will not be able to join." />
+    <Entry Key="3318124163" Color="1" Value="No matches were found with your search." />
+    <Entry Key="2007323904" Color="1" Value="PRESET RADIO" />
+    <Entry Key="4006594287" Color="1" Value="&lt;I=G=MGO_NIGHT&gt; NIGHT" />
+    <Entry Key="1922266082" Color="1" Value="&lt;I=G=MGO_DAY&gt; DAY" />
+    <Entry Key="1906361036" Color="1" Value="&lt;I=G=PAD_R3&gt; Cancel" />
+    <Entry Key="2608893812" Color="1" Value="&lt;I=G=PAD_L1&gt;&lt;I=G=PAD_R1&gt; Round Results" />
+    <Entry Key="1028834074" Color="1" Value="&lt;I=G=DECISION&gt; Next Mission" />
+    <Entry Key="1098679274" Color="1" Value="&lt;I=G=CANCEL&gt; Back to Freeplay" />
+    <Entry Key="1286161887" Color="1" Value="Invite Xbox Live Party" />
+    <Entry Key="1460933745" Color="1" Value="INVITE XBOX LIVE PARTY" />
+    <Entry Key="582796187" Color="1" Value="Are you sure you would like to return to Freeplay?" />
+    <Entry Key="4258592764" Color="1" Value="Score Log display" />
+    <Entry Key="1328203297" Color="1" Value="Turn on/off Combat Log and Preset radio messages in game." />
+    <Entry Key="2913751322" Color="1" Value="Turn on/off Score Log display in game." />
+    <Entry Key="2464730936" Color="1" Value="Combat Log Display" />
+    <Entry Key="239604015" Color="1" Value="Turn on/off Mission information in game." />
+    <Entry LangId="option_show_mission" Color="1" Value="Mission Info Display" />
+    <Entry Key="4237430436" Color="1" Value="&lt;I=G=PAD_Y&gt; Preview voice" />
+    <Entry Key="3087471585" Color="1" Value="Re-select Basic Face Shape." />
+    <Entry Key="1247353964" Color="1" Value="This feature is not available with your current network connection." />
+    <Entry Key="2755497638" Color="1" Value="&lt;I=G=PAD_L1&gt;&lt;I=G=PAD_R1&gt; Mission Results" />
+    <Entry Key="117093377" Color="1" Value="This will reset all adjustments you have made. &#xA;Are you sure you would like to randomize?" />
+    <Entry Key="2778587511" Color="1" Value="Randomize your avatar face." />
+    <Entry Key="2668600283" Color="1" Value="&lt;I=G=PAD_X&gt; Randomize" />
+    <Entry Key="4003364039" Color="1" Value="Autobalancing..." />
+    <Entry Key="848756975" Color="1" Value="&lt;I=G=PAD_X&gt; Switch Team" />
+    <Entry Key="2335832900" Color="1" Value="You have switched to the other team." />
+    <Entry Key="2343915627" Color="1" Value="%s has been kicked out from the match!" />
+    <Entry Key="3237389839" Color="1" Value="&lt;I=G=PAD_R1&gt; Kick Player" />
+    <Entry Key="2104197437" Color="1" Value="Please name your loadout." />
+    <Entry Key="3542493030" Color="1" Value="Cancel character creation?" />
+    <Entry Key="3662400568" Color="1" Value="&lt;I=G=PAD_X&gt; Rename" />
+    <Entry Key="2603508971" Color="1" Value="&lt;I=G=PAD_Y&gt; Leave Party" />
+    <Entry Key="2688457476" Color="1" Value="&lt;I=G=DECISION&gt; Invite to Party" />
+    <Entry Key="3249659751" Color="1" Value="&lt;I=G=DECISION&gt; Create Party" />
+    <Entry Key="2356747031" Color="1" Value="You have been kicked due to inactivity." />
+    <Entry Key="1395349587" Color="1" Value="WARNING&#xA;You will be kicked for inactivity in %d seconds." />
+    <Entry Key="1066799933" Color="1" Value="At least %d players are required to start the mission." />
+    <Entry Key="2330973654" Color="1" Value="Equipping this preset will unequip all gear you have currently equipped. Are you sure?" />
+    <Entry Key="2638880852" Color="1" Value="&lt;I=G=DECISION&gt; Equip preset" />
+    <Entry Key="2649639527" Color="1" Value="Select a preset gear combination." />
+    <Entry Key="3754475584" Color="1" Value="Create a new preset gear combination." />
+    <Entry Key="2479436146" Color="1" Value="Name your preset gear." />
+    <Entry Key="1973784110" Color="1" Value="Are you sure you would like to delete your current preset?" />
+    <Entry Key="3643025780" Color="1" Value="&lt;I=G=&gt; Save preset" />
+    <Entry Key="1874468405" Color="1" Value="&lt;I=G=PAD_Y&gt; Delete preset" />
+    <Entry Key="375392133" Color="1" Value="&lt;I=G=PAD_X&gt; Edit preset" />
+    <Entry Key="597259768" Color="1" Value="&lt;I=G=PAD_LEFT&gt;&lt;I=G=PAD_RIGHT&gt; Switch players" />
+    <Entry Key="2501749037" Color="1" Value="&lt;I=G=PAD_L1&gt; Select Spawn Point" />
+    <Entry Key="3615635001" Color="1" Value="IDLE KICK" />
+    <Entry Key="3420125226" Color="1" Value="SELECT GENDER" />
+    <Entry Key="2490391966" Color="1" Value="XP BOOST" />
+    <Entry Key="4206954486" Color="1" Value="Purchase enhancements and extended features using your MB coins." />
+    <Entry Key="2889587163" Color="1" Value="VAULT" />
+    <Entry Key="2101951771" Color="1" Value="GP Boost will temporary increase the amount of GP (Gear Points) you gain by a percentage. (The boost only applies to GP that you gain from matches)" />
+    <Entry Key="3099076487" Color="1" Value="GP BOOST" />
+    <Entry Key="3123060864" Color="1" Value="XP boost will temporary increase the percentage of the XP (Experience) you gain." />
+    <Entry Key="1429626339" Color="1" Value="&lt;I=G=MBDEVICE&gt; Skip" />
+    <Entry Key="1983767626" Color="1" Value="LOG" />
+    <Entry Key="1754007833" Color="1" Value="Set the time limit for the briefing. &#xA;Once the time expires, the mission will start." />
+    <Entry Key="3362154597" Color="1" Value="Enable or disable the idle kick system. Once enabled, players will be kicked out of the match if no actions were detected from the controller for a certain period of time." />
+    <Entry Key="2814182280" Color="1" Value="Set a password to your match." />
+    <Entry Key="1943168935" Color="1" Value="Set display language.&#xA;(This option is only available in Freeplay when you are not matchmaking)" />
+    <Entry Key="1690349595" Color="1" Value="Set display language.&#xA;(This option is only available in Freeplay when you are not matchmaking. It is not available if you have joined a party)" />
+    <Entry Key="1981667224" Color="1" Value="&lt;I=G=CANCEL&gt; Back to Freeplay" />
+    <Entry Key="2571985432" Color="1" Value="&lt;I=G=PAD_L1&gt;&lt;I=G=PAD_R1&gt; Mission Results" />
+    <Entry Key="2518997596" Color="1" Value="&lt;I=G=PAD_Y&gt; Mute/Unmute Player" />
+    <Entry Key="1828327207" Color="1" Value="Proceed to the next mission?" />
+    <Entry Key="1868784276" Color="1" Value="Once you select Ascension, you will not be able to revert this. &#xA;Are you sure you want to proceed?" />
+    <Entry Key="1429992024" Color="1" Value="PARTY" />
+    <Entry Key="3722148498" Color="1" Value="IN FREEPLAY" />
+    <Entry Key="2897855612" Color="1" Value="In Match" />
+    <Entry Key="2869261854" Color="1" Value="BUSY" />
+    <Entry Key="750236630" Color="1" Value="[ CREATE PARTY ]" />
+    <Entry Key="2777523208" Color="1" Value="LEAVE" />
+    <Entry Key="3986334820" Color="1" Value="Assigning team in %s" />
+    <Entry Key="2164555914" Color="1" Value="&lt;I=G=MBDEVICE&gt; Join Match" />
+    <Entry Key="4221391526" Color="1" Value="(Press) Party Menu/Scoreboard" />
+    <Entry Key="848326725" Color="1" Value="- Obtain GP rewards." />
+    <Entry Key="2206429704" Color="1" Value="- New custom loadout slot." />
+    <Entry Key="1550830269" Color="1" Value="- New color option for your special suit and head gear." />
+    <Entry Key="2588016493" Color="1" Value="- A special suit designed uniquely for this class and a matching head gear." />
+    <Entry Key="938690467" Color="1" Value="Would you like to proceed with Ascension?&#xA;&#xA;Once you select Ascension, your XP and your level will reset, and your custom loadouts will be removed. In return, you will receive the following contents:&#xA;" />
+    <Entry Key="2281299599" Color="1" Value="Ascension is available from Level %d." />
+    <Entry Key="3338137556" Color="1" Value="This will delete your character.&#xA;Are you sure?" />
+    <Entry Key="3156431118" Color="1" Value="- New color options for your primary and secondary weapons." />
+    <Entry Key="30203066" Color="1" Value="This slot will be unlocked at Level %d." />
+    <Entry Key="873718029" Color="1" Value="Set your quick shortcut preset radio line to use in emergency situations, like when you're getting fultoned!" />
+    <Entry Key="1130552874" Color="1" Value="Shortcut (help)" />
+    <Entry Key="1509486929" Color="1" Value="Set your default shortcuts for your preset radio lines." />
+    <Entry Key="3348007588" Color="1" Value="Shortcut (default)" />
+    <Entry Key="3910507687" Color="1" Value="You have unlocked new color variations for your primary and secondary weapons!" />
+    <Entry Key="3254462000" Color="1" Value="You have obtained %d GP!" />
+    <Entry Key="2413176893" Color="1" Value="You have unlocked a custom loadout slot!" />
+    <Entry Key="1520551829" Color="1" Value="You have unlocked a new color option on your class specific suit and the matching headgear!" />
+    <Entry Key="2171350072" Color="1" Value="You have unlocked your class specific suit and a matching headgear!" />
+    <Entry Key="1718230193" Color="1" Value="You have unlocked Ascension %d!" />
+    <Entry Key="3494736616" Color="1" Value="&lt;I=G=DECISION&gt; Purchase color" />
+    <Entry Key="2244650216" Color="1" Value="This gear is currently locked. &#xA;You can unlock this gear by purchasing a color option." />
+    <Entry Key="2863348946" Color="1" Value="A party allows others to easily join the same match as the party leader. Members who are ready on the party screen will automatically join any match that the host (leader) enters or creates. Return to the party screen to join the match that the party leader has already entered." />
+    <Entry Key="1359332359" Color="1" Value="This party will be disbanded." />
+    <Entry Key="1800713079" Color="1" Value="A new party leader will be selected." />
+    <Entry Key="1530065623" Color="1" Value="&lt;I=G=DECISION&gt; Purchase gear" />
+    <Entry Key="1433220914" Color="1" Value="Would you like to purchase this gear by spending your GP?" />
+    <Entry Key="3431405029" Color="1" Value="Would you like to purchase this gear by spending your MB coins?" />
+    <Entry Key="3930076892" Color="1" Value="This gear is locked.&#xA;You can unlock and equip this gear by purchasing it." />
+    <Entry Key="1261863469" Color="1" Value="&lt;I=G=PAD_X&gt; View Profile" />
+    <Entry Key="3867362569" Color="1" Value="Custom Match Invitation" />
+    <Entry Key="1270823767" Color="1" Value="Join my match in METAL GEAR ONLINE!" />
+    <Entry Key="1764181705" Color="1" Value="You need to equip %s in order to equip %s.&#xA;Would you like to equip %s as well?" />
+    <Entry Key="3909019530" Color="1" Value="You need to equip %s in order to equip %s." />
+    <Entry Key="3936935752" Color="1" Value="Equipping %s will unequip %s and %s." />
+    <Entry Key="4027601693" Color="1" Value="Equipping %s will unequip other gear." />
+    <Entry Key="1963364715" Color="1" Value="This will unequip all current selections." />
+    <Entry Key="3887919079" Color="1" Value="&lt;I=G=PAD_R3&gt; Reset color" />
+    <Entry Key="2504487575" Color="1" Value="&lt;I=G=PAD_Y&gt; Toggle list" />
+    <Entry Key="3456106481" Color="1" Value="&lt;I=G=PAD_R3&gt; Unequip all" />
+    <Entry Key="649921268" Color="1" Value="Your color selection will be reset." />
+    <Entry Key="3164064048" Color="1" Value="Next level up in" />
+    <Entry Key="2054377084" Color="1" Value="(Press) Scoreboard" />
+    <Entry Key="3488891959" Color="1" Value="You can purchase alternate color variation by pressing &lt;I=G=PAD_X&gt; and entering the color customization." />
+    <Entry Key="485036177" Color="1" Value="&lt;I=G=DECISION&gt; Purchase" />
+    <Entry Key="2066067948" Color="1" Value="You can purchase this option with %d MB Coins." />
+    <Entry Key="1575197051" Color="1" Value="You can purchase this option with %d GP." />
+    <Entry Key="2728362618" Color="1" Value="This option will be available once you reach Ascension %d." />
+    <Entry Key="518732835" Color="1" Value="This option will be available once you reach Lv. %d." />
+    <Entry Key="59731194" Color="1" Value="XP BOOST:" />
+    <Entry Key="3848308910" Color="1" Value="GEAR UNLOCKED" />
+    <Entry Key="3558777804" Color="1" Value="WEAPON COLORS UNLOCKED" />
+    <Entry Key="2986819059" Color="1" Value="%d sec" />
+    <Entry Key="2074046916" Color="1" Value="%d hr" />
+    <Entry Key="1919489433" Color="1" Value="%d min" />
+    <Entry Key="2676135867" Color="1" Value="%d day(s)" />
+    <Entry Key="2168896346" Color="1" Value="Loadout customization will be unlocked once your character reaches Lv.%d." />
+    <Entry Key="3262449635" Color="1" Value="MGO PARTY" />
+    <Entry Key="1908176924" Color="1" Value="MGO party allows others to easily join the same match as the MGO party leader. Members who are ready on the party screen will automatically join any match that the host (leader) enters or creates. Return to the MGO party screen to join the match that the party leader has already entered." />
+    <Entry Key="1397017401" Color="1" Value="[ CREATE MGO PARTY ]" />
+    <Entry Key="3572760793" Color="1" Value="Match Invitation" />
+    <Entry Key="74006338" Color="1" Value="CONTACT ID" />
+    <Entry Key="3703379574" Color="1" Value="Your Contact ID is as follows. Please use this ID in the event that you need to contact customer support." />
+    <Entry Key="207335522" Color="1" Value="Are you sure?" />
+    <Entry Key="2008801465" Color="1" Value="Comm Link C" />
+    <Entry Key="2895088755" Color="1" Value="Comm Link B" />
+    <Entry Key="3331680060" Color="1" Value="Comm Link A" />
+    <Entry Key="3142748073" Color="1" Value="Spawn Point 3" />
+    <Entry Key="2806726724" Color="1" Value="Spawn Point 2" />
+    <Entry Key="2286821510" Color="1" Value="Spawn Point 1" />
+    <Entry Key="173329788" Color="1" Value="Would you like to join your party leader's match?" />
+    <Entry Key="4281741137" Color="1" Value="Spawn Point 4" />
+    <Entry Key="999548355" Color="1" Value="Due to the lack of bandwidth on your network, the number of players that can join your match will be limited." />
+    <Entry Key="130944730" Color="1" Value="(Press) MGO Party Menu/Scoreboard" />
+    <Entry Key="2158325721" Color="1" Value="Would you like to join your MGO party leader's match?" />
+    <Entry Key="1988601446" Color="1" Value="&lt;I=G=DECISION&gt; Create MGO Party" />
+    <Entry Key="3082904362" Color="1" Value="&lt;I=G=DECISION&gt; Invite to MGO Party" />
+    <Entry Key="1404799592" Color="1" Value="&lt;I=G=PAD_Y&gt; Leave MGO Party" />
+    <Entry Key="945017618" Color="1" Value="Are you sure you want to leave the MGO Party?" />
+    <Entry Key="2153286339" Color="1" Value="%d GP" />
+    <Entry Key="1505091455" Color="1" Value="LEGAL INFORMATION" />
+    <Entry Key="3293680225" Color="1" Value="%d MB Coins" />
+    <Entry Key="3241225108" Color="1" Value="Received [MB Coins: %d (free)]&#xA;Total MB Coins: %d" />
+    <Entry Key="870197936" Color="1" Value="Received [MB Coins: %d (free)]&#xA;Total MB Coins: %d&#xA;Valid until %d/%d/%d %s:%s:%s (YYYY/MM/DD HH:MM:SS)" />
+    <Entry Key="3170019529" Color="1" Value="Received %d/%d/%d %s:%s:%s (YYYY/MM/DD HH:MM:SS)" />
+    <Entry Key="131805300" Color="1" Value="You are not logged in to the server, therefore no invitations can be accepted." />
+    <Entry Key="1889877515" Color="1" Value="This MGO party is full. You will not be able to join." />
+    <Entry Key="2485752255" Color="1" Value="&lt;I=G=PAD_Y&gt; Top of List" />
+    <Entry Key="1376294621" Color="1" Value="&lt;I=G=PAD_Y&gt; My Ranking" />
+    <Entry Key="2042848599" Color="1" Value="STAFF CREDITS" />
+    <Entry Key="3844725616" Color="1" Value="View staff credits." />
+    <Entry Key="1079474073" Color="1" Value="Choose the preset radio line you would like to use when placing defend markers." />
+    <Entry Key="783884358" Color="1" Value="Choose the preset radio line you would like to use when placing attack markers." />
+    <Entry Key="4157511249" Color="1" Value="Choose the preset radio line you would like to use when placing enemy markers." />
+    <Entry Key="588460167" Color="1" Value="Place defend marker" />
+    <Entry Key="1494090686" Color="1" Value="Place attack marker" />
+    <Entry Key="1152531921" Color="1" Value="Place enemy marker" />
+    <Entry Key="1080424167" Color="1" Value="Select marker type" />
+    <Entry Key="4102004847" Color="1" Value="Change marker type" />
+    <Entry Key="3061824364" Color="1" Value="&lt;I=G=MGO_MARKER_DEFEND&gt;" />
+    <Entry Key="642199140" Color="1" Value="&lt;I=G=MGO_MARKER_ATTACK&gt;" />
+    <Entry Key="1620646832" Color="1" Value="&lt;I=G=MGO_MARKER_ENEMY&gt;" />
+    <Entry Key="1171183825" Color="1" Value="Rookies welcome" />
+    <Entry Key="3989695764" Color="1" Value="Live streaming" />
+    <Entry Key="3376633067" Color="1" Value="Sniper heaven" />
+    <Entry Key="3440119601" Color="1" Value="Shield only" />
+    <Entry Key="123952189" Color="1" Value="CQC only" />
+    <Entry Key="2650072420" Color="1" Value="Enforcers only" />
+    <Entry Key="836244697" Color="1" Value="Scouts only" />
+    <Entry Key="581006390" Color="1" Value="Infiltrators only" />
+    <Entry Key="1136456640" Color="1" Value="Quick skirmishes" />
+    <Entry Key="1919894692" Color="1" Value="RUSH MODE only" />
+    <Entry Key="2294868549" Color="1" Value="COMM CONTROL only" />
+    <Entry Key="137089955" Color="1" Value="CLOAK AND DAGGER only" />
+    <Entry Key="2631042875" Color="1" Value="BOUNTY HUNTER only" />
+    <Entry Key="2126984827" Color="1" Value="Pan-Asia Region" />
+    <Entry Key="807082549" Color="1" Value="EU Region" />
+    <Entry Key="1428641592" Color="1" Value="NA region" />
+    <Entry Key="1572959879" Color="1" Value="JP Region" />
+    <Entry Key="804252938" Color="1" Value="Serious business only" />
+    <Entry Key="1534154499" Color="1" Value="Hardcore veterans" />
+    <Entry Key="1660487217" Color="1" Value="Advanced players" />
+    <Entry Key="770164892" Color="1" Value="Voice chat please" />
+    <Entry Key="3310426272" Color="1" Value="Rest area" />
+    <Entry Key="2852963942" Color="1" Value="Chat room" />
+    <Entry Key="873302584" Color="1" Value="Party member recruitment" />
+    <Entry Key="2413703443" Color="1" Value="Friend recruitment" />
+    <Entry Key="943657083" Color="1" Value="Hangout room" />
+    <Entry Key="806420129" Color="1" Value="Just for fun" />
+    <Entry Key="2780542901" Color="1" Value="Casual match" />
+    <Entry Key="1372842139" Color="1" Value="Beginners only" />
+    <Entry Key="2572983194" Color="1" Value="Training room" />
+    <Entry Key="965283115" Color="1" Value="KILL" />
+    <Entry Key="1621965887" Color="1" Value="Soldier who is easily eliminated" />
+    <Entry Key="3723846831" Color="1" Value="Soldier who rarely engages in combat" />
+    <Entry Key="3025057469" Color="1" Value="Soldier who frequently uses the E-RB WORMHOLE.GEN" />
+    <Entry Key="1365258341" Color="1" Value="Soldier who frequently uses the Preset radio" />
+    <Entry Key="803916139" Color="1" Value="Soldier who frequently uses the Cardboard box" />
+    <Entry Key="576261323" Color="1" Value="Soldier who prefers to play as the Infiltrator class" />
+    <Entry Key="1269126850" Color="1" Value="Soldier who prefers to play as the Enforcer class" />
+    <Entry Key="1405099762" Color="1" Value="Soldier who prefers to play as the Scout class" />
+    <Entry Key="777872900" Color="1" Value="Soldier who prefers the CLOAK AND DAGGER mission" />
+    <Entry Key="143651319" Color="1" Value="Soldier who prefers the COMM CONTROL mission" />
+    <Entry Key="3682372767" Color="1" Value="Soldier who prefers the BOUNTY HUNTER mission" />
+    <Entry Key="3021103982" Color="1" Value="Comm Link capturing specialist" />
+    <Entry Key="4210922316" Color="1" Value="Data Disc recovery specialist" />
+    <Entry Key="1625752287" Color="1" Value="Bounty Point collection specialist" />
+    <Entry Key="3355692738" Color="1" Value="Walker Gear destruction specialist" />
+    <Entry Key="2815242752" Color="1" Value="Throwing specialist" />
+    <Entry Key="1435010242" Color="1" Value="Charming specialist" />
+    <Entry Key="3985950540" Color="1" Value="Marking specialist" />
+    <Entry Key="671896580" Color="1" Value="Fulton save specialist" />
+    <Entry Key="3540045181" Color="1" Value="Fulton recovery specialist" />
+    <Entry Key="3087107899" Color="1" Value="Soldier with a high survival rate" />
+    <Entry Key="3889809295" Color="1" Value="CQC specialist" />
+    <Entry Key="2801286677" Color="1" Value="Interrogation specialist" />
+    <Entry Key="3689593509" Color="1" Value="Soldier with high kill and stun rates" />
+    <Entry Key="2722264336" Color="1" Value="Headshot specialist" />
+    <Entry Key="3348323327" Color="1" Value="Non-lethal takedown specialist" />
+    <Entry Key="4219634246" Color="1" Value="Advanced Soldier" />
+    <Entry Key="175185047" Color="1" Value="Elite Soldier" />
+    <Entry Key="2617923203" Color="1" Value="Ultimate Soldier" />
+    <Entry Key="2376164298" Color="1" Value="Legendary Soldier" />
+    <Entry Key="4153100858" Color="1" Value="Soldier with infrequent play time" />
+    <Entry Key="686131162" Color="1" Value="Soldier who participated in the Niconico Game Party" />
+    <Entry Key="1846934342" Color="1" Value="Legendary Mercenary" />
+    <Entry Key="2647309736" Color="1" Value="Official staff member" />
+    <Entry Key="495171803" Color="1" Value="SLOTH" />
+    <Entry Key="3791855094" Color="1" Value="CHICKEN" />
+    <Entry Key="2573219441" Color="1" Value="FLYING SQUIRREL" />
+    <Entry Key="3516508266" Color="1" Value="HORNBILL" />
+    <Entry Key="3119724869" Color="1" Value="TORTOISE" />
+    <Entry Key="3765977185" Color="1" Value="GECKO" />
+    <Entry Key="4268326914" Color="1" Value="GIANT PANDA" />
+    <Entry Key="1283234294" Color="1" Value="BAT" />
+    <Entry Key="2186138269" Color="1" Value="CHAMELEON" />
+    <Entry Key="2865636090" Color="1" Value="ELEPHANT" />
+    <Entry Key="1740714973" Color="1" Value="PIRANHA" />
+    <Entry Key="42879708" Color="1" Value="HORSE" />
+    <Entry Key="3341903381" Color="1" Value="SNAKE" />
+    <Entry Key="4171936351" Color="1" Value="LEOPARD" />
+    <Entry Key="1422578397" Color="1" Value="SHARK" />
+    <Entry Key="2798433354" Color="1" Value="ORCA" />
+    <Entry Key="3829794664" Color="1" Value="CAT" />
+    <Entry Key="2255113852" Color="1" Value="HAWK" />
+    <Entry Key="1211198902" Color="1" Value="SHEEP" />
+    <Entry Key="28247887" Color="1" Value="LITTLE GRAY" />
+    <Entry Key="3657620292" Color="1" Value="WATER BEAR" />
+    <Entry Key="4210718153" Color="1" Value="BEAR" />
+    <Entry Key="3092144746" Color="1" Value="BEE" />
+    <Entry Key="540188972" Color="1" Value="CROCODILE" />
+    <Entry Key="1114578114" Color="1" Value="EAGLE" />
+    <Entry Key="2089222177" Color="1" Value="PIGEON" />
+    <Entry Key="3157769474" Color="1" Value="HOUND" />
+    <Entry Key="815654669" Color="1" Value="DOBERMAN" />
+    <Entry Key="3803472706" Color="1" Value="FOX" />
+    <Entry Key="1561899657" Color="1" Value="FOX HOUND" />
+    <Entry Key="4097653972" Color="1" Value="TSUCHINOKO" />
+    <Entry Key="2737811517" Color="1" Value="TV-CHAN" />
+    <Entry Key="2961680083" Color="1" Value="BIG BOSS" />
+    <Entry Key="2926771419" Color="1" Value="OFFICIAL" />
+    <Entry Key="2809360202" Color="1" Value="MEDAL" />
+    <Entry Key="143482822" Color="1" Value="TITLE" />
+    <Entry Key="1098433159" Color="1" Value="Medals are given out during the scheduled maintenance" />
+    <Entry Key="119126191" Color="1" Value="Titles are given out during the scheduled maintenance" />
+    <Entry Key="1252856173" Color="1" Value="NEW MEDAL ACQUIRED!" />
+    <Entry Key="696064809" Color="1" Value="NEW TITLE ACQUIRED!" />
+    <Entry Key="131162480" Color="1" Value="%d % of Gear unlocked" />
+    <Entry Key="3266746485" Color="1" Value="Defended a Comm Link %d times" />
+    <Entry Key="3611871113" Color="1" Value="Neutralized a Comm Link %d times" />
+    <Entry Key="1336575808" Color="1" Value="Captured a Comm Link %d times" />
+    <Entry Key="2488194688" Color="1" Value="Protected a Data Disc %d times" />
+    <Entry Key="3987124474" Color="1" Value="Picked up a Data Disc %d times" />
+    <Entry Key="3202349246" Color="1" Value="Escaped with a Data Disc %d times" />
+    <Entry Key="836119546" Color="1" Value="Fulton extracted %d Bounty points" />
+    <Entry Key="4040487343" Color="1" Value="Total play time of %d hours" />
+    <Entry Key="1685171571" Color="1" Value="%d Mission wins" />
+    <Entry Key="2956255506" Color="1" Value="Completed a mission %d times" />
+    <Entry Key="2235434086" Color="1" Value="Achieved %d Amazing Throws" />
+    <Entry Key="1946884576" Color="1" Value="Destroyed %d Walker Gears" />
+    <Entry Key="472192096" Color="1" Value="Charmed enemies %d times" />
+    <Entry Key="791836399" Color="1" Value="Interrogated an enemy %d times" />
+    <Entry Key="729877787" Color="1" Value="Marked by enemies %d times" />
+    <Entry Key="4293236996" Color="1" Value="Marked enemies %d times" />
+    <Entry Key="2549277454" Color="1" Value="Fulton saved a teammate %d times" />
+    <Entry Key="2036190711" Color="1" Value="Fulton recovered by an enemy %d times" />
+    <Entry Key="3058332846" Color="1" Value="Fulton recovered an enemy %d times" />
+    <Entry Key="4257249731" Color="1" Value="Stunned by enemies %d times" />
+    <Entry Key="2497651617" Color="1" Value="Stunned enemies %d times" />
+    <Entry Key="3888142855" Color="1" Value="%d deaths" />
+    <Entry Key="1876912040" Color="1" Value="%d assists" />
+    <Entry Key="315852061" Color="1" Value="%d headshots" />
+    <Entry Key="570831831" Color="1" Value="%d lethal kills" />
+    <Entry Key="2705777929" Color="1" Value="GEAR UNLOCKED" />
+    <Entry Key="3354307985" Color="1" Value="COMM LINK DEFEND" />
+    <Entry Key="3722599530" Color="1" Value="COMM LINK NEUTRALIZE" />
+    <Entry Key="3763332785" Color="1" Value="COMM LINK CAPTURE" />
+    <Entry Key="2610602476" Color="1" Value="DISC DEFEND" />
+    <Entry Key="3142839334" Color="1" Value="DISC PICKUP" />
+    <Entry Key="4270763915" Color="1" Value="DISC RETRIEVE" />
+    <Entry Key="4002519426" Color="1" Value="BOUNTY CLAIM" />
+    <Entry Key="3562767056" Color="1" Value="PLAY TIME" />
+    <Entry Key="891592646" Color="1" Value="MISSION WON" />
+    <Entry Key="3511207062" Color="1" Value="MISSION PLAY" />
+    <Entry Key="3250559072" Color="1" Value="AMAZING THROW" />
+    <Entry Key="99933613" Color="1" Value="WALKER GEAR DESTRUCTION" />
+    <Entry Key="752366536" Color="1" Value="CHARM" />
+    <Entry Key="2041567436" Color="1" Value="INTERROGATION" />
+    <Entry Key="351238271" Color="1" Value="MARKED" />
+    <Entry Key="3850513349" Color="1" Value="MARK" />
+    <Entry Key="808279679" Color="1" Value="FULTON SAVE" />
+    <Entry Key="113217050" Color="1" Value="FULTONED" />
+    <Entry Key="1917313202" Color="1" Value="FULTON" />
+    <Entry Key="139709408" Color="1" Value="STUNNED" />
+    <Entry Key="515764865" Color="1" Value="STUN" />
+    <Entry Key="2615309845" Color="1" Value="DEATH" />
+    <Entry Key="1010062099" Color="1" Value="ASSIST" />
+    <Entry Key="634116694" Color="1" Value="HEADSHOT" />
+    <Entry Key="3484813140" Color="1" Value="RECORD" />
+    <Entry Key="1041164428" Color="1" Value="&lt;I=G=PAD_Y&gt; Change page" />
+    <Entry Key="395043315" Color="1" Value="&lt;I=G=PAD_X&gt; Preset radio" />
+    <Entry Key="277692664" Color="1" Value="&lt;I=G=PAD_X&gt; Preset text - All" />
+    <Entry Key="146625538" Color="1" Value="&lt;I=G=PAD_X&gt; Preset text - Team" />
+    <Entry Key="2325684950" Color="1" Value="Preset text - All" />
+    <Entry Key="1593935507" Color="1" Value="Preset text - Team" />
+    <Entry Key="3099340662" Color="1" Value="Preset radio" />
+    <Entry Key="3916661788" Color="1" Value="Page %d" />
+    <Entry Key="3111212649" Color="1" Value="&lt;I=G=PAUSE&gt; Hide Window" />
+    <Entry Key="662355514" Color="1" Value="&lt;I=G=PAD_X&gt; Change mode" />
+    <Entry Key="2399816347" Color="1" Value="Party Menu/Scoreboard" />
+    <Entry Key="525541398" Color="1" Value="BGM volume setting" />
+    <Entry Key="4134152722" Color="1" Value="Set the BGM volume." />
+    <Entry Key="53566680" Color="1" Value="Select a slot." />
+    <Entry Key="3404169301" Color="1" Value="Select an action." />
+    <Entry Key="2089650844" Color="1" Value="&lt;I=G=PAD_X&gt; Preview Action" />
+    <Entry Key="1575626043" Color="1" Value="&lt;I=G=PAD_Y&gt; Viewer ON/OFF" />
+    <Entry Key="3459437423" Color="1" Value="SCORPION" />
+    <Entry Key="1504484317" Color="1" Value="Knife specialist" />
+    <Entry Key="1628509680" Color="1" Value="Soldier who prefers the SABOTAGE mission" />
+    <Entry Key="2600212668" Color="1" Value="HYENA" />
+    <Entry Key="2548926249" Color="1" Value="SCARAB" />
+    <Entry Key="1892038794" Color="1" Value="Missile specialist" />
+    <Entry Key="386158944" Color="1" Value="Hacked the Terminal %d times" />
+    <Entry Key="707754932" Color="1" Value="Damaged the Missile %d times" />
+    <Entry Key="2088211976" Color="1" Value="Destroyed the Missile %d times" />
+    <Entry Key="428837907" Color="1" Value="Fultoned the Missile %d times" />
+    <Entry Key="2937389891" Color="1" Value="TERMINAL HACK" />
+    <Entry Key="1142328018" Color="1" Value="MISSILE DAMAGE" />
+    <Entry Key="1062854318" Color="1" Value="MISSILE DESTROY" />
+    <Entry Key="3933373883" Color="1" Value="MISSILE FULTON" />
+    <Entry Key="297886387" Color="1" Value="%d knife kills" />
+    <Entry Key="1880740003" Color="1" Value="KNIFE" />
+    <Entry Key="3992896402" Color="1" Value="&lt;I=G=PAD_X&gt; View Stats" />
+    <Entry Key="1885716600" Color="1" Value="Create or join a team for SURVIVAL mode." />
+    <Entry Key="3630713602" Color="1" Value="Create a new team." />
+    <Entry Key="815786758" Color="1" Value="CREATE TEAM" />
+    <Entry Key="3329720462" Color="1" Value="Join a team looking for players." />
+    <Entry Key="2441045585" Color="1" Value="SELECT TEAM" />
+    <Entry Key="2042975613" Color="1" Value="SURVIVAL" />
+    <Entry Key="3277852745" Color="1" Value="SURVIVAL will end due to an upcoming maintenance." />
+    <Entry Key="3460155751" Color="1" Value="SURVIVAL nearly ending." />
+    <Entry Key="3410031256" Color="1" Value="Congratulations!" />
+    <Entry Key="753379889" Color="1" Value="(1 from total of 12)" />
+    <Entry Key="1732917374" Color="1" Value="Special color variation" />
+    <Entry Key="3547800388" Color="1" Value="REWARD FOR 5 WINS" />
+    <Entry Key="2459745163" Color="1" Value="REWARD FOR 4 WINS" />
+    <Entry Key="2889562787" Color="1" Value="REWARD FOR 3 WINS" />
+    <Entry Key="984497419" Color="1" Value="REWARD FOR 2 WINS" />
+    <Entry Key="2539055929" Color="1" Value="REWARD FOR 1 WIN" />
+    <Entry Key="3858791553" Color="1" Value="REWARD FOR 0 WINS" />
+    <Entry Key="2584573279" Color="1" Value="5 WIN STREAK ACHIEVED!" />
+    <Entry Key="2026214881" Color="1" Value="4 WINS!" />
+    <Entry Key="4031289248" Color="1" Value="3 WINS!" />
+    <Entry Key="498995363" Color="1" Value="2 WINS!" />
+    <Entry Key="1773201336" Color="1" Value="1 WIN!" />
+    <Entry Key="2046853970" Color="1" Value="0 WINS" />
+    <Entry Key="497877189" Color="1" Value="Reward" />
+    <Entry Key="2160933608" Color="1" Value="%d consecutive wins" />
+    <Entry Key="773328095" Color="1" Value="Searching for opponents." />
+    <Entry Key="1168649204" Color="1" Value="Start SURVIVAL mode with the following team settings?" />
+    <Entry Key="917632537" Color="1" Value="%d player(s)" />
+    <Entry Key="1547350648" Color="1" Value="Form a team and aim for 5 consecutive wins.&#xA;The more consecutive wins, the higher the rewards." />
+    <Entry Key="3637625436" Color="1" Value="No teams found with the entered search." />
+    <Entry Key="3984028422" Color="1" Value="Failed to join a team as no teams were found with the entered search." />
+    <Entry Key="182981114" Color="1" Value="Failed to join the team as the capacity is full." />
+    <Entry Key="1930974715" Color="1" Value="Please enter a 4-digit numerical ROOM ID." />
+    <Entry Key="2642816239" Color="1" Value="Are you sure you want to join this team?" />
+    <Entry Key="2379535840" Color="1" Value="No teams were found with the selected filter." />
+    <Entry Key="745514385" Color="1" Value="Create a team by specifying the ROOM ID." />
+    <Entry Key="547662038" Color="1" Value="Search for a team by specifying the ROOM ID." />
+    <Entry Key="478575967" Color="1" Value="ROOM ID" />
+    <Entry Key="1111911091" Color="1" Value="Search only through teams with password restriction." />
+    <Entry Key="158725114" Color="1" Value="Search only through the matches with password restriction." />
+    <Entry Key="4260854327" Color="1" Value="&lt;I=G=CALL&gt; Open Preset Text" />
+    <Entry Key="1907481315" Color="1" Value="&lt;I=G=PAD_R3&gt;" />
+    <Entry Key="1793472747" Color="1" Value="&lt;I=G=DECISION&gt; Select" />
+    <Entry Key="1746342776" Color="1" Value="Messages" />
+    <Entry Key="3384691267" Color="1" Value="Category" />
+    <Entry Key="2360256879" Color="1" Value="&lt;I=G=PAD_Y&gt; Switch audience" />
+    <Entry Key="2305741371" Color="1" Value="All" />
+    <Entry Key="3760249852" Color="1" Value="Team" />
+    <Entry Key="2145757727" Color="1" Value="Preset text" />
+    <Entry Key="3125734962" Color="1" Value="Set up a private host by setting a password to your room." />
+    <Entry Key="3430218106" Color="1" Value="Returning to your room." />
+    <Entry Key="1309725379" Color="1" Value="Failed to join the match as you do not have the required downloadable contents." />
+    <Entry Key="745382064" Color="1" Value="In order to use this feature, you must purchase the downloadable content [EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;].&#xA;The downloadable content can be purchased from the STEAM store." />
+    <Entry Key="1329005594" Color="1" Value="In order use this feature, you must purchase the downloadable content [EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;].&#xA;Would you like to access the Xbox Games Store?" />
+    <Entry Key="2509605660" Color="1" Value="In order to use this feature, you must purchase the downloadable content [EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;].&#xA;Would you like to access the PlayStation®Store?" />
+    <Entry Key="2250520154" Color="1" Value="In order to play in this match, you must purchase the downloadable content [EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;].&#xA;The downloadable content can be purchased from the STEAM store." />
+    <Entry Key="2104303799" Color="1" Value="In order to play in this match, you must purchase the downloadable content [EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;].&#xA;Would you like to access the Xbox Games Store?" />
+    <Entry Key="20692361" Color="1" Value="In order to play in this match, you must purchase the downloadable content [EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;].&#xA;Would you like to access the PlayStation®Store?" />
+    <Entry Key="4112302909" Color="1" Value="You have run out of SURVIVAL TICKETS and will be unable to play SURVIVAL.&#xA;If you purchase the EXPANSION PACK, you will be granted an unlimited number of SURVIVAL TICKETS.&#xA;The EXPANSION PACK can be purchased from the STEAM Store." />
+    <Entry Key="162571899" Color="1" Value="You have run out of SURVIVAL TICKETS and will be unable to play SURVIVAL.&#xA;If you purchase the EXPANSION PACK, you will be granted an unlimited number of SURVIVAL TICKETS.&#xA;The EXPANSION PACK can be purchased from the Xbox Games Store." />
+    <Entry Key="737607088" Color="1" Value="You have run out of SURVIVAL TICKETS and will be unable to play SURVIVAL.&#xA;If you purchase the EXPANSION PACK, you will be granted an unlimited number of SURVIVAL TICKETS.&#xA;The EXPANSION PACK can be purchased from the PlayStation®Store." />
+    <Entry Key="1968373613" Color="1" Value="Handguns only" />
+    <Entry Key="1580729137" Color="1" Value="Knife only" />
+    <Entry Key="2764111706" Color="1" Value="Non-lethal weapons only" />
+    <Entry Key="1720859848" Color="1" Value="Lethal weapons only" />
+    <Entry Key="446739441" Color="1" Value="SABOTAGE only" />
+    <Entry Key="3931933905" Color="1" Value="Rank F only" />
+    <Entry Key="1055346420" Color="1" Value="Rank E and below" />
+    <Entry Key="3338577527" Color="1" Value="Rank D and below" />
+    <Entry Key="2578469493" Color="1" Value="Rank C and below" />
+    <Entry Key="1916462919" Color="1" Value="Rank B and below" />
+    <Entry Key="1315243131" Color="1" Value="Rank A and below" />
+    <Entry Key="1489434575" Color="1" Value="Rank E and above" />
+    <Entry Key="4284955519" Color="1" Value="Rank D and above" />
+    <Entry Key="1877336081" Color="1" Value="Rank C and above" />
+    <Entry Key="4177766925" Color="1" Value="Rank B and above" />
+    <Entry Key="1575846742" Color="1" Value="Rank A and above" />
+    <Entry Key="3716994506" Color="1" Value="Rank S only" />
+    <Entry Key="2038449749" Color="1" Value="Going for a win" />
+    <Entry Key="1435095251" Color="1" Value="Won't stop until we win" />
+    <Entry Key="568460039" Color="1" Value="Aiming for 5 consecutive wins" />
+    <Entry Key="972956144" Color="1" Value="In SURVIVAL mode, a team of players compete to gain as many consecutive wins as possible to achieve a high reward.&#xA;The match begins once all players in your team are ready. By winning a match, your team will be matched up with the next opponent team. Please note that the winning streak resets after every maintenance." />
+    <Entry Key="3965437430" Color="1" Value="Maintenance will begin in %d minutes." />
+    <Entry Key="2035941806" Color="1" Value="You have run out of SURVIVAL TICKETS and will be unable to play SURVIVAL.&#xA;If you purchase the EXPANSION PACK, you will be granted an unlimited number of SURVIVAL TICKETS." />
+    <Entry Key="3550270218" Color="1" Value="You have run out of SURVIVAL TICKETS and will be unable to play SURVIVAL.&#xA;If you purchase the EXPANSION PACK, you will be granted an unlimited number of SURVIVAL TICKETS." />
+    <Entry Key="1551363430" Color="1" Value="In order to use this feature, you must purchase the downloadable content [EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;]." />
+    <Entry Key="3288059387" Color="1" Value="In order to use the SURVIVAL mode, you must purchase the downloadable content [EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;]." />
+    <Entry Key="4206511769" Color="1" Value="In order play in this match, you must purchase the downloadable content [EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;]." />
+    <Entry Key="1016558303" Color="1" Value="In order play in this match, you must purchase the downloadable content [EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;]." />
+    <Entry Key="3121582471" Color="1" Value="Failed to join the match as you do not have the required downloadable contents." />
+    <Entry Key="3321645727" Color="1" Value="Failed to join the match as you do not have the required downloadable contents." />
+    <Entry Key="1009227079" Color="1" Value="Failed to join the match as you do not have the required downloadable contents." />
+    <Entry Key="3471019845" Color="1" Value="Failed to join the match as you do not have the required downloadable contents." />
+    <Entry Key="4198408495" Color="1" Value="Achieved:" />
+    <Entry Key="282704727" Color="1" Value="Condition:" />
+    <Entry Key="2613911129" Color="1" Value="BIGBOSS x BOSS" />
+    <Entry Key="3196970159" Color="1" Value="Soldier who participated in AEON BIGBOSS CUP campaign" />
+    <Entry Key="28235883" Color="1" Value="Failed to join a match as there are players who do not have the required downloadable contents installed in this room." />
+    <Entry Key="1279809697" Color="1" Value="Failed to join a match as there are players who do not have the required downloadable contents installed in this room." />
+    <Entry Key="85720317" Color="1" Value="Failed to join a match as there are players who do not have the required downloadable contents installed in this room." />
+    <Entry Key="3210873474" Color="1" Value="NEXT REWARD" />
+    <Entry Key="998917426" Color="1" Value="&lt;I=G=PAD_UP&gt;&lt;I=G=PAD_DOWN&gt; Switch teams" />
+    <Entry Key="3631285458" Color="1" Value="You can also purchase color variation on your CHEST gear through the CHEST GEAR %s." />
+    <Entry Key="214125056" Color="1" Value="The downloadable content can be purchased from the Xbox Games Store." />
+    <Entry Key="4197776995" Color="1" Value="The downloadable content can be purchased from the PlayStation®Store." />
+    <Entry Key="1934338553" Color="1" Value="SELECT ROOM" />
+    <Entry Key="1016996514" Color="1" Value="CREATE ROOM" />
+    <Entry Key="3237666017" Color="1" Value="ROOM SETTINGS" />
+    <Entry Key="3932550501" Color="1" Value="You've earned a reward." />
+    <Entry Key="1103815439" Color="1" Value="%s RARE COLOR" />
+    <Entry Key="3930398679" Color="1" Value="RARE COLOR" />
+    <Entry Key="1469684862" Color="1" Value="BRIEFING" />
+    <Entry Key="113186223" Color="1" Value="&lt;I=G=PAD_L2&gt; Mission Info Display" />
+    <Entry Key="2791259453" Color="1" Value="[EXPANSION PACK &quot;CLOAKED IN SILENCE&quot;]    AVAILABLE NOW" />
+    <Entry Key="2661936788" Color="1" Value="Voice Pitch" />
+    <Entry Key="1691222060" Color="1" Value="Voice Type" />
+    <Entry Key="2311431100" Color="1" Value="&lt;I=G=PAD_L2&gt; Briefing Display" />
+    <Entry Key="3099060913" Color="1" Value="In SURVIVAL, you can play the new EXPANSION PACK maps even if you haven't purchased the EXPANSION PACK.&#xA;However, one SURVIVAL TICKET will be depleted each time you play SURVIVAL, and you will no longer be able to play SURVIVAL when you run out of tickets." />
+    <Entry Key="3197871331" Color="1" Value="SURVIVAL TICKETS" />
+    <Entry Key="1391124061" Color="1" Value="All RARE COLORS have already been acquired, so you will instead receive the following reward." />
+    <Entry Key="1394682797" Color="1" Value="SURVIVAL TICKETS" />
+    <Entry Key="3049217581" Color="1" Value="&lt;I=G=DECISION&gt; Join Room" />
+    <Entry Key="3991528897" Color="1" Value="&lt;I=G=PAD_Y&gt; View Room Details" />
+    <Entry Key="2784972826" Color="1" Value="ROOM HOST" />
+    <Entry Key="695909825" Color="1" Value="ROOM INFORMATION" />
+    <Entry Key="3253137776" Color="1" Value="1 win" />
+    <Entry Key="3378269416" Color="1" Value="&lt;I=G=PAD_L1&gt;&lt;I=G=PAD_R1&gt; Refresh List" />
+    <Entry Key="257020723" Color="1" Value="&lt;I=G=PAD_L1&gt; Mission Info Display" />
+    <Entry Key="2681745249" Color="1" Value="&lt;I=G=PAD_L1&gt; Briefing Display" />
+  </Entries>
+</LangFile>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry LangId="mgo_announce_buddy_link_end" Color="1" Value="Buddy link terminated." />
+    <Entry LangId="mgo_announce_buddy_link_start" Color="1" Value="Buddy link established." />
+    <Entry Key="202408536" Color="1" Value="Contract completed." />
+    <Entry Key="2195125847" Color="1" Value="Contract accepted." />
+    <Entry Key="3881465374" Color="1" Value="Wormhole available." />
+    <Entry Key="3562354686" Color="1" Value="Comm Link C captured." />
+    <Entry Key="2199949810" Color="1" Value="Comm Link B captured." />
+    <Entry Key="2683969491" Color="1" Value="Comm Link A captured." />
+    <Entry Key="1697845610" Color="1" Value="Comm Link C lost." />
+    <Entry Key="1296153656" Color="1" Value="Comm Link B lost." />
+    <Entry Key="1818841292" Color="1" Value="Comm Link A lost." />
+    <Entry Key="2757060842" Color="1" Value="Access iDroid to commence matchmaking." />
+    <Entry LangId="mgo_announce_generic_round_end" Color="1" Value="Round complete." />
+    <Entry LangId="mgo_announce_generic_liquid_win" Color="1" Value="Liquid wins." />
+    <Entry LangId="mgo_announce_generic_solid_win" Color="1" Value="Solid wins." />
+    <Entry Key="846346824" Color="1" Value="Team Base reward rejected." />
+    <Entry Key="606400713" Color="1" Value="Team Base reward proposed." />
+    <Entry Key="505153922" Color="1" Value="Team Base reward accepted." />
+    <Entry Key="2517678507" Color="1" Value="You have the lead." />
+    <Entry LangId="mgo_announce_generic_one_min" Color="1" Value="One minute remaining." />
+    <Entry Key="983060984" Color="1" Value="Mission nearly complete.&#xA;Maintain pressure on the enemy." />
+    <Entry Key="3954585093" Color="1" Value="The enemy has the lead." />
+    <Entry Key="2371717928" Color="1" Value="Disc B dropped." />
+    <Entry Key="199212442" Color="1" Value="Disc A dropped." />
+    <Entry Key="2254993398" Color="1" Value="Disc B taken." />
+    <Entry Key="2374630576" Color="1" Value="Disc A taken." />
+    <Entry Key="760037571" Color="1" Value="Stealth camo on enemy team deactivated." />
+    <Entry Key="515288049" Color="1" Value="Stealth camo on your team deactivated. Use caution." />
+    <Entry Key="2907343767" Color="1" Value="A bounty has been placed on you." />
+    <Entry Key="13376269" Color="1" Value="Half of your team has been eliminated." />
+    <Entry Key="1736272536" Color="1" Value="All teammates have been eliminated.&#xA;You must complete the mission alone." />
+    <Entry Key="4076846343" Color="1" Value="Missile destruction imminent." />
+    <Entry Key="4215010450" Color="1" Value="Unlocked:" />
+    <Entry Key="4064967250" Color="1" Value="Level up" />
+    <Entry Key="411042445" Color="1" Value="Match starting." />
+    <Entry Key="1530258440" Color="1" Value="You've captured a photo" />
+    <Entry LangId="announce_get_bullet_default" Color="1" Value="Obtained Ammo [%s]" />
+  </Entries>
+</LangFile>

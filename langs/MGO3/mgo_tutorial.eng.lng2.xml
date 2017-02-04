@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry LangId="tutorial_mb_device" Color="1" Value="&lt;I=G=MBDEVICE&gt;: Open/close iDroid" />
+    <Entry LangId="tutorial_link_action" Color="1" Value="&lt;I=G=PAD_R3&gt; Hold: Buddy Link" />
+    <Entry LangId="tutorial_score_board" Color="1" Value="&lt;I=G=UI_KEY_PARTY&gt;: Scoreboard" />
+    <Entry LangId="tutorial_party_menu" Color="1" Value="&lt;I=G=PAUSE&gt;: Party Menu" />
+    <Entry LangId="tutorial_system_menu" Color="1" Value="&lt;I=G=PAUSE&gt; Hold: System Menu" />
+    <Entry Key="241953937" Color="1" Value="Regarding the iDroid" />
+    <Entry Key="476367258" Color="1" Value="Once a class is selected for a character, this cannot be undone. &#xA;However, as you progress through the game, you will unlock alternate character slots allowing you to try out different classes.&#xA;&#xA;Now, let's choose your class." />
+    <Entry Key="3960921660" Color="1" Value="The INFILTRATOR class specializes in CQC with its fast movement speed, but is also very vulnerable with its lack of health. &#xA;&#xA;This class is ideal for advanced players who know how to sneak behind enemies." />
+    <Entry Key="3346101695" Color="1" Value="The ENFORCER class carries heavy explosives with high durability, but lacks movement speed and reflexes. &#xA;&#xA;This class is ideal for average players." />
+    <Entry Key="3267795289" Color="1" Value="The SCOUT class offers standard combat abilities while specializing in aiding their teammates with long range reconnaissance actions. &#xA;&#xA;This class is ideal for beginners." />
+    <Entry Key="1178382914" Color="1" Value="Each playable character represents a class.&#xA;&#xA;Our 3 classes, SCOUT, ENFORCER, and INFILTRATOR each provide a unique gameplay style along with different loadouts." />
+    <Entry Key="251518656" Color="1" Value="Your first character slot is linked to the avatar from MGSV:TPP single player. &#xA;&#xA;You can only edit this avatar's facial features in MGSV:TPP single player." />
+    <Entry Key="2346775995" Color="1" Value="In order to start playing MGO, you must create a character.&#xA;&#xA;Let's start your character creation." />
+    <Entry Key="3979396170" Color="1" Value="Let's Create your Character." />
+    <Entry Key="3195077711" Color="1" Value="Up to 12 players multiplayer matches in diverse locations and missions from MGSV:TPP.&#xA;&#xA;Collect weapons and abilities that are unique to MGO.&#xA;Strategize with your teammates to achieve victory!" />
+    <Entry Key="958815900" Color="1" Value="Up to 16 players multiplayer matches in diverse locations and missions from MGSV:TPP.&#xA;&#xA;Collect weapons and abilities that are unique to MGO.&#xA;Strategize with your teammates to achieve victory!" />
+    <Entry Key="497655481" Color="1" Value="METAL GEAR ONLINE (MGO) is the multiplayer component of METAL GEAR SOLID V: THE PHANTOM PAIN (MGSV:TPP)." />
+    <Entry Key="3596301072" Color="1" Value="Welcome to METAL GEAR ONLINE!" />
+    <Entry Key="3208463776" Color="1" Value="You have completed the tutorial.&#xA;&#xA;The game will begin in the FREEPLAY environment.&#xA;You can familiarize yourself with the controls before joining a match. &#xA;Use the firing targets to practice your aim!" />
+    <Entry Key="756069028" Color="1" Value="In the CUSTOMIZE option, you can customize your character's weapons, abilities, and gear.&#xA;&#xA;Once you're up to a certain level, you will be able to customize your loadout within this menu. &#xA;&#xA;In order to level up, join a match and start gaining experience points!" />
+    <Entry Key="421587244" Color="1" Value="In the CREATE MATCH option, you can select your desired mission and map. &#xA;&#xA;You can create up to 5 missions in a playlist that can be repeated.&#xA;&#xA;Certain network connections will not allow you to use this feature." />
+    <Entry Key="1730478247" Color="1" Value="In the SELECT MATCH option, you can select the desired match from the list of missions that are available." />
+    <Entry Key="3151968337" Color="1" Value="In the AUTOMATCH option, you can choose a mission you would like to play and the system will automatically join you in a match. &#xA;You can gain Gear Points at a higher rate than with other matching options." />
+    <Entry Key="2344221112" Color="1" Value="In order to join an online match, open the iDroid and choose MATCHING.&#xA;&#xA;There are 3 options within MATCHING: AUTOMATCH, CREATE MATCH, and SELECT MATCH." />
+    <Entry Key="637174667" Color="1" Value="Your character has been created, and you are ready to start playing MGO!&#xA;&#xA;Before that, let's go over the essentials of your iDroid menu." />
+    <Entry Key="3641542992" Color="1" Value="TIPS can be viewed in the SYSTEM MENU or the loading screen.&#xA;&#xA;You will now begin playing MGO.&#xA;Aim towards the enemy!&#xA;" />
+    <Entry Key="3286813634" Color="1" Value="To the Battlefield!" />
+    <Entry Key="2479419334" Color="1" Value="You can access information regarding MB Coins through the VAULT menu.&#xA;&#xA;Your MB Coins are shared between MGSV:TPP single player." />
+    <Entry Key="1660932875" Color="1" Value="Personal stats and global ranking can be accessed in the STATS options from your iDroid. &#xA;&#xA;The STATS options can be accessed from both FREEPLAY and during a mission." />
+    <Entry Key="4205779711" Color="1" Value="Customizing your gear is a way to make your character look unique. Gear is entirely cosmetic, without any ties to your abilities, so don't worry about your performance and get your fancy hats on! &#xA;&#xA;You can purchase special gear with your MB Coins or Gear Points, which can be obtained by completing missions." />
+    <Entry Key="227382494" Color="1" Value="Would you like to select this class?" />
+    <Entry LangId="tutorial_shortcut_radio" Color="1" Value="&lt;I=G=CALL&gt;: Shortcut Preset Radio" />
+    <Entry LangId="mbtutorial_exit_1_a" Color="1" Value="Exit Tutorial" />
+    <Entry LangId="mbtutorial_exit_1_b" Color="1" Value="Suspending the tutorial for now." />
+    <Entry Key="1833347087" Color="1" Value="Your character creation has failed." />
+    <Entry Key="1389715236" Color="1" Value="You have already created a character.&#xA;This will complete your tutorial." />
+    <Entry Key="871059321" Color="1" Value="&lt;I=G=PAUSE&gt;: MGO Party Menu" />
+    <Entry Key="3100362132" Color="1" Value="In the SURVIVAL option, you can play in the SURVIVAL game mode.&#xA;&#xA;SURVIVAL is a mode in which teams of 6 players compete to gain as many consecutive wins as possible to achieve a high reward.&#xA;You will receive a special reward for winning 5 consecutive matches, so do your best and aim for a 5-win streak!" />
+    <Entry Key="2088187195" Color="1" Value="In SURVIVAL, you can play the new EXPANSION PACK maps even if you haven't purchased the EXPANSION PACK.&#xA;However, one SURVIVAL TICKET will be depleted each time you play SURVIVAL, and you will no longer be able to play SURVIVAL when you run out of tickets.&#xA;&#xA;Your SURVIVAL TICKETS will be replenished periodically.&#xA;Also, purchasing the EXPANSION PACK will grant you an unlimited number of SURVIVAL TICKETS." />
+  </Entries>
+</LangFile>

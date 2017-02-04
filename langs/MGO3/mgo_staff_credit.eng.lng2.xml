@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry Key="2162749630" Color="1" Value="METAL GEAR ONLINE" />
+    <Entry LangId="name_AJ_Gonzalez" Color="1" Value="AJ Gonzalez" />
+    <Entry LangId="name_Akio_Ohtsuka" Color="1" Value="Akio Ohtsuka" />
+    <Entry LangId="name_Akira_Iizumi" Color="1" Value="Akira Iizumi" />
+    <Entry LangId="name_Akira_Inamura" Color="1" Value="Akira Inamura" />
+    <Entry LangId="name_Akira_Kanke" Color="1" Value="Akira Kanke" />
+    <Entry LangId="name_Akira_Ugajin" Color="1" Value="Akira Ugajin" />
+    <Entry LangId="name_Alicyn_Packard" Color="1" Value="Alicyn Packard" />
+    <Entry LangId="name_Anthony_Franco" Color="1" Value="Anthony Franco" />
+    <Entry LangId="name_Arata_Matsushita" Color="1" Value="Arata Matsushita" />
+    <Entry LangId="name_Avinash_Sunnasy" Color="1" Value="Avinash Sunnasy" />
+    <Entry LangId="name_Ayaka_Asai" Color="1" Value="Ayaka Asai" />
+    <Entry LangId="name_Ayumu_Fujita" Color="1" Value="Ayumu Fujita" />
+    <Entry LangId="name_Chee_Lau" Color="1" Value="Chee Lau" />
+    <Entry LangId="name_Christopher_Turnley" Color="1" Value="Christopher Turnley" />
+    <Entry LangId="name_Crispin_Freeman" Color="1" Value="Crispin Freeman" />
+    <Entry LangId="name_Csaba_Molnar" Color="1" Value="Csaba Molnar" />
+    <Entry LangId="name_Damon_Anderson" Color="1" Value="Damon Anderson" />
+    <Entry LangId="name_Daniel_James" Color="1" Value="Daniel James" />
+    <Entry LangId="name_Danny_Mastrangelo" Color="1" Value="Danny Mastrangelo" />
+    <Entry LangId="name_David_Msika" Color="1" Value="David Msika" />
+    <Entry LangId="name_Don_Johnson" Color="1" Value="Don Johnson" />
+    <Entry LangId="name_Donna_Burke" Color="1" Value="Donna Burke" />
+    <Entry LangId="name_Franco_Anthony" Color="1" Value="Franco Anthony" />
+    <Entry LangId="name_Fumiaki_Shiraishi" Color="1" Value="Fumiaki Shiraishi" />
+    <Entry LangId="name_Fumito_Miyauchi" Color="1" Value="Fumito Miyauchi" />
+    <Entry LangId="name_GK_Bowes" Color="1" Value="GK Bowes" />
+    <Entry LangId="name_Hideki_Sasaki" Color="1" Value="Hideki Sasaki" />
+    <Entry LangId="name_Hikaru_Yoshikawa" Color="1" Value="Hikaru Yoshikawa" />
+    <Entry LangId="name_Hiroaki_Arai" Color="1" Value="Hiroaki Arai" />
+    <Entry LangId="name_Hironobu_Matsui" Color="1" Value="Hironobu Matsui" />
+    <Entry LangId="name_Hiroshi_Tsukahara" Color="1" Value="Hiroshi Tsukahara" />
+    <Entry LangId="name_Hiroyuki_Miyoshi" Color="1" Value="Hiroyuki Miyoshi" />
+    <Entry LangId="name_Hiroyuki_Nakayama" Color="1" Value="Hiroyuki Nakayama" />
+    <Entry LangId="name_James_McBride" Color="1" Value="James McBride" />
+    <Entry LangId="name_Jeremy_Townsend" Color="1" Value="Jeremy Townsend" />
+    <Entry LangId="name_Ji_Ruan" Color="1" Value="Ji Ruan" />
+    <Entry LangId="name_Joel_Johnstone" Color="1" Value="Joel Johnstone" />
+    <Entry LangId="name_Jonathan_Stein" Color="1" Value="Jonathan Stein" />
+    <Entry LangId="name_Jordan_Lamarrewan" Color="1" Value="Jordan Lamarrewan" />
+    <Entry LangId="name_Jose_Schneider" Color="1" Value="Jose Schneider" />
+    <Entry LangId="name_Junichi_Kimura" Color="1" Value="Junichi Kimura" />
+    <Entry LangId="name_Junji_Maruhashi" Color="1" Value="Junji Maruhashi" />
+    <Entry LangId="name_Junji_Tago" Color="1" Value="Junji Tago" />
+    <Entry LangId="name_Jutaro_Oue" Color="1" Value="Jutaro Oue" />
+    <Entry LangId="name_Karina_Ketcham" Color="1" Value="Karina Ketcham" />
+    <Entry LangId="name_Kasumi_Shishido" Color="1" Value="Kasumi Shishido" />
+    <Entry LangId="name_Kazuki_Yanashima" Color="1" Value="Kazuki Yanashima" />
+    <Entry LangId="name_Kazumasa_Ogiso" Color="1" Value="Kazumasa Ogiso" />
+    <Entry LangId="name_Kazuya_Adachi" Color="1" Value="Kazuya Adachi" />
+    <Entry LangId="name_Kazuya_Matsunaga" Color="1" Value="Kazuya Matsunaga" />
+    <Entry LangId="name_Keiichi_Kono" Color="1" Value="Keiichi Kono" />
+    <Entry LangId="name_Keiichi_Matate" Color="1" Value="Keiichi Matate" />
+    <Entry LangId="name_Kenichiro_Shigeno" Color="1" Value="Kenichiro Shigeno" />
+    <Entry LangId="name_Kenjiro_Tanaka" Color="1" Value="Kenjiro Tanaka" />
+    <Entry LangId="name_Kenta_Moriyuki" Color="1" Value="Kenta Moriyuki" />
+    <Entry LangId="name_Kiefer_Sutherland" Color="1" Value="Kiefer Sutherland" />
+    <Entry LangId="name_Kotaro_Oki" Color="1" Value="Kotaro Oki" />
+    <Entry LangId="name_Kousuke_Takaguchi" Color="1" Value="Kousuke Takaguchi" />
+    <Entry LangId="name_Kunio_Takabe" Color="1" Value="Kunio Takabe" />
+    <Entry LangId="name_Leon_Hui" Color="1" Value="Leon Hui" />
+    <Entry LangId="name_Lynn" Color="1" Value="Lynn" />
+    <Entry LangId="name_Makoto_Sonoyama" Color="1" Value="Makoto Sonoyama" />
+    <Entry LangId="name_Mamoru_Okada" Color="1" Value="Mamoru Okada" />
+    <Entry LangId="name_Manabu_Sakamaki" Color="1" Value="Manabu Sakamaki" />
+    <Entry LangId="name_Mario_Lavin" Color="1" Value="Mario Lavin" />
+    <Entry LangId="name_Mario_Sanchez" Color="1" Value="Mario Sanchez" />
+    <Entry LangId="name_Marisha_Ray" Color="1" Value="Marisha Ray" />
+    <Entry LangId="name_Marla_Anyomi" Color="1" Value="Marla Anyomi" />
+    <Entry LangId="name_Masaaki_Kawata" Color="1" Value="Masaaki Kawata" />
+    <Entry LangId="name_Masanori_Nishitani" Color="1" Value="Masanori Nishitani" />
+    <Entry LangId="name_Masao_Awaji" Color="1" Value="Masao Awaji" />
+    <Entry LangId="name_Masao_Tomosawa" Color="1" Value="Masao Tomosawa" />
+    <Entry LangId="name_Masashi_Watanabe" Color="1" Value="Masashi Watanabe" />
+    <Entry LangId="name_Masayuki_Kasuya" Color="1" Value="Masayuki Kasuya" />
+    <Entry LangId="name_Masayuki_Kobayashi" Color="1" Value="Masayuki Kobayashi" />
+    <Entry LangId="name_Masayuki_Suzuki" Color="1" Value="Masayuki Suzuki" />
+    <Entry LangId="name_Matt_Mercer" Color="1" Value="Matt Mercer" />
+    <Entry LangId="name_Max_Preston" Color="1" Value="Max Preston" />
+    <Entry LangId="name_Michael_Flores" Color="1" Value="Michael Flores" />
+    <Entry LangId="name_Minoru_Hirota" Color="1" Value="Minoru Hirota" />
+    <Entry LangId="name_Mokuto_Yamamoto" Color="1" Value="Mokuto Yamamoto" />
+    <Entry LangId="name_Nathan_Choi" Color="1" Value="Nathan Choi" />
+    <Entry LangId="name_Nobuya_Nakazato" Color="1" Value="Nobuya Nakazato" />
+    <Entry LangId="name_Norihito_Hatakeda" Color="1" Value="Norihito Hatakeda" />
+    <Entry LangId="name_Noriyuki_Sonoda" Color="1" Value="Noriyuki Sonoda" />
+    <Entry LangId="name_Nozomu_Takeuchi" Color="1" Value="Nozomu Takeuchi" />
+    <Entry LangId="name_Omer_Younas" Color="1" Value="Omer Younas" />
+    <Entry LangId="name_Roger_Rose" Color="1" Value="Roger Rose" />
+    <Entry LangId="name_Ryohei_Oguma" Color="1" Value="Ryohei Oguma" />
+    <Entry LangId="name_Ryoji_Makimura" Color="1" Value="Ryoji Makimura" />
+    <Entry LangId="name_Ryuichiro_Okamoto" Color="1" Value="Ryuichiro Okamoto" />
+    <Entry LangId="name_Sakura_Nakamura" Color="1" Value="Sakura Nakamura" />
+    <Entry LangId="name_Satoshi_Mikami" Color="1" Value="Satoshi Mikami" />
+    <Entry LangId="name_Shigeru_Matsumoto" Color="1" Value="Shigeru Matsumoto" />
+    <Entry LangId="name_Shinichi_Matsuda" Color="1" Value="Shinichi Matsuda" />
+    <Entry LangId="name_Shinpei_Yamamoto" Color="1" Value="Shinpei Yamamoto" />
+    <Entry LangId="name_Shinya_Shinozaki" Color="1" Value="Shinya Shinozaki" />
+    <Entry LangId="name_Shota_Kurokawa" Color="1" Value="Shota Kurokawa" />
+    <Entry LangId="name_Siana_Park" Color="1" Value="Siana Park" />
+    <Entry LangId="name_Stephanie_Lemelin" Color="1" Value="Stephanie Lemelin" />
+    <Entry LangId="name_Steve_Henifin" Color="1" Value="Steve Henifin" />
+    <Entry LangId="name_Suguru_Kano" Color="1" Value="Suguru Kano" />
+    <Entry LangId="name_Takaaki_Yamagishi" Color="1" Value="Takaaki Yamagishi" />
+    <Entry LangId="name_Takayuki_Akita" Color="1" Value="Takayuki Akita" />
+    <Entry LangId="name_Takayuki_Uchida" Color="1" Value="Takayuki Uchida" />
+    <Entry LangId="name_Takehiro_Nomura" Color="1" Value="Takehiro Nomura" />
+    <Entry LangId="name_Takeya_Inoguchi" Color="1" Value="Takeya Inoguchi" />
+    <Entry LangId="name_Taku_Wanifuchi" Color="1" Value="Taku Wanifuchi" />
+    <Entry LangId="name_Takuya_Imaeda" Color="1" Value="Takuya Imaeda" />
+    <Entry LangId="name_Tatsuya_Seko" Color="1" Value="Tatsuya Seko" />
+    <Entry LangId="name_Terrance_Louden" Color="1" Value="Terrance Louden" />
+    <Entry LangId="name_Terri_Watanabe" Color="1" Value="Terri Watanabe" />
+    <Entry LangId="name_Tetsuo_Kumazawa" Color="1" Value="Tetsuo Kumazawa" />
+    <Entry LangId="name_Tom_Craven" Color="1" Value="Tom Craven" />
+    <Entry LangId="name_Tom_Sekine" Color="1" Value="Tom Sekine" />
+    <Entry LangId="name_Tomoyuki_Oyama" Color="1" Value="Tomoyuki Oyama" />
+    <Entry LangId="name_Toshimitsu_Michikami" Color="1" Value="Toshimitsu Michikami" />
+    <Entry LangId="name_Troy_Baker" Color="1" Value="Troy Baker" />
+    <Entry LangId="name_Tsuyoshi_Yakata" Color="1" Value="Tsuyoshi Yakata" />
+    <Entry LangId="name_Tyler_Rawlins" Color="1" Value="Tyler Rawlins" />
+    <Entry LangId="name_Victor_Rachels" Color="1" Value="Victor Rachels" />
+    <Entry LangId="name_Xinpeng_Huang" Color="1" Value="Xinpeng Huang" />
+    <Entry LangId="name_Yasuhiro_Ikoma" Color="1" Value="Yasuhiro Ikoma" />
+    <Entry LangId="name_Yasuhiro_Mamiya" Color="1" Value="Yasuhiro Mamiya" />
+    <Entry LangId="name_Yasuyuki_Yamaji" Color="1" Value="Yasuyuki Yamaji" />
+    <Entry LangId="name_Yoshikazu_Hara" Color="1" Value="Yoshikazu Hara" />
+    <Entry LangId="name_Yoshitaka_Shimizu" Color="1" Value="Yoshitaka Shimizu" />
+    <Entry LangId="name_Yoshito_Ohara" Color="1" Value="Yoshito Ohara" />
+    <Entry LangId="name_Yoshiyuki_Shimofure" Color="1" Value="Yoshiyuki Shimofure" />
+    <Entry LangId="name_Yuji_Kaine" Color="1" Value="Yuji Kaine" />
+    <Entry LangId="name_Yuji_Korekado" Color="1" Value="Yuji Korekado" />
+    <Entry LangId="name_Yuka_Nagayoshi" Color="1" Value="Yuka Nagayoshi" />
+    <Entry LangId="name_Yuki_Mizuochi" Color="1" Value="Yuki Mizuochi" />
+    <Entry LangId="name_Yuki_Sato" Color="1" Value="Yuki Sato" />
+    <Entry LangId="name_Yukihiro_Fujita" Color="1" Value="Yukihiro Fujita" />
+    <Entry LangId="name_Yuta_Hoshino" Color="1" Value="Yuta Hoshino" />
+    <Entry LangId="post_Animators" Color="1" Value="Animators" />
+    <Entry LangId="post_Avatar_Programmers" Color="1" Value="Avatar Programmers" />
+    <Entry LangId="post_Build_Managers" Color="1" Value="Build Managers" />
+    <Entry LangId="post_CAST" Color="1" Value="CAST" />
+    <Entry LangId="post_CG_ART" Color="1" Value="CG ART" />
+    <Entry LangId="post_CG_Art_Director" Color="1" Value="CG Art Director" />
+    <Entry LangId="post_Character_Artists" Color="1" Value="Character Artists" />
+    <Entry LangId="post_Assistant_Art_Director" Color="1" Value="Assistant Art Director" />
+    <Entry LangId="post_Composers" Color="1" Value="Composers" />
+    <Entry LangId="post_Concept_Artist" Color="1" Value="Concept Artist" />
+    <Entry LangId="post_Creative_Director" Color="1" Value="Creative Director" />
+    <Entry LangId="post_CUTE_DECOY" Color="1" Value="CUTE DECOY" />
+    <Entry LangId="post_Deputy_Manager" Color="1" Value="Deputy Manager" />
+    <Entry LangId="post_DESIGN" Color="1" Value="DESIGN" />
+    <Entry LangId="post_Design_Support" Color="1" Value="Design Support" />
+    <Entry LangId="post_DEVELOPMENT_SUPPORT" Color="1" Value="DEVELOPMENT SUPPORT" />
+    <Entry LangId="post_DevSupport_QA" Color="1" Value="DevSupport/QA" />
+    <Entry LangId="post_Environment_Artists" Color="1" Value="Environment Artists" />
+    <Entry LangId="post_Executive_Producer" Color="1" Value="Executive Producer" />
+    <Entry LangId="post_FX_Programmer" Color="1" Value="FX Programmer" />
+    <Entry LangId="post_Game_Designers" Color="1" Value="Game Designers" />
+    <Entry LangId="post_Gimmick_Programmer" Color="1" Value="Gimmick Programmer" />
+    <Entry LangId="post_iDROID" Color="1" Value="iDROID" />
+    <Entry LangId="post_IT_System_Engineer" Color="1" Value="IT/System Engineer" />
+    <Entry LangId="post_LA_Studio_Head" Color="1" Value="LA Studio Head" />
+    <Entry LangId="post_Lead_Animator" Color="1" Value="Lead Animator" />
+    <Entry LangId="post_Lead_Character_Artists" Color="1" Value="Lead Character Artists" />
+    <Entry LangId="post_Lead_Concept_Artist" Color="1" Value="Lead Concept Artist" />
+    <Entry LangId="post_Lead_DevSupport_QA" Color="1" Value="Lead DevSupport/QA" />
+    <Entry LangId="post_Lead_Environment_Artists" Color="1" Value="Lead Environment Artists" />
+    <Entry LangId="post_Lead_Game_Designer" Color="1" Value="Lead Game Designer" />
+    <Entry LangId="post_Lead_Graphic_Designer" Color="1" Value="Lead Graphic Designer" />
+    <Entry LangId="post_Lead_Lighting_Artists" Color="1" Value="Lead Lighting Artists" />
+    <Entry LangId="post_Lead_Network_Programmers" Color="1" Value="Lead Network Programmers" />
+    <Entry LangId="post_Lead_Player_Programmer" Color="1" Value="Lead Player Programmer" />
+    <Entry LangId="post_Lead_Programmers" Color="1" Value="Lead Programmers" />
+    <Entry LangId="post_Lead_Server_Engineer" Color="1" Value="Lead Server Engineer" />
+    <Entry LangId="post_Lead_Sound_Designer" Color="1" Value="Lead Sound Designer" />
+    <Entry LangId="post_Lead_System_Programmer" Color="1" Value="Lead System Programmer" />
+    <Entry LangId="post_Lead_Technical_Artist" Color="1" Value="Lead Technical Artist" />
+    <Entry LangId="post_Lead_UI_Artists" Color="1" Value="Lead UI Artists" />
+    <Entry LangId="post_Lead_UI_Programmer" Color="1" Value="Lead UI Programmer" />
+    <Entry LangId="post_Lead_VFX_Artist" Color="1" Value="Lead VFX Artist" />
+    <Entry Key="493109461" Color="1" Value="Lead Weapon / Mechanical Artist" />
+    <Entry LangId="post_Level_Designers" Color="1" Value="Level Designers" />
+    <Entry LangId="post_Lighting_Artists" Color="1" Value="Lighting Artists" />
+    <Entry LangId="post_MASTERING" Color="1" Value="MASTERING" />
+    <Entry LangId="post_Mastering_Staff" Color="1" Value="Mastering Staff" />
+    <Entry LangId="post_Mecha_Programmer" Color="1" Value="Mecha Programmer" />
+    <Entry LangId="post_Network_Programmers" Color="1" Value="Network Programmers" />
+    <Entry LangId="post_Ocelot" Color="1" Value="Ocelot" />
+    <Entry LangId="post_Player_Programmers" Color="1" Value="Player Programmers" />
+    <Entry LangId="post_PLUSHY_SNARE" Color="1" Value="PLUSHY SNARE" />
+    <Entry LangId="post_Producer" Color="1" Value="Producer" />
+    <Entry LangId="post_PRODUCTION" Color="1" Value="PRODUCTION" />
+    <Entry LangId="post_PRODUCTION_SUPPORT" Color="1" Value="PRODUCTION SUPPORT" />
+    <Entry LangId="post_Production_Technical_Translator" Color="1" Value="Production Technical Translator" />
+    <Entry LangId="post_PROGRAM" Color="1" Value="PROGRAM" />
+    <Entry LangId="post_Project_Managers" Color="1" Value="Project Managers" />
+    <Entry LangId="post_QA_Lead" Color="1" Value="QA Lead" />
+    <Entry LangId="post_QA_Support" Color="1" Value="QA Support" />
+    <Entry LangId="post_QUALITY_ASSURANCE" Color="1" Value="QUALITY ASSURANCE" />
+    <Entry LangId="post_RUMBLE" Color="1" Value="RUMBLE" />
+    <Entry LangId="post_Rumble_Artist" Color="1" Value="Rumble Artist" />
+    <Entry LangId="post_Senior_Manager" Color="1" Value="Senior Manager" />
+    <Entry LangId="post_Server_Engineers" Color="1" Value="Server Engineers" />
+    <Entry LangId="post_Snake" Color="1" Value="Snake" />
+    <Entry LangId="post_Soldiers" Color="1" Value="Soldiers" />
+    <Entry LangId="post_SOUND" Color="1" Value="SOUND" />
+    <Entry LangId="post_Sound_Designers" Color="1" Value="Sound Designers" />
+    <Entry LangId="post_System_Programmers" Color="1" Value="System Programmers" />
+    <Entry LangId="post_Technical_Artist" Color="1" Value="Technical Artist" />
+    <Entry LangId="post_Technical_Sound_Designer" Color="1" Value="Technical Sound Designer" />
+    <Entry LangId="post_Technical_Supervisors" Color="1" Value="Technical Supervisors" />
+    <Entry LangId="post_UI_Programmers" Color="1" Value="UI Programmers" />
+    <Entry LangId="post_VFX_Artist" Color="1" Value="VFX Artist" />
+    <Entry LangId="post_VFX_Artist_Support" Color="1" Value="VFX Artist Support" />
+    <Entry LangId="post_Voice" Color="1" Value="Voice" />
+    <Entry Key="1798802615" Color="1" Value="Weapon / Mechanical Artists" />
+    <Entry LangId="text_DIGITAL_Hearts" Color="1" Value="DIGITAL Hearts Co.,Ltd." />
+    <Entry Key="361817490" Color="1" Value="Ver.1.02" />
+    <Entry LangId="name_Soojin_Kim" Color="1" Value="Soojin Kim" />
+    <Entry LangId="name_Jorge_Lescale_Mucino" Color="1" Value="Jorge Lescale Mucino" />
+    <Entry LangId="name_Abraham_Valdez" Color="1" Value="Abraham Valdez" />
+    <Entry LangId="name_Kuniharu_Ogura" Color="1" Value="Kuniharu Ogura" />
+    <Entry LangId="name_Yuichi_Yasui" Color="1" Value="Yuichi Yasui" />
+    <Entry LangId="name_Danny_Feng" Color="1" Value="Danny Feng" />
+    <Entry LangId="name_Atsuko_Ito" Color="1" Value="Atsuko Ito" />
+    <Entry Key="301783310" Color="1" Value="Ver.1.12" />
+    <Entry LangId="name_Takuya_Sokukawa" Color="1" Value="Takuya Sokukawa" />
+    <Entry LangId="post_Lead_Programmer" Color="1" Value="Lead Programmer" />
+    <Entry LangId="name_Kenji_Miura" Color="1" Value="Kenji Miura" />
+    <Entry LangId="post_Build_Manager" Color="1" Value="Build Manager" />
+    <Entry LangId="name_Stefanie_Joosten" Color="1" Value="Stefanie Joosten" />
+    <Entry LangId="post_Quiet" Color="1" Value="Quiet" />
+    <Entry LangId="name_Hirotaka_Ishikawa" Color="1" Value="Hirotaka Ishikawa" />
+    <Entry LangId="name_Shunsuke_Kanikawa" Color="1" Value="Shunsuke Kanikawa" />
+    <Entry LangId="name_Akihiro_Teruta" Color="1" Value="Akihiro Teruta" />
+    <Entry LangId="name_James_Mariejeanne" Color="1" Value="James Mariejeanne" />
+    <Entry LangId="post_Lighting_Artist" Color="1" Value="Lighting Artist" />
+    <Entry LangId="name_Shintaro_Naka" Color="1" Value="Shintaro Naka" />
+    <Entry LangId="name_Hiroyuki_Tsuchida" Color="1" Value="Hiroyuki Tsuchida" />
+    <Entry Key="2492041887" Color="1" Value="VFX / Cinematic Artists" />
+    <Entry LangId="post_UI_Artist" Color="1" Value="UI Artist" />
+    <Entry LangId="name_Mineshi_Kimura" Color="1" Value="Mineshi Kimura" />
+    <Entry LangId="post_Manager" Color="1" Value="Manager" />
+    <Entry LangId="name_Ludvig_Forssell" Color="1" Value="Ludvig Forssell" />
+    <Entry LangId="post_Composer" Color="1" Value="Composer" />
+    <Entry LangId="post_Script_Support" Color="1" Value="Script Support" />
+    <Entry LangId="post_Environment_Artist" Color="1" Value="Environment Artist" />
+    <Entry LangId="name_Ayumu_Saito" Color="1" Value="Ayumu Saito" />
+    <Entry LangId="name_Toshiki_Suda" Color="1" Value="Toshiki Suda" />
+    <Entry Key="311988066" Color="1" Value="Weapon / Mechanical Artist" />
+    <Entry LangId="name_Takamitsu_Nakahama" Color="1" Value="Takamitsu Nakahama" />
+    <Entry LangId="name_Katsunori_Onuki" Color="1" Value="Katsunori Onuki" />
+  </Entries>
+</LangFile>
