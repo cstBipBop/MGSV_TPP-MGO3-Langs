@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry LangId="mbhelp_name_047" Color="1" Value="[HELP] Develop Weapons/Items" />
+    <Entry LangId="mbhelp_name_049" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_050" Color="1" Value="&lt;I=G=NUMBER_1&gt; Development Tree Diagram" />
+    <Entry LangId="mbhelp_name_051" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info" />
+    <Entry LangId="mbhelp_name_052" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info (Specs)" />
+    <Entry LangId="mbhelp_name_053" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info (Development/Usage Requirements)" />
+    <Entry LangId="mbhelp_name_054" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info (Characteristics)" />
+    <Entry LangId="mbhelp_name_055" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info (Enhancements)" />
+    <Entry LangId="mbhelp_name_056" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info (Parts Breakdown)" />
+    <Entry LangId="mbhelp_name_058" Color="1" Value="&lt;I=G=DECISION&gt; Develop" />
+    <Entry LangId="mbhelp_name_059" Color="1" Value="&lt;I=G=DECISION&gt; Finish Now (Reduced Time)" />
+    <Entry LangId="mbhelp_name_060" Color="1" Value="&lt;I=G=PAD_Y&gt; Switch Display" />
+    <Entry LangId="mbhelp_name_062" Color="1" Value="[HINT] Weapon Categories" />
+    <Entry LangId="mbhelp_name_063" Color="1" Value="[HINT] Secondary Weapons" />
+    <Entry LangId="mbhelp_name_064" Color="1" Value="[HINT] Primary Weapons (HIP)" />
+    <Entry LangId="mbhelp_name_065" Color="1" Value="[HINT] Primary Weapons (BACK)" />
+    <Entry LangId="mbhelp_name_066" Color="1" Value="[HINT] Support Weapons" />
+    <Entry LangId="mbhelp_name_067" Color="1" Value="[HINT] Items" />
+    <Entry LangId="mbhelp_name_068" Color="1" Value="[HINT] Tools" />
+    <Entry LangId="mbhelp_name_069" Color="1" Value="[HINT] Prosthetic Arms" />
+    <Entry LangId="mbhelp_name_070" Color="1" Value="[HINT] Uniforms" />
+    <Entry LangId="mbhelp_name_074" Color="1" Value="[HELP] Base Management" />
+    <Entry LangId="mbhelp_name_076" Color="1" Value="&lt;I=G=NUMBER_1&gt; Base Selector" />
+    <Entry LangId="mbhelp_name_077" Color="1" Value="&lt;I=G=NUMBER_1&gt; Platform List" />
+    <Entry LangId="mbhelp_name_078" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info" />
+    <Entry LangId="mbhelp_name_079" Color="1" Value="&lt;I=G=NUMBER_1&gt; Development Requirements" />
+    <Entry LangId="mbhelp_name_081" Color="1" Value="&lt;I=G=DECISION&gt; Construct Platform" />
+    <Entry LangId="mbhelp_name_082" Color="1" Value="&lt;I=G=DECISION&gt; Finish Now (Reduced Time)" />
+    <Entry LangId="mbhelp_name_083" Color="1" Value="&lt;I=G=PAD_X&gt; Configure Security" />
+    <Entry LangId="mbhelp_name_084" Color="1" Value="&lt;I=G=PAD_R2&gt; Purchase Insurance" />
+    <Entry LangId="mbhelp_name_085" Color="1" Value="&lt;I=G=PAD_L2&gt; Relocate FOB" />
+    <Entry LangId="mbhelp_name_087" Color="1" Value="[HINT] Base Facilities" />
+    <Entry LangId="mbhelp_info_047" Color="1" Value="Develop weapons and items, buddy equipment, support helicopter armament, security devices, etc." />
+    <Entry LangId="mbhelp_info_049" Color="1" Value="Select a development item category (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;). The Requirements Met tab displays all development items for which development requirements have been met, regardless of category." />
+    <Entry LangId="mbhelp_info_050" Color="1" Value="Displays the development items in the currently selected category in tree diagram format. In addition to GMP, you may require resources, blueprints, or staff skills in order to develop something.&#xA;Also, developing items on the lower end of the tree (the left side) will unlock items on the higher end of the tree (the right side) for development.&#xA;&#xA;&#xA;&lt;I=G=ICON_DV_KANO&gt; Wrench Icon: &#xA;Development requirements have been met, and the item can be developed.&#xA;&#xA;&lt;I=G=ICON_DV_LOCK&gt; Lock Icon: &#xA;Development requirements have not yet been met." />
+    <Entry LangId="mbhelp_info_051" Color="1" Value="Displays basic info about currently selected development item.&#xA;" />
+    <Entry LangId="mbhelp_info_052" Color="1" Value="Displays the specs of the currently selected weapon. While equipped with a weapon, this shows the difference in specs to the one you are currently using." />
+    <Entry LangId="mbhelp_info_053" Color="1" Value="Displays requirements for developing currently selected development item. If currently selected development item has already been developed, displays usage requirements instead." />
+    <Entry LangId="mbhelp_info_054" Color="1" Value="Displays characteristics of currently selected development item." />
+    <Entry LangId="mbhelp_info_055" Color="1" Value="Displays enhancements for currently selected development item, beginning from lower tier (left side) items." />
+    <Entry LangId="mbhelp_info_056" Color="1" Value="Displays constituent parts of currently selected development item." />
+    <Entry LangId="mbhelp_info_058" Color="1" Value="Develop currently selected (as yet undeveloped) development item." />
+    <Entry LangId="mbhelp_info_059" Color="1" Value="Use MB Coins (paid currency) to complete the currently selected development item's development immediately." />
+    <Entry LangId="mbhelp_info_060" Color="1" Value="Switch between detailed info displays." />
+    <Entry LangId="mbhelp_info_062" Color="1" Value="Weapons are divided into the following main categories, according to their roles and where they are carried: secondary weapons, primary weapons (HIP), primary weapons (BACK), and support weapons. Each category has subcategories, such as handguns and submachine guns." />
+    <Entry LangId="mbhelp_info_063" Color="1" Value="Smaller weapons that are easy to handle, such as handguns and submachine guns. These weapons can be used even while you are carrying a soldier or prisoner, or are holding up a shield." />
+    <Entry LangId="mbhelp_info_064" Color="1" Value="Primary weapons effective at close- to mid-range, such as assault rifles, shotguns, and grenade launchers. These are carried hanging from your hip." />
+    <Entry LangId="mbhelp_info_065" Color="1" Value="Large weapons with higher effective range or stopping power, such as sniper rifles, machine guns, and missile launchers. This category also includes shields, which protect you from enemy attacks. These are carried on your back." />
+    <Entry LangId="mbhelp_info_066" Color="1" Value="Includes throwing weapons, such as hand grenades and decoys, and placed weapons, such as remotely detonated explosives (C-4) and capture cages." />
+    <Entry LangId="mbhelp_info_067" Color="1" Value="Includes items you equip to use, such as cardboard boxes and night vision goggles, and medicinal agents, such as the Phantom Cigar and pentazemin." />
+    <Entry LangId="mbhelp_info_068" Color="1" Value="Items you always have with you, such as the binoculars and the iDroid data device. When deploying to the AO (area of operations), you automatically take the highest tier (rightmost) items with you. The only exception, is the Fulton device, which must be manually selected. However, if you develop a tool while in the AO, you must call in a resupply for the upgrade to take effect." />
+    <Entry LangId="mbhelp_info_069" Color="1" Value="These prostheses compensate for the left arm that Snake lost. They are divided into Added Function Prostheses, which give Snake new skills, and Substitution Prostheses, which are equipped and used as secondary weapons." />
+    <Entry LangId="mbhelp_info_070" Color="1" Value="Includes various combat fatigues with different camouflage patterns as well as other outfits such as the Sneaking Suit, which reduces the sound of footsteps." />
+    <Entry LangId="mbhelp_info_074" Color="1" Value="View and expand base facilities." />
+    <Entry LangId="mbhelp_info_076" Color="1" Value="Select a base (&lt;I=G=PAD_L1&gt;/&lt;I=G=PAD_R1&gt;)." />
+    <Entry LangId="mbhelp_info_077" Color="1" Value="Displays the construction status for currently selected platforms on your base. Your base is made up of multiple platforms, and constructing new platforms will increase maximum staff capacity. The list displays (from left to right) platform name, number of decks, and construction status." />
+    <Entry LangId="mbhelp_info_078" Color="1" Value="Displays current staff number of each unit and maximum capacity of currently selected platform." />
+    <Entry LangId="mbhelp_info_079" Color="1" Value="Displays requirements for constructing currently selected platform." />
+    <Entry LangId="mbhelp_info_081" Color="1" Value="Construct currently selected platform." />
+    <Entry LangId="mbhelp_info_082" Color="1" Value="Use MB Coins (paid currency) to complete the currently selected platform's construction immediately." />
+    <Entry LangId="mbhelp_info_083" Color="1" Value="Configure platform security layout." />
+    <Entry LangId="mbhelp_info_084" Color="1" Value="Sign up for insurance (paid service). Signing up will fully compensate you during the insurance period for any losses suffered due to a rival's infiltration, such as personnel, materiel, or GMP." />
+    <Entry LangId="mbhelp_info_085" Color="1" Value="Move an FOB to different waters. &#xA;&#xA;*The amount of materials the Base Development Unit obtains through the Materials Procurement function varies according to waters." />
+    <Entry LangId="mbhelp_info_087" Color="1" Value="The facilities you can construct for your private army's base include platforms for Command, the Combat Unit, R&amp;D, Base Development, the Support Unit, the Intel Team, and the Medical Team. Once your army grows, in addition to Mother Base, which houses your main staff, you will also be able to construct FOBs (Forward Operating Bases) in various waters. But your army will not grow through expanding base facilities alone. In addition to constructing new platforms and increasing your base's staff capacity, you should gather high-rank staff via Fulton extraction, Dispatch Missions, etc." />
+    <Entry LangId="mbhelp_name_091" Color="1" Value="[HELP] Base Management (Security Settings)" />
+    <Entry LangId="mbhelp_name_093" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_094" Color="1" Value="&lt;I=G=NUMBER_1&gt; Platform List" />
+    <Entry LangId="mbhelp_name_095" Color="1" Value="&lt;I=G=NUMBER_1&gt; Security Status" />
+    <Entry LangId="mbhelp_name_096" Color="1" Value="&lt;I=G=NUMBER_1&gt; Security Settings" />
+    <Entry LangId="mbhelp_name_097" Color="1" Value="&lt;I=G=NUMBER_1&gt; Security Status (Map)" />
+    <Entry LangId="mbhelp_name_098" Color="1" Value="&lt;I=G=NUMBER_1&gt; Assigned Staff/Placed Containers" />
+    <Entry LangId="mbhelp_name_100" Color="1" Value="[HINT] FOB Defense" />
+    <Entry LangId="mbhelp_name_101" Color="1" Value="[HINT] Security Settings: Key Security Zones" />
+    <Entry LangId="mbhelp_name_102" Color="1" Value="[HINT] Insurance" />
+    <Entry LangId="mbhelp_name_106" Color="1" Value="[HELP] Security Settings: Designating Key Security Zones" />
+    <Entry LangId="mbhelp_name_108" Color="1" Value="&lt;I=G=NUMBER_1&gt; Designate Key Security Zones" />
+    <Entry LangId="mbhelp_name_110" Color="1" Value="Heat Map" />
+    <Entry LangId="mbhelp_name_111" Color="1" Value="FOB Defense" />
+    <Entry LangId="mbhelp_name_177" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_178" Color="1" Value="&lt;I=G=NUMBER_1&gt; Weapon List" />
+    <Entry LangId="mbhelp_name_179" Color="1" Value="&lt;I=G=NUMBER_1&gt; Points List" />
+    <Entry LangId="mbhelp_name_180" Color="1" Value="&lt;I=G=NUMBER_1&gt; Parts List" />
+    <Entry LangId="mbhelp_name_185" Color="1" Value="&lt;I=G=PAD_Y&gt; Switch Display" />
+    <Entry LangId="mbhelp_name_189" Color="1" Value="[HELP] Customize" />
+    <Entry LangId="mbhelp_name_191" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_193" Color="1" Value="&lt;I=G=NUMBER_1&gt; Points List" />
+    <Entry LangId="mbhelp_name_194" Color="1" Value="&lt;I=G=NUMBER_1&gt; Parts List" />
+    <Entry LangId="mbhelp_name_199" Color="1" Value="[HELP] Customization (Emblem)" />
+    <Entry LangId="mbhelp_name_201" Color="1" Value="&lt;I=G=NUMBER_1&gt; Panel Selector" />
+    <Entry LangId="mbhelp_name_205" Color="1" Value="[HELP] Customize (Avatar)" />
+    <Entry LangId="mbhelp_name_207" Color="1" Value="&lt;I=G=NUMBER_1&gt; Panel/Menu Selector" />
+    <Entry LangId="mbhelp_name_208" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Features" />
+    <Entry LangId="mbhelp_name_209" Color="1" Value="&lt;I=G=NUMBER_1&gt; Fine-Tune" />
+    <Entry LangId="mbhelp_name_211" Color="1" Value="&lt;I=G=PAD_Y&gt; Fine-Tune" />
+    <Entry LangId="mbhelp_name_299" Color="1" Value="[HELP] Supply Request: Weapons/Items" />
+    <Entry LangId="mbhelp_name_301" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_302" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Supplies" />
+    <Entry LangId="mbhelp_name_306" Color="1" Value="&lt;I=G=PAD_Y&gt; Switch Display" />
+    <Entry LangId="mbhelp_name_320" Color="1" Value="[HELP] Supply Request (Loadout)" />
+    <Entry LangId="mbhelp_name_322" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_323" Color="1" Value="&lt;I=G=NUMBER_1&gt; Loadout List" />
+    <Entry LangId="mbhelp_name_324" Color="1" Value="&lt;I=G=NUMBER_1&gt; Loadout Contents" />
+    <Entry LangId="mbhelp_name_343" Color="1" Value="[HELP] Supply Request (Vehicle)" />
+    <Entry LangId="mbhelp_name_345" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_346" Color="1" Value="&lt;I=G=NUMBER_1&gt; Select Vehicle" />
+    <Entry LangId="mbhelp_name_418" Color="1" Value="[HELP] FOB Missions" />
+    <Entry LangId="mbhelp_name_420" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_421" Color="1" Value="&lt;I=G=NUMBER_1&gt; FOB List" />
+    <Entry LangId="mbhelp_name_422" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rival's Hostility" />
+    <Entry LangId="mbhelp_name_423" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info" />
+    <Entry LangId="mbhelp_name_424" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rewards" />
+    <Entry LangId="mbhelp_name_426" Color="1" Value="&lt;I=G=DECISION&gt; Infiltrate" />
+    <Entry LangId="mbhelp_name_427" Color="1" Value="&lt;I=G=PAD_X&gt; Request Retaliation" />
+    <Entry LangId="mbhelp_name_438" Color="1" Value="[HELP] Relationships" />
+    <Entry LangId="mbhelp_name_440" Color="1" Value="&lt;I=G=NUMBER_1&gt; Category Selector" />
+    <Entry LangId="mbhelp_name_441" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rivals List" />
+    <Entry LangId="mbhelp_name_442" Color="1" Value="&lt;I=G=NUMBER_1&gt; Detailed Info" />
+    <Entry LangId="mbhelp_name_444" Color="1" Value="&lt;I=G=DECISION&gt; Support/Discontinue Support" />
+    <Entry LangId="mbhelp_name_445" Color="1" Value="&lt;I=G=PAD_Y&gt; Retaliate" />
+    <Entry LangId="mbhelp_name_447" Color="1" Value="[HINT] Supporters List" />
+    <Entry LangId="mbhelp_name_448" Color="1" Value="[HINT] Supporting List" />
+    <Entry LangId="mbhelp_info_091" Color="1" Value="View and change security settings." />
+    <Entry LangId="mbhelp_info_095" Color="1" Value="Displays the current security status of the selected platform.&#xA;&#xA;&#xA;Defense Level: &#xA;Indicates current security status in numerical format.&#xA;&#xA;Attack Properties: &#xA;Indicates whether guards' weapons and security devices are lethal or non-lethal.&#xA;&#xA;Guards: &#xA;Indicates the rank and number of guards, as well as the weapons they use.&#xA;&#xA;Security Devices/Placed Weapons: &#xA;Indicates number of security devices and placed weapons.&#xA;&#xA;Security Cost: &#xA;Indicates the cost of maintaining the current security status.&#xA;&#xA;Insurance: &#xA;Indicates insurance enrollment status." />
+    <Entry LangId="mbhelp_info_096" Color="1" Value="You can configure your security settings using &quot;Basic Settings&quot; (in which you simply specify the preparedness level as --/Low/Moderate/High/Highest) or &quot;Advanced Settings&quot; (in which you specify your security policy in detail). In addition, if you sign up for insurance (paid service), you will be compensated for any losses (personnel, items, GMP, etc.) sustained due to rival infiltrations during the insurance policy period." />
+    <Entry LangId="mbhelp_info_097" Color="1" Value="Displays the current security status of the selected platform.&#xA;&#xA;&#xA;&lt;I=G=ICON_SS_KEIBIIN&gt; Guard: &#xA;Indicates Security Team staff members assigned to defend the facility. Also includes the number of decoys deployed.&#xA;&#xA;&lt;I=G=ICON_SS_SETSUBI&gt; Security device (search): &#xA;Indicates security devices designed to detect intruders, such as infrared sensors.&#xA;&#xA;&lt;I=G=ICON_SS_SENRYOKU&gt; Security device (intercept): &#xA;Indicates security devices designed to attack intruders, such as gun cameras.&#xA;&#xA;Armament: &#xA;Displays the weapons/uniform in use by the guards." />
+    <Entry LangId="mbhelp_info_098" Color="1" Value="Displays detailed information on the staff and materials containers on the selected platform.&#xA;&#xA;&#xA;&lt;I=G=ICON_SS_STAFF&gt; Assigned Staff: &#xA;Indicates staff stationed inside the platform.&#xA;&#xA;&lt;I=G=ICON_SS_RESOURCE&gt; Placed Containers: &#xA;Indicates materials containers placed on the deck." />
+    <Entry LangId="mbhelp_info_100" Color="1" Value="Your FOBs may be infiltrated by rivals who will attempt to steal your materials containers and abduct staff assigned there. Keep the damage to a minimum by raising the defense level of your FOBs, such as by raising the rank of your Security Team staff or developing better weapons, uniforms, and security devices." />
+    <Entry LangId="mbhelp_info_101" Color="1" Value="Security for base facilities is conducted by assigning guards and placing security devices. Security settings consist of &quot;Common Settings,&quot; which apply to all decks on a platform, and &quot;Individual Settings,&quot; in which each deck has its own settings. The categories for Common Settings are as follows.&#xA;&#xA;&#xA;Attack Properties: &#xA;Indicates whether guards' weapons and security devices are lethal or non-lethal.&#xA;&#xA;Guard Rank: &#xA;Specify the maximum rank of Security Team staff assigned to the decks.&#xA;&#xA;Range Type: &#xA;Specify the range type of guards' weapons (close/mid/long).&#xA;&#xA;Equipment/Security Device Grade: &#xA;Specify the maximum grade of guards' weapons and uniforms, as well as security devices." />
+    <Entry LangId="mbhelp_info_102" Color="1" Value="Indicates you have signed up for insurance (paid service).&#xA;Signing up for insurance compensates you for all losses (personnel, items, GMP, etc.) sustained due to rival infiltrations during the insurance policy period." />
+    <Entry LangId="mbhelp_info_106" Color="1" Value="View and change key security zones." />
+    <Entry LangId="mbhelp_info_108" Color="1" Value="Specify which areas of the selected platform should be most highly secured. Changing this setting alters the patrol routes of your guards. Try to predict the route intruders will take, and specify key security zones accordingly." />
+    <Entry LangId="mbhelp_info_110" Color="1" Value="Points of light displayed on the map indicate the routes taken by intruders to date. Refer to this map when deciding your security settings.&#xA;&#xA;&lt;I=G=ICON_SS_HAKKEN&gt; Detection points: &#xA;Indicates locations where intruders were spotted.&#xA;&#xA;&lt;I=G=ICON_SS_SETSUBI&gt; IR detection points: &#xA;Indicates locations where infrared sensors detected intruders.&#xA;&#xA;&lt;I=G=ICON_SS_SETSUBI&gt; Antitheft device trigger points: &#xA;Indicates locations where antitheft devices were triggered by intruders.&#xA;&#xA;&lt;I=G=ICON_SS_SETSUBI&gt; Surveillance detection points: &#xA;Indicates locations where surveillance cameras detected intruders.&#xA;&#xA;&lt;I=G=ICON_SS_SENRYOKU&gt; Gun camera detection points: &#xA;Indicates locations where gun cameras detected intruders.&#xA;&#xA;&lt;I=G=ICON_SS_SENRYOKU&gt; UAV detection points: &#xA;Indicates locations where unmanned security devices detected intruders.&#xA;&#xA;&lt;I=G=ICON_SS_SENRYOKU&gt; Mine blast points: &#xA;Indicates locations where mines detected intruders and detonated.&#xA;&#xA;&lt;I=G=ICON_SS_KOGEKI&gt; Attack points: &#xA;Indicates locations where security forces attacked intruders.&#xA;&#xA;&lt;I=G=ICON_SS_GOAL&gt; Points reached: &#xA;Indicates the innermost location intruders reached.&#xA;&#xA;&lt;I=G=ICON_SS_TETTAI&gt; Retreat points: &#xA;Indicates locations where intruders retreated." />
+    <Entry LangId="mbhelp_info_177" Color="1" Value="Up to three customized weapons can be stored per category. Select a slot to perform customization." />
+    <Entry LangId="mbhelp_info_178" Color="1" Value="Displays weapons that belong to the currently selected category. Select a base weapon to customize." />
+    <Entry LangId="mbhelp_info_179" Color="1" Value="Displays parts equipped to the various points of the currently selected weapon. Select a point to add/change parts. Some points may not be customizable depending on the weapon." />
+    <Entry LangId="mbhelp_info_180" Color="1" Value="Displays parts that can be equipped to the currently selected weapon point. Parts equipped to newly-developed weapons are automatically added to the list." />
+    <Entry LangId="mbhelp_info_189" Color="1" Value="Perform customization." />
+    <Entry LangId="mbhelp_info_191" Color="1" Value="Used for selecting a category." />
+    <Entry LangId="mbhelp_info_193" Color="1" Value="Displays parts equipped to the various points of the support helicopter. Select a point to add/change parts." />
+    <Entry LangId="mbhelp_info_194" Color="1" Value="Displays parts that can be equipped to the currently selected point." />
+    <Entry LangId="mbhelp_info_199" Color="1" Value="Edit the design of your emblem (your personal insignia)." />
+    <Entry LangId="mbhelp_info_201" Color="1" Value="Edit the design of your emblem. Select panels and change the parts, their positions, sizes, and colors." />
+    <Entry LangId="mbhelp_info_205" Color="1" Value="Edit your avatar's face." />
+    <Entry LangId="mbhelp_info_207" Color="1" Value="Select panels and menus for editing your avatar's face." />
+    <Entry LangId="mbhelp_info_208" Color="1" Value="Used for selecting a category of avatar features to change." />
+    <Entry LangId="mbhelp_info_209" Color="1" Value="Use sliders to fine-tune, or select a panel and fine-tune." />
+    <Entry LangId="mbhelp_info_211" Color="1" Value="Enables you to fine-tune your avatar in addition to selecting by panel." />
+    <Entry LangId="mbhelp_info_299" Color="1" Value="Request a supply drop of weapons, items, etc." />
+    <Entry LangId="mbhelp_info_302" Color="1" Value="Used for selecting weapons and items to request. Change grade using &lt;I=G=PAD_LEFT&gt;&lt;I=G=PAD_RIGHT&gt;." />
+    <Entry LangId="mbhelp_info_320" Color="1" Value="Request a supply drop of a loadout (weapon/item preset)." />
+    <Entry LangId="mbhelp_info_322" Color="1" Value="Used for selecting a loadout category.&#xA;&#xA;&#xA;&lt;I=G=ICON_SD_MINE&gt; Custom: &#xA;Loadouts created in the Aerial Command Center.&#xA;&#xA;&lt;I=G=ICON_SD_RENTAL&gt; Rental: &#xA;Rent a loadout from a supporter player." />
+    <Entry LangId="mbhelp_info_323" Color="1" Value="Select a loadout to request as a supply drop." />
+    <Entry LangId="mbhelp_info_324" Color="1" Value="Displays the weapons/items included in the selected loadout." />
+    <Entry LangId="mbhelp_info_343" Color="1" Value="Request a dispatch of a captured vehicle." />
+    <Entry LangId="mbhelp_info_345" Color="1" Value="Vehicles are divided into the following four categories.&#xA;&#xA;&#xA;Four-wheel Drives: &#xA;Light vehicles for transporting personnel. Can be used to transport up to three neutralized soldiers and/or prisoners at a time.&#xA;&#xA;Trucks: &#xA;Vehicles for transporting cargo. As the driver's seat is enclosed, they offer some degree of visual cover from the enemy.&#xA;&#xA;Armored Vehicles: &#xA;Armored fighting vehicles that drive on a set of wheels. Fixed weaponry makes these vehicles combat-capable.&#xA;&#xA;Tanks: &#xA;Armored fighting vehicles that drive on a set of continuous tracks. Fixed weaponry makes these vehicles combat-capable." />
+    <Entry LangId="mbhelp_info_346" Color="1" Value="Select a vehicle you want to have dispatched." />
+    <Entry LangId="mbhelp_info_418" Color="1" Value="Infiltrate a rival player's FOB. In addition to abducting guards and stealing materials containers located on the deck, if you make it to the core of the platform you will abduct all of the staff stationed inside." />
+    <Entry LangId="mbhelp_info_420" Color="1" Value="Used for selecting a rival category.&#xA;&#xA;&#xA;&lt;I=G=ICON_FM_RANDOM&gt; Infiltration Targets: &#xA;Players randomly selected as infiltration targets.&#xA;&#xA;&lt;I=G=ICON_FM_REVENGE&gt; Retaliation Targets: &#xA;Players that are currently retaliation targets.&#xA;&#xA;&lt;I=G=ICON_FR_FOLLOW&gt; Training/Visit Destination: &#xA;Players you have asked for support." />
+    <Entry LangId="mbhelp_info_421" Color="1" Value="Displays FOBs that can currently be infiltrated. The list displays (from left to right) FOB name, number of platforms, and defense level." />
+    <Entry LangId="mbhelp_info_422" Color="1" Value="Displays the hostility of the currently selected player. If the number of staff and amount of materials is a positive number, the other player will deal more damage than you, while if these numbers are negative, you will deal more damage than the other player." />
+    <Entry LangId="mbhelp_info_423" Color="1" Value="Displays security status of the currently selected FOB, materials containers present, staff stationed there, etc." />
+    <Entry LangId="mbhelp_info_424" Color="1" Value="Displays rewards obtainable by successfully infiltrating to the core of the platform." />
+    <Entry LangId="mbhelp_info_426" Color="1" Value="Infiltrate the currently selected player's FOB." />
+    <Entry LangId="mbhelp_info_427" Color="1" Value="Request that supporter players infiltrate the FOB of a player who is currently a retaliation target." />
+    <Entry LangId="mbhelp_info_438" Color="1" Value="View and add ally PFs and enemy PFs." />
+    <Entry LangId="mbhelp_info_440" Color="1" Value="Used for selecting ally PF/enemy PF category.&#xA;&#xA;&#xA;&lt;I=G=ICON_FR_FOLLOW&gt; Supporters: &#xA;Players you have asked for support.&#xA;&#xA;&lt;I=G=ICON_FR_FOLLOWER&gt; Supporting: &#xA;Players who have asked you for support.&#xA;&#xA;&lt;I=G=ICON_FM_ENEMY&gt; Retaliation Targets: &#xA;Players who have been retaliation targets in the past.&#xA;&#xA;&lt;I=G=ICON_FM_RANDOM&gt; Random: &#xA;Players selected at random." />
+    <Entry LangId="mbhelp_info_441" Color="1" Value="Displays players in the currently selected category." />
+    <Entry LangId="mbhelp_info_442" Color="1" Value="Displays detailed information and online record of the currently selected player." />
+    <Entry LangId="mbhelp_info_444" Color="1" Value="Change support status of the currently selected player." />
+    <Entry LangId="mbhelp_info_445" Color="1" Value="Respond to a Retaliation Request and infiltrate an FOB of a player who is a retaliation target of someone you are supporting." />
+    <Entry LangId="mbhelp_info_447" Color="1" Value="If you want to request support from a player, add them to your Supporters List. A Backup Request is sent to supporter players if an FOB of yours is infiltrated by another player." />
+    <Entry LangId="mbhelp_info_448" Color="1" Value="Players who request support from you are added to your Supporting List. You will receive Backup Requests from players you are supporting if an FOB of theirs is infiltrated by another player." />
+    <Entry LangId="mbhelp_info_061" Color="1" Value="Request supply drop of selected development item." />
+    <Entry LangId="mbhelp_info_080" Color="1" Value="Purchase waters for constructing FOBs. &#xA;&#xA;*The amount of materials the Base Development Unit obtains through the Materials Procurement function varies according to waters." />
+    <Entry LangId="mbhelp_name_061" Color="1" Value="&lt;I=G=DECISION&gt; Supply Drop" />
+    <Entry LangId="mbhelp_name_080" Color="1" Value="&lt;I=G=DECISION&gt; Purchase Waters" />
+    <Entry Key="4120625992" Color="1" Value="Signing up for insurance (paid service) will compensate you in full for damage sustained due to rival attacks during the policy period, nullifying any losses incurred." />
+    <Entry Key="2015515248" Color="1" Value="Protect Your FOBs" />
+    <Entry Key="3782759318" Color="1" Value="Select your desired security level. &#xA;However, be aware that a higher security level requires a significant cost. You must also supply enough staff, security devices, and placed weapons, or the facility may not be adequately protected. Make a habit of developing new security devices and building up your roster of Security Team staff and placed weapons." />
+    <Entry Key="310661854" Color="1" Value="Protect Your FOBs" />
+    <Entry Key="919185900" Color="1" Value="Study the platform's security setup, and select a drop point.&#xA;This time you are just training against friendly security forces, but on a rival's FOB, a character controlled directly by the rival may join the defense.&#xA;Also, be aware that if you are spotted by a guard or otherwise noticed during your infiltration, the rival may infiltrate your base as an act of retaliation." />
+    <Entry Key="1206081756" Color="1" Value="Select a Drop Point" />
+    <Entry Key="3309662633" Color="1" Value="To start off, try infiltrating your own FOB as training." />
+    <Entry Key="3630957208" Color="1" Value="Select a Rival to Infiltrate" />
+    <Entry Key="3317982144" Color="1" Value="You will be notified once the platform has been completed. You can pass the time by going out on missions." />
+    <Entry Key="727364243" Color="1" Value="Platforms Under Construction" />
+    <Entry LangId="mbhelp_info_175_2" Color="1" Value="Switch to viewer mode." />
+    <Entry LangId="mbhelp_name_175_2" Color="1" Value="&lt;I=G=PAD_X&gt; Viewer ON/OFF" />
+    <Entry LangId="mbhelp_info_178_2" Color="1" Value="Customize captured vehicles." />
+    <Entry LangId="mbhelp_name_178_2" Color="1" Value="&lt;I=G=NUMBER_1&gt; Vehicle List" />
+    <Entry LangId="mbhelp_info_094" Color="1" Value="Indicates the defense level of the currently selected base platform." />
+    <Entry LangId="mbhelp_info_101_2" Color="1" Value="The Individual Settings component of your security settings allows you to configure settings for each deck. These settings consist of the following categories.&#xA;&#xA;&#xA;Guards: Specify the number of Security Team staff to assign.&#xA;&#xA;Infrared Sensors: Specify the number of infrared sensors deployed.&#xA;&#xA;Antitheft Devices: &#xA;Specify the number of antitheft devices deployed.&#xA;&#xA;Cameras: Specify the number of cameras/gun cameras deployed.&#xA;&#xA;UAVs: Specify the number of UAVs deployed.&#xA;&#xA;Decoys: Specify the number of decoys/active decoys/stun decoys deployed.&#xA;&#xA;Mines: Specify the number of directional mines/sleeping gas mines deployed.&#xA;&#xA;Placed Weapons: Specify the number of captured placed weapons deployed." />
+    <Entry LangId="mbhelp_name_101_2" Color="1" Value="[HINT] Security Settings: Individual Settings" />
+    <Entry LangId="mbhelp_info_101_3" Color="1" Value="Decks are divided into eight zones. You can specify which zones should be the focus of security. The maximum number of key security zones you can specify increases as your Intel Team's level increases." />
+    <Entry LangId="mbhelp_name_101_3" Color="1" Value="[HINT] Security Settings: Key Security Zones" />
+    <Entry LangId="mbhelp_info_096_2" Color="1" Value="Displays information on the rival that most recently infiltrated the currently selected platform (only if there has been an infiltration). The bright dots on the map indicate the rival's movement route." />
+    <Entry LangId="mbhelp_name_096_2" Color="1" Value="&lt;I=G=NUMBER_1&gt; Intruder Info" />
+    <Entry LangId="mbhelp_info_095_2" Color="1" Value="Indicates the current security status for each deck.&#xA;&#xA;&#xA;Attack Properties: &#xA;Indicates whether guards' weapons and security devices are lethal or non-lethal.&#xA;&#xA;Guards: &#xA;Indicates the rank and number of guards, as well as the weapons they use.&#xA;&#xA;Security Devices/Placed Weapons: &#xA;Indicates number of security devices and placed weapons." />
+    <Entry LangId="mbhelp_name_095_2" Color="1" Value="&lt;I=G=NUMBER_1&gt; Deck Security Status" />
+    <Entry LangId="mbhelp_info_096_3" Color="1" Value="Configure security settings simply by specifying a preparedness level (--/low/moderate/high/highest).&#xA;&#xA;&#xA;Preparedness level &quot;--&quot;: &#xA;Do not conduct security measures on that platform.&#xA;&#xA;Preparedness level low/moderate/high/highest: &#xA;Conduct security on that platform at the designated level. The higher the preparedness level, the greater the security cost. &#xA;&#xA;*Security cost only comes into effect when allocating new personnel or items, or when replacing personnel or items lost due to a rival's infiltration." />
+    <Entry LangId="mbhelp_name_096_3" Color="1" Value="&lt;I=G=NUMBER_1&gt; Basic Settings" />
+    <Entry LangId="mbhelp_info_096_4" Color="1" Value="Configure security settings in detail." />
+    <Entry LangId="mbhelp_name_096_4" Color="1" Value="&lt;I=G=NUMBER_1&gt; Advanced Settings" />
+    <Entry LangId="mbhelp_info_247_3" Color="1" Value="Displays basic info of currently selected player. The top rating indicates how skilled the player is at infiltration, or their Espionage Rating, while the bottom rating indicates the size of the player's unit, or their PF (Private Force) Rating." />
+    <Entry LangId="mbhelp_name_247_3" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rival's Basic Info" />
+    <Entry Key="464582802" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rival's Assigned Staff/Placed Containers" />
+    <Entry LangId="mbhelp_info_421_2" Color="1" Value="Displays players whose FOBs you can infiltrate. The list displays (from left to right) Owner, Win/Loss, and FOB Points." />
+    <Entry LangId="mbhelp_name_421_2" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rivals List" />
+    <Entry LangId="mbhelp_info_421_3" Color="1" Value="Displays platforms that can currently be infiltrated. The list displays (from left to right) platform name, number of decks, and defense level." />
+    <Entry LangId="mbhelp_name_421_3" Color="1" Value="&lt;I=G=NUMBER_1&gt; Platform List" />
+    <Entry LangId="mbhelp_info_095_4" Color="1" Value="Indicates the current security status for each deck.&#xA;&#xA;&#xA;Attack Properties: &#xA;Indicates whether guards' weapons and security devices are lethal or non-lethal.&#xA;&#xA;Guards: &#xA;Indicates the rank and number of guards, as well as the weapons they use.&#xA;&#xA;Security Devices/Placed Weapons: &#xA;Indicates number of security devices and placed weapons." />
+    <Entry LangId="mbhelp_info_095_3" Color="1" Value="Displays the current security status of the selected platform.&#xA;&#xA;&#xA;Defense Level: &#xA;Indicates current security status in numerical format.&#xA;&#xA;Attack Properties: &#xA;Indicates whether guards' weapons and security devices are lethal or non-lethal.&#xA;&#xA;Guards: &#xA;Indicates the rank and number of guards, as well as the weapons they use.&#xA;&#xA;Security Devices/Placed Weapons: &#xA;Indicates number of security devices and placed weapons.&#xA;&#xA;Security Cost: &#xA;Indicates the cost of maintaining the current security status." />
+    <Entry LangId="mbhelp_name_095_4" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rival's Deck Security Status" />
+    <Entry LangId="mbhelp_name_095_3" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rival's Security Status" />
+    <Entry LangId="mbhelp_info_422_3" Color="1" Value="The reward for making it to the currently selected platform's core." />
+    <Entry LangId="mbhelp_name_422_3" Color="1" Value="&lt;I=G=NUMBER_1&gt; Victory Reward" />
+    <Entry LangId="mbhelp_info_426_2" Color="1" Value="Select a drop point (landing zone) from which to begin your infiltration." />
+    <Entry LangId="mbhelp_name_426_2" Color="1" Value="&lt;I=G=DECISION&gt; Select Drop Point" />
+    <Entry LangId="mbhelp_info_422_4" Color="1" Value="Displays online activities of currently selected player. If the player is someone you have asked for support, their number of Backup Deployments also appears." />
+    <Entry LangId="mbhelp_name_422_4" Color="1" Value="&lt;I=G=NUMBER_1&gt; Rival's Online Activity" />
+    <Entry LangId="mbhelp_name_add_1" Color="1" Value="&lt;I=G=NUMBER_1&gt; Material Deposits" />
+    <Entry LangId="mbhelp_name_add_2" Color="1" Value="[HINT] Material Deposits" />
+    <Entry LangId="mbhelp_name_add_3" Color="1" Value="Displays, in rank format, the amount of materials the Base Development Unit can obtain through Materials Procurement. By purchasing waters and constructing FOBs, you will receive more materials on a regular basis, according to the material deposits in those waters." />
+    <Entry LangId="mbhelp_name_add_4" Color="1" Value="Used for selecting a supply drop category." />
+    <Entry Key="2796457206" Color="1" Value="A yellow &quot;!&quot; indicates a project that can be completed immediately by spending MB Coins (paid currency) to accelerate development. &#xA;To immediately complete a task, select  &lt;I=G=DECISION&gt; on the appropriate item." />
+  </Entries>
+</LangFile>

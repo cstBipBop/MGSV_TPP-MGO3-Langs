@@ -1,0 +1,458 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry LangId="staff_name_99_000" Color="1" Value="Frigid Stallion" />
+    <Entry LangId="staff_name_99_025" Color="1" Value="Vile Buffalo" />
+    <Entry LangId="staff_name_99_024" Color="1" Value="Gray Salamander" />
+    <Entry LangId="staff_name_99_023" Color="1" Value="Brass Armadillo" />
+    <Entry LangId="staff_name_99_022" Color="1" Value="Roaring Hedgehog" />
+    <Entry LangId="staff_name_99_021" Color="1" Value="Sly Mastodon" />
+    <Entry LangId="staff_name_99_020" Color="1" Value="Devil Squirrel" />
+    <Entry LangId="staff_name_99_019" Color="1" Value="Bullet Platypus" />
+    <Entry LangId="staff_name_99_018" Color="1" Value="Green Tarantula" />
+    <Entry LangId="staff_name_99_017" Color="1" Value="Flaming Basilisk" />
+    <Entry LangId="staff_name_99_016" Color="1" Value="Night Crocodile" />
+    <Entry LangId="staff_name_99_015" Color="1" Value="Sadistic Buzzard" />
+    <Entry LangId="staff_name_99_014" Color="1" Value="Hungry Barracuda" />
+    <Entry LangId="staff_name_99_013" Color="1" Value="Growling Harrier" />
+    <Entry LangId="staff_name_99_012" Color="1" Value="Hunting Harrier" />
+    <Entry LangId="staff_name_99_011" Color="1" Value="Sunny Buzzard" />
+    <Entry LangId="staff_name_99_010" Color="1" Value="Howling Capybara" />
+    <Entry LangId="staff_name_99_009" Color="1" Value="Panzer Mongoose" />
+    <Entry LangId="staff_name_99_008" Color="1" Value="Mad Centipede" />
+    <Entry LangId="staff_name_99_007" Color="1" Value="Sly Harrier" />
+    <Entry LangId="staff_name_99_006" Color="1" Value="Rampant Buzzard" />
+    <Entry LangId="staff_name_99_005" Color="1" Value="Panzer Buffalo" />
+    <Entry LangId="staff_name_99_004" Color="1" Value="Roaring Stallion" />
+    <Entry LangId="staff_name_99_003" Color="1" Value="Dire Barracuda" />
+    <Entry LangId="staff_name_99_002" Color="1" Value="Stone Mastodon" />
+    <Entry LangId="staff_name_99_001" Color="1" Value="Raving Mongoose" />
+    <Entry LangId="staff_name_99_042" Color="1" Value="Eagle Ray" />
+    <Entry LangId="staff_name_99_041" Color="1" Value="Raven" />
+    <Entry LangId="staff_name_99_040" Color="1" Value="Grizzly Squirrel" />
+    <Entry LangId="staff_name_99_039" Color="1" Value="Doom Kangaroo" />
+    <Entry LangId="staff_name_99_038" Color="1" Value="Parrot" />
+    <Entry LangId="staff_name_99_037" Color="1" Value="Jackal" />
+    <Entry LangId="staff_name_99_036" Color="1" Value="Komodo Dragon" />
+    <Entry LangId="staff_name_99_035" Color="1" Value="Jade Capybara" />
+    <Entry LangId="staff_name_99_034" Color="1" Value="Bullet Armadillo" />
+    <Entry LangId="staff_name_99_033" Color="1" Value="Night Wallaby" />
+    <Entry LangId="staff_name_99_032" Color="1" Value="Cunning Stallion" />
+    <Entry LangId="staff_name_99_031" Color="1" Value="Laughing Wallaby" />
+    <Entry LangId="staff_name_99_030" Color="1" Value="Crystal Squirrel" />
+    <Entry LangId="staff_name_99_029" Color="1" Value="Silent Crocodile" />
+    <Entry LangId="staff_name_99_028" Color="1" Value="Dire Capybara" />
+    <Entry LangId="staff_name_99_027" Color="1" Value="Blue Kangaroo" />
+    <Entry LangId="staff_name_99_026" Color="1" Value="Copper Stallion" />
+    <Entry LangId="staff_name_99_060" Color="1" Value="Blazing Stallion" />
+    <Entry LangId="staff_name_99_059" Color="1" Value="Bullet Harrier" />
+    <Entry LangId="staff_name_99_058" Color="1" Value="Ochre Harrier" />
+    <Entry LangId="staff_name_99_057" Color="1" Value="Bitter Platypus" />
+    <Entry LangId="staff_name_99_056" Color="1" Value="Silent Basilisk" />
+    <Entry LangId="staff_name_99_055" Color="1" Value="Steel Kangaroo" />
+    <Entry LangId="staff_name_99_054" Color="1" Value="Howling Stallion" />
+    <Entry LangId="staff_name_99_053" Color="1" Value="Stalking Wallaby" />
+    <Entry LangId="staff_name_99_052" Color="1" Value="Jumping Harrier" />
+    <Entry LangId="staff_name_99_051" Color="1" Value="Copper Buzzard" />
+    <Entry LangId="staff_name_99_050" Color="1" Value="Hungry Stallion" />
+    <Entry LangId="staff_name_99_049" Color="1" Value="Blazing Buzzard" />
+    <Entry LangId="staff_name_99_048" Color="1" Value="Greedy Barracuda" />
+    <Entry LangId="staff_name_99_047" Color="1" Value="Steel Mongoose" />
+    <Entry LangId="staff_name_99_046" Color="1" Value="Gray Mongoose" />
+    <Entry LangId="staff_name_99_045" Color="1" Value="Pouncing Wallaby" />
+    <Entry LangId="staff_name_99_044" Color="1" Value="Elephant" />
+    <Entry LangId="staff_name_99_043" Color="1" Value="Viper" />
+    <Entry LangId="staff_name_99_079" Color="1" Value="Doom Squirrel" />
+    <Entry LangId="staff_name_99_078" Color="1" Value="Prowling Wallaby" />
+    <Entry LangId="staff_name_99_077" Color="1" Value="Blue Mastodon" />
+    <Entry LangId="staff_name_99_076" Color="1" Value="Sky Centipede" />
+    <Entry LangId="staff_name_99_075" Color="1" Value="Vampire Platypus" />
+    <Entry LangId="staff_name_99_074" Color="1" Value="Goblin Squirrel" />
+    <Entry LangId="staff_name_99_073" Color="1" Value="Wild Chameleon" />
+    <Entry LangId="staff_name_99_072" Color="1" Value="Doom Centipede" />
+    <Entry LangId="staff_name_99_071" Color="1" Value="Brutal Centipede" />
+    <Entry LangId="staff_name_99_070" Color="1" Value="Dizzy Capybara" />
+    <Entry LangId="staff_name_99_069" Color="1" Value="Pouncing Harrier" />
+    <Entry LangId="staff_name_99_068" Color="1" Value="Bloody Crocodile" />
+    <Entry LangId="staff_name_99_067" Color="1" Value="Poison Buffalo" />
+    <Entry LangId="staff_name_99_066" Color="1" Value="Killer Squirrel" />
+    <Entry LangId="staff_name_99_065" Color="1" Value="Pouncing Buzzard" />
+    <Entry LangId="staff_name_99_064" Color="1" Value="Greedy Armadillo" />
+    <Entry LangId="staff_name_99_063" Color="1" Value="Jade Tree Frog" />
+    <Entry LangId="staff_name_99_062" Color="1" Value="Spunky Crocodile" />
+    <Entry LangId="staff_name_99_061" Color="1" Value="Black Harrier" />
+    <Entry LangId="staff_name_99_099" Color="1" Value="Silent Mastodon" />
+    <Entry LangId="staff_name_99_098" Color="1" Value="Flaming Stallion" />
+    <Entry LangId="staff_name_99_097" Color="1" Value="Ashen Mongoose" />
+    <Entry LangId="staff_name_99_096" Color="1" Value="Cannibal Harrier" />
+    <Entry LangId="staff_name_99_095" Color="1" Value="White Mastodon" />
+    <Entry LangId="staff_name_99_094" Color="1" Value="Green Tree Frog" />
+    <Entry LangId="staff_name_99_093" Color="1" Value="Ashen Stallion" />
+    <Entry LangId="staff_name_99_092" Color="1" Value="Green Sturgeon" />
+    <Entry LangId="staff_name_99_091" Color="1" Value="Bastard Harrier" />
+    <Entry LangId="staff_name_99_090" Color="1" Value="Brutal Tree Frog" />
+    <Entry LangId="staff_name_99_089" Color="1" Value="Killer Stallion" />
+    <Entry LangId="staff_name_99_088" Color="1" Value="Raging Buzzard" />
+    <Entry LangId="staff_name_99_087" Color="1" Value="Night Sturgeon" />
+    <Entry LangId="staff_name_99_086" Color="1" Value="Hulking Mastiff" />
+    <Entry LangId="staff_name_99_085" Color="1" Value="Hungry Squirrel" />
+    <Entry LangId="staff_name_99_084" Color="1" Value="Dizzy Centipede" />
+    <Entry LangId="staff_name_99_083" Color="1" Value="Lonely Buffalo" />
+    <Entry LangId="staff_name_99_082" Color="1" Value="Dancing Mongoose" />
+    <Entry LangId="staff_name_99_081" Color="1" Value="Cunning Mongoose" />
+    <Entry LangId="staff_name_99_080" Color="1" Value="Sadistic Mastiff" />
+    <Entry LangId="staff_name_99_100" Color="1" Value="Sly Sturgeon" />
+    <Entry LangId="unique_staff_tan" Color="1" Value="Ziang Tan" />
+    <Entry LangId="unique_staff_hideo" Color="1" Value="Hideo" />
+    <Entry LangId="unique_staff_eye" Color="1" Value="Eye" />
+    <Entry LangId="unique_staff_finger" Color="1" Value="Finger" />
+    <Entry LangId="unique_staff_mosquito" Color="1" Value="Mosquito" />
+    <Entry LangId="unique_staff_Malak" Color="1" Value="Malak" />
+    <Entry LangId="unique_staff_Viscount" Color="1" Value="Viscount" />
+    <Entry LangId="staff_1_m_001" Color="1" Value="Sly" />
+    <Entry LangId="staff_1_m_002" Color="1" Value="Vengeful" />
+    <Entry LangId="staff_1_m_003" Color="1" Value="Cunning" />
+    <Entry LangId="staff_1_m_004" Color="1" Value="Bloody" />
+    <Entry LangId="staff_1_m_005" Color="1" Value="Flaming" />
+    <Entry LangId="staff_1_m_006" Color="1" Value="Frigid" />
+    <Entry LangId="staff_1_m_007" Color="1" Value="Raging" />
+    <Entry LangId="staff_1_m_008" Color="1" Value="Mad" />
+    <Entry LangId="staff_1_m_009" Color="1" Value="Killer" />
+    <Entry LangId="staff_1_m_010" Color="1" Value="Lonely" />
+    <Entry LangId="staff_1_m_011" Color="1" Value="Running" />
+    <Entry LangId="staff_1_m_012" Color="1" Value="Hissing" />
+    <Entry LangId="staff_1_m_013" Color="1" Value="Roaring" />
+    <Entry LangId="staff_1_m_014" Color="1" Value="Wild" />
+    <Entry LangId="staff_1_m_015" Color="1" Value="Thunder" />
+    <Entry LangId="staff_1_m_016" Color="1" Value="Howling" />
+    <Entry LangId="staff_1_m_017" Color="1" Value="Growling" />
+    <Entry LangId="staff_1_m_018" Color="1" Value="Charging" />
+    <Entry LangId="staff_1_m_019" Color="1" Value="Rampant" />
+    <Entry LangId="staff_1_m_020" Color="1" Value="Spying" />
+    <Entry LangId="staff_1_m_021" Color="1" Value="Creeping" />
+    <Entry LangId="staff_1_m_022" Color="1" Value="Stalking" />
+    <Entry LangId="staff_1_m_023" Color="1" Value="Raving" />
+    <Entry LangId="staff_1_m_024" Color="1" Value="Punching" />
+    <Entry LangId="staff_1_m_025" Color="1" Value="Spitting" />
+    <Entry LangId="staff_1_m_026" Color="1" Value="Vile" />
+    <Entry LangId="staff_1_m_027" Color="1" Value="Death" />
+    <Entry LangId="staff_1_m_028" Color="1" Value="Bullet" />
+    <Entry LangId="staff_1_m_029" Color="1" Value="Glacier" />
+    <Entry LangId="staff_1_m_030" Color="1" Value="Armored" />
+    <Entry LangId="staff_1_m_031" Color="1" Value="Brass" />
+    <Entry LangId="staff_1_m_032" Color="1" Value="Prowling" />
+    <Entry LangId="staff_1_m_033" Color="1" Value="Crawling" />
+    <Entry LangId="staff_1_m_000" Color="1" Value="Blazing" />
+    <Entry LangId="staff_1_f_001" Color="1" Value="Sly" />
+    <Entry LangId="staff_1_f_002" Color="1" Value="Vengeful" />
+    <Entry LangId="staff_1_f_003" Color="1" Value="Cunning" />
+    <Entry LangId="staff_1_f_004" Color="1" Value="Bloody" />
+    <Entry LangId="staff_1_f_005" Color="1" Value="Flaming" />
+    <Entry LangId="staff_1_f_006" Color="1" Value="Frigid" />
+    <Entry LangId="staff_1_f_007" Color="1" Value="Raging" />
+    <Entry LangId="staff_1_f_008" Color="1" Value="Mad" />
+    <Entry LangId="staff_1_f_009" Color="1" Value="Killer" />
+    <Entry LangId="staff_1_f_010" Color="1" Value="Lonely" />
+    <Entry LangId="staff_1_f_011" Color="1" Value="Running" />
+    <Entry LangId="staff_1_f_012" Color="1" Value="Hissing" />
+    <Entry LangId="staff_1_f_013" Color="1" Value="Roaring" />
+    <Entry LangId="staff_1_f_014" Color="1" Value="Wild" />
+    <Entry LangId="staff_1_f_015" Color="1" Value="Thunder" />
+    <Entry LangId="staff_1_f_016" Color="1" Value="Howling" />
+    <Entry LangId="staff_1_f_017" Color="1" Value="Growling" />
+    <Entry LangId="staff_1_f_018" Color="1" Value="Charging" />
+    <Entry LangId="staff_1_f_019" Color="1" Value="Rampant" />
+    <Entry LangId="staff_1_f_020" Color="1" Value="Spying" />
+    <Entry LangId="staff_1_f_021" Color="1" Value="Creeping" />
+    <Entry LangId="staff_1_f_022" Color="1" Value="Stalking" />
+    <Entry LangId="staff_1_f_023" Color="1" Value="Raving" />
+    <Entry LangId="staff_1_f_024" Color="1" Value="Punching" />
+    <Entry LangId="staff_1_f_025" Color="1" Value="Spitting" />
+    <Entry LangId="staff_1_f_026" Color="1" Value="Vile" />
+    <Entry LangId="staff_1_f_027" Color="1" Value="Death" />
+    <Entry LangId="staff_1_f_028" Color="1" Value="Bullet" />
+    <Entry LangId="staff_1_f_029" Color="1" Value="Glacier" />
+    <Entry LangId="staff_1_f_030" Color="1" Value="Armored" />
+    <Entry LangId="staff_1_f_031" Color="1" Value="Brass" />
+    <Entry LangId="staff_1_f_032" Color="1" Value="Prowling" />
+    <Entry LangId="staff_1_f_033" Color="1" Value="Crawling" />
+    <Entry LangId="staff_1_f_034" Color="1" Value="Seething" />
+    <Entry LangId="staff_1_f_035" Color="1" Value="Hunting" />
+    <Entry LangId="staff_1_f_000" Color="1" Value="Blazing" />
+    <Entry LangId="staff_2_m_001" Color="1" Value="Boa" />
+    <Entry LangId="staff_2_m_002" Color="1" Value="Marlin" />
+    <Entry LangId="staff_2_m_003" Color="1" Value="Python" />
+    <Entry LangId="staff_2_m_004" Color="1" Value="Jackal" />
+    <Entry LangId="staff_2_m_005" Color="1" Value="Eel" />
+    <Entry LangId="staff_2_m_006" Color="1" Value="Whale" />
+    <Entry LangId="staff_2_m_007" Color="1" Value="Serpent" />
+    <Entry LangId="staff_2_m_008" Color="1" Value="Buzzard" />
+    <Entry LangId="staff_2_m_009" Color="1" Value="Osprey" />
+    <Entry LangId="staff_2_m_010" Color="1" Value="Harrier" />
+    <Entry LangId="staff_2_m_011" Color="1" Value="Agama" />
+    <Entry LangId="staff_2_m_012" Color="1" Value="Husky" />
+    <Entry LangId="staff_2_m_013" Color="1" Value="Wallaby" />
+    <Entry LangId="staff_2_m_014" Color="1" Value="Roach" />
+    <Entry LangId="staff_2_m_015" Color="1" Value="Dingo" />
+    <Entry LangId="staff_2_m_016" Color="1" Value="Raptor" />
+    <Entry LangId="staff_2_m_017" Color="1" Value="Vulture" />
+    <Entry LangId="staff_2_m_018" Color="1" Value="Panther" />
+    <Entry LangId="staff_2_m_019" Color="1" Value="Hound" />
+    <Entry LangId="staff_2_m_020" Color="1" Value="Rhino" />
+    <Entry LangId="staff_2_m_021" Color="1" Value="Hyena" />
+    <Entry LangId="staff_2_m_022" Color="1" Value="Viper" />
+    <Entry LangId="staff_2_m_023" Color="1" Value="Hippo" />
+    <Entry LangId="staff_2_m_024" Color="1" Value="Mammoth" />
+    <Entry LangId="staff_2_m_025" Color="1" Value="Badger" />
+    <Entry LangId="staff_2_m_026" Color="1" Value="Gibbon" />
+    <Entry LangId="staff_2_m_027" Color="1" Value="Shark" />
+    <Entry LangId="staff_2_m_028" Color="1" Value="Eagle" />
+    <Entry LangId="staff_2_m_029" Color="1" Value="Bat" />
+    <Entry LangId="staff_2_m_030" Color="1" Value="Bear" />
+    <Entry LangId="staff_2_m_031" Color="1" Value="Hawk" />
+    <Entry LangId="staff_2_m_032" Color="1" Value="Cobra" />
+    <Entry LangId="staff_2_m_033" Color="1" Value="Dragon" />
+    <Entry LangId="staff_2_m_034" Color="1" Value="Crow" />
+    <Entry LangId="staff_2_m_035" Color="1" Value="Cat" />
+    <Entry LangId="staff_2_m_036" Color="1" Value="Beetle" />
+    <Entry LangId="staff_2_m_037" Color="1" Value="Gecko" />
+    <Entry LangId="staff_2_m_038" Color="1" Value="Octopus" />
+    <Entry LangId="staff_2_m_039" Color="1" Value="Crab" />
+    <Entry LangId="staff_2_m_040" Color="1" Value="Ox" />
+    <Entry LangId="staff_2_m_041" Color="1" Value="Bull" />
+    <Entry LangId="staff_2_m_042" Color="1" Value="Ram" />
+    <Entry LangId="staff_2_m_043" Color="1" Value="Bison" />
+    <Entry LangId="staff_2_m_000" Color="1" Value="Wasp" />
+    <Entry LangId="staff_2_f_001" Color="1" Value="Boa" />
+    <Entry LangId="staff_2_f_002" Color="1" Value="Marlin" />
+    <Entry LangId="staff_2_f_003" Color="1" Value="Python" />
+    <Entry LangId="staff_2_f_004" Color="1" Value="Jackal" />
+    <Entry LangId="staff_2_f_005" Color="1" Value="Eel" />
+    <Entry LangId="staff_2_f_006" Color="1" Value="Whale" />
+    <Entry LangId="staff_2_f_007" Color="1" Value="Serpent" />
+    <Entry LangId="staff_2_f_008" Color="1" Value="Buzzard" />
+    <Entry LangId="staff_2_f_009" Color="1" Value="Osprey" />
+    <Entry LangId="staff_2_f_010" Color="1" Value="Harrier" />
+    <Entry LangId="staff_2_f_011" Color="1" Value="Agama" />
+    <Entry LangId="staff_2_f_012" Color="1" Value="Husky" />
+    <Entry LangId="staff_2_f_013" Color="1" Value="Wallaby" />
+    <Entry LangId="staff_2_f_014" Color="1" Value="Roach" />
+    <Entry LangId="staff_2_f_015" Color="1" Value="Weasel" />
+    <Entry LangId="staff_2_f_016" Color="1" Value="Wombat" />
+    <Entry LangId="staff_2_f_017" Color="1" Value="Boar" />
+    <Entry LangId="staff_2_f_018" Color="1" Value="Leopard" />
+    <Entry LangId="staff_2_f_019" Color="1" Value="Mole" />
+    <Entry LangId="staff_2_f_020" Color="1" Value="Piranha" />
+    <Entry LangId="staff_2_f_021" Color="1" Value="Adder" />
+    <Entry LangId="staff_2_f_022" Color="1" Value="Dhole" />
+    <Entry LangId="staff_2_f_023" Color="1" Value="Llama" />
+    <Entry LangId="staff_2_f_024" Color="1" Value="Echidna" />
+    <Entry LangId="staff_2_f_025" Color="1" Value="Coyote" />
+    <Entry LangId="staff_2_f_026" Color="1" Value="Ferret" />
+    <Entry LangId="staff_2_f_027" Color="1" Value="Orca" />
+    <Entry LangId="staff_2_f_028" Color="1" Value="Spider" />
+    <Entry LangId="staff_2_f_029" Color="1" Value="Hornet" />
+    <Entry LangId="staff_2_f_030" Color="1" Value="Cheetah" />
+    <Entry LangId="staff_2_f_031" Color="1" Value="Gazelle" />
+    <Entry LangId="staff_2_f_032" Color="1" Value="Elk" />
+    <Entry LangId="staff_2_f_033" Color="1" Value="Griffon" />
+    <Entry LangId="staff_2_f_034" Color="1" Value="Gopher" />
+    <Entry LangId="staff_2_f_035" Color="1" Value="Marmot" />
+    <Entry LangId="staff_2_f_036" Color="1" Value="Wolf" />
+    <Entry LangId="staff_2_f_037" Color="1" Value="Zebra" />
+    <Entry LangId="staff_2_f_038" Color="1" Value="Wombat" />
+    <Entry LangId="staff_2_f_039" Color="1" Value="Lizard" />
+    <Entry LangId="staff_2_f_040" Color="1" Value="Weevil" />
+    <Entry LangId="staff_2_f_041" Color="1" Value="Raccoon" />
+    <Entry LangId="staff_2_f_000" Color="1" Value="Wasp" />
+    <Entry LangId="staff_1_f_036" Color="1" Value="Razor" />
+    <Entry LangId="staff_1_f_037" Color="1" Value="Rumble" />
+    <Entry LangId="staff_1_f_038" Color="1" Value="Rabid" />
+    <Entry LangId="staff_1_f_039" Color="1" Value="Devil" />
+    <Entry LangId="staff_1_f_040" Color="1" Value="Frantic" />
+    <Entry LangId="staff_1_f_041" Color="1" Value="Sinister" />
+    <Entry LangId="staff_1_f_042" Color="1" Value="Rancid" />
+    <Entry LangId="staff_1_f_043" Color="1" Value="Dark" />
+    <Entry LangId="staff_1_f_044" Color="1" Value="Greedy" />
+    <Entry LangId="staff_1_f_045" Color="1" Value="Sadistic" />
+    <Entry LangId="staff_1_f_046" Color="1" Value="Scowling" />
+    <Entry LangId="staff_1_f_047" Color="1" Value="Hungry" />
+    <Entry LangId="staff_1_f_048" Color="1" Value="Smoking" />
+    <Entry LangId="staff_1_f_049" Color="1" Value="Bitter" />
+    <Entry LangId="staff_1_f_050" Color="1" Value="Dizzy" />
+    <Entry LangId="staff_1_f_051" Color="1" Value="Panzer" />
+    <Entry LangId="staff_1_f_052" Color="1" Value="Pouncing" />
+    <Entry LangId="staff_1_f_053" Color="1" Value="Rogue" />
+    <Entry LangId="staff_1_f_054" Color="1" Value="Night" />
+    <Entry LangId="staff_1_f_055" Color="1" Value="Green" />
+    <Entry LangId="staff_1_f_056" Color="1" Value="Dancing" />
+    <Entry LangId="staff_1_f_057" Color="1" Value="Ashen" />
+    <Entry LangId="staff_1_f_058" Color="1" Value="Jumping" />
+    <Entry LangId="staff_1_f_059" Color="1" Value="Onyx" />
+    <Entry LangId="staff_1_f_060" Color="1" Value="Crystal" />
+    <Entry LangId="staff_1_f_061" Color="1" Value="Obsidian" />
+    <Entry LangId="staff_1_f_062" Color="1" Value="Sky" />
+    <Entry LangId="staff_1_f_063" Color="1" Value="Blue" />
+    <Entry LangId="staff_1_f_064" Color="1" Value="Crimson" />
+    <Entry LangId="staff_1_f_065" Color="1" Value="White" />
+    <Entry LangId="staff_1_f_066" Color="1" Value="Laughing" />
+    <Entry LangId="staff_1_f_067" Color="1" Value="Silent" />
+    <Entry LangId="staff_1_f_068" Color="1" Value="Smiling" />
+    <Entry LangId="staff_1_f_069" Color="1" Value="Shining" />
+    <Entry LangId="staff_1_f_070" Color="1" Value="Silver" />
+    <Entry LangId="staff_1_f_071" Color="1" Value="Poison" />
+    <Entry LangId="staff_1_f_072" Color="1" Value="Assassin" />
+    <Entry LangId="staff_1_f_073" Color="1" Value="Ice" />
+    <Entry LangId="staff_1_f_074" Color="1" Value="Twilight" />
+    <Entry LangId="staff_1_f_075" Color="1" Value="Jade" />
+    <Entry LangId="staff_1_f_076" Color="1" Value="Spunky" />
+    <Entry LangId="staff_1_f_077" Color="1" Value="Sunny" />
+    <Entry LangId="staff_1_m_034" Color="1" Value="Seething" />
+    <Entry LangId="staff_1_m_035" Color="1" Value="Hunting" />
+    <Entry LangId="staff_1_m_036" Color="1" Value="Razor" />
+    <Entry LangId="staff_1_m_037" Color="1" Value="Rumble" />
+    <Entry LangId="staff_1_m_038" Color="1" Value="Rabid" />
+    <Entry LangId="staff_1_m_039" Color="1" Value="Devil" />
+    <Entry LangId="staff_1_m_040" Color="1" Value="Frantic" />
+    <Entry LangId="staff_1_m_041" Color="1" Value="Sinister" />
+    <Entry LangId="staff_1_m_042" Color="1" Value="Rancid" />
+    <Entry LangId="staff_1_m_043" Color="1" Value="Dark" />
+    <Entry LangId="staff_1_m_044" Color="1" Value="Greedy" />
+    <Entry LangId="staff_1_m_045" Color="1" Value="Sadistic" />
+    <Entry LangId="staff_1_m_046" Color="1" Value="Scowling" />
+    <Entry LangId="staff_1_m_047" Color="1" Value="Hungry" />
+    <Entry LangId="staff_1_m_048" Color="1" Value="Smoking" />
+    <Entry LangId="staff_1_m_049" Color="1" Value="Bitter" />
+    <Entry LangId="staff_1_m_050" Color="1" Value="Dizzy" />
+    <Entry LangId="staff_1_m_051" Color="1" Value="Panzer" />
+    <Entry LangId="staff_1_m_052" Color="1" Value="Pouncing" />
+    <Entry LangId="staff_1_m_053" Color="1" Value="Pirate" />
+    <Entry LangId="staff_1_m_054" Color="1" Value="Ochre" />
+    <Entry LangId="staff_1_m_055" Color="1" Value="Cannibal" />
+    <Entry LangId="staff_1_m_056" Color="1" Value="Goblin" />
+    <Entry LangId="staff_1_m_057" Color="1" Value="Gray" />
+    <Entry LangId="staff_1_m_058" Color="1" Value="Stubborn" />
+    <Entry LangId="staff_1_m_059" Color="1" Value="Steel" />
+    <Entry LangId="staff_1_m_060" Color="1" Value="Copper" />
+    <Entry LangId="staff_1_m_061" Color="1" Value="Iron" />
+    <Entry LangId="staff_1_m_062" Color="1" Value="Black" />
+    <Entry LangId="staff_1_m_063" Color="1" Value="Crying" />
+    <Entry LangId="staff_1_m_064" Color="1" Value="Golden" />
+    <Entry LangId="staff_1_m_065" Color="1" Value="Vampire" />
+    <Entry LangId="staff_1_m_066" Color="1" Value="Biting" />
+    <Entry LangId="staff_1_m_067" Color="1" Value="Fire" />
+    <Entry LangId="staff_1_m_068" Color="1" Value="Titanium" />
+    <Entry LangId="staff_1_m_069" Color="1" Value="Midnight" />
+    <Entry LangId="staff_1_m_070" Color="1" Value="Grizzly" />
+    <Entry LangId="staff_1_m_071" Color="1" Value="Stone" />
+    <Entry LangId="staff_1_m_072" Color="1" Value="Hulking" />
+    <Entry LangId="staff_1_m_073" Color="1" Value="Doom" />
+    <Entry LangId="staff_1_m_074" Color="1" Value="Striker" />
+    <Entry LangId="staff_1_m_075" Color="1" Value="Dire" />
+    <Entry LangId="staff_1_m_076" Color="1" Value="Bastard" />
+    <Entry LangId="staff_1_m_077" Color="1" Value="Brutal" />
+    <Entry LangId="staff_2_f_042" Color="1" Value="Sparrow" />
+    <Entry LangId="staff_2_f_043" Color="1" Value="Falcon" />
+    <Entry LangId="staff_2_f_044" Color="1" Value="Jaguar" />
+    <Entry LangId="staff_2_f_045" Color="1" Value="Lynx" />
+    <Entry LangId="staff_2_f_046" Color="1" Value="Owl" />
+    <Entry LangId="staff_2_f_047" Color="1" Value="Otter" />
+    <Entry LangId="staff_2_f_048" Color="1" Value="Heron" />
+    <Entry LangId="staff_2_f_049" Color="1" Value="Macaw" />
+    <Entry LangId="staff_2_f_050" Color="1" Value="Koala" />
+    <Entry LangId="staff_2_f_051" Color="1" Value="Turkey" />
+    <Entry LangId="staff_2_f_052" Color="1" Value="Panda" />
+    <Entry LangId="staff_2_f_053" Color="1" Value="Mouse" />
+    <Entry LangId="staff_2_f_054" Color="1" Value="Mantis" />
+    <Entry LangId="staff_2_f_055" Color="1" Value="Kitten" />
+    <Entry LangId="staff_2_f_056" Color="1" Value="Swan" />
+    <Entry LangId="staff_2_f_057" Color="1" Value="Unicorn" />
+    <Entry LangId="staff_2_f_058" Color="1" Value="Tigress" />
+    <Entry LangId="staff_2_f_059" Color="1" Value="Phoenix" />
+    <Entry LangId="staff_2_m_044" Color="1" Value="Lion" />
+    <Entry LangId="staff_2_m_045" Color="1" Value="Tiger" />
+    <Entry LangId="staff_2_m_046" Color="1" Value="Rooster" />
+    <Entry LangId="staff_2_m_047" Color="1" Value="Buffalo" />
+    <Entry LangId="staff_2_m_048" Color="1" Value="Moose" />
+    <Entry LangId="staff_2_m_049" Color="1" Value="Moth" />
+    <Entry LangId="staff_2_m_050" Color="1" Value="Slug" />
+    <Entry LangId="staff_2_m_051" Color="1" Value="Hog" />
+    <Entry LangId="staff_2_m_052" Color="1" Value="Gator" />
+    <Entry LangId="staff_2_m_053" Color="1" Value="Iguana" />
+    <Entry LangId="staff_2_m_054" Color="1" Value="Goat" />
+    <Entry LangId="staff_2_m_055" Color="1" Value="Mastiff" />
+    <Entry LangId="staff_2_m_056" Color="1" Value="Hippo" />
+    <Entry LangId="staff_2_m_057" Color="1" Value="Sloth" />
+    <Entry LangId="staff_2_m_058" Color="1" Value="Worm" />
+    <Entry LangId="staff_2_m_059" Color="1" Value="Mustang" />
+    <Entry LangId="staff_name_99_101" Color="1" Value="Greedy Wallaby" />
+    <Entry LangId="staff_name_99_102" Color="1" Value="Rumble Tarantula" />
+    <Entry LangId="staff_name_99_103" Color="1" Value="Devil Chameleon" />
+    <Entry LangId="staff_name_99_104" Color="1" Value="Dire Crocodile" />
+    <Entry LangId="staff_name_99_105" Color="1" Value="Gray Stallion" />
+    <Entry LangId="staff_name_99_106" Color="1" Value="Raving Harrier" />
+    <Entry LangId="staff_name_99_107" Color="1" Value="Ochre Capybara" />
+    <Entry LangId="staff_name_99_108" Color="1" Value="Death Platypus" />
+    <Entry LangId="staff_name_99_109" Color="1" Value="Shining Kangaroo" />
+    <Entry LangId="staff_name_99_110" Color="1" Value="Sunny Mongoose" />
+    <Entry LangId="staff_name_99_111" Color="1" Value="Wild Platypus" />
+    <Entry LangId="staff_name_99_112" Color="1" Value="Gray Wallaby" />
+    <Entry LangId="staff_name_99_113" Color="1" Value="Ochre Chameleon" />
+    <Entry LangId="staff_name_99_114" Color="1" Value="Grizzly Hedgehog" />
+    <Entry LangId="staff_name_99_115" Color="1" Value="Hungry Crocodile" />
+    <Entry LangId="staff_name_99_116" Color="1" Value="Sunny Platypus" />
+    <Entry LangId="staff_name_99_117" Color="1" Value="Crying Harrier" />
+    <Entry LangId="staff_name_99_118" Color="1" Value="Crimson Kangaroo" />
+    <Entry LangId="staff_name_99_119" Color="1" Value="Wild Harrier" />
+    <Entry LangId="staff_name_99_120" Color="1" Value="Night Tree Frog" />
+    <Entry LangId="staff_name_99_121" Color="1" Value="Pirate Capybara" />
+    <Entry LangId="staff_name_99_122" Color="1" Value="Roaring Capybara" />
+    <Entry LangId="staff_name_99_123" Color="1" Value="Bitter Centipede" />
+    <Entry LangId="staff_name_99_124" Color="1" Value="Blue Chameleon" />
+    <Entry LangId="staff_name_99_125" Color="1" Value="Midnight Mastiff" />
+    <Entry LangId="staff_name_99_126" Color="1" Value="Frigid Mongoose" />
+    <Entry LangId="staff_name_99_127" Color="1" Value="Hunting Stallion" />
+    <Entry LangId="staff_name_99_128" Color="1" Value="Assassin Harrier" />
+    <Entry LangId="staff_name_99_129" Color="1" Value="Falcon" />
+    <Entry LangId="staff_name_99_130" Color="1" Value="Ostrich" />
+    <Entry LangId="staff_name_99_131" Color="1" Value="Mad Wallaby" />
+    <Entry LangId="staff_name_99_132" Color="1" Value="Wild Stallion" />
+    <Entry LangId="staff_name_99_133" Color="1" Value="Blue Armadillo" />
+    <Entry LangId="staff_name_99_134" Color="1" Value="Crying Sturgeon" />
+    <Entry LangId="staff_name_99_135" Color="1" Value="Rat" />
+    <Entry LangId="staff_name_99_136" Color="1" Value="Running Harrier" />
+    <Entry LangId="staff_name_99_137" Color="1" Value="Biting Barracuda" />
+    <Entry LangId="staff_name_99_138" Color="1" Value="Spunky Sturgeon" />
+    <Entry LangId="staff_name_99_139" Color="1" Value="Killer Hedgehog" />
+    <Entry LangId="staff_name_99_140" Color="1" Value="Ashen Platypus" />
+    <Entry LangId="staff_name_99_141" Color="1" Value="Running Basilisk" />
+    <Entry LangId="staff_name_99_142" Color="1" Value="Iron Harrier" />
+    <Entry LangId="staff_name_99_143" Color="1" Value="Jade Centipede" />
+    <Entry LangId="staff_name_99_144" Color="1" Value="Dire Armadillo" />
+    <Entry LangId="staff_name_99_145" Color="1" Value="Scowling Wallaby" />
+    <Entry LangId="staff_name_99_146" Color="1" Value="Fire Kangaroo" />
+    <Entry LangId="staff_name_99_147" Color="1" Value="Brass Squirrel" />
+    <Entry LangId="staff_name_99_148" Color="1" Value="Cunning Mastiff" />
+    <Entry LangId="staff_name_99_149" Color="1" Value="Spying Harrier" />
+    <Entry LangId="unique_staff_m_fh" Color="1" Value="Viridian Hound" />
+    <Entry LangId="unique_staff_f_fh" Color="1" Value="Emerald Hound" />
+    <Entry LangId="unique_staff_m_dd" Color="1" Value="Crimson Canine" />
+    <Entry LangId="unique_staff_f_dd" Color="1" Value="Garnet Canine" />
+    <Entry LangId="unique_staff_m_fx" Color="1" Value="Gold Fox" />
+    <Entry LangId="unique_staff_f_fx" Color="1" Value="Amber Fox" />
+    <Entry LangId="unique_staff_m_msf" Color="1" Value="Silver Skull" />
+    <Entry LangId="unique_staff_f_msf" Color="1" Value="Ivory Skull" />
+    <Entry LangId="staff_name_11_188" Color="1" Value="Flaming Buffalo" />
+    <Entry LangId="staff_name_11_189" Color="1" Value="Running Mongoose" />
+    <Entry LangId="staff_name_11_190" Color="1" Value="Frantic Squirrel" />
+    <Entry LangId="staff_name_11_191" Color="1" Value="Blazing Mastodon" />
+    <Entry LangId="staff_name_11_192" Color="1" Value="Biting Tree Frog" />
+    <Entry LangId="staff_name_11_193" Color="1" Value="Gray Chameleon" />
+    <Entry LangId="staff_name_11_194" Color="1" Value="Razor Hedgehog" />
+    <Entry LangId="staff_name_11_195" Color="1" Value="Howling Platypus" />
+    <Entry LangId="staff_name_11_196" Color="1" Value="Blue Salamander" />
+    <Entry LangId="staff_name_11_197" Color="1" Value="Creeping Buzzard" />
+    <Entry LangId="staff_name_11_198" Color="1" Value="Glacier Mongoose" />
+    <Entry LangId="staff_name_11_199" Color="1" Value="Spunky Platypus" />
+  </Entries>
+</LangFile>

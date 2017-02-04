@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="BigEndian">
+  <Entries>
+    <Entry Key="1513847360" Color="1" Value="Default" />
+    <Entry Key="3035908949" Color="1" Value="Snake [Normal]" />
+    <Entry Key="3055320720" Color="1" Value="Snake [Bronze]" />
+    <Entry Key="2076662503" Color="1" Value="Snake [Silver]" />
+    <Entry Key="1302267751" Color="1" Value="Snake [Gold]" />
+    <Entry Key="2581023460" Color="1" Value="Miller [Normal]" />
+    <Entry Key="3939276217" Color="1" Value="Miller [Bronze]" />
+    <Entry Key="780910857" Color="1" Value="Miller [Silver]" />
+    <Entry Key="2782816035" Color="1" Value="Miller [Gold]" />
+    <Entry Key="164526843" Color="1" Value="Huey [Normal]" />
+    <Entry Key="4246080883" Color="1" Value="Huey [Bronze]" />
+    <Entry Key="202539605" Color="1" Value="Huey [Silver]" />
+    <Entry Key="1327127019" Color="1" Value="Huey [Gold]" />
+    <Entry Key="1561364049" Color="1" Value="Ocelot [Normal]" />
+    <Entry Key="56930135" Color="1" Value="Ocelot [Bronze]" />
+    <Entry Key="1210100194" Color="1" Value="Ocelot [Silver]" />
+    <Entry Key="3622754543" Color="1" Value="Ocelot [Gold]" />
+    <Entry Key="124985758" Color="1" Value="Quiet [Normal]" />
+    <Entry Key="2738368590" Color="1" Value="Quiet [Bronze]" />
+    <Entry Key="3075881678" Color="1" Value="Quiet [Silver]" />
+    <Entry Key="2177796562" Color="1" Value="Quiet [Gold]" />
+    <Entry Key="3918031178" Color="1" Value="Skull Face [Normal]" />
+    <Entry Key="3054924732" Color="1" Value="Skull Face [Bronze]" />
+    <Entry Key="2210989135" Color="1" Value="Skull Face [Silver]" />
+    <Entry Key="2917354881" Color="1" Value="Skull Face [Gold]" />
+    <Entry Key="911527644" Color="1" Value="Code Talker [Normal]" />
+    <Entry Key="2219510182" Color="1" Value="Code Talker [Bronze]" />
+    <Entry Key="3772739460" Color="1" Value="Code Talker [Silver]" />
+    <Entry Key="2720300564" Color="1" Value="Code Talker [Gold]" />
+    <Entry Key="3396317106" Color="1" Value="The Man on Fire [Normal]" />
+    <Entry Key="4163198395" Color="1" Value="The Man on Fire [Bronze]" />
+    <Entry Key="779832845" Color="1" Value="The Man on Fire [Silver]" />
+    <Entry Key="2367585266" Color="1" Value="The Man on Fire [Gold]" />
+    <Entry Key="1421416713" Color="1" Value="Third Child [Normal]" />
+    <Entry Key="2060207763" Color="1" Value="Third Child [Bronze]" />
+    <Entry Key="3574019172" Color="1" Value="Third Child [Silver]" />
+    <Entry Key="3416771863" Color="1" Value="Third Child [Gold]" />
+    <Entry Key="2574759485" Color="1" Value="Eli [Normal]" />
+    <Entry Key="425724744" Color="1" Value="Eli [Bronze]" />
+    <Entry Key="4214675877" Color="1" Value="Eli [Silver]" />
+    <Entry Key="512436180" Color="1" Value="Eli [Gold]" />
+    <Entry Key="859555873" Color="1" Value="Ishmael [Normal]" />
+    <Entry Key="712174270" Color="1" Value="Ishmael [Bronze]" />
+    <Entry Key="17409614" Color="1" Value="Ishmael [Silver]" />
+    <Entry Key="2318005424" Color="1" Value="Ishmael [Gold]" />
+    <Entry Key="1738136002" Color="1" Value="D-Dog [Normal]" />
+    <Entry Key="1348525559" Color="1" Value="D-Dog [Bronze]" />
+    <Entry Key="808336" Color="1" Value="D-Dog [Silver]" />
+    <Entry Key="1388922332" Color="1" Value="D-Dog [Gold]" />
+    <Entry Key="2553951084" Color="1" Value="D-Horse [Normal]" />
+    <Entry Key="1441343769" Color="1" Value="D-Horse [Bronze]" />
+    <Entry Key="1287299934" Color="1" Value="D-Horse [Silver]" />
+    <Entry Key="1360776453" Color="1" Value="D-Horse [Gold]" />
+    <Entry Key="2739995885" Color="1" Value="Weapon Color" />
+    <Entry Key="409443461" Color="1" Value="Base Color" />
+    <Entry Key="1512076564" Color="1" Value="Weapon Color Set" />
+    <Entry Key="1866699253" Color="1" Value="Base Color Set" />
+  </Entries>
+</LangFile>

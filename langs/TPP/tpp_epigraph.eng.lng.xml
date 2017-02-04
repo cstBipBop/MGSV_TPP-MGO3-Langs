@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LangFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Endianess="LittleEndian">
+  <Entries>
+    <Entry Key="1168456167" Color="1" Value="There are an estimated 7,100 languages spoken in the world, but only six are designated as official languages of the United Nations.&#xA;One of these is English, and although it is the dominant lingua franca of modern times, less than 5% of the world's population are native speakers." />
+    <Entry Key="2612586214" Color="1" Value="&lt;I=G=LLINE&gt;&lt;I=G=RLINE&gt; Based on data in The World Factbook 2013-14. Washington, DC: Central Intelligence Agency, 2013." />
+  </Entries>
+</LangFile>
